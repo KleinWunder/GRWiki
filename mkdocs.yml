@@ -1,0 +1,34 @@
+site_name: GermanRP Wiki
+
+nav:
+  - Pets:
+      - Hund: Hund!
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+theme:
+  name: material
+  logo: 'assets/theme/images/icon.png'
+  favicon: 'assets/theme/images/icon.png'
+  language: de
+  palette:
+    - scheme: slate
+  feature:
+    tabs: true
+  features:
+    - navigation.footer
+    - navigation.expand
+    - header.autohide
+
+extra:
+  generator:
+    false
+  social:
+    - icon: material/forum
+      link: https://germanrp.eu/
+      name: Forum
