@@ -1,11 +1,15 @@
 site_name: GermanRP Wiki
 
 nav:
-  - Pets:
-      - Hund: Hund!
+  - Startseite: index.md
+  - Allgemein: 
+    - Thema 1: thema1
+    - Thema 2: thema2
 
 markdown_extensions:
   - attr_list
+  - tables
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -17,10 +21,13 @@ theme:
   favicon: 'assets/theme/images/icon.png'
   language: de
   palette:
-    - scheme: slate
+    scheme: slate
+    primary: blue grey
+    accent: teal
   feature:
     tabs: true
   features:
+    - navigation.top
     - navigation.footer
     - navigation.expand
     - header.autohide
