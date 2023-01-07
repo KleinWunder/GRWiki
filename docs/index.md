@@ -20,7 +20,7 @@ Wir wünschen dir viel Spaß auf deiner Entdeckungstour!
 ## Mitglieder des Wiki-Teams
 
 | Piewn (Leitung) | S0uthpole_ (Mitglied) | PietDieOberaxt (Mitglied) |
-| :-------: | :----:| :------------: |
+| :------------:  | :-------------------: | :-----------------------: |
 |  ![](https://mc-heads.net/head/4eebd1c1-90bb-4c97-b9ec-d928a14a8818/){ width="150" }|![](https://mc-heads.net/head/dcdc3c00-4e7a-4fcb-bf8e-93167836e525){ width="150" } | ![](https://mc-heads.net/head/db4a1388-5347-45a4-ab89-f535ee7eee30){ width="150" } 
 Letzte Aktualisierung: 03.01.2023
 
