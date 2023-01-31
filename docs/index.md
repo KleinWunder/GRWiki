@@ -5,6 +5,10 @@
 <b> Willkommen im GermanRP Wiki!</b>
 </p>
 
+
+!!! warning "Noch im Aufbau"
+    Dieses Wiki befindet sich derzeit noch im Aufbau.
+
 Willkommen im offiziellen Wiki von GermanRP. In diesem Wiki findest du viele Antworten auf Fragen,
 die während des Spielens aufkommen.
 

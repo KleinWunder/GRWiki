@@ -1,13 +1,11 @@
 site_name: GermanRP Wiki
 
 nav:
-  - Startseite: index.md
-  - Allgemein: 
-    - Thema 1: thema1
-    - Thema 2: thema2
-  - Hilfe:
-    - Anfängerhilfe: pages/help/anfängerhilfe
-
+  - Anfängerhilfe: pages/help/Anfängerhilfe.md
+  - Rathaus:
+    - Rathaus: pages/orte/Rathaus.md
+    - Bürgermeister: pages/other/Bürgermeister.md
+  - Thema 2: thema2
 
 plugins:
  - search:
@@ -17,6 +15,7 @@ markdown_extensions:
   - attr_list
   - tables
   - md_in_html
+  - admonition
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -24,6 +23,7 @@ markdown_extensions:
 
 theme:
   name: material
+  custom_dir: docs/override
   logo: 'assets/theme/images/icon.png'
   favicon: 'assets/theme/images/icon.png'
   language: de
