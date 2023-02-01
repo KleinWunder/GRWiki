@@ -38,7 +38,7 @@ nav:
           - Zigarrete: pages/items/Zigarette.md
           - Kanister: pages/items/Kanister.md
         - Fahrzeug betanken: pages/vehicle/Fahrzeug betanken.md
-    - Thema 2: thema2
+    - Emogürl 2: thema2
 
 plugins:
  - search:
