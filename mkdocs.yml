@@ -33,11 +33,11 @@ nav:
           - Kaffee: pages/drink/Kaffee.md
       - Tankstellen:
         - Tankstelle: pages/biz/Tankstelle.md
+        - Fahrzeug betanken: pages/vehicle/Fahrzeug betanken.md
         - Items:
           - Sandwich: pages/food/Sandwich.md
           - Zigarrete: pages/items/Zigarette.md
           - Kanister: pages/items/Kanister.md
-        - Fahrzeug betanken: pages/vehicle/Fahrzeug betanken.md
     - Thema 2: thema2
 
 plugins:
