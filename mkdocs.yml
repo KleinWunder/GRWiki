@@ -1,11 +1,44 @@
 site_name: GermanRP Wiki
 
 nav:
-  - Anfängerhilfe: pages/help/Anfängerhilfe.md
-  - Rathaus:
-    - Rathaus: pages/orte/Rathaus.md
+  - Startseite: index.md
+  - Wiki:
+    - Anfängerhilfe: pages/help/Anfängerhilfe.md
     - Bürgermeister: pages/other/Bürgermeister.md
-  - Thema 2: thema2
+    - Businesse (BIZ):
+      - Waffenläden:
+        - Waffenladen: pages/biz/Waffenladen.md
+        - Waffen:
+          - USP-40: pages/items/weapons/USP-40.md
+          - MP5: pages/items/weapons/MP5.md
+          - AK-47: pages/items/weapons/AK-47.md
+      - Supermärkte: 
+        - Supermarkt: pages/biz/Supermarkt.md
+        - Items:
+          - Wasser: pages/drink/Wasser.md
+          - Fleisch: pages/food/Fleisch.md
+          - Äpfel: pages/food/Äpfel.md
+      - Apotheken:
+        - Apotheke: pages/biz/Apotheke.md
+        - Items:
+          - Nasensalbe: pages/health/Nasensalbe.md
+          - Bandage: pages/health/Bandage.md  
+          - Hustenbonbon: pages/health/Hustenbonbon.md
+      - Starblocks:
+        - Starblocks: pages/biz/Starblocks.md
+        - Items:
+          - Donut: pages/food/Donut.md
+          - Keks: pages/food/Keks.md
+          - Muffin: pages/food/Muffin.md
+          - Kaffee: pages/drink/Kaffee.md
+      - Tankstellen:
+        - Tankstelle: pages/biz/Tankstelle.md
+        - Items:
+          - Sandwich: pages/food/Sandwich.md
+          - Zigarrete: pages/items/Zigarette.md
+          - Kanister: pages/items/Kanister.md
+        - Fahrzeug betanken: pages/vehicle/Fahrzeug betanken.md
+    - Thema 2: thema2
 
 plugins:
  - search:
@@ -23,7 +56,6 @@ markdown_extensions:
 
 theme:
   name: material
-  custom_dir: docs/override
   logo: 'assets/theme/images/icon.png'
   favicon: 'assets/theme/images/icon.png'
   language: de
