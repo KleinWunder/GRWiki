@@ -18,6 +18,13 @@ nav:
           - Wasser: pages/drink/Wasser.md
           - Fleisch: pages/food/Fleisch.md
           - Äpfel: pages/food/Äpfel.md
+      - Bars:
+        - Bar: pages/biz/Bar.md
+        - Items:
+          - Bier: pages/drink/Bier.md
+          - Whisky: pages/drink/Whisky.md
+          - Vodka: pages/drink/Vodka.md
+          - Wein: pages/drink/Wein.md
       - Apotheken:
         - Apotheke: pages/biz/Apotheke.md
         - Items:
@@ -38,7 +45,7 @@ nav:
           - Sandwich: pages/food/Sandwich.md
           - Zigarrete: pages/items/Zigarette.md
           - Kanister: pages/items/Kanister.md
-    - Thema 2: thema2
+    -
 
 plugins:
  - search:
