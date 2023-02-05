@@ -24,7 +24,7 @@ nav:
           - Bier: pages/drink/Bier.md
           - Whisky: pages/drink/Whisky.md
           - Vodka: pages/drink/Vodka.md
-          - Wein: pages/drink/Wein.md
+          - Rotwein: pages/drink/Rotwein.md
       - Apotheken:
         - Apotheke: pages/biz/Apotheke.md
         - Items:
