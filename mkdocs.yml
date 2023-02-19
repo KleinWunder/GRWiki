@@ -45,6 +45,9 @@ nav:
           - Sandwich: pages/food/Sandwich.md
           - Zigarrete: pages/items/Zigarette.md
           - Kanister: pages/items/Kanister.md
+    - Makler: pages/makler/makler.md
+
+
 
 plugins:
  - search:
