@@ -3,15 +3,15 @@ site_name: GermanRP Wiki
 nav:
   - Startseite: index.md
   - Wiki:
-    - Anfängerhilfe: pages/help/Anfängerhilfe.md
-    - Bürgermeister: pages/other/Bürgermeister.md
+    - Anfängerhilfe: pages/help/anfängerhilfe.md
+    - Bürgermeister: pages/other/bürgermeister.md
     - Businesse (BIZ):
       - Waffenläden:
-        - Waffenladen: pages/biz/Waffenladen.md
+        - Waffenladen: pages/biz/waffenladen.md
         - Waffen:
-          - USP-40: pages/items/weapons/USP-40.md
-          - MP5: pages/items/weapons/MP5.md
-          - AK-47: pages/items/weapons/AK-47.md
+          - USP-40: pages/items/weapons/usp-40.md
+          - MP5: pages/items/weapons/mp5.md
+          - AK-47: pages/items/weapons/ak-47.md
       - Supermärkte: 
         - Supermarkt: pages/biz/Supermarkt.md
         - Items:
@@ -80,9 +80,13 @@ theme:
     - header.autohide
 
 extra:
-  generator:
-    false
   social:
     - icon: material/forum
       link: https://germanrp.eu/
       name: Forum
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/germanrp.pr/
+      name: Instagram
+    - icon: fontawesome/brands/twitter  
+      link: https://twitter.com/GermanRP3
+      name: Twitter
