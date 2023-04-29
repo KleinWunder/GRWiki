@@ -13,7 +13,7 @@ Wenn dir das Essen ausgeht solltest du dich in den [Supermärkten](pages/biz/Sup
 
 ## Geld verdienen
 Da du nun einige Ausgaben hattest, ist es an der Zeit wieder Geld zu verdienen. 
-Dafür bietet sich eine Vielzahl von Nebenjobs an. Wir empfehlen dir hier eine kleine Jobroute.
+Dafür bietet sich eine Vielzahl von [Nebenjobs](pages/nebenjobs/nebenjobs) an. Wir empfehlen dir hier eine kleine Jobroute.
 Die einzelnen Nebenjobs findest du mit /jobs.
 
 Die Jobroute (Start bei der Bushaltestelle Uniklinikum)
@@ -35,6 +35,6 @@ Vergiss dabei das Essen und Trinken nicht.
 
 ## Einfinden auf dem Server
 - Wenn du irgendwo nicht weiterweißt, dann wende dich an unser Supportteam mit /ticket. Sie helfen dir immer gerne weiter.
-- Konzentriere dich am Anfang auf die grundlegenden Dinge wie Essen, Trinken, Gesundheit und Geld. Das Kaufen von Waffen, Häusern und Haustieren kann dich schnell in den finanziellen Ruin treiben.
+- Konzentriere dich am Anfang auf die grundlegenden Dinge wie Essen, Trinken, Gesundheit und Geld. Das Kaufen von [Waffen](pages/items/weapons), Häusern und Haustieren kann dich schnell in den finanziellen Ruin treiben.
 - Informiere dich frühzeitig über die Fraktionen und deren Möglichkeiten auf dem Server und versuche zeitnah einer Fraktion beizutreten.
-- Der erste Eindruck zählt: Zeige dich in deinen ersten Tagen von deiner besten Seite. Versuche nicht gleich zu Beginn kriminell und rüpelhaft zu sein im RolePlay. Dies kann dich schnell in Schwierigkeiten mit dem Regelwerk bringen, da du noch nicht so vertraut damit bist. Ebenfalls erschwert dir ein solches Verhalten auf dem Server Fuß zu fassen und in Fraktionen aufgenommen zu werden.
+- Der erste Eindruck zählt: Zeige dich in deinen ersten Tagen von deiner besten Seite. Versuche nicht gleich zu Beginn kriminell und rüpelhaft zu sein im RolePlay. Dies kann dich schnell in Schwierigkeiten mit dem [Regelwerk](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) bringen, da du noch nicht so vertraut damit bist. Ebenfalls erschwert dir ein solches Verhalten auf dem Server Fuß zu fassen und in Fraktionen aufgenommen zu werden.
