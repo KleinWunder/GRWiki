@@ -33,6 +33,7 @@ Eine genauere Beschreibung findest du im Forum. Nach jedem zehnten erledigtem Jo
 Wiederhole diese Jobroute mehrmals hintereinander.
 Vergiss dabei das Essen und Trinken nicht.
 
+## Einfinden auf dem Server
 - Wenn du irgendwo nicht weiterweißt, dann wende dich an unser Supportteam mit /ticket. Sie helfen dir immer gerne weiter.
 - Konzentriere dich am Anfang auf die grundlegenden Dinge wie Essen, Trinken, Gesundheit und Geld. Das Kaufen von Waffen, Häusern und Haustieren kann dich schnell in den finanziellen Ruin treiben.
 - Informiere dich frühzeitig über die Fraktionen und deren Möglichkeiten auf dem Server und versuche zeitnah einer Fraktion beizutreten.
