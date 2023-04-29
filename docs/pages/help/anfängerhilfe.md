@@ -29,4 +29,4 @@ Die Jobroute (Start bei der Bushaltestelle Uniklinikum)
 9. Paketsotierer
 10. Zeitungsjunge
 
-Eine genauere Beschreibung findest du im Forum. Wiederhole diese Jobroute mehrmals 
+Eine genauere Beschreibung findest du im Forum. Nach jedem zehnten erledigtem Job kannst du deine Jobrotation abholen.
