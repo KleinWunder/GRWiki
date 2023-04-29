@@ -4,7 +4,7 @@
 Nebenjobs helfen Spieler beim Verdienen von Geld sowie XP. Besonders für Neulige sind diese gut geeinget, um auf dem Server Fuß zu fassen.
 Sie dauern wenige Minuten und mit mehren Jobs als Route lässt sich schnell Geld verdienen.
 Der Cooldown, das Gehalt, die XP sowie Skill-XP sind bei jedem Job unterschiedlich.
-Ein Job kann per **/quitjob** abgeb
+Ein Job kann per **/quitjob** abgebrochen werden.
 
 ## Nebenjobs
 Eine Liste aller Nebenjobs kann per **/jobs** aufgerufen werden.
