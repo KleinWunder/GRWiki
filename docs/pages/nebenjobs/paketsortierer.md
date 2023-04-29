@@ -1,4 +1,4 @@
-## Paketsortierer (Nebenjob)
+# Paketsortierer (Nebenjob)
 Der Paketsortier ist ein Nebenjob, welcher bei der Post angenommen wird.
 
 ## Aufgaben
