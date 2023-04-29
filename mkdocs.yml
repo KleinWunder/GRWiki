@@ -39,6 +39,17 @@ nav:
       - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
       - Reifentransport: pages/nebenjobs/reifentransport.md
       - Koch: pages/nebenjobs/koch.md
+    - Begleiter:
+      - Allgemein: pages/begleiter/allgemein.md
+      - Katze: pages/begleiter/katze.md
+      - Hund: pages/begleiter/hund.md
+      - Affe: pages/begleiter/affe.md
+      - Papagei: pages/begleiter/papagei.md
+      - Rentier: pages/begleiter/rentier.md
+      - Wolf: pages/begleiter/wolf.md
+      - Schmetterling: pages/begleiter/schmetterling.md
+      - Fledermaus: pages/begleiter/fledermaus.md
+      - Hase: pages/begleiter/hase.md
 
 
 plugins:
