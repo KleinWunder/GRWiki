@@ -50,6 +50,7 @@ nav:
       - Schmetterling: pages/pets/schmetterling.md
       - Fledermaus: pages/pets/fledermaus.md
       - Hase: pages/pets/hase.md
+      - Biene: pages/pets/biene.md
 
 
 plugins:
