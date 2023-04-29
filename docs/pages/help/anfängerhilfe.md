@@ -29,7 +29,7 @@ Die Jobroute (Start bei der Bushaltestelle Uniklinikum)
 9. Paketsotierer
 10. Zeitungsjunge
 
-Eine genauere Beschreibung findest du im Forum. Nach jedem zehnten erledigtem Job kannst du deine Jobrotation abholen.
+Eine genauere Beschreibung findest du im [Forum](https://germanrp.eu/forum/index.php?thread/8343-jobroute-stand-15-11-2022/&postID=52027#post52027). Nach jedem zehnten erledigtem Job kannst du deine Jobrotation abholen.
 Wiederhole diese Jobroute mehrmals hintereinander.
 Vergiss dabei das Essen und Trinken nicht.
 
