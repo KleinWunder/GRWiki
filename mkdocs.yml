@@ -6,46 +6,15 @@ nav:
     - Anfängerhilfe: pages/help/anfängerhilfe.md
     - Bürgermeister: pages/other/bürgermeister.md
     - Businesse (BIZ):
-      - Waffenläden:
-        - Waffenladen: pages/biz/waffenladen.md
-        - Waffen:
-          - USP-40: pages/items/weapons/usp-40.md
-          - MP5: pages/items/weapons/mp5.md
-          - AK-47: pages/items/weapons/ak-47.md
-      - Supermärkte: 
-        - Supermarkt: pages/biz/Supermarkt.md
-        - Items:
-          - Wasser: pages/drink/Wasser.md
-          - Fleisch: pages/food/Fleisch.md
-          - Äpfel: pages/food/Äpfel.md
-      - Bars:
-        - Bar: pages/biz/Bar.md
-        - Items:
-          - Bier: pages/drink/Bier.md
-          - Whisky: pages/drink/Whisky.md
-          - Vodka: pages/drink/Vodka.md
-          - Rotwein: pages/drink/Rotwein.md
-      - Apotheken:
-        - Apotheke: pages/biz/Apotheke.md
-        - Items:
-          - Nasensalbe: pages/health/Nasensalbe.md
-          - Bandage: pages/health/Bandage.md  
-          - Hustenbonbon: pages/health/Hustenbonbon.md
-      - Starblocks:
-        - Starblocks: pages/biz/Starblocks.md
-        - Items:
-          - Donut: pages/food/Donut.md
-          - Keks: pages/food/Keks.md
-          - Muffin: pages/food/Muffin.md
-          - Kaffee: pages/drink/Kaffee.md
-      - Tankstellen:
-        - Tankstelle: pages/biz/Tankstelle.md
-        - Fahrzeug betanken: pages/vehicle/Fahrzeug betanken.md
-        - Items:
-          - Sandwich: pages/food/Sandwich.md
-          - Zigarrete: pages/items/Zigarette.md
-          - Kanister: pages/items/Kanister.md
+      - Waffenläden: pages/biz/waffenladen.md
+      - Supermärkte: pages/biz/supermarkt.md
+      - Bars: pages/biz/bar.md
+      - Apotheken: pages/biz/apotheke.md
+      - Starblocks: pages/biz/starblocks.md
+      - Tankstellen: pages/biz/tankstelle.md
     - Makler: pages/other/makler.md
+    - Nebenjobs:
+      - Allgemein: pages/nebenjobs/nebenjobs.md  
 
 
 
