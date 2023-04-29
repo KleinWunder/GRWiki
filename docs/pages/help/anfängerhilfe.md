@@ -9,7 +9,7 @@ Das Tutorial gibt dir alles, was nötigt ist, um auf dem Server Fuß zu fassen.
 Im Tutorial erhältst du grundlegende Ausrüstungselemente. Mit diesen Items kommst du die erste
 Zeit auf dem Server zurecht. Du bist ebenfalls für zwei Wochen gegen die Grippe geschützt.
 Nach diesen zwei Wochen solltest du dich beim Rettungsdienst erneut impfen lassen.
-Wenn dir das Essen ausgeht solltest du dich in den [Supermärkten](pages/biz/Supermarkt) neues Essen kaufen. 
+Wenn dir das Essen ausgeht solltest du dich in den [Supermärkten](pages/biz/supermarkt) neues Essen kaufen. 
 
 ## Geld verdienen
 Da du nun einige Ausgaben hattest, ist es an der Zeit wieder Geld zu verdienen. 
@@ -35,6 +35,6 @@ Vergiss dabei das Essen und Trinken nicht.
 
 ## Einfinden auf dem Server
 - Wenn du irgendwo nicht weiterweißt, dann wende dich an unser Supportteam mit /ticket. Sie helfen dir immer gerne weiter.
-- Konzentriere dich am Anfang auf die grundlegenden Dinge wie Essen, Trinken, Gesundheit und Geld. Das Kaufen von [Waffen](pages/items/weapons), Häusern und Haustieren kann dich schnell in den finanziellen Ruin treiben.
+- Konzentriere dich am Anfang auf die grundlegenden Dinge wie Essen, Trinken, Gesundheit und Geld. Das Kaufen von [Waffen](), Häusern und Haustieren kann dich schnell in den finanziellen Ruin treiben.
 - Informiere dich frühzeitig über die Fraktionen und deren Möglichkeiten auf dem Server und versuche zeitnah einer Fraktion beizutreten.
 - Der erste Eindruck zählt: Zeige dich in deinen ersten Tagen von deiner besten Seite. Versuche nicht gleich zu Beginn kriminell und rüpelhaft zu sein im RolePlay. Dies kann dich schnell in Schwierigkeiten mit dem [Regelwerk](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) bringen, da du noch nicht so vertraut damit bist. Ebenfalls erschwert dir ein solches Verhalten auf dem Server Fuß zu fassen und in Fraktionen aufgenommen zu werden.
