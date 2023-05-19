@@ -52,4 +52,4 @@ Fahrzeuge unterscheiden sich in den Werten:
 | RTW | 100 km/h | 100.0 | 25.0 Liter | 4 | - | 4650.0€ |
 | NEF | 115 km/h | 100.0 | 25.0 Liter | 4 | - | 12500.0€ |
 | MAN HLF | 120 km/h | 300.0 | 40.0 Liter | 2 | - | 10000.0€ |
-| Feuerwehr SUV | 140 km/h | 200.0 | 30.0 Liter | 4 | 14500.0€ |
+| Feuerwehr SUV | 140 km/h | 200.0 | 30.0 Liter | 4 | - | 14500.0€ |
