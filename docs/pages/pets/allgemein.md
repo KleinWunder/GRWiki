@@ -7,6 +7,7 @@ Jedes Pet hat seine eigenen Fähigkeiten und kann um mehrere Stufen im Tierheim 
 
 ## Tierarten
 
+Zur Zeit gibt es 11 verschiedene Pets.
 Jedes Pet ist einem bestimmten Skill zugeordnet.
  Manche Pets teilen sich einen Skill.
 
