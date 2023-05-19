@@ -20,3 +20,4 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
  - Fledermaus (Bergbau-Skill)
  - Hase (Gärtner-Skill)
  - Biene (Farming-Skill)
+ - Capybara (Fischer-Skill)

@@ -97,3 +97,5 @@ extra:
     - icon: fontawesome/brands/twitter  
       link: https://twitter.com/GermanRP3
       name: Twitter
+
+extra_javascript: ['assets/theme/js/imprint.js']
