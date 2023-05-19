@@ -9,12 +9,12 @@ In der KFZ-Werkstatt können Autos repariert, lakiert und modifiziert werden.
 Erwerblich sind die Fahrzeuge beim Fahrzeughändler (/navi Fahrzeughändler) oder beim Luxusfahrzeughändler (/navi Luxusfahrzeughändler).
 
 Fahrzeuge unterscheiden sich in den Werten:
-* Aussehen
-* Sitzplätze
-* Tank
-* Maximale Geschwindigkeit
-* Schadenstoleranz
-* Steuern
+- Aussehen
+- Sitzplätze
+- Tank
+- Maximale Geschwindigkeit
+- Schadenstoleranz
+- Steuern
 
 ## Arten
 <h3>Folgene Fahrzeuge sind für Zivilisten erhältlich:</hr>
