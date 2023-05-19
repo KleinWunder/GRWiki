@@ -14,7 +14,7 @@ nav:
       - Tankstellen: pages/biz/tankstelle.md
     - Fahrzeuge:
       - Allgemein: pages/fahrzeuge/allgemein.md
-      - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt
+      - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
     - Häuser: 
       - Makler: pages/houses/makler.md
     - Nebenjobs:
