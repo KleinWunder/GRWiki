@@ -1,9 +1,9 @@
 ## Allgemein
 
-Mit einem Fahrzeug kommst du schneller von A nach B, ohne lästigen Busfahren. Regelmäßiges Tanken an den [Tankstellen](pages/biz/tankstelle) sollte hierbei auch berücksichtigt werden.
+Mit einem Fahrzeug kommst du schneller von A nach B, ohne lästigen Busfahren. Regelmäßiges Tanken an den <a href="https://imgxrke.github.io/GRWiki/pages/biz/tankstelle/)" title="Tankstelle">Tankstellen</a> sollte hierbei auch berücksichtigt werden.
 
 Sollte man in einem Fahrzeug sitzen, kann man mit der Offhand-Taste (standartmäßig ++f++ ), die Fahrzeugsteuerung aufrufen. Ist der Motor aus, so ist die einzige Option, den Motor zu starten. Sollte der Motor an sein, sieht man die erweiterte Fahrzeugsteuerung. Unter anderem kann man hier die Fahrzeuginformationen einsehen, einen Tempomat einstellen, Fraktionstore öffnen und den Gang wechseln. Bei Dienstwägen kann man hier auch das Sondersignal einstellen. Mit einem Druck auf die Sprungtaste (standartmäßig die ++spc++ -Taste) betätigt man die Hupe. 
-In der [KFZ-Werkstatt](pages/fahrzeuge/kfz-werkstatt) können Autos repariert, lakiert und modifiziert werden.
+In der <a href="https://imgxrke.github.io/GRWiki/pages/fahrzeuge/kfz-werkstatt" title="KFZ-Werkstatt">KFZ-Werkstatt</a> können Autos repariert, lakiert und modifiziert werden.
 
 ## Erwerben von Fahrzeugen
 Erwerblich sind die Fahrzeuge beim Fahrzeughändler (/navi Fahrzeughändler) oder beim Luxusfahrzeughändler (/navi Luxusfahrzeughändler).
