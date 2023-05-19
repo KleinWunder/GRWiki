@@ -21,3 +21,11 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
  - [Hase](pages/pets/hase) (Gärtner-Skill)
  - [Biene](pages/pets/biene) (Farming-Skill)
  - [Capybara](pages/pets/capybara) (Fischer-Skill)
+
+ ## Pets verbessern
+
+ Um dein Pet zu verbessern musst du dich einmal auf den Weg zum Tierheim machen.
+ Dort kannst du dann mit Kate sprechen und dein Pet von **Gewöhnlich** auf maximal **Selten** verbessern.
+ Solltest du dein Pet weiter verbessern wollen, musst du dir ein Petupgrade besorgen.
+ Damit kannst du dann zu Dorothea gehen und dein Pet von Selten auf Episch verbessern.
+ Diesen Vorgang kannst du öfters wiederholen bist du ein Ultralegendäres Pet hast.
