@@ -1,6 +1,6 @@
 ## Allgemein
 
-Mit einem Fahrzeug kommst du schneller von A nach B, ohne lästigen Bus-fahren. Regelmäßiges Tanken an den [Tankstellen](pages/biz/tankstelle.md) sollte hierbei auch berücktichtigt werden.
+Mit einem Fahrzeug kommst du schneller von A nach B, ohne lästigen Bus-fahren. Regelmäßiges Tanken an den [Tankstellen](pages/biz/tankstelle) sollte hierbei auch berücktichtigt werden.
 
 Sollte man in einem Fahrzeug sitzen, kann man mit der Offhand-Taste (Standartmäßig "F"), die Fahrzeugsteuerung aufrufen. Ist der Motor aus, so ist die einzige Option, den Motor zu starten. Sollte der Motor an sein, sieht man die erweiterte Fahrzeugsteuerung. Unter anderem kann man hier die Fahrzeuginformationen einsehen, einen Tempomat einstellen, Fraktionstore öffnen und den Gang wechseln. Bei Dienstwägen kann man hier auch das Sondersignal einstellen. Mit einem Druck auf die Sprungtaste (Standartmäßig die Leertaste) betätigt man die Hupe. 
 In der KFZ-Werkstatt können Autos repariert, lakiert und modifiziert werden.
