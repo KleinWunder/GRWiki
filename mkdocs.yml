@@ -55,6 +55,8 @@ nav:
       - Hase: pages/pets/hase.md
       - Biene: pages/pets/biene.md
       - Capybara: pages/pets/Capybara.md
+    - Sonstiges:
+      - AFK: pages/other/afk.md
 
 
 plugins:
