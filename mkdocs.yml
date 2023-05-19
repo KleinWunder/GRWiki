@@ -12,6 +12,8 @@ nav:
       - Apotheken: pages/biz/apotheke.md
       - Starblocks: pages/biz/starblocks.md
       - Tankstellen: pages/biz/tankstelle.md
+    - Fahrzeuge:
+      - Allgemein: pages/fahrzeuge/allgemein.md
     - Häuser: 
       - Makler: pages/houses/makler.md
     - Nebenjobs:
