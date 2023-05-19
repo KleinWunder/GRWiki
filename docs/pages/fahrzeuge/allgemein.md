@@ -18,6 +18,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 ## Arten
 <h3>Folgene Fahrzeuge sind für Zivilisten erhältlich:</hr>
 <center>
+<h5>
 
 | Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Steuern (pro abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -31,11 +32,13 @@ Fahrzeuge unterscheiden sich in den Werten:
 | BMW X3 | 110 km/h |200.0 | 30.0 Liter | 4 | 50.0€ | 14500.0€ |
 | Nissan Skyline R34 | 115 km/h | 100.0 | 25.0 Liter | 2 | 50.0€ | 18000.0€ |
 | Dodge Challenger | 120 km/h | 120.0 | 25.0 Liter | 2 | 50.0€ | 18500.0€ |
-
-</center>
-<hr3>Folgene Fahrzeuge sind für Polizisten erhältlich: </hr>
-<center>
   
+  </h>
+</center>
+<h3>Folgene Fahrzeuge sind für Polizisten erhältlich: </h>
+<center>
+  <h5>
+
 | Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Steuern (pro abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Ziviltransporter | 80 km/h |125.0 | 30.0 Liter | 8 | - | 6500.0€ |
@@ -45,12 +48,16 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Zivilstreifenwagen | 100 km/h | 120.0 | 30.0 Liter | 4 | - | 13500.0€ |
 | Zilvilsteifenwagen 2 | 120 km/h | 120.0 | 25.0 Liter | 2 | - | 18500.0€ |
 
+</h>
 </center>
-<hr3>Folgende Fahrzeuge sind für Ärzte verfügbar:</hr>
+<h3>Folgende Fahrzeuge sind für Ärzte verfügbar:</h>
 <center>
+<h5>
 
 | Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Steuern (pro abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Krankentrasportwagen | 95km/h | 125.0 | 30 Liter | 4 | - | 5500€ |
 | RTW | 80 km/h | 100.0 | 25.0 Liter | 4 | - | 4650.0€ |
 | NEF | 100 km/h | 100.0 | 25.0 Liter | 4 | - | 12500.0€ |
+
+</h>
