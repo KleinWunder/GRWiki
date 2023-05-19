@@ -51,6 +51,7 @@ nav:
       - Fledermaus: pages/pets/fledermaus.md
       - Hase: pages/pets/hase.md
       - Biene: pages/pets/biene.md
+      - Capybara: pages/pets/Capybara.md
 
 
 plugins:
