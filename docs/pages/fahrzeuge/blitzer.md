@@ -9,5 +9,16 @@ Die Polizei verfügt über Mobile Blitzer,welche sie überall in Vance City aufs
 
 ### Radarpistolen
 
-Ebenfalls besitzt der Staat Radarpistolen, <img align="right" width="300" eight="200" src="https://i.imgur.com/8cmAMiX.png">
+Ebenfalls besitzt der Staat Radarpistolen, <img align="right" width="200" eight="100" src="https://i.imgur.com/8cmAMiX.png">
 welche das gleiche Ziel wie Blitzer verfolgen. Radarpistolen sind wie mobile Blitzer, welche der Staat in der Hand hält um Fahrzeuge zu blitzen welche zu schnell sind.
+
+## Blitzer Bussgeld
+
+| Überschreitete Geschwindigkeit | Bussgeld | Wanteds |
+|:-:|:-:|:-:|
+| 3-10 km/h | 25€ | Nein |
+| 11-15 km/h | 50€ | Nein |  
+| 16-20 km/h | 75€ | Nein |
+| >21 km/h | 100€ | Ja |
+
+Wird man ohne Führerschein geblitzt, so bekommt man **Fahren ohne Führerschein**.
