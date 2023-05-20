@@ -14,7 +14,7 @@ welche das gleiche Ziel wie Blitzer verfolgen. Radarpistolen sind wie mobile Bli
 
 ## Blitzer Bussgeld
 
-| Überschreitung der Geschwindigkeit | Bussgeld | Wanteds |
+| Geschwindigkeitsüberschreitung | Bussgeld | Wanteds |
 |:-:|:-:|:-:|
 | 3-10 km/h | 25€ | Nein |
 | 11-15 km/h | 50€ | Nein |  
