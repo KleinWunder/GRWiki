@@ -9,11 +9,11 @@ Die KFZ-Werkstatt/County Garage ist für alle Autofahrer ein wichtiger Standort.
 
 ### Reperatur
 
-Hier unterscheiden sich die Arbeiten unter einer normalen Reparatur, wenn das Fahrzeug eine Beschädigung unter seiner maximalen Schadenspunkteanzahl ist. <img align="right" width="100" eight="50" src="https://i.imgur.com/LgO83bL.png"> Bei der maximalen Schadenspunkteanzahl erleidet das Fahrzeug einen Totalschaden, welcher für eine große Summe repariert werden kann. Auch können die Fraktionsfahrzeuge hier repariert werden.
+Hier unterscheiden sich die Arbeiten unter einer normalen Reparatur, <img align="right" width="100" eight="50" src="https://i.imgur.com/LgO83bL.png"> wenn das Fahrzeug eine Beschädigung unter seiner maximalen Schadenspunkteanzahl ist. Bei der maximalen Schadenspunkteanzahl erleidet das Fahrzeug einen Totalschaden, welcher für eine große Summe repariert werden kann. Auch können die Fraktionsfahrzeuge hier repariert werden.
 
 
 ### Lakierung
 
 
-Die Fahrzeuge können individuell farblich angepasst werden. Es werden bereits 11 Farben angeboten, <img align="right" width="150" eight="100" src="https://i.imgur.com/gkub6bq.png"> aber es besteht die Möglichkeit einen eigenen RGB Code einzufügen. Ebenso kann sich ein Farbmessgerät für 25 Euro beim Mechaniker gekauft werden, welches den RGB Code ermittelt werden kann bei den Autos.
+Die Fahrzeuge können individuell farblich angepasst werden. Es werden bereits 11 Farben angeboten, <img align="right" width="200" eight="150" src="https://i.imgur.com/gkub6bq.png"> aber es besteht die Möglichkeit einen eigenen RGB Code einzufügen. Ebenso kann sich ein Farbmessgerät für 25 Euro beim Mechaniker gekauft werden, welches den RGB Code ermittelt werden kann bei den Autos.
 
