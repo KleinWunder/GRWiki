@@ -6,5 +6,5 @@ Nur der Besitzer des Autos ist dazu berechtigt das Auto zu zurschrotten.
 (**/navi Schrottpresse**)
 
 ### Zerschrotten
-Ein Auto kann verschrottet werden, sobald das Auto in der Schrottpresse steht. 
+Ein Auto kann verschrottet werden, sobald das eigene Auto in der Schrottpresse steht. 
 Nach drücken des Kopfes vor der Presse wird das Auto verschrottet.
