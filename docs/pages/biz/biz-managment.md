@@ -1,6 +1,6 @@
 ## Biz-Managment
 
-BIZ-Manager beaufsichtigen die BIZ-Besitzer; das sind die Gewerbebesitzer der Stadt. Das BIZ-Management kontrolliert regelmäßig die Lagerbestände der Gewerbe und ob das Regelwerk und die Preise von den Besitzern eingehalten werden. Ebenfalls verwalten sie leere Gewerbe.
+BIZ-Manager beaufsichtigen die BIZ-Besitzer; das sind die Gewerbebesitzer der Stadt. Das BIZ-Management kontrolliert regelmäßig die Lagerbestände der Gewerbe und ob das Regelwerk und die Preise von den Besitzern eingehalten werden. Ebenfalls verwalten sie [leere Gewerbe](https://imgxrke.github.io/GRWiki/pages/biz/business/).
 
 ### Erkennen
 
