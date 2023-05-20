@@ -3,7 +3,7 @@
 Die KFZ-Werkstatt ist für alle Autofahrer ein wichtiger Standort. Beim Mechaniker finden die Reparatur- und Lackierarbeiten statt. Die Hupe kann mit VIP & VIP+ verändert werden. Auch befindet sich hier die Garage zum Auslagern seines Autos. Für Staatsmitglieder ist auch das Auslagern der Fraktionsfahrzeuge möglich. 
 (**/navi KFZ-Werkstatt**) 
 
-<img src="https://i.imgur.com/g4HiJsX.png" decoding="async" loading="lazy" width="378" height="200" class="thumbimage" data-image-name="KFZ-Werkstatt.png" data-image-key="KFZ-Werkstatt.png" data-gtm-vis-recent-on-screen-31059910_573="280" data-gtm-vis-first-on-screen-31059910_573="280" data-gtm-vis-total-visible-time-31059910_573="100" data-gtm-vis-has-fired-31059910_573="1">
+<img src="https://i.imgur.com/g4HiJsX.png" decoding="async" loading="lazy" width="378" height="200" class="thumbimage" data-image-name="KFZ-Werkstatt.png" data-image-key="KFZ-Werkstatt.png" data-gtm-vis-recent-on-screen-31059910_573="280" data-gtm-vis-first-on-screen-31059910_573="280" data-gtm-vis-total-visible-time-31059910_573="100" data-gtm-vis-has-fired-31059910_573="1"> <img src="https://i.imgur.com/LgO83bL.png" decoding="async" loading="lazy" width="120" height="200" class="thumbimage" data-image-name="KFZ-Werkstatt.png" data-image-key="KFZ-Werkstatt.png" data-gtm-vis-recent-on-screen-31059910_573="280" data-gtm-vis-first-on-screen-31059910_573="280" data-gtm-vis-total-visible-time-31059910_573="100" data-gtm-vis-has-fired-31059910_573="1"> 
 
 ### Reperatur
 
