@@ -9,9 +9,13 @@ Im Starblocks werden folgende Artikel verkauft:
 + Donut (Schokolade)       
 + Donut (Pink)
 + Donut (Zuckerguss)
-+ Muffin  <img align="right" width="200" eight="150" src="../../../assets/image/biz/Starblocks-1.png">
++ Muffin  
 
-### Standorte der Starblocks  <img align="right" width="250" eight="175" src="../../../assets/image/biz/Starblocks-2.png">
+<img align="right" width="200" eight="150" src="../../../assets/image/biz/Starblocks-1.png">
+
+### Standorte der Starblocks  
+
+<img align="right" width="250" eight="175" src="../../../assets/image/biz/Starblocks-2.png">
 
 | Name | Ort | Nächste Bushaltestelle
 |:-:|:-:|:-:|
