@@ -6,9 +6,9 @@ Jeder Gewerbebesitzer kann Mitarbeiter über das Biz-Menü einstellen.
 ### Auffüllen des Biz-Lagers 
 <img align="right" width="110" eight="100" src="https://i.imgur.com/4O2dYd5.png">
 Um ein Biz-Lager aufzufüllen müssen die Biz-Besitzer oder Biz-Mitarbeiter zu den Händlern welche in ganz Vance City verteilt stehen.
-Nicht jeder Händler hat die gleichen Lagerkisten im Angebot. <img align="right" width="200" eight="150" src="https://i.imgur.com/M6gMmFy.png">
+Jeder Händler hat verschiedene Lagerkisten im Angebot. <img align="right" width="200" eight="150" src="https://i.imgur.com/M6gMmFy.png">
 
-**Vorsicht** die Händler haben nach kurzer Zeit neue Preise für die Lagerkisten.
+**Vorsicht** die Händler haben nach kurzer Zeit neue Preise für Ihre Lagerkisten.
 
 ### Standorte der Händler
 
