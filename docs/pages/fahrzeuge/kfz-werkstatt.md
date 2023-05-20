@@ -14,4 +14,4 @@ Hier unterscheiden sich die Arbeiten unter einer normalen Reparatur, wenn das Fa
 Die Fahrzeuge können individuell farblich angepasst werden. Es werden bereits 11 Farben angeboten, aber es besteht die Möglichkeit einen eigenen RGB Code einzufügen. Ebenso kann sich ein Farbmessgerät für 25 Euro beim Mechaniker gekauft werden, welches den RGB Code ermittelt werden kann bei den Autos.
 
 
-<img alt="KFZ-Werkstatt" src="https://static.wikia.nocookie.net/germanrp/images/f/ff/KFZ-Werkstatt.png/revision/latest/scale-to-width-down/378?cb=20220908161556&amp;path-prefix=de" decoding="async" loading="lazy" width="378" height="200" class="thumbimage" data-image-name="KFZ-Werkstatt.png" data-image-key="KFZ-Werkstatt.png" data-gtm-vis-recent-on-screen-31059910_573="280" data-gtm-vis-first-on-screen-31059910_573="280" data-gtm-vis-total-visible-time-31059910_573="100" data-gtm-vis-has-fired-31059910_573="1">
+
