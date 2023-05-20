@@ -44,6 +44,14 @@ nav:
       - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
       - Reifentransport: pages/nebenjobs/reifentransport.md
       - Koch: pages/nebenjobs/koch.md
+    - Skills:
+      - Combat: pages/skills/combat.md
+      - Farming: pages/skills/farming.md
+      - Gärtner: pages/skills/gärtner.md
+      - Sozial: pages/skills/social.md
+      - Fischer: pages/skills/fischer.md
+      - Bergbau: pages/skills/bergbau.md
+      - Kochen: pages/skills/kochen.md
     - Pets:
       - Allgemein: pages/pets/allgemein.md
       - Katze: pages/pets/katze.md
