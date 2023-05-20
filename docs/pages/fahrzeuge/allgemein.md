@@ -9,12 +9,12 @@ In der <a href="https://imgxrke.github.io/GRWiki/pages/fahrzeuge/kfz-werkstatt" 
 Erwerblich sind die Fahrzeuge beim Fahrzeughändler (/navi Fahrzeughändler) oder beim Luxusfahrzeughändler (/navi Luxusfahrzeughändler).
 
 Fahrzeuge unterscheiden sich in den Werten:
-- Aussehen
-- Sitzplätze
-- Tank
-- Maximale Geschwindigkeit
-- Schadenstoleranz
-- Steuern
+* Aussehen
+* Sitzplätze
+* Tank
+* Maximale Geschwindigkeit
+* Schadenstoleranz
+* Steuern
 
 ## Arten
 ### Folgende Fahrzeuge sind für Zivilisten erhältlich.
