@@ -6,7 +6,7 @@ Im Starblocks werden folgende Artikel verkauft: <img align="right" width="200" e
 
 + Kaffee
 + Kakao
-+ Donut (Schokolade)
++ Donut (Schokolade)       <img align="right" width="200" eight="150" src="../../../assets/image/biz/Starblocks-1.png">
 + Donut (Pink)
 + Donut (Zuckerguss)
 + Muffin 
