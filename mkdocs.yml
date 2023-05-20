@@ -76,6 +76,7 @@ plugins:
     lang: de
  - git-revision-date-localized:
       enable_creation_date: true   
+ - glightbox
 
 markdown_extensions:
   - attr_list
