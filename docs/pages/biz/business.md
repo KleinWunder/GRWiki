@@ -16,7 +16,7 @@ Nicht jeder Händler hat die gleichen Lagerkisten im Angebot.
 | Apfel, Kaffee, Kakao, Sandwitch, Wasser | Postzentrale | In der nähe des Fahrzeughänders |
 | Sprit | Uniklinik | Raffinerie |
 | Kleinkalibrige Munition, Normale Munition | Justizvollzugsanstalt | Neber dem Schmelzwerk |
-| Bandage, Nasensalbe, Hustenbonbon | Gangviertel |
+| Bandage, Nasensalbe, Hustenbonbon | Gangviertel | Labor |
 | Limonade, Cola | Plaza | Agavenhaus |
 | Schweinefleisch, Rindfleisch, Hähnchenfleisch | Asia-Viertel | Markt |
 | Muffin, Donut mit Zuckerguss, Pinker Donut, Schokoonut | Reichenviertel | Bäckerei |
