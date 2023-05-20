@@ -6,7 +6,7 @@ nav:
     - Anfängerhilfe: pages/help/anfängerhilfe.md
     - Bürgermeister: pages/other/bürgermeister.md
     - Businesse (BIZ):
-      - Biz-Managment: pages/niz/biz-managment.md
+      - Biz-Managment: pages/biz/biz-managment.md
       - Waffenläden: pages/biz/waffenladen.md
       - Supermärkte: pages/biz/supermarkt.md
       - Bars: pages/biz/bar.md
