@@ -21,4 +21,4 @@ welche das gleiche Ziel wie Blitzer verfolgen. Radarpistolen sind wie mobile Bli
 | 16-20 km/h | 75€ | Nein |
 | >21 km/h | 100€ | Ja |
 
-Wird man ohne Führerschein geblitzt, so bekommt man **Fahren ohne Führerschein**.
+*Wird man ohne Führerschein geblitzt, so bekommt man **Fahren ohne Führerschein**.
