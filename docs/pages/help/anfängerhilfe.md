@@ -18,16 +18,16 @@ Die einzelnen Nebenjobs findest du mit /jobs.
 
 Die Jobroute (Start bei der Bushaltestelle Uniklinikum)
 
-1. Wäschetransport
-2. Wäscherei
-3. Gärtnerei
-4. Farmer
-5. Winzer
-6. Weintransport
-7. Straßenreiniger
-8. Tellerwäscher
-9. Paketsotierer
-10. Zeitungsjunge
+1. [Wäschetransport](pages/nebenjobs/wäschetransport)
+2. [Wäscherei](pages/nebenjobs/wäscherei)
+3. [Gärtnerei](pages/nebenjobs/gärtnerei)
+4. [Farmer](pages/nebenjobs/farmer)
+5. [Winzer](pages/nebenjobs/winzer)
+6. [Getränketransport](pages/nebenjobs/getränketransport)
+7. [Straßenreiniger](pages/nebenjobs/straßenreiniger)
+8. [Tellerwäscher](pages/nebenjobs/tellerwäscher)
+9. [Paketsotierer](pages/nebenjobs/paketsotierer)
+10. [Zeitungsjunge](pages/nebenjobs/zeitungsjunge)
 
 Eine genauere Beschreibung findest du im [Forum](https://germanrp.eu/forum/index.php?thread/8343-jobroute-stand-15-11-2022/&postID=52027#post52027). Nach jedem zehnten erledigtem Job kannst du deine Jobrotation abholen.
 Wiederhole diese Jobroute mehrmals hintereinander.
