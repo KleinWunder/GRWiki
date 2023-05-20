@@ -2,8 +2,9 @@
 
 <img align="right" width="300" eight="200" src="https://i.imgur.com/g4HiJsX.png">
 
-Die KFZ-Werkstatt ist für alle Autofahrer ein wichtiger Standort. Beim Mechaniker finden die Reparatur- und Lackierarbeiten statt. Die Hupe kann mit VIP & VIP+ verändert werden. Auch befindet sich hier die Garage zum Auslagern seines Autos. Für Staatsmitglieder ist auch das Auslagern der Fraktionsfahrzeuge möglich. 
-(**/navi KFZ-Werkstatt**) 
+Die KFZ-Werkstatt/County Garage ist für alle Autofahrer ein wichtiger Standort. Beim Mechaniker finden die Reparatur- und Lackierarbeiten statt. Die Hupe kann mit VIP & VIP+ verändert werden. Auch befindet sich hier die Garage zum Auslagern seines Autos. Für Fraktionsmitglieder ist auch das Auslagern der Fraktionsfahrzeuge möglich. 
+(**/navi KFZ-Werkstatt**)
+(**/navi Countygarage**) 
 
 
 ### Reperatur
