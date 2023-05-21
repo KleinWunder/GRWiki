@@ -2,7 +2,7 @@
 
 In Supermärkten können Lebensmittel gekauft werden. Leere Flaschen können an Flaschen-Automaten entsorgt werden.
 
-!!! info "Essen zubereiten" Das Fleisch muss vor dem Verzehr in einem Ofen eines Hauses [zubereitet](https://imgxrke.github.io/GRWiki/pages/skills/kochen/) werden.
+!!! info "Essen zubereiten" Das Fleisch muss vor dem Verzehr in einem Ofen eines Hauses zubereitet werden.
 
 ### Standorte der Supermärkte
 
