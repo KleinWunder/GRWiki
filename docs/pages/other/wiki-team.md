@@ -17,9 +17,11 @@ Piewn
 </center>
 
 <img align="left" width="230" eight="90" src="../../../assets/image/Wiki Team/Hoschiii-skin.png"> 
+
 <img align="right" width="230" eight="90" src="../../../assets/image/Wiki Team/EtwasAngelndes-skin.png">  
 
-<left> Hoschiii </left> <right> EtwasAngelndes </right>
+<left> Hoschiii </left> 
+<right> EtwasAngelndes </right>
 
 <img align="center" width="230" eight="90" src="../../../assets/image/Wiki Team/zS0uth-skin.png">
 
