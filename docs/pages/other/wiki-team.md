@@ -4,3 +4,6 @@
 
 **Wiki-Teamleitung**
  <img align="center" width="250" eight="175" src="../../../assets/image/Wiki Team/piewn skin.png">
+
+**Wiki-Team**
+ <img width="250" eight="175" src="../../../assets/image/Wiki Team/piewn skin.png">  <img align="center" width="250" eight="175" src="../../../assets/image/Wiki Team/piewn skin.png">  <img align="center" width="250" eight="175" src="../../../assets/image/Wiki Team/piewn skin.png">
