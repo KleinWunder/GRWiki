@@ -47,6 +47,8 @@ nav:
       - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
       - Reifentransport: pages/nebenjobs/reifentransport.md
       - Koch: pages/nebenjobs/koch.md
+    - Planzen:
+      - Heilkraut: pages/pflanzen/heilkraut.md
     - Skills:
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md
