@@ -8,7 +8,7 @@ Piewn
 
 </center>
 
- <img align="center" width="250" eight="175" src="../../../assets/image/Wiki Team/piewn skin.png">
+ <img align="center" width="230" eight="90" src="../../../assets/image/Wiki Team/piewn skin.png">
 
 <center>
 
