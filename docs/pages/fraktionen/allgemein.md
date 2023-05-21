@@ -6,4 +6,4 @@ Jede Fraktion besitzt ein Hauptquartier (HQ) auf der Karte mit einem zugehörige
 
 !!! info "Fraktions HQs"
     Nur weil man weiß, dass das Gebäude der Camorra gehört ohne dies im Roleplay erfahren zu haben, heißt dies nicht, dass man dies im Roleplay werten darf. 
-    Dies gilt für alle anderen Hauptquartiere der anderen Crimefraktionen.
+    Dies gilt für alle Hauptquartiere der anderen Crimefraktionen.
