@@ -9,7 +9,7 @@ Das Tutorial gibt dir alles, was nötigt ist, um auf dem Server Fuß zu fassen.
 Im Tutorial erhältst du grundlegende Ausrüstungselemente. Mit diesen Items kommst du die erste
 Zeit auf dem Server zurecht. Du bist ebenfalls für zwei Wochen gegen die Grippe geschützt.
 Nach diesen zwei Wochen solltest du dich beim Rettungsdienst erneut impfen lassen.
-Wenn dir das Essen ausgeht solltest du dich in den [Supermärkten](pages/biz/supermarkt) neues Essen kaufen. 
+Wenn dir das Essen ausgeht solltest du in den [Supermärkten](pages/biz/supermarkt) neues Essen kaufen. 
 
 ## Geld verdienen
 Da du nun einige Ausgaben hattest, ist es an der Zeit wieder Geld zu verdienen. 
