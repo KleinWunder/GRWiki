@@ -7,6 +7,7 @@ In Supermärkten können Lebensmittel gekauft werden. Leere Flaschen können an 
 ### Standorte der Supermärkte
 
 | Name | Ort | Nächste Bushaltestelle |
+|:-:|:-:|:-:|
 | Supermarkt-1 | Oststadt | Oststadt |
 | Supermarkt-2 | Reichenviertel | Reichenviertel |
 | Supermarkt-3 | County | Plaza |
@@ -16,4 +17,3 @@ In Supermärkten können Lebensmittel gekauft werden. Leere Flaschen können an 
 | Supermarkt-7 | Westside | Westside |
 
 
-!!! info "Preise der Lagerkisten" Die Preise der Lagerkisten können variieren. Sie generieren sich alle 45 Minuten neu.
