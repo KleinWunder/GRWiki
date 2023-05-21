@@ -16,6 +16,10 @@ Piewn
 
 </center>
 
+<left> Hoschiii </left>
+
+<right> EtwasAngelndes </right>
+
 <img align="left" width="230" eight="90" src="../../../assets/image/Wiki Team/Hoschiii-skin.png"> 
 
 <img align="right" width="230" eight="90" src="../../../assets/image/Wiki Team/EtwasAngelndes-skin.png">  
