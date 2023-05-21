@@ -4,9 +4,10 @@
 
 **Wiki-Teamleitung**
 
-Piewn
-
 </center>
+
+<center> Piewn </center>
+
 
  <img align="center" width="230" eight="90" src="../../../assets/image/Wiki Team/piewn skin.png">
 
@@ -28,6 +29,7 @@ Piewn
 <right> EtwasAngelndes </right>
 
 <img align="center" width="230" eight="90" src="../../../assets/image/Wiki Team/zS0uth-skin.png">
+
 
 <center> zS0uth </center>
 
