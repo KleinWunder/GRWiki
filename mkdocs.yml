@@ -3,7 +3,7 @@ site_name: GermanRP Wiki
 nav:
   - Startseite: index.md
   - Wiki:
-    - Wiki-Team: pages/other/wiki-team-md
+    - Wiki-Team: pages/other/wiki-team.md
     - Anfängerhilfe: pages/help/anfängerhilfe.md
     - Bürgermeister: pages/other/bürgermeister.md
     - Businesse (BIZ):
