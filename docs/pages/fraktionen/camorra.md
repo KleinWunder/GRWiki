@@ -9,6 +9,12 @@ Die Camorra ist eine italienische Mafia, welche unter einem pharmazeutischen Dec
 ## Aktivitäten
 Die Fraktion geht folgenden Aktivitäten nach:
 
-*
+* Herstellung und Verkauf von illegalen Betäubungsmitteln
+* Apothekenräuben
+* Bearbeitung von Darklists
+* Bearbeitung von Kopfgeldern
+* Juwelenräuben
+* Mohnfelder abbauen
+
 
 ## Lage des Hauptquartiers
