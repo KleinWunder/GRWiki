@@ -47,6 +47,16 @@ nav:
       - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
       - Reifentransport: pages/nebenjobs/reifentransport.md
       - Koch: pages/nebenjobs/koch.md
+      
+    - Fraktionen:
+      - Allgemein: pages/fraktionen/allgemein.md
+      - Polizei: pages/fraktionen/polizei.md
+      - Rettungsdienst: pages/fraktionen/rettungsdienst.md
+      - Medellín Kartell: pages/fraktionen/medellin kartell.md
+      - Sinaloa Kartell: pages/fraktionen/sinaloa kartell.md
+      - Camorra: pages/fraktionen/camorra.md
+      - Yakuza: pages/fraktionen/yakuza.md
+      - The Establishment: pages/fraktionen/the establishment.md
     - Pflanzen:
       - Heilkraut: pages/pflanzen/heilkraut.md
     - Skills:
