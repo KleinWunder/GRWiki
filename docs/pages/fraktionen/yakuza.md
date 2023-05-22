@@ -9,13 +9,13 @@ Die Yakuza ist eine Mafia japanischer Herkunft. Sie agieren verdeckt in einer Ka
 ## Aktivitäten
 Die Fraktion geht folgenden Aktivitäten nach:
 
-* Illegale Substanzen verkaufen
-* [Heilkrautpflanzen](pages/Pflanzen/heilkraut.md) anbauen
-* Darklist bearbeiten
-* Juwelenraub
-* Apothekenraub
-* Kopfgelder
+* Herstellung und Verkauf von illegalen Betäubungsmitteln
+* Apothekenräuben
+* Bearbeitung von Darklists
+* Bearbeitung von Kopfgeldern
+* Juwelenräuben
 * Mohnfelder abbauen
+
 
 ## Lage des Hauptquartiers
 
