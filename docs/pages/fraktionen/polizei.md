@@ -1,5 +1,6 @@
 # Polizei
-Die Polizei sorgt für die Sicherheit aller Spieler auf dem Server. Sie gehen Notrufen nach, suchen Verbrecher und sind täglich in große Schießerein verwickelt.
+Die Polizei sorgt für die Sicherheit aller Spieler auf dem Server. Sie gehen Notrufen nach, suchen Verbrecher und sind täglich in große Schießerein verwickelt. Neben der Polizei gibt es das Sondereinsatzkommando (SEK), welche andere Polizeiausstattung hat, als die Polizei und unterstützen diese in Schießerein.
+Die Kriminalpolizei (Kripo) ist für die Ermittlung von Straftaten zuständig. Sie untersuchen gelöschte Gewerbe, verhören Personen und nehmen Anzeigen auf.
 
 ## Aufgaben
 
@@ -12,7 +13,7 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 * Apothekenraub und Bomben verhindern
 * Notrufe bearbeiten
 * Für das Wohl jedes Einzelnen Spielers sorgen
-* Gebrauch von exklusiven Polizei-Equipment
+* Gebrauch von exklusiver Polizeiausstattung
 * Staatsmeldungen ausrufen
 * Spieler in der JVA kontrollieren
 
