@@ -7,11 +7,15 @@ Das Sinaloa Kartell ist ein mexikanisches Kartell. Seit Jahren machen sie das Me
 ## Hintergrundgeschichte 
 
 ## Auftreten 
-
+Mitglieder des Sinaloa Kartell sind leicht militärisch gekleidet. Sie sind erkennbar an ihren Camouflage Hosen und tragen an ihrer Kleidung die mexikanische Flagge.
 
 ## Aktivitäten
 Die Fraktion geht folgenden Aktivitäten nach:
 
-*
+* Herstellung und Verkauf von illegalen Betäubungsmitteln
+* Bombenangriffe
+* Bearbeitung von Darklists
+* Bearbeitung von Kopfgeldern
 
 ## Lage des Hauptquartiers
+Sie arbeiten im Untergrund eines Tunnels zwischen dem County und Asiaviertel.
