@@ -10,7 +10,7 @@ Die Mitglieder des Verbrechersyndikats treten in einem einheitlichen Outfit auf.
 Die Fraktion geht folgenden Aktivitäten nach:
 
 * Illegale Substanzen verkaufen
-* Heilkrautpflanzen anbauen
+* [Heilkrautpflanzen](pages/Pflanzen/heilkraut.md) anbauen
 * Darklist bearbeiten
 * Juwelenraub
 * Apothekenraub
