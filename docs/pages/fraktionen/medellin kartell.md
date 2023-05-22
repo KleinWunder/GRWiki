@@ -9,7 +9,8 @@ Kurze Zusammenfassung
 Die Fraktion geht folgenden Aktivitäten nach:
 
 * Herstellung und Verkauf von illegalen Betäubungsmitteln
-* Bombenangriffe
+* Bombenangriffe durchführen
+* Apothekenräube durchführen
 * Bearbeitung von Darklists
 * Bearbeitung von Kopfgeldern
 
