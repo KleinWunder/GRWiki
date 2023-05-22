@@ -8,6 +8,12 @@ Die britische Mafia, The Establishment, hat ihren Ursprung aus den Zeiten der Mo
 ## Aktivitäten
 Die Fraktion geht folgenden Aktivitäten nach:
 
-*
+* Herstellung und Verkauf von illegalen Betäubungsmitteln
+* Apothekenräuben
+* Bearbeitung von Darklists
+* Bearbeitung von Kopfgeldern
+* Juwelenräuben
+* Mohnfelder abbauen
+
 
 ## Lage des Hauptquartiers
