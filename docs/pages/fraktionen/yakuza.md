@@ -1,4 +1,4 @@
-# Yakuza =
+# Yakuza
 Die Yakuza ist eine japanische Mafia, die aus ärmlichen Verhältnissen stammt. Nachdem sie von einer kleinen Gruppierung immer mehr an Mitglieder gewonnen hatten, entwickelte sich auch entsprechend ihrer Macht. Bis heute halten sich der Boss und sein Gehilfe im Dunkeln und treten bei größeren Ereignissen hervor.
 
 ## Hintergrundgeschichte 
