@@ -55,8 +55,9 @@ nav:
       - Camorra: pages/fraktionen/camorra.md
       - Yakuza: pages/fraktionen/yakuza.md
       - The Establishment: pages/fraktionen/the establishment.md
-    - Pflanzen:
+    - Pflazen:
       - Heilkraut: pages/pflanzen/heilkraut.md
+      - Rosen: pages/pflanzen/rosen.md
     - Skills:
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md
