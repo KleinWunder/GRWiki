@@ -5,4 +5,4 @@ Sie handeln bedeckt und geschäftsorientiert. Ihre Nachenschaften tragen sie ung
 Auf dem Server gibt es insgesamt 3 Mafias unterschiedlicher Herkunft und Konzepten:
   * Die italienische Mafia ([Camorra](pages/fraktionen/camorra.md))
   * Die japanische Mafia ([Yakuza](pages/fraktionen/yakuza.md))
-  * Die britische Mafia ([The Establishment](pages/fraktionen/the establishment.md)) 
+  * Die britische Mafia ([The Establishment](pages/fraktionen/theestablishment.md)) 
