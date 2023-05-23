@@ -18,3 +18,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 
 ## Lage des Hauptquartiers
+Die Camorra hat ihren Standort im Reichenviertel als Il Fiore Scuro.
