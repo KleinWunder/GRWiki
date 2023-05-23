@@ -22,6 +22,6 @@ Sie sind kriminelle Menschen, die sich gegen das politische, staatliche System s
 Die Karteller sind stolze Personen, die eigensinnig und zielorientiert handeln. 
 
 Auf dem Server gibt es 2 Kartelle:
-    * Das kolumbianische Kartell ([Medellín Kartell](medellinkartell.md))
-    * Das mexikanische Kartell ([Sinaloa Kartell](sinaloakartell.md))
+    * Das kolumbianische Kartell ([Medellín Kartell](medellin%20kartell.md))
+    * Das mexikanische Kartell ([Sinaloa Kartell](sinaloa%20kartell.md))
     
