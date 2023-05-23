@@ -10,7 +10,6 @@ Jede Fraktion besitzt ein Hauptquartier (HQ) auf der Karte mit einem zugehörige
 
 ## Mafia
 
-
 Sie handeln bedeckt und geschäftsorientiert. Ihre Nachenschaften tragen sie ungern in aller Öffentlichkeit aus. Die Mafiosis pflegen ihre Beziehungen sehr gut und treten nobel und ehrhaftig auf.
 Auf dem Server gibt es insgesamt 3 Mafias unterschiedlicher Herkunft und Konzepten:
   * Die italienische Mafia ([Camorra](camorra.md))
@@ -19,3 +18,14 @@ Auf dem Server gibt es insgesamt 3 Mafias unterschiedlicher Herkunft und Konzept
 
 ## Kartell
 
+Die Kartelle sind kriminelle Systemgegner. Sie haben das Vertrauen in den Staat verloren und saugen diesen
+
+wie ein Parasit aus. Ein bisschen Terrorismus hier, ein bisschen organisiertes Verbrechen da, und schon gerät
+
+die Regierung ins Schwanken. Sie sind sehr stark auf die Herstellung von Sprengstoffen fixiert.
+
+Die Kartelle verfügen über keine Subfraktion.
+
+Es werden charakteristische Symbole und Kleidungstücke erwartet.
+
+Es wird stolzes, eigensinniges und zielorientiertes Roleplay erwartet.
