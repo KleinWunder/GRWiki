@@ -58,6 +58,9 @@ nav:
     - Pflazen:
       - Heilkraut: pages/pflanzen/heilkraut.md
       - Rosen: pages/pflanzen/rosen.md
+    - Items:
+     - Weapons:
+      - Sturmgewehre:
     - Skills:
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md
