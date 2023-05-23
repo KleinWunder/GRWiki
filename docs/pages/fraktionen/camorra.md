@@ -19,5 +19,5 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 ## Lage des Hauptquartiers
 Die Camorra hat ihren Standort im Reichenviertel als ihre pharmazeutische Firma "Il Fiore Scuro".
-
+ <img align="right" width="390" eight="390" src="../../../assets/image/fraktionen/CamorraHQ.png">
 
