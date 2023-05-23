@@ -1,7 +1,7 @@
 # Fraktionen
 Auf GermanRP gibt es aktuell 6 aktive Fraktionen, welche sich zwischen Staat und Crime unterteilen. Die Staatsfraktionen, [Polizei](polizei.md) und [Rettungsdienst](rettungsdienst.md), versuchen kriminelle Handlungen zu verhindern oder den Menschen in der Stadt zu helfen.
 Crimefraktionen hingegen sind der Polizei und Öffentlichkeit feindselig eingestellt. Sie unterscheiden sich in ihrer Herkunft und im Konzept. 
-Auf dem Server gibt es aktuell drei Mafias und ein Kartell.
+Auf dem Server gibt es aktuell drei [Mafias](pages/fraktionen/mafia.md) und ein [Kartell](pages/fraktionen/kartell.md).
 Jede Fraktion besitzt ein Hauptquartier (HQ) auf der Karte mit einem zugehörigen und der Herkunft passenden Viertel. Die Staatsfraktionen haben auf der Karte verteilt mehrere Standorte, welche jeweils unterschiedliche Funktionen haben.
 
 !!! info "Fraktions HQs"
