@@ -1,5 +1,5 @@
 # Blumentransport (Nebenjob)
-Der Blumentransport ist ein Nebenjob, welcher in der Gärtnerei gestartet werden kann.
+Der Blumentransport ist ein Nebenjob, welcher in der Gärtnerei beim NPC gestartet werden kann.
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
