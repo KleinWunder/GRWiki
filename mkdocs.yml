@@ -49,9 +49,6 @@ nav:
       - Koch: pages/nebenjobs/koch.md    
     - Fraktionen:
       - Allgemein: pages/fraktionen/allgemein.md
-        - Mafia: pages/fraktionen/mafia.md
-        - Kartell: pages/fraktionen/kartell.md
-      - Polizei: pages/fraktionen/polizei.md
       - Rettungsdienst: pages/fraktionen/rettungsdienst.md
       - Medellín Kartell: pages/fraktionen/medellin kartell.md
       - Sinaloa Kartell: pages/fraktionen/sinaloa kartell.md
