@@ -1,5 +1,5 @@
 # Gärtner (Nebenjob)
-Der Gärtner ist ein Nebenjob bei der Gärtnerei.
+Der Gärtner ist ein Nebenjob bei der Gärtnerei, der beim NPC gestartet wird.
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Farm |
