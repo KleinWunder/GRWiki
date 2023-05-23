@@ -12,9 +12,10 @@ Jede Fraktion besitzt ein Hauptquartier (HQ) auf der Karte mit einem zugehörige
 
 Sie handeln bedeckt und geschäftsorientiert. Ihre Machenschaften tragen sie ungern in aller Öffentlichkeit aus. Die Mafiosis pflegen ihre Beziehungen sehr gut und treten nobel und ehrhaftig auf.
 Auf dem Server gibt es insgesamt 3 Mafias unterschiedlicher Herkunften und Konzepten:
-  * Die italienische Mafia ([Camorra](camorra.md))
-  * Die japanische Mafia ([Yakuza](yakuza.md))
-  * Die britische Mafia ([The Establishment](the%20establishment.md)) 
+
+* Die italienische Mafia ([Camorra](camorra.md))
+* Die japanische Mafia ([Yakuza](yakuza.md))
+* Die britische Mafia ([The Establishment](the%20establishment.md)) 
 
 ## Kartell
 
@@ -22,6 +23,7 @@ Sie sind kriminelle Menschen, die sich gegen das politische, staatliche System s
 Die Karteller sind stolze Personen, die eigensinnig und zielorientiert handeln. 
 
 Auf dem Server gibt es 2 Kartelle:
-    * Das kolumbianische Kartell ([Medellín Kartell](medellin%20kartell.md))
-    * Das mexikanische Kartell ([Sinaloa Kartell](sinaloa%20kartell.md))
+    
+* Das kolumbianische Kartell ([Medellín Kartell](medellin%20kartell.md))
+* Das mexikanische Kartell ([Sinaloa Kartell](sinaloa%20kartell.md))
     
