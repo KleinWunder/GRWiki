@@ -1,5 +1,6 @@
 # Fensterputzer (Nebenjob)
 Der Fensterputzer ist ein Nebenjob, welcher bei der JVA ausgeführt wird.
+
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Justizvollzugsanstalt |
@@ -7,8 +8,6 @@ Der Fensterputzer ist ein Nebenjob, welcher bei der JVA ausgeführt wird.
 | Dauer | ca. 1 Minuten|
 | Cooldown | 7 Minuten |
 | Gewinn | Geld, XP, [Social-XP](/pages/skills/social.md) |
-
-## Aufgabenschritte
 
 ## Aufgabe
 Reinige die verschmutzten Scheiben beim Eingang der JVA.
