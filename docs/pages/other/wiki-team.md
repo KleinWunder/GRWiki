@@ -18,4 +18,4 @@
 
 ### Informationen
   
- Mehr Informationen über uns, findest du im Forum. ([Klicke hier](https://germanrp.eu/forum/index.php?board/200-wiki-team/))
+ Mehr Informationen über uns, findest du im Forum. ([Klicke hier](https://germanrp.eu/forum/index.php?board/200-wiki-team/)) emo
