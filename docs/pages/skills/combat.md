@@ -1,6 +1,6 @@
 # Combat-Skill 
 
-Der Combat-Skill schaltet bessere oder taktische Gegenstände zum Kaufen in [[Waffenladen|Waffenläden]] frei.
+Der Combat-Skill schaltet bessere oder taktische Gegenstände zum Kaufen in [Waffenläden](../../pages/biz/waffenladen.md) frei.
 
 ## Erhalten der Skill-XP
 Den Combat-Skill kann durch folgende Aktivitäten gelevelt werden:
