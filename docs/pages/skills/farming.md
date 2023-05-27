@@ -4,7 +4,7 @@ Der Farming-Skill erhöht die Chance bei alltäglichen Erledigungen seltene & we
 ## Erhalten der Skill-XP 
 Der Farming-Skill kann durch folgende Aktivitäten gelevelt werden:
 
-* [Nebenjobs](../../pages/nebenjobs/allgemein.md)
+* [Nebenjobs](../../pages/nebenjobs/nebenjobs.md)
 * Sägewerk
 
 ## Pets
