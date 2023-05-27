@@ -16,10 +16,9 @@ Die Fraktion geht folgenden Aktivitäten nach:
 * Juwelenräuben
 * Mohnfelder abbauen
 
-<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/CamorraHQ.png">
 
 ## Lage des Hauptquartiers
 
-Die Camorra hat ihren Standort im Reichenviertel als ihre pharmazeutische Firma "Il Fiore Scuro".
+Die Camorra hat ihren Standort im Reichenviertel als ihre pharmazeutische Firma "Il Fiore Scuro". <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/CamorraHQ.png">
  
 
