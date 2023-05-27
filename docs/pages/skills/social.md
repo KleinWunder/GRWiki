@@ -11,7 +11,9 @@ Der Sozial-Skill kann durch folgende Aktivitäten gelevelt werden:
 * Aktivitäten bei Wohnhäusern (alle Fraktionen)
 
 ## Pets
+
 Folgende Pets wirken sich ebenfalls positiv auf den Sozial-Skill aus:
+
 * [Katze](../../pages/pets/katze.md)
 
 
