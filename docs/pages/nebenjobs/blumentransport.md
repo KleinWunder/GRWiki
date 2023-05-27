@@ -9,6 +9,5 @@ Der Blumentransport ist ein Nebenjob, welcher in der Gärtnerei beim NPC gestart
 | Cooldown | 6 Minuten |
 | Gewinn | Geld, XP, [Gärtner-XP](../../pages/skills/gärtner.md) |
 
-## Aufgabenschritte
-# Aufgabe
+## Aufgabe
 Liefe die Blumen in den Blumenladen.
