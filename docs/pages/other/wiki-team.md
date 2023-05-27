@@ -9,7 +9,7 @@
 
 <center>
 
-Wiki Team
+**Wiki Team**
 
 <img src="../../../assets/image/Wiki Team/zs0uth-skin.png" alt="zS0uth" title="zS0uth" /> <img src="../../../assets/image/Wiki Team/EtwasAngelndes-skin.png" alt="EtwasAngelndes" title="EtwasAngelndes" />
 
