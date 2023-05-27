@@ -4,13 +4,11 @@
 
 **Wiki-Teamleitung**
 
-<p>
-   <left> <img src="../../../assets/image/Wiki Team/piewn skin.png" alt>
-    <em>Piewn</em> </left>
-</p> <p>
-   <left> <img src="../../../assets/image/Wiki Team/Hoschiii-skin.png" alt>
-       <em>Hoschiii</em> </right>
-</p>
+
+ <img align="center" width="230" eight="90" src="../../../assets/image/Wiki Team/piewn skin.png"> <img align="center" width="230" eight="90" src="../../../assets/image/Wiki Team/Hoschiii-skin.png"> 
+
+
+
 
 <center>
 
