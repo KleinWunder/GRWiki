@@ -8,7 +8,7 @@ Der Agavenfarmer ist ein Nebenjob, welcher am Truck bei der Agavenfarm gestartet
 | Navi | /navi Agavenfarm |
 | Dauer | ca. 2 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, XP, [Farming-XP](/pages/skills/farming.md) |
+| Gewinn | Geld, XP, [Farming-XP](../../pages/skills/farming.md) |
 
 
 ## Aufgaben
