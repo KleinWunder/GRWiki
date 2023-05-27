@@ -7,7 +7,7 @@ Der Bademeister ist ein Nebenjob, welcher im Hallenbad ausgeführt werden kann.
 | Navi | /navi Schwimmbad |
 | Dauer | ca. 5 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, XP, [Social-XP](/../../pages/skills/social.md) |
+| Gewinn | Geld, XP, [Social-XP](../../pages/skills/social.md) |
 
 ## Aufgabe
 Rette die Senioren aus dem Becken.
