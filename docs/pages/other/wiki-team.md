@@ -1,15 +1,15 @@
 ## Wiki-Team
 
-<center>  
+<center>  emo
 
 **Wiki-Teamleitung**
 
 <p>
-   <right> <img src="../../../assets/image/Wiki Team/piewn skin.png" alt>
-    <em>Piewn</em> >/right>
+   <left> <img src="../../../assets/image/Wiki Team/piewn skin.png" alt>
+    <em>Piewn</em> </left>
 </p> <p>
    <left> <img src="../../../assets/image/Wiki Team/Hoschiii-skin.png" alt>
-       <em>Hoschiii</em> </left>
+       <em>Hoschiii</em> </right>
 </p>
 
 <center>
