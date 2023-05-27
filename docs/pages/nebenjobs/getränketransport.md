@@ -5,9 +5,9 @@ Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges b
 | :-: | :-: |
 | Bushaltestelle | Farm |
 | Navi | /navi Weinberg |
-| Dauer | ca. 5 Minuten|
+| Dauer | ca. 5 Minuten |
 | Cooldown | 8 Minuten |
-| Gewinn | Geld, XP, [Farming-XP](/pages/skills/farming.md) |
+| Gewinn | Geld, XP, [Farming-XP](../../pages/skills/farming.md) |
 
 ## Aufgabe
 Liefere Getränkekisten an eine Bar.
