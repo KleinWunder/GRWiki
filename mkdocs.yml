@@ -57,8 +57,8 @@ nav:
       - Yakuza: pages/fraktionen/yakuza.md
       - The Establishment: pages/fraktionen/the establishment.md
     - Pflanzen:
-      - Heilkraut: pages/pflanzen/heilkraut.md
-      - Rosen: pages/pflanzen/rosen.md
+      - Heilkraut: pages/Pflanzen/heilkraut.md
+      - Rosen: pages/Pflanzen/rosen.md
     - Items:
       - Weapons:
         - Pistolen: pages/items/weapons/pistolen.md
