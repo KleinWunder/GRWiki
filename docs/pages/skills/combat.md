@@ -7,6 +7,7 @@ Der Combat-Skill schaltet bessere oder taktische Gegenstände zum Kaufen in [Waf
 Den Combat-Skill kann durch folgende Aktivitäten gelevelt werden:
 
 * Fraktionsaktivitäten (Juwelenraub)
+
 * Erschiessen von Leuten mit Fahndungspunkten (Polizei)
 * Jagen von Wölfen
 * Schiessen im Fightclub
