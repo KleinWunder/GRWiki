@@ -11,8 +11,8 @@ Eine Liste aller Nebenjobs kann per **/jobs** aufgerufen werden.
 Mit dem Klick auf einen Nebejobs in dieser Liste wird ein Navi zum Job gestartet.
 Derzeit gibt es folgende Nebenjobs:
 
-* [Farmer](../..pages/nebenjobs/farmer)
-* [Winzer](../..pages/nebenjobs/winzer)
+* [Farmer](nebenjobs/farmer)
+* [Winzer](pages/nebenjobs/winzer)
 * [Weintransport](../../pages/nebenjobs/weintransport)
 * [Gärtner](../../pages/nebenjobs/gärtner)
 * [Blumentransport](../../pages/nebenjobs/blumentransport)
