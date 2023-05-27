@@ -19,3 +19,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 ## Lage des Hauptquartiers
 
+Die Yakuza hat ihren Standort als Kampfschule im Asiaviertel. <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/YakuzaHQ.png">
