@@ -12,7 +12,7 @@ Mit dem Klick auf einen Nebejobs in dieser Liste wird ein Navi zum Job gestartet
 Derzeit gibt es folgende Nebenjobs:
 
 * [Farmer](nebenjobs/farmer)
-* [Winzer](pages/nebenjobs/winzer)
+* [Winzer](winzer)
 * [Weintransport](../../pages/nebenjobs/weintransport)
 * [Gärtner](../../pages/nebenjobs/gärtner)
 * [Blumentransport](../../pages/nebenjobs/blumentransport)
