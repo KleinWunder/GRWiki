@@ -4,9 +4,9 @@ Der Paketsortier ist ein Nebenjob, welcher bei der Post angenommen wird.
 | :-: | :-: |
 | Bushaltestelle | Postzentrale |
 | Navi | /navi Paketsotierer |
-| Dauer | ca. 2 Minuten|
+| Dauer | ca. 2 Minuten |
 | Cooldown | 5 Minuten |
-| Gewinn | Geld, XP, [Farming-XP](/pages/skills/farming.md) |
+| Gewinn | Geld, XP, [Farming-XP](../../pages/skills/farming.md) |
 
 
 ## Aufgaben
