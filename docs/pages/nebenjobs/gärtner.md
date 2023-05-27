@@ -4,7 +4,7 @@ Der Gärtner ist ein Nebenjob bei der Gärtnerei, der beim NPC gestartet wird.
 | :-: | :-: |
 | Bushaltestelle | Farm |
 | Navi | /navi Gärtner |
-| Dauer | ca. 1 Minuten|
+| Dauer | ca. 1 Minuten |
 | Cooldown | 6 Minuten |
 | Gewinn | Geld, XP, [Gärtner-XP](/pages/skills/gärtner.md) |
 
