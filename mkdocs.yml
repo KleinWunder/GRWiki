@@ -59,8 +59,11 @@ nav:
       - Heilkraut: pages/pflanzen/heilkraut.md
       - Rosen: pages/pflanzen/rosen.md
     - Items:
-     - Weapons:
-      - Sturmgewehre:
+      - Weapons:
+        - Pistolen: pages/items/weapons/pistolen.md
+        - Maschinenpistolen: pages/items/weapons/maschinenpistolen.md
+        - Sturmgewehre: pages/items/weapons/sturmgewehre.md
+        - Schrotflinte/Sniper: pages/items/weapons/sniper.md
     - Skills:
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md
