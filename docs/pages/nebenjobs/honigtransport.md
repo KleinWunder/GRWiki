@@ -5,9 +5,9 @@ Der Honigransport ist ein Nebenjob, welcher beim Imker-NPC angenommen wird.
 | :-: | :-: |
 | Bushaltestelle | County |
 | Navi | /navi Imker |
-| Dauer | ca. 5 Minuten|
+| Dauer | ca. 5 Minuten |
 | Cooldown | 8 Minuten |
-| Gewinn | Geld, XP, [Farming-XP](/pages/skills/farming.md) |
+| Gewinn | Geld, XP, [Farming-XP](../../pages/skills/farming.md) |
 
 ## Aufgabe
 Liefere den Honig zu einem Supermarkt.
