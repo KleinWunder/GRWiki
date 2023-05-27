@@ -8,6 +8,5 @@ Der Erztransport ist ein Nebenjob, welcher beim Salzbergwerk gestartet wird.
 | Cooldown | 10 Minuten |
 | Gewinn | Geld, XP, [Bergbau-XP](../..//pages/Skills/bergbau.md) |
 
-## Aufgabenschritte
 ## Aufgabe
 Liefere die Erze zum Schmelzwerk.
