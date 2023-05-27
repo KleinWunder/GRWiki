@@ -20,3 +20,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 * Bearbeitung von Kopfgeldern
 
 ## Lage des Hauptquartiers
+Das Medellín Kartell hat ihren Standort neben der Agavenfarm in County. <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/KartellHQ.png">
