@@ -9,4 +9,4 @@ Der Tellerwäscher ist ein Nebenjob, welcher am Starblocks 1 gestartet werden ka
 | Gewinn | Geld, XP, [Sozial-XP](../../pages/skills/social.md) |
 
 ## Aufgabe
-Reinige verdreckte Tische
+Reinige verdreckte Tische.
