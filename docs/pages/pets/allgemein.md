@@ -23,6 +23,9 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
  - [Biene](biene.md) ([Farming-Skill](../../pages/skills/farming.md))
  - [Capybara](capybara.md) ([Fischer-Skill](../../pages/skills/fischer.md))
 
+<p>  </p>
+
+
  ## Pets verbessern
 
  Um dein Pet zu verbessern musst du dich einmal auf den Weg zum Tierheim machen.
