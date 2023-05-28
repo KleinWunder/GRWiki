@@ -8,7 +8,7 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/Hoschiii-skin.png" alt="Hoschiii" title="Hoschiii" /> <img src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" />
+<img src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/Wiki Team/Hoschiii-skin.png" alt="Hoschiii" title="Hoschiii" />
 
 </center>
 
