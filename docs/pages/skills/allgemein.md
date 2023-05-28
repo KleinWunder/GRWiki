@@ -1,6 +1,6 @@
 # Skills 
 
-Auf GermanRP kriegt man für bestimmte Tätigkeiten sogenannte Skill-XP. Diese Skill-XP geben dem Spieler gewisse Vorteile. Die Skills arbeiten in enger Verbindung mit den [[Pets / Haustiere|Pets]].
+Auf GermanRP kriegt man für bestimmte Tätigkeiten sogenannte Skill-XP. Diese Skill-XP geben dem Spieler gewisse Vorteile. Die Skills arbeiten in enger Verbindung mit den Pets.
 Eine Übersicht der Skills findet man im Spielmenü.
 
 ## Arten
@@ -22,6 +22,6 @@ Das jeweilige Skill-Level und den Fortschritt bis zum nächsten Level ist auch i
 Jedes Pets ist einen bestimmten Skill zugeordnet. Die Pets helfen dabei, schneller und einfacher Skill-XP zu farmen.
 
 ## Booster 
-Im offiziellen [Shop](https://shop.germanrp.eu) von GermanRP hat man die Möglichkeit Skill-XP-Booster zu erwerben, die man unter **/booster** aktivieren kann. Der Booster wird für den gesamten Server aktiviert und vereinfacht das Leveln.
+Im offiziellen [Shop](https://germanrpofficial.tebex.io) von GermanRP hat man die Möglichkeit Skill-XP-Booster zu erwerben, die man unter **/booster** aktivieren kann. Der Booster wird für den gesamten Server aktiviert und vereinfacht das Leveln.
 
 
