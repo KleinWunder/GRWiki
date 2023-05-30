@@ -3,22 +3,30 @@ site_name: GermanRP Wiki
 nav:
   - Startseite: index.md
   - Wiki:
+    - Wiki-Team: pages/other/wiki-team.md
     - Anfängerhilfe: pages/help/anfängerhilfe.md
     - Bürgermeister: pages/other/bürgermeister.md
     - Businesse (BIZ):
+      - BIZ-Management: pages/biz/biz-managment.md
+      - Gewerbe: pages/biz/business.md
       - Waffenläden: pages/biz/waffenladen.md
       - Supermärkte: pages/biz/supermarkt.md
       - Bars: pages/biz/bar.md
       - Apotheken: pages/biz/apotheke.md
       - Starblocks: pages/biz/starblocks.md
       - Tankstellen: pages/biz/tankstelle.md
+    - Fahrzeuge:
+      - Allgemein: pages/fahrzeuge/allgemein.md
+      - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
+      - Schrottpresse: pages/fahrzeuge/schrottpresse.md
+      - Blitzer: pages/fahrzeuge/blitzer.md
     - Häuser: 
       - Makler: pages/houses/makler.md
     - Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Farmer: pages/nebenjobs/farmer.md
       - Winzer: pages/nebenjobs/winzer.md
-      - Weintransport: pages/nebenjobs/weintransport.md
+      - Getränketransport: pages/nebenjobs/getränketransport.md
       - Gärtner: pages/nebenjobs/gärtner.md
       - Blumentransport: pages/nebenjobs/blumentransport.md
       - Tellerwäscher: pages/nebenjobs/tellerwäscher.md
@@ -38,7 +46,33 @@ nav:
       - Munitionstransport: pages/nebenjobs/munitionstransport.md
       - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
       - Reifentransport: pages/nebenjobs/reifentransport.md
-      - Koch: pages/nebenjobs/koch.md
+      - Koch: pages/nebenjobs/koch.md    
+    - Fraktionen:
+      - Allgemein: pages/fraktionen/allgemein.md
+      - Polizei: pages/fraktionen/polizei.md
+      - Rettungsdienst: pages/fraktionen/rettungsdienst.md
+      - Medellín Kartell: pages/fraktionen/medellin kartell.md
+      - Sinaloa Kartell: pages/fraktionen/sinaloa kartell.md
+      - Camorra: pages/fraktionen/camorra.md
+      - Yakuza: pages/fraktionen/yakuza.md
+      - The Establishment: pages/fraktionen/the establishment.md
+    - Pflanzen:
+      - Heilkraut: pages/Pflanzen/heilkraut.md
+      - Rosen: pages/Pflanzen/rosen.md
+    - Items:
+      - Weapons:
+        - Pistolen: pages/items/weapons/pistolen.md
+        - Maschinenpistolen: pages/items/weapons/maschinenpistolen.md
+        - Sturmgewehre: pages/items/weapons/sturmgewehre.md
+        - Schrotflinte/Sniper: pages/items/weapons/sniper.md
+    - Skills:
+      - Combat: pages/skills/combat.md
+      - Farming: pages/skills/farming.md
+      - Gärtner: pages/skills/gärtner.md
+      - Sozial: pages/skills/social.md
+      - Fischer: pages/skills/fischer.md
+      - Bergbau: pages/skills/bergbau.md
+      - Kochen: pages/skills/kochen.md
     - Pets:
       - Allgemein: pages/pets/allgemein.md
       - Katze: pages/pets/katze.md
@@ -52,6 +86,8 @@ nav:
       - Hase: pages/pets/hase.md
       - Biene: pages/pets/biene.md
       - Capybara: pages/pets/Capybara.md
+    - Sonstiges:
+      - AFK: pages/other/afk.md
 
 
 plugins:
@@ -59,12 +95,14 @@ plugins:
     lang: de
  - git-revision-date-localized:
       enable_creation_date: true   
+ - glightbox
 
 markdown_extensions:
   - attr_list
   - tables
   - md_in_html
   - admonition
+  - pymdownx.keys
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

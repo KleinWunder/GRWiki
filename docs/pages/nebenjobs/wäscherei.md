@@ -1,5 +1,13 @@
 # Wäscherei (Nebenjob)
 Der Wäscherei-Job ist ein Nebenjob, welcher in der Wäscherei angenommen werden kann.
+| <!-- --> | <!-- --> |
+| :-: | :-: |
+| Bushaltestelle | Polizeipräsidium |
+| Navi | /navi Wäscherei |
+| Dauer | ca. 1 Minuten |
+| Cooldown | 6 Minuten |
+| Gewinn | Geld, XP, [Farming-XP](../../pages/skills/farming.md) |
+
 
 ## Aufgaben
 1. Nehme die Wäsche aus der Waschmaschine
