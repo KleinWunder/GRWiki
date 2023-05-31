@@ -33,3 +33,7 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
  Solltest du dein Pet weiter verbessern wollen, musst du dir ein Petupgrade besorgen.
  Damit kannst du dann zu Dorothea gehen und dein Pet von Selten auf Episch verbessern.
  Diesen Vorgang kannst du öfters wiederholen bist du ein Ultralegendäres Pet hast.
+
+## Eier
+
+Von Gewöhnlich bis Legendär hast du die Möglichkeit, durch Jobrotations oder die Kiste des Capybaras, Peteier zu bekommen. Öffnest du diese, hast du die Chance eines von fünf Pets zu erhalten.

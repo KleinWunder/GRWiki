@@ -1,6 +1,6 @@
 # Hund
 
-Der Hund gilt nicht nur als treuer Gefährte des Menschen, sondern ist auch neben dem Wolf der effektivste Booster für die **Combat** Skill-XP.
+Der Hund gilt nicht nur als treuer Gefährte des Menschen, sondern ist auch neben dem Wolf der effektivste Booster für die **Combat** Skill-XP. 
 
 ## Gewöhnlich bis Selten
 
