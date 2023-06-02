@@ -1,1 +1,16 @@
+# Sturmgewehr
 
+## Allgemeines
+Das Sturmgewehr ist ein automatisches Gewehr, für die man das normale Magazin braucht. Ein Magazin umfasst 20 Schuss.
+Man kann sie außerdem auch mit [Waffenaddons](pages/other/weaponaddons) ausstatten.
+
+## Erhalten eines Sturmgewehres
+Das Sturmgewehr kann in jedem [Waffenladen](./../../biz/waffenladen.md) gekauft werden, wobei der Preis von dem Waffenladen abhängt.
+Um ein Sturmgewehr kaufen zu können, braucht man einen Waffenschein und muss mindestens Combat-Skill Level 5 sein.
+
+Alternativ kann man ein Sturmgewehr in der Schwarzmarktauktion mit einem Mindestgebot von 900€ erhalten.
+Da das Combat-Level hierauf keinen Einfluss nimmt, hat man den Vorteil,
+dass das Sturmgewehr in der Auktion auch unter Combat-Level 5 erhalten werden kann.
+
+## Verwendung
+Das Sturmgewehr wird in Schießereien gebraucht, um sich selbst zu verteidigen. Die Waffe verursacht an Spielern einen Schaden von ~3 :material-cards-heart:.
