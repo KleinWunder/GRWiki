@@ -1,13 +1,13 @@
 
- # Heilkraut
+# Heilkraut
  Eine Pflanze, auch Heilkrautpflanze genannt, kann nur von Crimefraktionen gepflanzt werden.
  
- ## Materialien
+## Materialien
 - Man benötigt Heilkrautsamen (kann man entweder in der Schwarzmarktauktion oder bei dem NPC "Simon" kaufen)
 - Basisdünger (Kann man bei dem NPC "Simon" kaufen)
 - Eine leere Flasche (Kriegt man aus einem Mülleimer oder wenn man ein Getränk trinkt)
  
- ## Lage von Pflanzen
+## Lage von Pflanzen
 Eine Pflanze darf nicht an folgenden Orten platziert werden:
 
 1. in der oder um die fraktionseigene Zone
