@@ -61,8 +61,8 @@ nav:
       - Rosen: pages/Pflanzen/rosen.md
     - Items:
       - Weapons:
-        - Pistolen: pages/items/weapons/pistolen.md
-        - Maschinenpistolen: pages/items/weapons/maschinenpistolen.md
+        - Pistolen: pages/items/weapons/pistole.md
+        - Maschinenpistolen: pages/items/weapons/maschinenpistole.md
         - Sturmgewehre: pages/items/weapons/sturmgewehre.md
         - Schrotflinte/Sniper: pages/items/weapons/sniper.md
     - Skills:
