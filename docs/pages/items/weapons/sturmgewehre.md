@@ -13,4 +13,4 @@ Da das Combat-Level hierauf keinen Einfluss nimmt, hat man den Vorteil,
 dass das Sturmgewehr in der Auktion auch unter Combat-Level 5 erhalten werden kann.
 
 ## Verwendung
-Das Sturmgewehr wird in Schießereien gebraucht, um sich selbst zu verteidigen. Die Waffe verursacht an Spielern einen Schaden von ~3 :material-cards-heart:.
+Das Sturmgewehr wird in Schießereien gebraucht, um sich selbst zu verteidigen. Die Waffe verursacht an Spielern einen Schaden von 3❤️.
