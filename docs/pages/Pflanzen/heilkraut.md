@@ -3,9 +3,9 @@
  Eine Pflanze, auch Heilkrautpflanze genannt, kann nur von Crimefraktionen gepflanzt werden.
  
 ## Materialien
-- Man benötigt Heilkrautsamen (kann man entweder in der Schwarzmarktauktion oder bei dem NPC "Simon" kaufen)
-- Basisdünger (Kann man bei dem NPC "Simon" kaufen)
-- Eine leere Flasche (Kriegt man aus einem Mülleimer oder wenn man ein Getränk trinkt)
+- Heilkrautsamen (kann entweder in der Schwarzmarktauktion oder bei dem NPC "Simon" kaufen)
+- Basisdünger (Kann bei dem NPC "Simon" kaufen)
+- Eine leere Flasche (aus einem Mülleimer oder ein Getränk leer trinken)
  
 ## Lage von Pflanzen
 Eine Pflanze darf nicht an folgenden Orten platziert werden:
@@ -18,8 +18,5 @@ Eine Pflanze darf nicht an folgenden Orten platziert werden:
 
 Plantagen dürfen in der Nähe von öffentlichen Orten, jedoch nicht unmittelbar offensichtlich gesetzt werden.
 
-## Nutzen
-Durch eine Pflanze bekommt man Heilkraut. Dieses findet man dann in der Tasche. Heilkraut kann man konsumieren, an andere Spieler verkaufen oder man kann es im Fraktionslager / Hauslager einlagern.
-
 ## Haftbarkeit
-Heilkrautpflanzen sind illegal. Deswegen sollte man aufpassen, wer sich in der Umgebung befindet.
+Heilkrautpflanzen sind illegal, deswegen sollte man aufpassen, wer sich in der Umgebung befindet.
