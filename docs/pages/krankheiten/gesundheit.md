@@ -33,5 +33,8 @@ Der Geisteszustand zeigt in Prozent an, wieviel man noch von 100% besitzt. Bei z
 
 ## Hydrierung
 
+Die Hydrierung gibt an, wie hoch der Wassergehalt des Charakters ist. Dabei ist eine Hydrierung von 100% der Optimalzustand. Ab einer Hydrierung unter 5% treten Mangelerscheinungen auf. Diese äußern sich in einem Übelkeitseffekt und einer Nachricht über der Hotbar: "Du fühlst dich schwach". Die Hydrierung kann gesteigert, indem Wasserflaschen in einem Supermarkt kauft und diese mit Rechtsklick konsumiert. Wenn man dehydriert ist, muss ein Arzt aufsucht werden, um die Dehydrierung zu behandeln.
+
 ## Sättigung
 
+Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch das Hungergefühl deines Charakters ist. Ab einer Sättigung von 5.0/20.0 kann dein Charakter nicht mehr sprinten. Ab dem Zeitpunkt sollte schnellstmöglich Nahrung zu sich genommen werden, die beispielsweise in einem Supermarkt gekauft werden kann.
