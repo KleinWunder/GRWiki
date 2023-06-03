@@ -20,6 +20,12 @@ nav:
       - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
       - Schrottpresse: pages/fahrzeuge/schrottpresse.md
       - Blitzer: pages/fahrzeuge/blitzer.md
+    - Gesundheit:
+      - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
+      - Krankeiten:
+        - Dehydration: pages/krankheiten/dehydration.md
+        - Grippe: pages/krankheiten/Grippe.md
+        - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
     - Häuser: 
       - Makler: pages/houses/makler.md
     - Nebenjobs:
