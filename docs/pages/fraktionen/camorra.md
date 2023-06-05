@@ -3,12 +3,10 @@ Die Camorra ist eine italienische Mafia, welche unter einem pharmazeutischen Dec
 
 ## Hintergrundgeschichte 
 
-"Ah, ich habe gehört, dass ihr wieder die Kontrolle in der Stadt habt, gut so! Sorgt dafür, dass es auch so bleibt und keine andere Organisation euch stürzen kann!" Ein klarer Befehl der Capofamiglia zu seinen Leuten.
-Der Camorra-Clan von Vance City besteht aus paar wenigen Mafiosi und nur die wenigsten erweisen sich als würdig genug, in ihre Reihen aufgenommen zu werden. Verborgen vor den Augen des Staates und versteckt hinter dem Handelsbetrieb "Il Fiore Scuro", arbeitet der Clan vor allem gegen andere kriminelle Organisationen, um den Handel unter ihrer Kontrolle zu halten. Denn diese Mafia teilt die Betäubungsmittelngeschäfte nicht freiwillig!
 
 ## Auftreten 
 
-Nicht italienische Mitglieder werden angehalten italienische Worte zu übernehmen, um besser mit ihrer Familie kommunizieren zu können. Mitarbeiter des Betriebes müssen sich in der Öffentlichkeit seriös verhalten. Kriminelle Handlungen sind in einem bestimmten Rahmen und mit guten Roleplay Gründen auch ohne Maskierung erlaubt. Die vorgeschriebene Arbeitskleidung besteht aus einem Anzug oder dezenten Kleidern. Die Farben werden schwarz-weiss gehalten, nicht knallige Farben dürfen allerdings ebenso verwendet werden. Die Masken Skins sind bei kriminellen Aktivitäten zu tragen, wenn die Identität verborgen bleiben muss. Grundsätzlich herrscht ein Gewaltverbot gegenüber Frauen und Wehrlosen, außer es handelt sich um ein Druck- oder Foltermittel.
+Nicht italienische Mitglieder werden angehalten italienische Worte zu übernehmen, um besser mit ihrer Familie kommunizieren zu können. Mitarbeiter des Betriebes verhalten sich in der Öffentlichkeit seriös. Ihre Arbeitskleidung besteht aus einem Anzug oder dezenten Kleidern und farblich schwarz-weiß gehalten. Bei kriminellen Aktivitäten treten sie maskiert auf um ihre Indentität zu schützen.
 
 ## Aktivitäten
 Die Fraktion geht folgenden Aktivitäten nach:
