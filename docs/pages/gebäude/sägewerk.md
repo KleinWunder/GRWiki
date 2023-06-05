@@ -26,7 +26,7 @@ Diese Items werden unterschiedlich verwertet:
 ## Äxte
 
 | Axt | Preis | Verzauberung | Benötígtes Skill Level |
-| :-: | :-: |
+| :-: | :-: | :-: | :-: |
 | Axt für Anfänger | 20€ | Keine | Level 0 |
 | Axt für Fortgeschrittene | 50€ | Effizienz 1 | Level 1 |
 | Axt für Experten | 75€ | Effizienz 2 | Level 3 |
