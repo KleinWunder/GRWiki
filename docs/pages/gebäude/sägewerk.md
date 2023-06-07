@@ -1,6 +1,6 @@
 # Sägewerk 
 
-Das Sägewerk befindet sich im Reichenviertel, dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) [Reichenviertel](../../pages/gebiete/reichenviertel.md) ist. Ihr Navipunkt ist **/navi Sägewerk**
+Das Sägewerk befindet sich im Reichenviertel, dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/Bus.md) [Reichenviertel](../../pages/gebiete/Reichenviertel.md) ist. Ihr Navipunkt ist **/navi Sägewerk**
 Am Sägewerk kann als Holzfäller gearbeitet werden. Diese Arbeit gewährt einem Erfahrungspunkte, Geld, [FarmingXP](../../pages/skills/farming.md) und [SozialXP](../../pages/skills/social.md). 
 
 ## Ablauf
