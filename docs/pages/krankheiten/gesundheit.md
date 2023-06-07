@@ -11,7 +11,7 @@ Mit dem Befehl **/health** kann der Gesundheitzustand des Charakters eingesehen 
 
 ## Leben
 
-Der Unterpunkt "Leben" zeigt an, wie viele Charakterleben der Spieler noch besitzt. Sollte 0 Charakterleben erreicht werden, dann erleidet der Charakter einen Charaktertod. Alternativ kann eine Todesurkunde vom Rettungsdienst diesen Zustand herbeiführen. Zusätzliche Charakterlebenkönnen sich im Bonusshop für Bonuspunkte gekauft werden.
+Der Unterpunkt "Leben" zeigt an, wie viele Charakterleben der Spieler noch besitzt. Sollte 0 Charakterleben erreicht werden, dann erleidet der Charakter einen Charaktertod. Alternativ kann eine Todesurkunde vom [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) diesen Zustand herbeiführen. Zusätzliche Charakterlebenkönnen sich im Bonusshop für Bonuspunkte gekauft werden.
 
 ### Charaktertod
 
@@ -33,8 +33,8 @@ Der Geisteszustand zeigt in Prozent an, wieviel man noch von 100% besitzt. Bei z
 
 ## Hydrierung
 
-Die Hydrierung gibt an, wie hoch der Wassergehalt des Charakters ist. Dabei ist eine Hydrierung von 100% der Optimalzustand. Ab einer Hydrierung unter 5% treten Mangelerscheinungen auf. Diese äußern sich in einem Übelkeitseffekt und einer Nachricht über der Hotbar: "Du fühlst dich schwach". Die Hydrierung kann gesteigert, indem Wasserflaschen in einem Supermarkt kauft und diese mit Rechtsklick konsumiert. Wenn man dehydriert ist, muss ein Arzt aufsucht werden, um die Dehydrierung zu behandeln.
+Die Hydrierung gibt an, wie hoch der Wassergehalt des Charakters ist. Dabei ist eine Hydrierung von 100% der Optimalzustand. Ab einer Hydrierung unter 5% treten Mangelerscheinungen auf. Diese äußern sich in einem Übelkeitseffekt und einer Nachricht über der Hotbar: "Du fühlst dich schwach". Die Hydrierung kann gesteigert, indem Wasserflaschen in einem Supermarkt kauft und diese mit Rechtsklick konsumiert. Wenn man dehydriert ist, muss ein Arzt aufsucht werden, um die [Dehydrierung](../../pages/krankheiten/dehydration.md) zu behandeln.
 
 ## Sättigung
 
-Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch das Hungergefühl deines Charakters ist. Ab einer Sättigung von 5.0/20.0 kann dein Charakter nicht mehr sprinten. Ab dem Zeitpunkt sollte schnellstmöglich Nahrung zu sich genommen werden, die beispielsweise in einem Supermarkt gekauft werden kann.
+Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch das Hungergefühl deines Charakters ist. Ab einer Sättigung von 5.0/20.0 kann dein Charakter nicht mehr sprinten. Ab dem Zeitpunkt sollte schnellstmöglich Nahrung zu sich genommen werden, die beispielsweise in einem [Supermarkt](../../pages/biz/supermarkt.md) gekauft werden kann.
