@@ -1,6 +1,5 @@
 # Sturmgewehr
 
-## Allgemeines
 Das Sturmgewehr ist ein automatisches Gewehr, für die man das normale Magazin braucht. Ein Magazin umfasst 20 Schuss.
 Man kann sie außerdem auch mit [Waffenaddons](pages/other/weaponaddons) ausstatten.
 
