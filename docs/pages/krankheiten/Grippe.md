@@ -16,4 +16,4 @@ und bei Nasenbluten:
 
 ## Behandlung
 
-Bei einer Erkrankung an die Grippe, wendet man sich an den [Rettungsdienst], welche einem [Grippostat] verschreiben. Das Nasenbluten muss mit Nasensalbe behandelt werden, welche in der [Apotheke] käuflich sind.
+Bei einer Erkrankung an die Grippe, wendet man sich an den [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md), welche einem [Grippostat](../../pages/bmt/grippostat.md) verschreiben. Das Nasenbluten muss mit Nasensalbe behandelt werden, welche in der [Apotheke](../../pages/biz/apotheke.md) käuflich sind.
