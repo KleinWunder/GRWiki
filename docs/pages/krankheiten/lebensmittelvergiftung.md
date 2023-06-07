@@ -9,6 +9,6 @@ Dazu wird Schaden von einem halben Herz genommen.
 
 ## Behandlung
 
-Einmal mit Lebensmittelvergiftung infiziert, wird medizinische Hilfe vom Rettungsdienst benötigt. Im Krankenhaus wird die Lebensmittelvergiftung, von einem Medic, durch eine Blutabnahme diagnostiziert.
+Einmal mit Lebensmittelvergiftung infiziert, wird medizinische Hilfe vom [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) benötigt. Im Krankenhaus wird die Lebensmittelvergiftung, von einem Medic, durch eine Blutabnahme diagnostiziert.
 Anschliessend an die Behandlung, wird dem Patienten ein Antibiotikarezept verschrieben, welches in der Apotheke eingelöst werden kann. Die Ausgabe der Rezepte ist pro Spieler begrenzt.
 Nach der Einnahme des Antibiotika erscheint im Chat die Meldung "Deine Lebensmittelvergiftung klingt ab".
