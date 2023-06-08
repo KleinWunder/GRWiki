@@ -9,7 +9,5 @@ Die Mitarbeiter sind ihren eigenden Räumen des Syndikats zu finden. Jeder von i
 
 Alle 10 Minuten kann Johnny einen Spieler orten. Dies kann die Crimefraktionen in der Kopfgeld- oder Darklistjagd unterstützen.
 
-### Alejandro
-
 ### Kilian
 
