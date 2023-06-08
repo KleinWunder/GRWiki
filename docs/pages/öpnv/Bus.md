@@ -1,5 +1,5 @@
 # Bus
-Der Bus ist einer der Verkehrsmittel, welches einen schnell von A nach B bringen kann. Die übrige Fahrtzeit kannst du durch Drücken von Shift+F einsehen. Um mit dem Bus zu fahren, geht man in den Bus und drückt Rechtsklick auf den Busfahrer. Dann kann man sein gewünschtes Reiseziel auswählen.
+Der Bus ist einer der Verkehrsmittel, welches einen schnell von A nach B bringen kann. Die Fahrtzeit kann durch Drücken der ++f++ + ++shift++ Shift+F eingesehen werden. Um mit dem Bus zu fahren, geht man in den Bus und drückt Rechtsklick auf den Busfahrer. Dann kann man sein gewünschtes Reiseziel auswählen.
 
 (Info: In einem Bus wird kein RP gemacht, auch kann im Bus kein Spieler Schaden erhalten und verteilen!)
 
