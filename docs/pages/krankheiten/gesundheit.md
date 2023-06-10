@@ -29,7 +29,8 @@ Der Geisteszustand zeigt in Prozent an, wieviel man noch von 100% besitzt. Bei z
 | Prozentzahl | Zustand | Effekt |
 |:-:|:-:|:-:|
 | < 50% | Lebensmüde | +10% Chance ein Charakterleben zu verlieren |
-| ?? | ?? | 10 Minuten lang nach Bewusstlosigkeit 50% weniger Erfahrungspunkte |
+| < 20% | Mental instabil | 15% weniger EXP für 10 Minuten nach jedem Tod |
+
 
 ## Hydrierung
 
