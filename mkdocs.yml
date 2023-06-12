@@ -70,7 +70,8 @@ nav:
       - Camorra: pages/fraktionen/camorra.md
       - Yakuza: pages/fraktionen/yakuza.md
       - The Establishment: pages/fraktionen/the establishment.md
-      - Aktivitäten: pages/fraktionen/aktivitäten.md
+      - Aktivitäten: 
+        - Allgemein: pages/fraktionen/aktivitäten.md
     - Pflanzen:
       - Heilkraut: pages/Pflanzen/heilkraut.md
       - Rosen: pages/Pflanzen/rosen.md
