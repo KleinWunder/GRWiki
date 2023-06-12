@@ -17,6 +17,33 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 * Staatsmeldungen ausrufen
 * Spieler in der JVA kontrollieren
 
+## Polizeiequip
+
+!Equipment
+!Funktion
+|-
+|'''Handschellen'''
+|Verdächtige Personen fixieren
+|-
+|'''Fallschirm'''
+|Möglichkeit taktische Orte aufzusuchen
+|-
+|'''Tazer'''
+|Verdächtige Personen niederstrecken
+|-
+|'''Schild'''
+|Abwehren von Schüssen
+|-
+|'''Rammbock'''
+|Aufbrechen von Türen
+|-
+|'''Blendgranate'''
+|Gibt Personen im Umkreis der Explosion einen Blindheitseffekt
+|-
+|'''Sniper'''
+|Fernkampf
+|}
+
 ## Lage der Polizeistationen
 
 Zu der Polizeistation gelangt man, indem man den Bus zur Polizeipräsidium verwendet. Zudem gibt es auf der Karte verteilt zwei weitere Nebenstellen der Polizei. Im Reichenviertel ist das Polizeirevier-Süd aufzufinden, dessen Bushaltestation "Reichenviertel" ist. Das Polizeirevier-West ist in Westside zu finden, hier auch mit der gleichnamigen Bushaltestelle.  
