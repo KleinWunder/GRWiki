@@ -1,10 +1,10 @@
 # Hund
 
-Der Hund gilt nicht nur als treuer Gefährte des Menschen, sondern ist auch neben dem Wolf der effektivste Booster für die **Combat** Skill-XP. 
+Der Hund gilt nicht nur als treuer Gefährte des Menschen, sondern ist auch neben dem Wolf der effektivste Booster für die **Combat** Skill-XP. Man erhält ihn entweder im Tierheim oder durch das Durchwühlen von Mülleimern.
 
 ## Gewöhnlich bis Selten
 
-Den Standard-Effekt des Hundes ist die Steigerung der Combat-XP. Von Gewöhnlich bis Selten erhält man die Faktoren **20%, 40%** beziehungsweise **50%**.
+Der Standard-Effekt des Hundes ist die Steigerung der Combat-XP. Von Gewöhnlich bis Selten erhält man die Faktoren **20%, 40%** beziehungsweise **50%**.
 
 ## Episch und Legendär
 
