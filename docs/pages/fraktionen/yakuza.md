@@ -8,7 +8,7 @@ Die Yakuza ist eine geheime Organisation aus dem Untergrund Japans. Sie orientie
 
 ## Auftreten 
 
-Die Yakuza tritt vor allem in höheren Positionen in seriösen dunkelroten Anzügen auf. Der Rest der Mitglieder hat sich Alltagstauglich zu kleiden. Wir verhalten uns sehr seriös und friedfertig gegenüber der Zivilisation. Wir sind wie Flamme, schön zu betrachten, aber gefährlich, wenn man zu nahe kommt.
+Die Yakuza tritt vor allem in höheren Positionen in seriösen dunkelroten Anzügen auf. Der Rest der Mitglieder sind Alltagstauglich gekleidet. Sie verhalten sich sehr seriös und friedlich gegenüber der Zivilisation. Sie sind wie Flamme, schön zu betrachten, aber gefährlich, wenn man zu nahe kommt.
 
 ## Aktivitäten
 Die Fraktion geht folgenden Aktivitäten nach:

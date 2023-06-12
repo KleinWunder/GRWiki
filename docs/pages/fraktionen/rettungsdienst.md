@@ -13,6 +13,18 @@ Der Rettungsdienst verfügt über verschiedene Möglichkeiten den Spielern auf d
 * Notrufen nachgehen
 * Gewerbebrände löschen
 
+## Rettungsdienst-Equip
+
+| Equipment | Funktion |
+|:-:|:-:|
+| Schiene | Behandlung verstauchte/gebrochene Beine |
+| Leere Spritze | Impfungen und Blutabnahmen |
+| Feuerlöscher | Feuer löschen |
+| Pfefferspray | Selbstschutz des Personals |
+| NaCl | Behandlung der [Dehydration](../../pages/krankheiten/dehydration.md) |
+| Sprungtuch | Platzieren von Slimeblöcken |
+| Feuerwehraxt | Einsatzgerät für Windbruch |
+
 ## Lage der medizinischen Gebäuden
 Die Uniklinik ist der Hauptstandort des Rettungsdienst und ist erreichbar über die Bushaltestelle Uniklinik. Das, mit Ziegelsteinen gebaute, Gebäude liegt in der Nähe des Busses und direkt am Park. <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/Feuerwehrwache.png">
 

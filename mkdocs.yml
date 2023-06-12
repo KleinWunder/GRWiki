@@ -20,6 +20,20 @@ nav:
       - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
       - Schrottpresse: pages/fahrzeuge/schrottpresse.md
       - Blitzer: pages/fahrzeuge/blitzer.md
+    - Gesundheit:
+      - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
+      - Krankeiten:
+        - Dehydration: pages/krankheiten/dehydration.md
+        - Grippe: pages/krankheiten/Grippe.md
+        - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
+    - Substanzen:
+      - Antibiotika: pages/bmt/antibiotika.md
+      - Betablocker: pages/bmt/Betablocker.md
+      - Grippostat: pages/bmt/grippostat.md
+      - Heilkraut: pages/bmt/heilkraut.md
+      - Mohnkapseln: pages/bmt/mohnkapseln.md
+      - Novapulver: pages/bmt/novapulver.md
+      - Schmerzmittel: pages/bmt/schmerzmittel.md
     - Häuser: 
       - Makler: pages/houses/makler.md
     - Nebenjobs:
@@ -56,15 +70,17 @@ nav:
       - Camorra: pages/fraktionen/camorra.md
       - Yakuza: pages/fraktionen/yakuza.md
       - The Establishment: pages/fraktionen/the establishment.md
+      - Aktivitäten: 
+        - Allgemein: pages/fraktionen/aktivitäten.md
     - Pflanzen:
       - Heilkraut: pages/Pflanzen/heilkraut.md
       - Rosen: pages/Pflanzen/rosen.md
     - Items:
       - Weapons:
-        - Pistolen: pages/items/weapons/pistolen.md
-        - Maschinenpistolen: pages/items/weapons/maschinenpistolen.md
-        - Sturmgewehre: pages/items/weapons/sturmgewehre.md
-        - Schrotflinte/Sniper: pages/items/weapons/sniper.md
+        - P-51: pages/items/weapons/pistole.md
+        - MX8: pages/items/weapons/maschinenpistole.md
+        - Havok-47: pages/items/weapons/sturmgewehre.md
+        - Steenfield/RTB-X: pages/items/weapons/sniper.md
     - Skills:
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md

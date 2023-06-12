@@ -45,12 +45,13 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Zivilstreifenwagen | 115 km/h | 120.0 | 30.0 Liter | 4 | - | 13500.0€ |
 | Zilvilsteifenwagen 2 | 135 km/h | 120.0 | 25.0 Liter | 2 | - | 18500.0€ |
 | Polizei Limousine | 145 km/h | 150.0 | 30.0 Liter | 4 | - | 10000.0€ |
+| Polizei Motorad | ? | ? | ? | 1 | - | ? |
 
 ### Folgende Fahrzeuge sind für das VCMD erhältlich.
 
 | Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Steuern (pro abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Krankentrasportwagen | 100 km/h | 125.0 | 30 Liter | 4 | - | 5500€ |
+| Krankentransportwagen | 100 km/h | 125.0 | 30 Liter | 4 | - | 5500€ |
 | RTW | 100 km/h | 100.0 | 25.0 Liter | 4 | - | 4650.0€ |
 | NEF | 115 km/h | 100.0 | 25.0 Liter | 4 | - | 12500.0€ |
 | MAN HLF | 120 km/h | 300.0 | 40.0 Liter | 2 | - | 10000.0€ |
