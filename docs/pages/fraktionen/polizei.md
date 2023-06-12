@@ -27,7 +27,7 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 | Schild | Abwehren von Schüssen |
 | Rammbock | Aufbrechen von Türen |
 | Blendgranate | Gibt Personen im Umkreis der Explosion einen Blindheitseffekt |
-| RTB-X | Fernkampf |
+| [RTB-X ](../../pages/itms/sniper.md) | Fernkampf |
 
 ## Lage der Polizeistationen
 
