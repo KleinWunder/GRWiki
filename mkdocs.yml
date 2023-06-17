@@ -6,15 +6,15 @@ nav:
     - Wiki-Team: pages/other/wiki-team.md
     - Anfängerhilfe: pages/help/anfängerhilfe.md
   - Allgemeines:
-    - Spielmenü:
-      - Allgemein: pages/allgemein/spielmenü.md
-      - Events & Timer:
-       - Stündliche Abrechnung: pages/allgemein/payday.md
-       - Bürgermeister: pages/allgemein/bürgermeister.md
-      - Shops & VIP:
+  - Spielmenü:
+     - Allgemein: pages/allgemein/spielmenü.md
+        - Events & Timer:
+        - Stündliche Abrechnung: pages/allgemein/payday.md
+        - Bürgermeister: pages/allgemein/bürgermeister.md
+     - Shops & VIP:
         - Bonus-Shop: pages/allgemein/Bonuspunkte.md
         - VIP-Status: pages/allgemein/vip.md
-      - Fortschrit:
+     - Fortschritt:
         - Level: pages/allgemein/level.md
         - Erfolge: pages/allgemein/erfolge.md
     - Businesse (BIZ):
