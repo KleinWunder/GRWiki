@@ -8,7 +8,7 @@ nav:
   - Allgemeines:
   - Spielmenü:
      - Allgemein: pages/allgemein/spielmenü.md
-        - Events & Timer:
+     - Events & Timer:
         - Stündliche Abrechnung: pages/allgemein/payday.md
         - Bürgermeister: pages/allgemein/bürgermeister.md
      - Shops & VIP:
