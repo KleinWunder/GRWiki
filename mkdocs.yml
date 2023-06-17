@@ -104,7 +104,7 @@ nav:
       - Capybara: pages/pets/Capybara.md
     - Sonstiges:
       - AFK: pages/other/afk.md
-  - Links: pages/other/liks.md
+  - Links: pages/other/links.md
 
 plugins:
  - search:
