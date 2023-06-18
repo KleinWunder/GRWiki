@@ -32,7 +32,9 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Alfa Romeo G | 120 km/h | 150.0 | 30.0 Liter | 4 | 35.0€ | 10000.0€ |
 | BMW X3 | 125 km/h |200.0 | 30.0 Liter | 4 | 50.0€ | 14500.0€ |
 | Nissan Skyline R34 | 135 km/h | 100.0 | 25.0 Liter | 2 | 50.0€ | 18000.0€ |
+| Nissan Skyline R34 Cabrio | 135 km/h | 100.0 | 25.0 Liter | 2 | 50.0€ | 18000.0€ |
 | Dodge Challenger | 135 km/h | 120.0 | 25.0 Liter | 2 | 50.0€ | 18500.0€ |
+| Mercedes G-Klasse | 140.0 km/h | 175.0 | 25.0 Liter | 4 | 75.0€ | 20000.0€ |
 
 ### Folgende Fahrzeuge sind für das VCPD erhältlich.
 
@@ -45,7 +47,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Zivilstreifenwagen | 115 km/h | 120.0 | 30.0 Liter | 4 | - | 13500.0€ |
 | Zilvilsteifenwagen 2 | 135 km/h | 120.0 | 25.0 Liter | 2 | - | 18500.0€ |
 | Polizei Limousine | 145 km/h | 150.0 | 30.0 Liter | 4 | - | 10000.0€ |
-| Polizei Motorad | ? | ? | ? | 1 | - | ? |
+| Polizei Motorad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | 11000.0€ |
 
 ### Folgende Fahrzeuge sind für das VCMD erhältlich.
 
@@ -56,3 +58,5 @@ Fahrzeuge unterscheiden sich in den Werten:
 | NEF | 130 km/h | 100.0 | 25.0 Liter | 4 | - | 12500.0€ |
 | MAN HLF | 120 km/h | 300.0 | 40.0 Liter | 2 | - | 10000.0€ |
 | Feuerwehr SUV | 140 km/h | 200.0 | 30.0 Liter | 4 | - | 14500.0€ |
+| Rettungsdienst Limousine | 145.0 km/h | 150.0 | 30.0 Liter | 4 | - | 10000.0€ |
+| Rettungsdienst Motorad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | 11000.0€ |
