@@ -13,3 +13,4 @@ Nach dem Bezahlen ist der Tank im Fahrzeug. (**/navi Tankstelle-1/2/3/4/5**)
 | Tankstelle-3 | Ganggebiet | Justizvollzugsanstalt |
 | Tankstelle-4 | Asia-Viertel | Asia-Viertel |
 | Tankstelle-5 | Westside | Westside |
+| Tankstelle-6 | Autobahn (Ganggebiet-Nord) | Ganggebiet-Nord | 
