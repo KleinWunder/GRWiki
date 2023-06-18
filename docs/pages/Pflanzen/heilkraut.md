@@ -2,10 +2,13 @@
  Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefraktionen gepflanzt werden. Eine Pflanze dauert 20min. Eine Pflanze braucht 2x Wasser und 2x Dünger.
  
 !!! info "Anpflanzen"
-    Nach 5min  --> Dünger |
-    Nach 10min --> Wasser |
-    Nach 15min --> Wasser |
-    Nach 20min --> Ernten |
+    Nach 5min  --> Dünger
+ 
+    Nach 10min --> Wasser 
+
+    Nach 15min --> Wasser 
+
+    Nach 20min --> Ernten 
     
     (Mit Dünger, Wasser oder zum ernten die second Hand Taste drücken, welche in den meisten fällen [F] ist.)
 
