@@ -1,5 +1,5 @@
 # Heilkraut
- Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefraktionen gepflanzt werden. Eine Pflanze dauert 20min. Eine Pflanze braucht 2x Wasser und 2x Dünger.
+ Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefraktionen gepflanzt werden. Eine Pflanze dauert 20min. Eine Pflanze braucht 1x Dünger und 2x Wasser.
  
 !!! info "Anpflanzen"
 
