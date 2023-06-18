@@ -23,8 +23,6 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
  - [Biene](biene.md) ([Farming-Skill](../../pages/skills/farming.md))
  - [Capybara](capybara.md) ([Fischer-Skill](../../pages/skills/fischer.md))
 
-<p>  </p>
-
 
  ## Pets verbessern
 
@@ -36,4 +34,4 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
 
 ## Eier
 
-Von Gewöhnlich bis Legendär hast du die Möglichkeit, durch Jobrotations oder die Kiste des Capybaras, Peteier zu bekommen. Öffnest du diese, hast du die Chance eines von fünf Pets zu erhalten.
+Von Gewöhnlich bis Legendär hast du die Möglichkeit, durch Jobrotations oder die Kiste des Capybaras, Peteier zu bekommen. Öffnest du diese, hast du die Chance eines von fünf Pets zu erhalten. ([Papagei](papagei.md), [Katze](katze.md), [Hase](hase.md), [Hund](hund.md) und [Capybara](capybara.md))
