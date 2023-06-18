@@ -31,7 +31,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Audi A4 | 115 km/h | 120.0 | 30.0 Liter | 4 | 20.0€ | 7950.0€ |
 | Alfa Romeo G | 120 km/h | 150.0 | 30.0 Liter | 4 | 35.0€ | 10000.0€ |
 | BMW X3 | 125 km/h |200.0 | 30.0 Liter | 4 | 50.0€ | 14500.0€ |
-| Nissan Skyline R34 | 130 km/h | 100.0 | 25.0 Liter | 2 | 50.0€ | 18000.0€ |
+| Nissan Skyline R34 | 135 km/h | 100.0 | 25.0 Liter | 2 | 50.0€ | 18000.0€ |
 | Dodge Challenger | 135 km/h | 120.0 | 25.0 Liter | 2 | 50.0€ | 18500.0€ |
 
 ### Folgende Fahrzeuge sind für das VCPD erhältlich.
@@ -53,6 +53,6 @@ Fahrzeuge unterscheiden sich in den Werten:
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Krankentransportwagen | 100 km/h | 125.0 | 30 Liter | 4 | - | 5500€ |
 | RTW | 100 km/h | 100.0 | 25.0 Liter | 4 | - | 4650.0€ |
-| NEF | 115 km/h | 100.0 | 25.0 Liter | 4 | - | 12500.0€ |
+| NEF | 130 km/h | 100.0 | 25.0 Liter | 4 | - | 12500.0€ |
 | MAN HLF | 120 km/h | 300.0 | 40.0 Liter | 2 | - | 10000.0€ |
 | Feuerwehr SUV | 140 km/h | 200.0 | 30.0 Liter | 4 | - | 14500.0€ |
