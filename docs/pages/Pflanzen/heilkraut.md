@@ -1,9 +1,11 @@
-
 # Heilkraut
  Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefraktionen gepflanzt werden. Eine Pflanze dauert 20min. Eine Pflanze braucht 2x Wasser und 2x Dünger.
  
  !!! info "Anpflanzen" 
 Nach den ersten 5min braucht die Plantage Dünger. In Minute 10 & 15 benötigtz die Pflanze einmal Wasser. (Mit Dünger oder Wasser in der Hand die second Hand drücken, welche in den meisten fällen [F] ist.)
+
+!!! info "Anpflanzen"
+Nach den ersten 5min braucht die Plantage Dünger. In Minute 10 & 15 benötigtz die Pflanze einmal Wasser. (Mit Dünger oder Wasser in der Hand die second Hand drücken, welche     in den meisten fällen [F] ist.)
  
 ## Materialien
 - Heilkrautsamen (kann entweder in der Schwarzmarktauktion oder bei dem NPC "Simon" kaufen, welcher sich an der Farm befindet)
