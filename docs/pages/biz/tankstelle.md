@@ -2,7 +2,7 @@
 
 An Tankstellen können [Fahrzeuge](../fahrzeuge/allgemein) betankt werden. <img align="right" width="300" eight="200" src="../../../assets/image/biz/Tankstelle-Kaufmenü.png"> Außerdem können an Tankstellen Sandwiches & Benzinkanister gekauft werden.
 Um ein Fahrzeug tanken zu können müss das Fahrzeug in der Nähe der Zapfsäule stehen. Mit einem **Rechtsklick** auf die Zapfsäule wird das Fahrzeug betankt.
-Nach dem Bezahlen ist der Tank im Fahrzeug. (**/navi Tankstelle-1/2/3/4/5**)
+Nach dem Bezahlen ist der Tank im Fahrzeug. (**/navi Tankstelle-1/2/3/4/5/6**)
 
 ### Standorte der Tankstellen
 
