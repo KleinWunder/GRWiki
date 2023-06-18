@@ -5,6 +5,13 @@
     Nach den ersten 5min braucht die Plantage Dünger. In Minute 10 & 15 benötigtz die Pflanze einmal Wasser. 
     (Mit Dünger oder Wasser in der Hand die second Hand drücken, welche in den meisten fällen [F] ist.)
  
+!!! info "Anpflanzen"
+    Nach 5min  --> Dünger
+    Nach 10min --> Wasser
+    Nach 15min --> Wasser
+    Nach 20min --> Ernten 
+    (Mit Dünger, Wasser oder zum ernten die second Hand Taste drücken, welche in den meisten fällen [F] ist.)
+
 ## Materialien
 - Heilkrautsamen (kann entweder in der Schwarzmarktauktion oder bei dem NPC "Simon" kaufen, welcher sich an der Farm befindet)
 - Basisdünger (Kann bei dem NPC "Simon" kaufen, welcher sich an der Farm befindet)
