@@ -24,7 +24,7 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
  - [Capybara](capybara.md) ([Fischer-Skill](../../pages/skills/fischer.md))
 
 
- ## Pets verbessern
+## Pets verbessern
 
  Um dein Pet zu verbessern musst du dich einmal auf den Weg zum Tierheim machen.
  Dort kannst du dann mit Kate sprechen und dein Pet von **Gewöhnlich** auf maximal **Selten** verbessern.
