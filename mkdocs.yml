@@ -34,7 +34,8 @@ nav:
       - Novapulver: pages/bmt/novapulver.md
       - Schmerzmittel: pages/bmt/schmerzmittel.md
     - Häuser: 
-      - Makler: pages/houses/makler.md
+      - Allgemein: pages/houses/allgemein.md
+      - Hausaddons: pages/houses/hausaddons.md
     - Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Farmer: pages/nebenjobs/farmer.md
