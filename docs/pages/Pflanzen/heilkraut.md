@@ -6,11 +6,12 @@
     (Mit Dünger oder Wasser in der Hand die second Hand drücken, welche in den meisten fällen [F] ist.)
  
 !!! info "Anpflanzen"
-    1 Nach 5min  --> Dünger
-    2 Nach 10min --> Wasser
-    3 Nach 15min --> Wasser
-    4 Nach 20min --> Ernten 
-    5 (Mit Dünger, Wasser oder zum ernten die second Hand Taste drücken, welche in den meisten fällen [F] ist.)
+    Nach 5min  --> Dünger |
+    Nach 10min --> Wasser |
+    Nach 15min --> Wasser |
+    Nach 20min --> Ernten |
+    
+    (Mit Dünger, Wasser oder zum ernten die second Hand Taste drücken, welche in den meisten fällen [F] ist.)
 
 ## Materialien
 - Heilkrautsamen (kann entweder in der Schwarzmarktauktion oder bei dem NPC "Simon" kaufen, welcher sich an der Farm befindet)
