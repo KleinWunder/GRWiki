@@ -14,7 +14,7 @@ Die Stunden werden nur dann gezählt, wenn der Spieler anwesend ist. Im AFK-Modu
 - Über den [Bonusshop](../../pages/allgemein/Bonuspunkte.md)
 - Über den [Shop](https://germanrpofficial.tebex.io/category/vip-pakete) von GermanRP (Echtgeld)
 
-VIP+
+## Erhalten von VIP+
 - Über den Shop von GermanRP (Echtgeld)
 
 ## Erkennung 
