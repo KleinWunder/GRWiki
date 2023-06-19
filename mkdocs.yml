@@ -17,7 +17,7 @@ nav:
       - Fortschritt:
         - Level: pages/allgemein/level.md
         - Erfolge: pages/allgemein/erfolge.md
-      - Businesse (BIZ):
+    - Businesse (BIZ):
       - BIZ-Management: pages/biz/biz-managment.md
       - Gewerbe: pages/biz/business.md
       - Waffenläden: pages/biz/waffenladen.md
