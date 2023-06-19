@@ -9,7 +9,7 @@ Der Gewinner der Wahl tritt dann jeweils am Samstag um 16 Uhr für eine Woche se
 | Bürgermeister | 1. Bonus | 2. Bonus |
 |:-:|:-:|:-:|
 | Klifford | Für jede 500 gesammelten Erfahrungspunkte bekommst du eine zufällige Belohnung. | / |
-| Tanner | Erhalte die ganze Woche über zusätzliches Gehalt bei [Nebenjobs](../../pages/nebenjobs/nebenjobs.md). | Gewerbe zhalen 50% weniger Mehrwertssteuer auf Verkäufe. |
+| Tanner | Erhalte die ganze Woche über zusätzliches Gehalt bei [Nebenjobs](../../pages/nebenjobs/nebenjobs.md). | Gewerbe zahlen 50% weniger Mehrwertssteuer auf Verkäufe. |
 | Chesner | Erhalte übe die gesamte Woche 10% mehr [BergbauXP](../../pages/skills/bergbau.md) | / |
 | Santiago | Erhalte über die gesamte Woche 60% mehr [FischerXP](../../pages/skills/fischer.md). | / |
 | Gonzales | Erhalte über die gesamte Woche 20% mehr [KochXP](../../pages/skills/kochen.md). | / |
