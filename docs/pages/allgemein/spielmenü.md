@@ -1,6 +1,6 @@
 # Spielmenü 
 
-Das Spielmenü liefert eine Vielzahl an Information zum Spielgeschehen und auch zum eigenen Charakter. Man öffnet es über die Tastenkombination Sneaken + Offhand-Taste Bei den meisten Spielern liegt diese Tastenkombination auf ++Shift++ und  ++F++ .
+Das Spielmenü liefert eine Vielzahl an Information zum Spielgeschehen und auch zum eigenen Charakter. Man öffnet es über die Tastenkombination Sneaken + Offhand-Taste. Bei den meisten Spielern liegt diese Tastenkombination auf ++Shift++ und  ++F++ .
 
 ## Inhalte des Spielmenüs
 | Inhalt | Beschreibung |
