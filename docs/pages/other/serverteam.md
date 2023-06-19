@@ -4,10 +4,10 @@ Das Serverteam
 Mit dem Befehl **/team** sieht man alle derzeit anwesenden Teammitglieder.
 
 ## Erkennung
-Teammitglieder, ab dem Moderatorenrang, können in den sogenannten Staff-Modus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Teammitglied ausführen müssen. Sind die Teammitglieder im Staff, dürfen sie nicht ins RolePlay einbezogen werden und ihr Spielname wird hellrot angezeigt.
-Im Unterschied zu den Moderatoren haben Administratoren eine rote Farbe in der Teamauflistung. Im Teamspeak und auf dem Server sind die Administratoren mit einem **[GR]** gekennzeichnet. Beispiel: **[GR]KleinWunder**
 
-Im Teamspeak sind die Guides mit einem[[Datei:Guide1.jpg|rahmenlos]] gekennzeichnet.
+Teammitglieder, ab dem Moderatorenrang, können in den sogenannten Staff-Modus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Teammitglied ausführen müssen. Sind die Teammitglieder im Staff, dürfen sie nicht ins RolePlay einbezogen werden und ihr Spielname wird hellrot angezeigt.
+Im Unterschied zu den Moderatoren haben Administratoren eine rote Farbe in der Teamauflistung. Im Teamspeak und auf dem Server sind die Teammitglieder mit einem **[GR]** gekennzeichnet. Beispiel: **[GR]KleinWunder**
+Die Senior-Moderatoren und Moderatoren haben eine blaue Farbe in der Teamauflistung, wo Guides hingegen eine orangene Frage haben. Im Teamspeak sind die Guides mit einem **G** gekennzeichnet.
 
 ## Administratoren 
 
