@@ -6,16 +6,51 @@ DIe Polizei und der Rettungsdienst erhalten Aktivitäten übermäßig von den Cr
 
 ## Polizei
 
+Verhaften
+Wantedskills
+Verbrennen von Betäubungsmittel
+Personen durchsuchen
+Bußgelder verteilen
+Illegale Pflanzen verbrennen
+Strafzettel
+Radarkontrollen
+Notrufe nachgehen
+Hausaktion
+Apothekeraub verhindern
+Juwelierraub verhindern
+Bombe neutralisieren
+Gewerberaub verhindern
 Nach ABC sortiert
 
 ## Rettungsdienst
+
+
 
 Nach ABC sortiert
 
 ## Kartell
 
+Heilkrautplantagen 
+Hausaktionen
+Brandstiftung
+Apothekenräube
+Kopfgeld
+Gewerberäube
+ATM's aufbrechen
+Bomben
+
 Nach ABC sotiert
 
 ## Mafia
+
+Heilkrautplantagen 
+Hausaktionen
+Brandstiftung
+Juwelierüberfälle
+Apothekenräube
+Mohnkapseln herstellen
+Kopfgeld
+Gewerberäube
+ATM's aufbrechen
 
 Nach ABC sotiert
