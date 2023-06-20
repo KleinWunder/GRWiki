@@ -20,7 +20,7 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/zS0uth-skin.png" alt="zS0uth" title="zS0uth" /> <img src="../../../assets/image/Wiki Team/EtwasAngelndes-skin.png" alt="EtwasAngelndes" title="EtwasAngelndes" /> 
+<img src="../../../assets/image/Wiki Team/zS0uth-skin.png" alt="zS0uth" title="zS0uth" /> <img src="../../../assets/image/Wiki Team/EtwasAngelndes-skin.png" alt="PietTime" title="PietTime" /> 
 <img src="../../../assets/image/Wiki Team/Realcrafter7812-skin.png" alt="RealCraft7812" title="RealCrafter7812" /> <img src="../../../assets/image/Wiki Team/Frage-skin.png" alt="???" title="???" />
 
 </center>
