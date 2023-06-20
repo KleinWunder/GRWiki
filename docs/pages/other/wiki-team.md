@@ -24,9 +24,11 @@
 
 </center>
 
-  <p> </p>
+<center>
+  
+<img src="../../../assets/image/Wiki Team/Realcrafter7812-skin.png" alt="RealCraft7812" title="RealCrafter7812" />
 
-<img src="../../../assets/image/Wiki Team/realcrafter7812-skin.png" alt="RealCraft7812" title="RealCrafter7812" />
+</center>
 
 ### Informationen
   
