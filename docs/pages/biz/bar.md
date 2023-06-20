@@ -3,7 +3,7 @@
 In Bars werden Getränke verkauft. (**/navi Bar-1/2/3**) <img align="right" width="300" eight="150" src="../../../assets/image/biz/Bar-Kaufmenü.png"> 
 
 
-In den Bars werden folgende Artikel verkauft: 
+In der Bar werden folgende Artikel verkauft: 
 
 + Cola
 + Limonade
