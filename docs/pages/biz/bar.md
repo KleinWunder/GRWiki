@@ -11,7 +11,7 @@ In der Bar werden folgende Artikel verkauft:
   
 
 
-### Standorte der Bars
+### Standorte der Bars <img align="right" width="300" eight="150" src="../../../assets/image/biz/Bar-1.png" alt="Bar-1" title="Bar-1">
 
 | Name | Ort | Nächste Bushaltestelle |
 |:-:|:-:|:-:|
