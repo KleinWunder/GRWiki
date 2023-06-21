@@ -1,5 +1,5 @@
 # Waffenladen
-In einem Waffenladen lassen sich Waffen und Munition für Selbstverteidigung kaufen. Hier kannst du auch an deine Waffen ein Waffenaddon anbringen.
+In einem Waffenladen lassen sich Waffen und Munition für Selbstverteidigung kaufen. Hier kannst du auch an deine Waffen ein Waffenaddon anbringen. (**/navi Waffenladen-1/2/3/4**)
 
 In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300" eight="150" src="../../../assets/image/biz/Waffenladen-Kaufmenü.png">
 
