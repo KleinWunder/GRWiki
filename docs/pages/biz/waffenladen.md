@@ -3,9 +3,9 @@ In einem Waffenladen lassen sich Waffen und Munition für Selbstverteidigung kau
 
 In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300" eight="150" src="../../../assets/image/biz/Waffenladen-Kaufmenü.png">
 
-+ P-51 (Handschusswaffe)
-+ MX8 (Maschinenpistole)
-+ Havok-47 (Sturmgewehr)
++ [P-51](../../pages/items/pistole.md) (Handschusswaffe)
++ [MX8](../../pages/items/maschinenpistole.md) (Maschinenpistole)
++ [Havok-47](../../pages/items/sturmgewehre.md) (Sturmgewehr)
 + Normale Munition
 + Kleine Munition
 
@@ -13,7 +13,7 @@ In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300"
 
     Waffenaddons können mit der Waffe kombiniert werden in dem man auf den Amboss im NPC-Menü drückt und Waffe + Addon kombiniert
 
-## standorte der Waffenläden
+## Standorte der Waffenläden
 
 | Name | Stadtteil | Nächste Bushaltestelle |
 |:-:|:-:|:-:|
