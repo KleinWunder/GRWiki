@@ -1,6 +1,5 @@
 # Waffenladen
 In einem Waffenladen lassen sich Waffen und Munition für Selbstverteidigung kaufen. Hier kannst du auch an deine Waffen ein Waffenaddon anbringen. (**/navi Waffenladen-1/2/3/4**) 
-<img align="center" width="200" eight="125" src="../../../assets/image/biz/Waffenladen-1.png">
 
 In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300" eight="150" src="../../../assets/image/biz/Waffenladen-Kaufmenü.png">
 
@@ -14,7 +13,7 @@ In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300"
 
     Waffenaddons können mit der Waffe kombiniert werden in dem man auf den Amboss im NPC-Menü drückt und Waffe + Addon kombiniert
 
-## Standorte der Waffenläden
+## Standorte der Waffenläden <img align="left" width="300" eight="150" src="../../../assets/image/biz/Waffenladen-1.png">
 
 | Name | Stadtteil | Nächste Bushaltestelle |
 |:-:|:-:|:-:|
