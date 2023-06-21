@@ -13,9 +13,9 @@ In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300"
 
     Waffenaddons können mit der Waffe kombiniert werden in dem man auf den Amboss im NPC-Menü drückt und Waffe + Addon kombiniert
 
-## Standorte der Waffenläden <img align="center" width="300" eight="150" src="../../../assets/image/biz/Waffenladen-1.png">
+## Standorte der Waffenläden 
 
-| Name | Stadtteil | Nächste Bushaltestelle |
+| Name | Stadtteil | Nächste Bushaltestelle | <img align="justify" width="300" eight="150" src="../../../assets/image/biz/Waffenladen-1.png">
 |:-:|:-:|:-:|
 | Waffenladen-1 | Oststadt | Oststadt |
 | Waffenladen-2 | County | County |
