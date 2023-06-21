@@ -9,6 +9,10 @@ In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300"
 + Normale Munition
 + Kleine Munition
 
+!!! "Waffenaddon anbringen"
+
+    Waffenaddons können mit der Waffe kombiniert werden in dem man auf den Amboss im NPC-Menü drückt und Waffe + Addon kombiniert
+
 ## standorte der Waffenläden
 
 | Name | Stadtteil | Nächste Bushaltestelle |
