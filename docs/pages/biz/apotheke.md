@@ -8,7 +8,7 @@ In der Apotheke werden folgende Artikel verkauft: Bandagen, Nasensalbe & Hustenb
 * Nasensalbe: Bei Nasenbluten.
 * Hustenbonbons:  Bei Husten.
 
-## Lage der Apotheken 
+## Lage der Apotheken <img align="right" width="300" eight="150" src="../../../assets/image/biz/Apotheke-1.png" alt="Apotheke-1" title="Apotheke-1">
 | Name | Ort | Nächste [Bushaltestelle] |
 |:-:|:-:|:-:|
 | Apotheke-1 | Downtown | Postzentrale |
