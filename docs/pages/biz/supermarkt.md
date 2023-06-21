@@ -16,7 +16,7 @@ Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" e
   
 
 
-### Standorte der Supermärkte
+### Standorte der Supermärkte <img align="right" width="300" eight="150" src="../../../assets/image/biz/Supermarkt-1" alt="Supermarkt-1" title="Supermarkt-1">
 
 | Name | Ort | Nächste Bushaltestelle |
 |:-:|:-:|:-:|
