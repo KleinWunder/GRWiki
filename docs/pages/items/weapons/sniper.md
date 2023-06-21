@@ -1,5 +1,5 @@
 # Steenfield
-Die Steenfield ist eine von fünf Schusswaffen, welche es auf dem Server gibt. Die Steeenfield ist eine Pumpgun die ein Cooldown von ca. 3 Sekunden hat, für die das Normale Magazin benötigt wird. Ihr Magazin umfasst 5 Schuss. Desweiteren kann die Waffe mit Waffenaddons ausgestattet werden. Die Waffe ist ein Fraktionsgebundesnes Item, welches man nur erhaltewn kann wenn man in einer Crimefraktion tätig ist.
+Die Steenfield ist eine von fünf Schusswaffen, welche es auf dem Server gibt. Die Steeenfield ist eine Pumpgun die ein Cooldown von ca. 3 Sekunden hat, für die das Normale Magazin benötigt wird. Ihr Magazin umfasst 5 Schuss. Desweiteren kann die Waffe mit Waffenaddons ausgestattet werden. Die Waffe ist ein Fraktionsgebundesnes Item, welches man nur erhalten kann wenn man in einer Crimefraktion tätig ist.
 
 ## Erhalten einer Shotgun
 Die Steenfield kann an Equippunkten der Crimefraktionen abgeholt werden. Die Waffe kostet 1250€. Vorausetzung hierfür ist eine Waffenlizenz, welche in der [Stadthalle](../../pages/gebäude/stadthalle.md) beantragt wird. Die Munition wird in den Waffenläden verkauft.
