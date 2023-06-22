@@ -48,6 +48,14 @@ nav:
     - Häuser: 
       - Allgemein: pages/houses/allgemein.md
       - Hausaddons: pages/houses/hausaddons.md
+    - Öffentliche Orte:
+      - Stadthalle: pages/öffentliche orte/stadthalle.md
+      - Rathaus: pages/öffentliche orte/Rathaus.md
+      - Artztpraxis: pages/öffentliche orte/Artztpraxis.md
+      - Zentralbank: pages/öffentliche orte/zentralbank.md
+      - Börse: pages/öffentliche orte/zentralbank.md
+      - Fahrschule: pages/öffentliche orte/fahrschule.md
+      - Fahrzeughändler: pages/öffentliche orte/fahrzeughändler.md
     - Jobs/Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Farmer: pages/nebenjobs/farmer.md
