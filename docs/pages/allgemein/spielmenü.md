@@ -5,6 +5,9 @@ Das Spielmenü liefert eine Vielzahl an Information zum Spielgeschehen und auch 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## Inhalte des Spielmenüs
 | Inhalt | Beschreibung |
