@@ -50,10 +50,10 @@ nav:
       - Hausaddons: pages/houses/hausaddons.md
     - Öffentliche Orte:
       - Stadthalle: pages/öffentliche orte/stadthalle.md
-      - Rathaus: pages/öffentliche orte/Rathaus.md
-      - Artztpraxis: pages/öffentliche orte/Artztpraxis.md
+      - Rathaus: pages/öffentliche orte/rathaus.md
+      - Artztpraxis: pages/öffentliche orte/artztpraxis.md
       - Zentralbank: pages/öffentliche orte/zentralbank.md
-      - Börse: pages/öffentliche orte/zentralbank.md
+      - Börse: pages/öffentliche orte/börse.md
       - Fahrschule: pages/öffentliche orte/fahrschule.md
       - Fahrzeughändler: pages/öffentliche orte/fahrzeughändler.md
     - Jobs/Nebenjobs:
@@ -81,8 +81,8 @@ nav:
       - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
       - Reifentransport: pages/nebenjobs/reifentransport.md
       - Koch: pages/nebenjobs/koch.md
-      - Sägewerk: pages/nebenjobs/Sägewerk.md
-      - Bergbau: pages/nebenjobs/Bergbau.md
+      - Sägewerk: pages/nebenjobs/sägewerk.md
+      - Bergbau: pages/nebenjobs/bergbau.md
     - Fraktionen:
       - Allgemein: pages/fraktionen/allgemein.md
       - Polizei: pages/fraktionen/polizei.md
