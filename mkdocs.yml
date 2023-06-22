@@ -103,6 +103,7 @@ nav:
         - MX8: pages/items/weapons/maschinenpistole.md
         - Havok-47: pages/items/weapons/sturmgewehre.md
         - Steenfield/RTB-X: pages/items/weapons/sniper.md
+        - Waffenaddons: pages/items/weapons/waffenaddons.md
     - Skills:
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md
