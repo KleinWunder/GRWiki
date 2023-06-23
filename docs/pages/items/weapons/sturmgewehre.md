@@ -1,7 +1,7 @@
 # Havok-47
 
 Die Havok-47 ist ein automatisches Gewehr, für die man das normale Magazin braucht. Ein Magazin umfasst 20 Schuss.
-Man kann sie außerdem auch mit [Waffenaddons](pages/other/weaponaddons) ausstatten. <img align="right" width="300" eight="150" src="../../../../assets/image/items/weapons/Sturmgewehr.png"> 
+Man kann sie außerdem auch mit [Waffenaddons](pages/other/weaponaddons) ausstatten. <img align="right" width="200" eight="150" src="../../../../assets/image/items/weapons/Sturmgewehr.png"> 
 
 ## Erhalten eines Sturmgewehres
 Die  Havok-47 kann in jedem [Waffenladen](./../../biz/waffenladen.md) gekauft werden, wobei der Preis von dem Waffenladen abhängt.
