@@ -9,7 +9,7 @@ Jedes Pet hat seine eigenen Fähigkeiten und kann um mehrere Stufen im Tierheim 
 
 Zur Zeit gibt es 11 verschiedene Pets.
 Jedes Pet ist einem bestimmten Skill zugeordnet.
- Manche Pets teilen sich einen Skill.  <img align="right" width="150" eight="200" src="../../../assets/image/pets/Petmenü.png">
+ Manche Pets teilen sich einen Skill.  <img align="right" width="300" eight="200" src="../../../assets/image/pets/Petmenü.png">
 
  - [Katze](katze.md) ([Social-Skill](../../pages/skills/social.md))
  - [Hund](hund.md) ([Combat-Skill](../../pages/skills/combat.md))
