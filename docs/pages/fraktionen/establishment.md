@@ -23,3 +23,6 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 
 ## Lage des Hauptquartiers
+<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/EstablishmentHQ.png">
+
+Zum Establishment gelangt man, indem man den Bus zur Justizvollzugsanstalt verwendet.
