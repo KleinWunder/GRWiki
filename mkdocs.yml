@@ -12,7 +12,7 @@ nav:
         - Stündliche Abrechnung: pages/allgemein/payday.md
         - Bürgermeister: pages/allgemein/bürgermeister.md
       - Shops & VIP:
-        - Bonus-Shop: pages/allgemein/Bonuspunkte.md
+        - Bonus-Shop: pages/allgemein/bonuspunkte.md
         - VIP-Status: pages/allgemein/vip.md
       - Fortschritt:
         - Level: pages/allgemein/level.md
@@ -35,11 +35,11 @@ nav:
       - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
       - Krankeiten:
         - Dehydration: pages/krankheiten/dehydration.md
-        - Grippe: pages/krankheiten/Grippe.md
+        - Grippe: pages/krankheiten/grippe.md
         - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
     - Substanzen:
       - Antibiotika: pages/bmt/antibiotika.md
-      - Betablocker: pages/bmt/Betablocker.md
+      - Betablocker: pages/bmt/betablocker.md
       - Paracetamol: pages/bmt/paracetamol.md
       - Grippostat: pages/bmt/grippostat.md
       - Heilkraut: pages/bmt/heilkraut.md
@@ -49,14 +49,14 @@ nav:
     - Häuser: 
       - Allgemein: pages/houses/allgemein.md
       - Hausaddons: pages/houses/hausaddons.md
-    - Öffentliche Orte:
-      - Stadthalle: pages/öffentliche orte/stadthalle.md
-      - Rathaus: pages/öffentliche orte/rathaus.md
-      - Artztpraxis: pages/öffentliche orte/artztpraxis.md
-      - Zentralbank: pages/öffentliche orte/zentralbank.md
-      - Börse: pages/öffentliche orte/börse.md
-      - Fahrschule: pages/öffentliche orte/fahrschule.md
-      - Fahrzeughändler: pages/öffentliche orte/fahrzeughändler.md
+    - Orte:
+      - Stadthalle: pages/orte/stadthalle.md
+      - Rathaus: pages/orte/rathaus.md
+      - Artztpraxis: pages/orte/artztpraxis.md
+      - Zentralbank: pages/orte/zentralbank.md
+      - Börse: pages/orte/börse.md
+      - Fahrschule: pages/orte/fahrschule.md
+      - Fahrzeughändler: pages/orte/fahrzeughändler.md
     - Jobs/Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Farmer: pages/nebenjobs/farmer.md
@@ -88,16 +88,16 @@ nav:
       - Allgemein: pages/fraktionen/allgemein.md
       - Polizei: pages/fraktionen/polizei.md
       - Rettungsdienst: pages/fraktionen/rettungsdienst.md
-      - Medellín Kartell: pages/fraktionen/medellin kartell.md
-      - Sinaloa Kartell: pages/fraktionen/sinaloa kartell.md
+      - Medellín Kartell: pages/fraktionen/kartell.md
+      - Sinaloa Kartell: pages/fraktionen/cds.md
       - Camorra: pages/fraktionen/camorra.md
       - Yakuza: pages/fraktionen/yakuza.md
-      - The Establishment: pages/fraktionen/the establishment.md
+      - The Establishment: pages/fraktionen/establishment.md
       - Aktivitäten: 
         - Allgemein: pages/fraktionen/aktivitäten.md
     - Pflanzen:
-      - Heilkraut: pages/Pflanzen/heilkraut.md
-      - Rosen: pages/Pflanzen/rosen.md
+      - Heilkraut: pages/pflanzen/heilkraut.md
+      - Rosen: pages/pflanzen/rosen.md
     - Items:
       - Weapons:
         - P-51: pages/items/weapons/pistole.md
@@ -125,7 +125,7 @@ nav:
       - Fledermaus: pages/pets/fledermaus.md
       - Hase: pages/pets/hase.md
       - Biene: pages/pets/biene.md
-      - Capybara: pages/pets/Capybara.md
+      - Capybara: pages/pets/capybara.md
     - Sonstiges:
       - AFK: pages/other/afk.md
   - Links: pages/other/links.md

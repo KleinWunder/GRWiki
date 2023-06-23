@@ -3,9 +3,9 @@ In einem Waffenladen lassen sich Waffen und Munition für Selbstverteidigung kau
 
 In Waffenladen werden folgende Artikel Verkauft:  <img align="right" width="300" eight="150" src="../../../assets/image/biz/Waffenladen-Kaufmenü.png">
 
-+ [P-51](../../pages/items/pistole.md) (Handschusswaffe)
-+ [MX8](../../pages/items/maschinenpistole.md) (Maschinenpistole)
-+ [Havok-47](../../pages/items/sturmgewehre.md) (Sturmgewehr)
++ [P-51](../../pages/items/weapons/pistole.md) (Handschusswaffe)
++ [MX8](../../pages/items/weapons/maschinenpistole.md) (Maschinenpistole)
++ [Havok-47](../../pages/items/weapons/sturmgewehre.md) (Sturmgewehr)
 + Normale Munition
 + Kleine Munition
 

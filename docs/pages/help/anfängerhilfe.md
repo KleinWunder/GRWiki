@@ -20,13 +20,13 @@ Die Jobroute (Start bei der Bushaltestelle Uniklinikum)
 
 1. [Wäschetransport](../../pages/nebenjobs/wäschetransport.md)
 2. [Wäscherei](../../pages/nebenjobs/wäscherei.md)
-3. [Gärtnerei](../../pages/nebenjobs/gärtnerei.md)
+3. [Gärtnerei](../../pages/nebenjobs/gärtner.md)
 4. [Farmer](../../pages/nebenjobs/farmer.md)
 5. [Winzer](../../pages/nebenjobs/winzer.md)
 6. [Getränketransport](../../pages/nebenjobs/getränketransport.md)
 7. [Straßenreiniger](../../pages/nebenjobs/straßenreiniger.md)
 8. [Tellerwäscher](../../pages/nebenjobs/tellerwäscher.md)
-9. [Paketsotierer](../../pages/nebenjobs/paketsotierer.md)
+9. [Paketsotierer](../../pages/nebenjobs/paketsortierer.md)
 10. [Zeitungsjunge](../../pages/nebenjobs/zeitungsjunge.md)
 
 Eine genauere Beschreibung findest du im [Forum](https://germanrp.eu/forum/index.php?thread/8343-jobroute-stand-15-11-2022/&postID=52027#post52027). Nach jedem zehnten erledigtem Job kannst du deine Jobrotation abholen.

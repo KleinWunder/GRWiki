@@ -15,7 +15,7 @@ Auf dem Server gibt es insgesamt 3 Mafias unterschiedlicher Herkunften und Konze
 
 * Die italienische Mafia ([Camorra](camorra.md))
 * Die japanische Mafia ([Yakuza](yakuza.md))
-* Die britische Mafia ([The Establishment](the%20establishment.md)) 
+* Die britische Mafia ([The Establishment](establishment.md)) 
 
 ## Kartell
 
@@ -24,6 +24,6 @@ Die Karteller sind stolze Personen, die eigensinnig und zielorientiert handeln.
 
 Auf dem Server gibt es 2 Kartelle:
     
-* Das kolumbianische Kartell ([Medellín Kartell](medellin%20kartell.md))
-* Das mexikanische Kartell ([Sinaloa Kartell](sinaloa%20kartell.md))
+* Das kolumbianische Kartell ([Medellín Kartell](kartell.md))
+* Das mexikanische Kartell ([Sinaloa Kartell](cds.md))
     
