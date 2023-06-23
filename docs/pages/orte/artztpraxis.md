@@ -1,6 +1,6 @@
 # Arztpraxis
 
-Die Arztpraxis von Dr. Fath befindet sich in Downtown. Sie ist mit **/navi Arztpraxis** zu finden. Dr. Fath kann fast alles behandeln, was der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) kann, bis auf die Impfung.
+Die Arztpraxis von Dr. Fath befindet sich in Downtown. Sie ist mit **/navi Arztpraxis** zu finden. Dr. Fath kann fast alles behandeln, was der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) kann, bis auf die Impfung. <img align="right" width="275" eight="150" src="../../../assets/image/orte/Arztpraxis.png"> 
 
 ## Verfügbarkeit 
 
