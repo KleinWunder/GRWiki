@@ -30,5 +30,6 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 | [RTB-X ](../../pages/items/sniper.md) | Fernkampf |
 
 ## Lage der Polizeistationen
+<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/PolizeiHQ.png">
 
 Zu der Polizeistation gelangt man, indem man den Bus zur Polizeipräsidium verwendet. Zudem gibt es auf der Karte verteilt zwei weitere Nebenstellen der Polizei. Im Reichenviertel ist das Polizeirevier-Süd aufzufinden, dessen Bushaltestation "Reichenviertel" ist. Das Polizeirevier-West ist in Westside zu finden, hier auch mit der gleichnamigen Bushaltestelle.  
