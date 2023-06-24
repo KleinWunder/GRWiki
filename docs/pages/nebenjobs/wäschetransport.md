@@ -1,5 +1,6 @@
 # Wäschetransport (Nebenjob)
 Der Wäschetransport ist ein Nebenjob, welcher im Uniklinikum angenommen wird. <img align="right" width="300" eight="150" src="../../../assets/image/fraktionen/MedicHQ.png">
+
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Uniklinik |
