@@ -1,5 +1,5 @@
 # Fensterputzer (Nebenjob)
-Der Fensterputzer ist ein Nebenjob, welcher bei der JVA ausgeführt wird.
+Der Fensterputzer ist ein Nebenjob, welcher bei der JVA ausgeführt wird. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Fensterputzer.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
