@@ -1,5 +1,13 @@
 ## Koch (Nebenjob)
-Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann.
+Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Koch.png">
+
+| <!-- --> | <!-- --> |
+| :-: | :-: |
+| Bushaltestelle | Polizeipräsidium |
+| Navi | /navi JVA |
+| Dauer | ca. 3 Minuten |
+| Cooldown | 7 Minuten |
+| Gewinn | Geld, XP, (Koch-XP)[../../skills/kochen.md] |
 
 ## Aufgaben
 1. Sammle alle Zutaten auf.
