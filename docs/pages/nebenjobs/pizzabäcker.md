@@ -6,7 +6,7 @@ Der Pizzabäcker ist ein Nebenjob, welcher in der Pizzera erledigt wird. <img al
 | Bushaltestelle | Reichenviertel |
 | Navi | /navi Pizzeria |
 | Dauer | ca. 2 Minuten |
-| Cooldown | 7Minuten |
+| Cooldown | 7 Minuten |
 | Gewinn | Geld, XP, [Koch-XP](../../pages/skills/kochen.md) |
 
 ## Aufgaben
