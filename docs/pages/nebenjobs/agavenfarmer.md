@@ -1,5 +1,5 @@
 # Agavenfarmer (Nebenjob)
-Der Agavenfarmer ist ein Nebenjob, welcher am Truck bei der Agavenfarm gestartet wird.
+Der Agavenfarmer ist ein Nebenjob, welcher am Truck bei der Agavenfarm gestartet wird. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Agavenfarm.png">
 
 
 | <!-- --> | <!-- --> |
