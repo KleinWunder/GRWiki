@@ -1,5 +1,5 @@
 # Bademeister (Nebenjob)
-Der Bademeister ist ein Nebenjob, welcher im Hallenbad ausgeführt werden kann.
+Der Bademeister ist ein Nebenjob, welcher im Hallenbad ausgeführt werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Schwimmbad.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
