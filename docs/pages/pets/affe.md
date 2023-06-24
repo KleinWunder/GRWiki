@@ -5,7 +5,7 @@
 Wie auch nicht anders zu erwarten hängt so ein Affe gerne in den Bäumen rum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der [Biene](biene.md) als effektivster Booster des **Farming** Skill-XP.  
 
 ## Die verschiedenen Stufen des Affen
-| Stufe | Langfinger | Effizenz | Affenstark |
+| Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
 | Gewöhnlich | Erhalte 20% mehr [Farming-XP](../../pages/skills/farming.md) |
 | Ungewöhnlich | Erhalte 40% mehr Farming-XP |
