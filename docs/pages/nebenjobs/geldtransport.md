@@ -1,5 +1,5 @@
 # Geldtransport (Nebenjob)
-Der Geldtransport ist ein Nebenjob, welcher in der Zentralbank angenommen wird.
+Der Geldtransport ist ein Nebenjob, welcher in der Zentralbank angenommen wird. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Zentralbank.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
