@@ -1,5 +1,5 @@
 # Imker (Nebenjob)
-Der Imker ist ein Nebenjob, welcher beim Imker-NPC gestartet wird.
+Der Imker ist ein Nebenjob, welcher beim Imker-NPC gestartet wird. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | County |
