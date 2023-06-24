@@ -7,7 +7,7 @@ Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann. <img alig
 | Navi | /navi JVA |
 | Dauer | ca. 3 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, XP, [Koch-XP](../skills/kochen.md) |
+| Gewinn | Geld, XP, [Koch-XP](../../pages/skills/kochen.md) |
 
 ## Aufgaben
 1. Sammle alle Zutaten auf.
