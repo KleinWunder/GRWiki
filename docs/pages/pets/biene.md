@@ -5,7 +5,7 @@
 Die Biene hält sich gerne in der Nähe vom [Sägewerk](../../pages/nebenjobs/sägewerk.md) bei den Pflanzen auf. Irgendwann traut sich eine Biene zu einem Spieler zu fliegen. So bekommt man auch die Bienen während des Holz fällen und verhilft einem zur mehr Haltbarkeit an der [Axt](https://github.com/ImGxrke/GRWiki/blob/master/docs/pages/nebenjobs/sägewerk.md#äxte).
 
 ## Die verschiedenen Stufen der Biene
-| Stufe | Eleganter Umgang | Teamarbeit | Bienenstark |
+| Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
 | Gewöhnlich | Deine Axt verliert mit einer 5% Chance keine Haltbarkeit beim Abbauen. |
 | Ungewöhnlich | Deine Axt verliert mit einer 10% Chance keine Haltbarkeit beim Abbauen. |
