@@ -1,5 +1,5 @@
 # Zeitungsjunge (Nebenjob)
-Der Zeitungjunge ist ein Nebenjob, welcher oben im Rathaus angenommen werden kann.
+Der Zeitungjunge ist ein Nebenjob, welcher oben im Rathaus angenommen werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Rathaus.png">
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Postzentrale |
