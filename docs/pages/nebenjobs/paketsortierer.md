@@ -1,5 +1,6 @@
 # Paketsortierer (Nebenjob)
 Der Paketsortier ist ein Nebenjob, welcher bei der Post angenommen wird. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Postzentrale.png">
+
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Postzentrale |
