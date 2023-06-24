@@ -1,5 +1,3 @@
-## Allgemein
-
 Auf GermanRP ist eine Vielzahl von Pets erhältlich.
 Die Pets bringen dem Spieler gewisse Vorteile in bestimmten Situationen.
 Sie agieren in Verbindung mit den [Skills](../../pages/skills/allgemein.md) des Spielers. 
