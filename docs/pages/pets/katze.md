@@ -4,7 +4,7 @@ Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man 
 
 ## Gewöhnlich bis Selten
 
-Der Standard-Effekt des Hundes ist die Steigerung der Social-XP. Von Gewöhnlich bis Selten erhält man die Faktoren **20%, 40%** beziehungsweise **50%**.
+Der Standard-Effekt der Katze ist die Steigerung der Social-XP. Von Gewöhnlich bis Selten erhält man die Faktoren **20%, 40%** beziehungsweise **50%**.
 
 ## Episch und Legendär
 
