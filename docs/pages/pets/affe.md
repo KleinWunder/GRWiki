@@ -1,4 +1,4 @@
-# Affe
+# Affe <img align="right" width="70" eight="75" src="../../../assets/image/pets/Affe.png">
 
 Wie auch nicht anders zu erwarten hängt so ein Affe gerne in den Bäumen rum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der Biene als effektivster Booster des **Farming** Skill-XP.  <img align="right" width="70" eight="75" src="../../../assets/image/pets/Affe.png">
 
