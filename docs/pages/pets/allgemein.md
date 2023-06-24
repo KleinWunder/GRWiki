@@ -26,14 +26,15 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
 
 ## Pets verbessern
 
+ <img align="right" width="150" eight="200" src="../../../assets/image/pets/Petupgrade.png">
+ 
+
  Um dein Pet zu verbessern musst du dich einmal auf den Weg zum Tierheim machen.
  Dort kannst du dann mit Kate sprechen und dein Pet von **Gewöhnlich** auf maximal **Selten** verbessern.
  Solltest du dein Pet weiter verbessern wollen, musst du dir ein Petupgrade besorgen.
  Damit kannst du dann zu Dorothea gehen und dein Pet von Selten auf Episch verbessern.
  Diesen Vorgang kannst du öfters wiederholen bis du ein Ultralegendäres Pet hast. 
  
- 
- <img align="right" width="150" eight="200" src="../../../assets/image/pets/Petupgrade.png">
 
 ## Eier
 
