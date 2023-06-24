@@ -115,17 +115,17 @@ nav:
       - Kochen: pages/skills/kochen.md
     - Pets:
       - Allgemein: pages/pets/allgemein.md
-      - Katze: pages/pets/katze.md
-      - Hund: pages/pets/hund.md
       - Affe: pages/pets/affe.md
-      - Papagei: pages/pets/papagei.md
-      - Rentier: pages/pets/rentier.md
-      - Wolf: pages/pets/wolf.md
-      - Schmetterling: pages/pets/schmetterling.md
-      - Fledermaus: pages/pets/fledermaus.md
-      - Hase: pages/pets/hase.md
       - Biene: pages/pets/biene.md
       - Capybara: pages/pets/capybara.md
+      - Fledermaus: pages/pets/fledermaus.md
+      - Hase: pages/pets/hase.md
+      - Hund: pages/pets/hund.md
+      - Katze: pages/pets/katze.md
+      - Papagei: pages/pets/papagei.md
+      - Rentier: pages/pets/rentier.md
+      - Schmetterling: pages/pets/schmetterling.md
+      - Wolf: pages/pets/wolf.md
     - Sonstiges:
       - AFK: pages/other/afk.md
   - Links: pages/other/links.md
