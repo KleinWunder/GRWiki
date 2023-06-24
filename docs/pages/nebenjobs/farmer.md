@@ -1,5 +1,5 @@
 # Farmer (Nebenjob)
-Der Farmer ist ein Nebenjob, welcher sich direkt an der Farm befindet.
+Der Farmer ist ein Nebenjob, welcher sich direkt an der Farm befindet. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Farmer.png">
 
 
 
