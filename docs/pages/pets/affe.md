@@ -1,19 +1,18 @@
 # Affe
 
-Wie auch nicht anders zu erwarten hängt so ein Affe gerne in den Bäumen rum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der Biene als effektivster Booster der **Farming** Skill-XP
+Wie auch nicht anders zu erwarten hängt so ein Affe gerne in den Bäumen rum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der Biene als effektivster Booster des **Farming** Skill-XP.
 
-## Gewöhnlich
-Erhalte 20% mehr [[Farming-Skill|Farming-XP]]
+## Gewöhnlich bis Selten
+Erhalte 20% mehr [Farming-XP]
 
-## Ungewöhnlich
 Erhalte 40% mehr
 Farming-XP
 
-## Selten
 Erhalte 50% mehr
 Farming-XP
 
-## Episch
+## Episch bis Legendär
+
 Erhalte 60% mehr
 Farming-XP
 Deine [[Werkzeug|Axt]] verliert mit einer 
