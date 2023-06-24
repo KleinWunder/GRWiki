@@ -1,5 +1,5 @@
 # Wäscherei (Nebenjob)
-Der Wäscherei-Job ist ein Nebenjob, welcher in der Wäscherei angenommen werden kann.
+Der Wäscherei-Job ist ein Nebenjob, welcher in der Wäscherei angenommen werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Wäscherrei.png">
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Polizeipräsidium |
