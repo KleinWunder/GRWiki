@@ -1,5 +1,6 @@
 # Straßenreiniger (Nebenjob)
 Der Straßenreiniger ist ein Nebenjob, welcher bei der Stadthalle gestartet wird. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Stadthalle.png">
+
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Postzentrale |
