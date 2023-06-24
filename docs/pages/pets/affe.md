@@ -4,7 +4,7 @@ Wie auch nicht anders zu erwarten hängt so ein Affe gerne in den Bäumen rum. V
 
 ## Die verschiedenen Stufen des Affen
 | Stufe | Langfinger | Effizenz | Affenstark |
-|:-:|:-:|:-:|:-::|
+|:-:|:-:|:-:|:-:|
 | Gewöhnlich | Erhalte 20% mehr [Farming-XP](../../pages/skills/farming.md) |
 | Ungewöhnlich | Erhalte 40% mehr Farming-XP |
 | Selten | Erhalte 50% mehr Farming-XP |
