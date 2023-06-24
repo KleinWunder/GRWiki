@@ -1,5 +1,5 @@
 # Erztransport (Nebenjob)
-Der Erztransport ist ein Nebenjob, welcher beim Salzbergwerk gestartet wird.
+Der Erztransport ist ein Nebenjob, welcher beim Salzbergwerk gestartet wird. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Erztransport.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
