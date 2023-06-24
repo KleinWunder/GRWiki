@@ -1,5 +1,6 @@
 # Munitionstransport (Nebenjob)
 Der Munitionstransport ist ein Nebenjob, welcher bei der Lagerhalle in der Nähe von der Geldwäsche angenommen werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Munitionstransport.png">
+
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | JVA |
