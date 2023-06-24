@@ -1,7 +1,7 @@
 # Winzer (Nebenjob)
 
 Der Winzer ist ein Nebenjob, welcher sich am Weinberg befindet. 
-(**/navi Winzer**)
+(**/navi Winzer**) <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Winzer.png">
 
 
 | Bushaltestelle | Farm |
