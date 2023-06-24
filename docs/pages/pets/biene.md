@@ -4,7 +4,7 @@
 
 Die Biene hält sich gerne in der Nähe vom Sägewerk bei den Pflanzen auf. Irgendwann traut sich eine Biene zu einem Spieler zu fliegen. So bekommt man auch die Bienen während der Arbeit am Sägewerk und verhilft einem zur mehr Haltbarkeit an der Axt.
 
-## Die verschiedenen Stufen des Affen
+## Die verschiedenen Stufen der Biene
 | Stufe | Eleganter Umgang | Teamarbeit | Bienenstark |
 |:-:|:-:|:-:|:-:|
 | Gewöhnlich | Deine [Axt](https://github.com/ImGxrke/GRWiki/blob/master/docs/pages/nebenjobs/sägewerk.md#äxte) verliert mit einer 5% Chance keine Haltbarkeit beim Abbauen. |
