@@ -1,5 +1,5 @@
 # Honigtransport (Nebenjob)
-Der Honigransport ist ein Nebenjob, welcher beim Imker-NPC angenommen wird.
+Der Honigransport ist ein Nebenjob, welcher beim Imker-NPC angenommen wird. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
