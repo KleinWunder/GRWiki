@@ -1,5 +1,6 @@
 # Tellerwäscher (Nebenjob)
 Der Tellerwäscher ist ein Nebenjob, welcher am Starblocks 1 gestartet werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Tellerwäscher.png">
+
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | Bushaltestelle | Postzentrale |
