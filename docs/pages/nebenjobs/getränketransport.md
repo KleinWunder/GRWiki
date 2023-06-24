@@ -1,5 +1,5 @@
 # Getränketransport (Nebenjob)
-Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges befindet.
+Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges befindet. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Winzer.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
