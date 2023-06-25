@@ -97,6 +97,7 @@ nav:
         - Allgemein: pages/fraktionen/aktivitäten.md
     - Pflanzen:
       - Heilkraut: pages/pflanzen/heilkraut.md
+      - Mohnfeld: pages/pflanzen/mohnfeld.md
       - Rosen: pages/pflanzen/rosen.md
     - Items:
       - Weapons:
