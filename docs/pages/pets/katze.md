@@ -5,7 +5,7 @@
 
 Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man sie meist aber als eher arrogante, edlere Tiere ansieht, haben sie einen starken Einfluss auf die [Social Skill-XP](../../pages/skills/social.md). Sie können im [Tierheim](../../pages/gebäude/tierheim.md) gekauft werden.
 
-## Die verschiedenen Stufen des Hundes
+## Die verschiedenen Stufen der Katze
 
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
