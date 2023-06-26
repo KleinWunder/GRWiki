@@ -2,12 +2,12 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Affe.png">
 
-Wie auch nicht anders zu erwarten hängt so ein Affe gerne in den Bäumen rum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der [Biene](biene.md) als effektivster Booster des **Farming** Skill-XP.  
+Wie auch nicht anders zu erwarten hängt so ein Affe gerne in den Bäumen rum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der [Biene](biene.md) als effektivster Booster des [Farming Skill-XP](../../pages/skills/farming.md).  
 
 ## Die verschiedenen Stufen des Affen
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
-| Gewöhnlich | Erhalte 20% mehr [Farming-XP](../../pages/skills/farming.md) |
+| Gewöhnlich | Erhalte 20% mehr Farming-XP |
 | Ungewöhnlich | Erhalte 40% mehr Farming-XP |
 | Selten | Erhalte 50% mehr Farming-XP |
 | Episch | Erhalte 60% mehr Farming-XP | Deine [Axt](https://github.com/ImGxrke/GRWiki/blob/master/docs/pages/nebenjobs/sägewerk.md#äxte) verliert mit einer 5% Chance keine Haltbarkeit beim Abbauen. |
