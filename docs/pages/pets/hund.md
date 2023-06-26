@@ -1,15 +1,16 @@
 # Hund
 
+<img align="right" width="70" eight="75" src="../../../assets/image/pets/Hund.png">
+
 Der Hund gilt nicht nur als treuer Gefährte des Menschen, sondern ist auch neben dem Wolf der effektivste Booster für die **Combat** Skill-XP. Man erhält ihn entweder im Tierheim oder durch das Durchwühlen von Mülleimern.
 
-## Gewöhnlich bis Selten
+## Die verschiedenen Stufen des Hundes
 
-Der Standard-Effekt des Hundes ist die Steigerung der Combat-XP. Von Gewöhnlich bis Selten erhält man die Faktoren **20%, 40%** beziehungsweise **50%**.
-
-## Episch und Legendär
-
-Erreicht man die epische Stufe des Hundes erhält man zusätzlich zu den mittlerweile **60%** mehr Combat-XP auch eine zusätzliche Fähigkeit namens "Wahrer Freund" mit einer zusätzliche Chance von **15%**, kein Charakterleben zu verlieren. Wird der Hund nun auf Legendär geupgradet, erhöht sich diese auf **25%** und zusätzlichen **70%** mehr Skill-XP.
-
-## Ultralegendär
-
-Auf Ultralegendär erhält der Hund nicht nur **80%** mehr Combat-XP, sondern auch eine **35%ige** Chance kein Charakterleben zu verlieren und seine letzte, speziale Fähigkeit: der Hundebiss mit **5%**. Ist man im Nahkampf, kann es somit passieren dass der Hund einfach mal zubeißt und das kann bekanntlich schon ordentlich schmerzen.
+| Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
+|:-:|:-:|:-:|:-:|
+| Gewöhnlich | Erhalte 20% mehr Gärtner-XP. |
+| Ungewöhnlich | Erhalte 40% mehr Gärtner-XP. |
+| Selten | Erhalte 50% mehr Gärtner-XP. |
+| Episch | Erhalte 60% mehr Gärtner-XP. | Erhöht die Wahrscheinlichkeit von Doubledrops bei Heilkrautpflanzen um 30%. |
+| Legendär | Erhalte 70% mehr Gärtner-XP. | Erhöht die Wahrscheinlichkeit von Doubledrops bei Heilkrautpflanzen um 50%. |
+| Ultralegendär | Erhalte 80% mehr Gärtner-XP. | Erhöht die Wahrscheinlichkeit von Doubledrops bei Heilkrautpflanzen um 60%. | Erhalte mit einer 0,001% Chance 1g Novapulver, wenn deine pflanze Heilkraut abwirft. |
