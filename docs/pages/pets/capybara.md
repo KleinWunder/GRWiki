@@ -6,7 +6,7 @@ Capybara ist ein Wasserschein, welches vorwiegend im Wasser lebt und mehr Fische
 Ein Capybara ist nur bei anderen Spielern über das [Handelshaus](../../pages/gebäude/handelshaus.md) erwerbbar.
 
 
-## Die verschiedenen Stufen der Capybara
+## Die verschiedenen Stufen des Capybaras
 
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
