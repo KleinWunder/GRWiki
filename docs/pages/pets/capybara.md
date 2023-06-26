@@ -2,7 +2,7 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Capybara.png">
 
-Capybara ist ein Wasserschein, welches vorwiegend im Wasser lebt. Mit ihren kleinen Schwimmhäuten holen sie so manch versunkende Truhe vom Meeresgrund hervor.
+Capybara ist ein Wasserschein, welches vorwiegend im Wasser lebt und mehr Fischer-Drops und [XP](../../pages/skills/fischer.md) gibt. Mit ihren kleinen Schwimmhäuten holen sie so manch versunkende Truhe vom Meeresgrund hervor.
 Ein Capybara ist nur bei anderen Spielern über das [Handelshaus](../../pages/gebäude/handelshaus.md) erwerbbar.
 
 
