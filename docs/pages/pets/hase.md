@@ -3,7 +3,7 @@
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Hase.png">
 
 
-## Die verschiedenen Stufen der Hase
+## Die verschiedenen Stufen des Hasens
 
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
