@@ -2,7 +2,7 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Biene.png">
 
-Die Biene hält sich gerne in der Nähe vom [Sägewerk](../../pages/nebenjobs/sägewerk.md) bei den Pflanzen auf. Irgendwann traut sich eine Biene zu einem Spieler zu fliegen. So bekommt man auch die Bienen während des Holz fällen und verhilft einem zur mehr Haltbarkeit an der [Axt](https://github.com/ImGxrke/GRWiki/blob/master/docs/pages/nebenjobs/sägewerk.md#äxte).
+Die Biene hält sich gerne in der Nähe vom [Sägewerk](../../pages/nebenjobs/sägewerk.md) bei den Pflanzen auf. Irgendwann traut sich eine Biene zu einem Spieler zu fliegen. So bekommt man auch die Bienen während des Holz fällen und verhilft einem zur mehr Haltbarkeit an der [Axt](https://imgxrke.github.io/GRWiki/pages/nebenjobs/sägewerk/#axte).
 
 ## Die verschiedenen Stufen der Biene
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
