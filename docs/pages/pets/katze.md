@@ -1,15 +1,17 @@
 # Katze
 
-Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man sie meist aber als eher arrogante, edlere Tiere ansieht, haben sie einen starken Einfluss auf die **Social** Skill-XP.
+<img align="right" width="70" eight="75" src="../../../assets/image/pets/Katze.png">
 
-## Gewöhnlich bis Selten
 
-Der Standard-Effekt der Katze ist die Steigerung der Social-XP. Von Gewöhnlich bis Selten erhält man die Faktoren **20%, 40%** beziehungsweise **50%**.
+Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man sie meist aber als eher arrogante, edlere Tiere ansieht, haben sie einen starken Einfluss auf die [Social Skill-XP](../../pages/skills/social.md). Sie können im [Tierheim](../../pages/gebäude/tierheim.md) gekauft werden.
 
-## Episch und Legendär
+## Die verschiedenen Stufen des Hundes
 
-Erreicht man die epische Stufe der Katze erhält man zusätzlich zu den mittlerweile **60%** mehr Social-XP eine zusätzliche Fähigkeit namens "Katzenleben", welche deine Herz-Regeneration des Social-Skills auf **4 HP** erweitert. Auf der Legendären Stufe erhöht sich diese dann auf **6 HP** mit weiteren **70%** mehr Skill-XP.
-
-## Ultralegendär
-
-Auf Ultralegendär erhält die Katze nicht nur **80%** mehr Social-XP, sondern auch eine höhere Herz-Regeneration durch Social-Skill von **8 HP** und ihre letzte, speziale Fähigkeit: die Katzenpfoten. Mit viel Glück und einer **20%igen** Chance erhältst du durch die Katze keine Beinverletzungen.
+| Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
+|:-:|:-:|:-:|:-:|
+| Gewöhnlich | Erhalte 20% mehr Social-XP. |
+| Ungewöhnlich | Erhalte 40% mehr Social-XP. |
+| Selten | Erhalte 50% mehr Social-XP. |
+| Episch | Erhalte 60% mehr Social-XP. | Regeneration durch Socialskill bringt 4HP (2 :heart:). |
+| Legendär | Erhalte 70% mehr Social-XP. | Regeneration durch Socialskill bringt 6HP (3 :heart:). |
+| Ultralegendär | Erhalte 80% mehr Social-XP. | Regeneration durch Socialskill bringt 8HP (4 :heart:). | Lande mit einer 20% Chance nach einem Sturz ohne eine Beinverletzung. |
