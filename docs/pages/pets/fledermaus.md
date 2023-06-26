@@ -2,6 +2,7 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Fledermaus.png">
 
+Fledermäuse sind in der Regel nachtaktive Tiere. Zum Schlafen ziehen sie sich in Höhlen, Felsspalten, Baumhöhlen oder menschengemachte Unterschlüpfe zurück. Dort kann sie auch eingesetzt werden: Im Bergbau. Sie verhelfen einen zu mehr Bergbau-Xp und nachts erhält man auf der ultralegendären Stufe mehr XP.
 
 ## Die verschiedenen Stufen der Fledermaus
 
