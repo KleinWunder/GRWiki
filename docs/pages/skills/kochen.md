@@ -10,6 +10,6 @@ Der Kochen-Skill kann durch folgende Aktivitäten gelevelt werden:
 
 
 ## Pets
-Folgende [Pets] wirken sich ebenfalls positiv auf den Kochen-Skill aus:
+Folgende Pets wirken sich ebenfalls positiv auf den Kochen-Skill aus:
 
 * [Rentier](../../pages/pets/rentier.md)
