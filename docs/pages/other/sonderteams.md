@@ -6,7 +6,7 @@ Die Sonderteams gliedern sich 5 Aufgabenbereiche, neben diesen 5 Sonderteams gib
 
 Bauteammitglieder, können in den sogenannten Baumodus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Bauteamler ausführen. In diesen Modus hat man als Bauteammitglied die Möglichkeit überall ab zu bauen und neue Dinge zu Platzieren. Da man als Bauteamler viel kaputt machen kann, steht man unter besonderer Beobachtung von einem GR. Eine Person die im Baumodus ist erkennt man daran das sie hinter ihren Namen ein **[Ⓑ](#)** stehen hat. Beispiel: **[GR]KleinWunder [Ⓑ](#)**
 
-Derzeitige Bereichsleitung: **[Nandi124](https://de.namemc.com/profile/ae1e6058-856f-4d07-9c01-2763b5abd0b3)**
+Derzeitige Bereichsleitung: **[Nandi124](https://de.namemc.com/profile/ae1e6058-856f-4d07-9c01-2763b5abd0b3)**<br>
 Derzeitige Co-Leitung: **[zS0uth](https://de.namemc.com/profile/dcdc3c00-4e7a-4fcb-bf8e-93167836e525)**
 
 
@@ -14,7 +14,7 @@ Derzeitige Co-Leitung: **[zS0uth](https://de.namemc.com/profile/dcdc3c00-4e7a-4f
 
 Wikiteammitglieder, sind verwantwortlich fürs gesamte Wiki. Eine der Aufgaben ist Instandhaltung des Wikis. Im Wiki selbst stehen viele Informationen bereit die viele Fragen rund um den Server beantworten sollen.
 
-Derzeitige Bereichsleitung: **[Piewn](https://de.namemc.com/profile/4eebd1c1-90bb-4c97-b9ec-d928a14a8818)**
+Derzeitige Bereichsleitung: **[Piewn](https://de.namemc.com/profile/4eebd1c1-90bb-4c97-b9ec-d928a14a8818)**<br>
 Derzeitige Co-Leitung: **[Hoschiii](https://de.namemc.com/profile/b08d74b1-4d96-4906-b47d-c4d62efc604c)**
 
 
@@ -22,7 +22,7 @@ Derzeitige Co-Leitung: **[Hoschiii](https://de.namemc.com/profile/b08d74b1-4d96-
 
 Eventteammitglieder, können Serverevents veranstalten. Sie organisieren und planen unteranderem z.B. das Ostervent, das Weihnachtsevent, usw. 
 
-Derzeitige Bereichsleitung: **[MasterHero](https://de.namemc.com/profile/0d908b1b-48c1-4742-a45a-b121ab4afa7b)**
+Derzeitige Bereichsleitung: **[MasterHero](https://de.namemc.com/profile/0d908b1b-48c1-4742-a45a-b121ab4afa7b)**<br>
 Derzeitige Co-Leitung: **[zS0uth](https://de.namemc.com/profile/dcdc3c00-4e7a-4fcb-bf8e-93167836e525)**
 
 
@@ -30,7 +30,7 @@ Derzeitige Co-Leitung: **[zS0uth](https://de.namemc.com/profile/dcdc3c00-4e7a-4f
 
 Entwicklerteammitglieder, sind verantwortlich für Updates und konzipierungen. Sie verwalten die Bugreports und Vorschläge der Community. In diesem Team sind Konzeptentwickler wie auch Developer am arbeiten. 
 
-Derzeitige Bereichsleitung: **[KleinWunder](https://de.namemc.com/profile/153a147e-46da-4957-bc6e-fb5bffc5b32f)**
+Derzeitige Bereichsleitung: **[KleinWunder](https://de.namemc.com/profile/153a147e-46da-4957-bc6e-fb5bffc5b32f)**<br>
 Derzeitige Co-Leitung: **[ImGxrke](364931bb-dd11-45b6-a619-8f4125dbac4b)**
 
 
@@ -38,7 +38,7 @@ Derzeitige Co-Leitung: **[ImGxrke](364931bb-dd11-45b6-a619-8f4125dbac4b)**
 
 PR-Teammitglieder, sind verantwortlich für die Socialmediapräsenz. Sie betreiben und verwalten die Socialmedia Accounts auf Instagram, YouTube, Twitter & Co.
 
-Derzeitige Bereichsleitung: **[Ajael](https://de.namemc.com/profile/dfddcfd9-2d9f-4e6a-828c-4e3639699d8a)**
+Derzeitige Bereichsleitung: **[Ajael](https://de.namemc.com/profile/dfddcfd9-2d9f-4e6a-828c-4e3639699d8a)**<br>
 Derzeitige Co-Leitung: **/**
 
 ## Fraktionsmanagement
