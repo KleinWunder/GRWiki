@@ -1,6 +1,6 @@
 # Sonderteams
 
-Die Sonderteams gliedern sich 5 in Aufgabenbereiche, neben diesen 5 Sonderteams gibt es noch 2 Sonderposten die belegt werden.
+Die Sonderteams gliedern sich in 5 Aufgabenbereiche, neben diesen 5 Sonderteams gibt es noch 2 Sonderposten die belegt werden.
 
 ## Bauteam
 
