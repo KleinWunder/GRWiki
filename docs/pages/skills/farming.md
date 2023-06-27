@@ -5,7 +5,7 @@ Der Farming-Skill erhöht die Chance bei alltäglichen Erledigungen seltene & we
 Der Farming-Skill kann durch folgende Aktivitäten gelevelt werden:
 
 * [Nebenjobs](../../pages/nebenjobs/nebenjobs.md)
-* Sägewerk
+* [Sägewerk](../../pages/nebenjobs/sägewerk.md)
 
 ## Pets
 Folgende Pets wirken sich ebenfalls positiv auf den Farming-Skill aus:
