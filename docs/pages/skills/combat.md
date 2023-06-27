@@ -1,6 +1,6 @@
 # Combat-Skill 
 
-Der Combat-Skill schaltet bessere oder taktische Gegenstände zum Kaufen in [Waffenläden](../../pages/biz/waffenladen.md) frei.
+Der Combat-Skill schaltet bessere oder taktische Gegenstände zum Kaufen in [Waffenläden](../../pages/biz/waffenladen.md) frei. Ebenso können sich [Waffenaddons](../../pages/items/weapons/waffenaddons.md) freigeschaltet werden
 
 ## Erhalten der Skill-XP
 
@@ -8,9 +8,9 @@ Den Combat-Skill kann durch folgende Aktivitäten gelevelt werden:
 
 * Fraktionsaktivitäten (Juwelenraub)
 
-* Erschiessen von Leuten mit Fahndungspunkten (Polizei)
-* Jagen von Wölfen
-* Schiessen im Fightclub
+* Erschiessen von Leuten mit [Fahndungspunkten](../pages/allgemein/fahndungspunkte.md) (Polizei)
+* Jagen von [Wölfen](../../pages/nebenjobs/jagd.md)
+* Schiessen im [Fightclub](../../pages/gebäude/fightclub.md)
 
 ## Pets
 
