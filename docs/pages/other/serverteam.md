@@ -1,6 +1,5 @@
 # Serverteam
 
-Das Serverteam 
 Mit dem Befehl **/team** sieht man alle derzeit anwesenden Teammitglieder.
 
 ## Erkennung
@@ -8,7 +7,7 @@ Mit dem Befehl **/team** sieht man alle derzeit anwesenden Teammitglieder.
 Teammitglieder, ab dem Moderatorenrang, können in den sogenannten Staff-Modus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Teammitglied ausführen müssen. Sind die Teammitglieder im Staff, dürfen sie nicht ins RolePlay einbezogen werden und ihr Spielname wird hellrot angezeigt.
 Im Unterschied zu den Moderatoren haben Administratoren eine rote Farbe in der Teamauflistung. Im Teamspeak und auf dem Server sind die Teammitglieder mit einem **[GR]** gekennzeichnet. Beispiel: **[GR]KleinWunder**
 
-Die Senior-Moderatoren und Moderatoren haben eine blaue Farbe in der Teamauflistung, wo Guides hingegen eine orangene Frage haben. Im Teamspeak sind die Guides mit einem **G** gekennzeichnet.
+Die Senior-Moderatoren und Moderatoren haben eine blaue Farbe in der Teamauflistung, wo Guides hingegen eine orangene Farbe haben. Im Teamspeak sind die Guides mit einem **G** gekennzeichnet.
 
 ## Administratoren 
 
@@ -21,14 +20,14 @@ Um Administrator zu werden, muss man sich zuerst als Moderator bzw. Senior Moder
 
 Senior-Moderatoren (SrMods) unterstützen die Admins bei ihrer täglichen Arbeit. Neben ihren normalen Aufgaben als Moderatoren kümmern sie sich um die Accounts auf dem Forum und um Entbannungsanträge. Ebenfalls sind sie dafür zuständig, Navi-Punkte auf der Map zu setzen.
 
-### Bewerbung
+### Aufstieg
 SrMods werden Spieler, welche sich sowohl als Guides und auch als Moderatoren bewiesen haben und das Potenzial aufweisen, um administrativen Aufgaben nachzugehen.
 
 ## Moderatoren 
 
 Moderatoren achten darauf, dass die [Regeln](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) auf dem Server eingehalten werden. Sie helfen bei Bugs und unterstützen die Guides bei ihrer Arbeit. Werden Regeln verletzt, haben die Moderatoren das Recht angemessene Maßnahmen zu ergreifen. Diese Maßnahmen gehen von persönlichen Gesprächen, über Strafpunkte bis hin zu Serverbans.
 
-### Bewerbung
+### Aufstieg
 Um Moderator zu werden, musst man sich zuerst als Guide beweisen. Ist man eine längere Zeit Guide und man hat einen guten Eindruck bei der Administration hinterlassen, stehen die Chancen gut Moderator zu werden. 
 
 ## Guides 
