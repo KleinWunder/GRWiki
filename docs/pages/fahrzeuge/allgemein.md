@@ -36,7 +36,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Dodge Challenger | 135 km/h | 120.0 | 25.0 Liter | 2 | 50.0€ | 18500.0€ |
 | Mercedes G-Klasse | 140.0 km/h | 175.0 | 25.0 Liter | 4 | 75.0€ | 20000.0€ |
 
-### Folgende Fahrzeuge sind für das [VCPD](../../​pages/​fraktionen/​polizei.md) erhältlich.
+### Folgende Fahrzeuge sind für das [VCPD](../../​pages/fraktionen/polizei.md) erhältlich.
 
 | Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
