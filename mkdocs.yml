@@ -51,7 +51,7 @@ nav:
       - Hausaddons: pages/houses/hausaddons.md
     - Orte:
       - Stadthalle: pages/orte/stadthalle.md
-      - Stadthalle: pages/orte/schwarzmarkt.md
+      - Schwarzmarkt: pages/orte/schwarzmarkt.md
       - Rathaus: pages/orte/rathaus.md
       - Artztpraxis: pages/orte/artztpraxis.md
       - Zentralbank: pages/orte/zentralbank.md
