@@ -118,13 +118,13 @@ nav:
         - Steenfield/RTB-X: pages/items/weapons/sniper.md
         - Waffenaddons: pages/items/weapons/waffenaddons.md
     - Skills:
+      - Bergbau: pages/skills/bergbau.md
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md
-      - Gärtner: pages/skills/gärtner.md
-      - Sozial: pages/skills/social.md
       - Fischer: pages/skills/fischer.md
-      - Bergbau: pages/skills/bergbau.md
+      - Gärtner: pages/skills/gärtner.md
       - Kochen: pages/skills/kochen.md
+      - Sozial: pages/skills/social.md
     - Pets:
       - Allgemein: pages/pets/allgemein.md
       - Affe: pages/pets/affe.md
