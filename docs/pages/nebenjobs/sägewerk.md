@@ -1,7 +1,7 @@
 # Sägewerk 
 
 
-<img align="right" width="290" eight="290" src="../../assets/image/nebenjobs/sägewerk.png">
+<img align="right" width="290" eight="290" src="../../../assets/image/nebenjobs/sägewerk.png">
 
 
 
