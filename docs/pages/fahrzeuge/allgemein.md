@@ -49,7 +49,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Polizei Limousine | 145 km/h | 150.0 | 30.0 Liter | 4 | - | 10000.0€ |
 | Polizei Motorad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | 11000.0€ |
 
-### Folgende Fahrzeuge sind für das [VCMD](../../../pages/fraktionen/rettungsdienst.md) erhältlich.
+### Folgende Fahrzeuge sind für das [VCMD](../../../fraktionen/rettungsdienst.md) erhältlich.
 
 | Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
