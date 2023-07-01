@@ -13,4 +13,4 @@ Bei der Prüfung erhält der Prüfling 10 Fragen, die mit 3 Antwortmöglichkeite
 | :-: | :-: |
 | Navipunkt | /navi Fahrschule |
 | Nähste Bushaltestelle | Postzentrale |
-| Führerscheinkosten | 850€ |
+| Führerscheinkosten | 750€ |
