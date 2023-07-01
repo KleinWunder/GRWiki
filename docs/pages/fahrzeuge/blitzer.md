@@ -14,7 +14,7 @@ welche das gleiche Ziel wie Blitzer verfolgen. Radarpistolen sind wie mobile Bli
 
 ## Blitzer Bussgeld
 
-| Geschwindigkeitsüberschreitung | Bussgeld | [Fahndungspunkte](../../pages/​allgemein/​fahndungspunkte.md) |
+| Geschwindigkeitsüberschreitung | Bussgeld | [Fahndungspunkte](../../pages/allgmein/fahndungspunkte.md) |
 |:-:|:-:|:-:|
 | 3-10 km/h | 25€ | Nein |
 | 11-15 km/h | 50€ | Nein |  
