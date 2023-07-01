@@ -60,31 +60,33 @@ nav:
       - Fahrzeughändler: pages/orte/fahrzeughändler.md
     - Jobs/Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
+      - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
+      - Bademeister: pages/nebenjobs/bademeister.md
+      - Blumentransport: pages/nebenjobs/blumentransport.md
+      - Erztransport: pages/nebenjobs/erztransport.md
       - Farmer: pages/nebenjobs/farmer.md
-      - Winzer: pages/nebenjobs/winzer.md
+      - Fensterputzer: pages/nebenjobs/fensterputzer.md
+      - Geldtransport: pages/nebenjobs/geldtransport.md
       - Getränketransport: pages/nebenjobs/getränketransport.md
       - Gärtner: pages/nebenjobs/gärtner.md
-      - Blumentransport: pages/nebenjobs/blumentransport.md
-      - Tellerwäscher: pages/nebenjobs/tellerwäscher.md
-      - Bademeister: pages/nebenjobs/bademeister.md
-      - Paketsortierer: pages/nebenjobs/paketsortierer.md
-      - Zeitungsjunge: pages/nebenjobs/zeitungsjunge.md
-      - Wäscherei: pages/nebenjobs/wäscherei.md
-      - Wäschetransport: pages/nebenjobs/wäschetransport.md
-      - Fensterputzer: pages/nebenjobs/fensterputzer.md
-      - JVA-Transport: pages/nebenjobs/jvatransport.md
-      - Imker: pages/nebenjobs/imker.md
       - Honigtransport: pages/nebenjobs/honigtransport.md
-      - Erztransport: pages/nebenjobs/erztransport.md
-      - Geldtransport: pages/nebenjobs/geldtransport.md
-      - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
-      - Straßenreiniger: pages/nebenjobs/straßenreiniger.md
+      - Imker: pages/nebenjobs/imker.md
+      - JVA-Transport: pages/nebenjobs/jvatransport.md
+      - Koch: pages/nebenjobs/koch.md
       - Munitionstransport: pages/nebenjobs/munitionstransport.md
+      - Paketsortierer: pages/nebenjobs/paketsortierer.md
       - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
       - Reifentransport: pages/nebenjobs/reifentransport.md
-      - Koch: pages/nebenjobs/koch.md
+      - Straßenreiniger: pages/nebenjobs/straßenreiniger.md
+      - Tellerwäscher: pages/nebenjobs/tellerwäscher.md
+      - Winzer: pages/nebenjobs/winzer.md
+      - Wäscherei: pages/nebenjobs/wäscherei.md
+      - Wäschetransport: pages/nebenjobs/wäschetransport.md
+      - Zeitungsjunge: pages/nebenjobs/zeitungsjunge.md
+      - Angler:  pages/nebenjobs/angler.md
+      - Bergwerk: pages/nebenjobs/bergbau.md
+      - Jagd:  pages/nebenjobs/jagd.md
       - Sägewerk: pages/nebenjobs/sägewerk.md
-      - Bergbau: pages/nebenjobs/bergbau.md
     - Fraktionen:
       - Allgemein: pages/fraktionen/allgemein.md
       - Polizei: pages/fraktionen/polizei.md
@@ -96,6 +98,14 @@ nav:
       - The Establishment: pages/fraktionen/establishment.md
       - Aktivitäten: 
         - Allgemein: pages/fraktionen/aktivitäten.md
+        - Apotheken: pages/fraktionen/apothekenraub.md
+        - Bombe: pages/fraktionen/bomben.md
+        - Darklist: pages/fraktionen/darklist.md
+        - Hausaktionen: pages/fraktionen/hausaktionen.md
+        - Juwelenraub: pages/fraktionen/juwelenraub.md
+      - Gangzonen:
+        - Gangwar: pages/fraktionen/gangwar.md
+        - Gangzone: pages/fraktionen/gangzonen.md
     - Pflanzen:
       - Heilkraut: pages/pflanzen/heilkraut.md
       - Mohnfeld: pages/pflanzen/mohnfeld.md
