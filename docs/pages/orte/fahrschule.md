@@ -8,6 +8,7 @@ Bevor die Prüfung geschieht, muss noch ein wenig passieren! Am besten man liest
 
 Bei der Prüfung erhält der Prüfling 10 Fragen, die mit 3 Antwortmöglichkeiten (A, B, C) versehen sind. Der Prüfling muss mehr als die hälfte der Fragen richtig beantworten um zu bestehen.
 
+|  |  |
 | :-: | :-: |
 | Navipunkt | /navi Fahrschule |
 | Nähste Bushaltestelle | Postzentrale |
