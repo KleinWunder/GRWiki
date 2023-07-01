@@ -9,10 +9,8 @@ Hier können verschiedene Items kauft werden, diese werden meist zufällig in di
 + Brechstange
 + 
 + 
++ <img align="right" width="275" eight="150" src="../../../assets/image/orte/Schwarzmarkt.png"> 
 + 
-+ 
-
-<img align="right" width="275" eight="150" src="../../../assets/image/orte/Schwarzmarkt.png"> 
 
 |  |  |
 | :-: | :-: |
