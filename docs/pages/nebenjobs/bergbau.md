@@ -1,5 +1,10 @@
 # Bergwerk
 
+
+<img align="right" width="290" eight="290" src="../../../assets/​image/​nebenjobs/​bergwerk.png">
+
+
+
 Das Sägewerk befindet sich im zwischen Downtown und Gangviertel, dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/Bus.md) Uniklinik ist und ihr Navipunkt ist **/navi Bergwerk**.
 Im Bergwerk kann als Minenarbeiter gearbeitet werden. Diese Arbeit gewährt einem Erfahrungspunkte, Geld, [BergbauXP](../../pages/skills/bergbau.md) und [SozialXP](../../pages/skills/social.md). 
 
