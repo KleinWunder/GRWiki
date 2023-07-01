@@ -7,6 +7,7 @@ Bevor die Prüfung geschieht, muss noch ein wenig passieren! Am besten man liest
 # Prüfung
 
 Bei der Prüfung erhält der Prüfling 10 Fragen, die mit 3 Antwortmöglichkeiten (A, B, C) versehen sind. Der Prüfling muss mehr als die hälfte der Fragen richtig beantworten um zu bestehen.
+<img align="right" width="275" eight="150" src="../../../assets/image/orte/Fahrschule.png"> 
 
 |  |  |
 | :-: | :-: |
