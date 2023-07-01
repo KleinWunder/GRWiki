@@ -60,3 +60,4 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Feuerwehr SUV | 140 km/h | 200.0 | 30.0 Liter | 4 | - | 14500.0€ |
 | Rettungsdienst Limousine | 145.0 km/h | 150.0 | 30.0 Liter | 4 | - | 10000.0€ |
 | Rettungsdienst Motorad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | 11000.0€ |
+| Rettungshelikopter |
