@@ -4,7 +4,7 @@ Der Schwarzmarkt befindet sich unter einer Mühle. Bei diesen kann man Items kau
 ## Verkaufte Items
 Hier können verschiedene Items kauft werden, diese werden meist zufällig in die Auktion genommen.
 
-+ [Petupgrade](../../../pages/pets/allgemein.md)
++ [Petupgrade](../../pages/pets/allgemein.md)
 + Dietrich
 + Brechstange
 + 
