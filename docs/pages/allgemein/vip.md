@@ -23,5 +23,5 @@ Schaut man sich auf dem Server die Spielerliste an, sieht man hinter den Namen e
 
 * Graues Viereck: VIP
 * Blaues Viereck: VIP+
-* Violettes Viereck: ?
+* Violettes Viereck: Content Creator
 * Rot: Lifetime VIP+ (nur für [Adminstratoren)
