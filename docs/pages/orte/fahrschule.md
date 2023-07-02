@@ -2,7 +2,7 @@
 
 ## Vorbereitung zur Prüfung
 
-Bevor die Prüfung geschieht, muss noch ein wenig passieren. Am besten man liest sich mal die [StVO](https://germanrp.eu/forum/index.php?thread/9115-wichtig-stra%C3%9Fenverkehrsordnung-stvo/) und die [Regeln zu Fahrzeugen](https://germanrp.eu/forum/index.php?thread/456-regelung-fahrzeuge/) durch.
+Bevor die Prüfung geschieht, muss noch ein wenig passieren. Am besten man liest man sich die [StVO](https://germanrp.eu/forum/index.php?thread/9115-wichtig-stra%C3%9Fenverkehrsordnung-stvo/) und die [Regeln zu Fahrzeugen](https://germanrp.eu/forum/index.php?thread/456-regelung-fahrzeuge/) durch.
 
 ## Prüfung
 
