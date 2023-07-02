@@ -1,4 +1,4 @@
-## Koch (Nebenjob)
+
 Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann.
 
 
