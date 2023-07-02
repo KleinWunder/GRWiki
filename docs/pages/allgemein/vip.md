@@ -1,21 +1,23 @@
 # VIP 
 
-VIP/VIP+ ist ein Rang, welches mit [Bonuspunkten](../../pages/allgemein/bonuspunkte.md) oder Echtgeld erworben werden kann, um gewisse Vorteile auf dem Server geniessen zu können und, wenn es mit Echtgeld erworben wurde, das Projekt GermanRP finanziell zu unterstützen. VIP / VIP+ gibt es in verschiedenen Ausführungen:
+VIP/VIP+ ist ein Rang, welches mit [Bonuspunkten](../../pages/allgemein/bonuspunkte.md), als Geschenk von einem anderen Spieler oder mit Echtgeld erworben werden kann. Mit einem Kauf, welcher mit Echtgeld erworben wurde, unterstützt das Projekt GermanRP finanziell. VIP / VIP+ gibt es in verschiedenen Ausführungen:
 
 * 24h VIP
-* 24h VIP+
 * 100h VIP
+* 24h VIP+
 * 100 VIP+
 
-Die Stunden werden nur dann gezählt, wenn der Spieler anwesend ist. Im AFK-Modus ist die Abrechnung pausiert.
+Die Stunden werden nur dann gezählt, wenn der Spieler anwesend ist. Im AFK-Modus wird die Abrechnung pausiert.
 
 ## Erhalten von VIP
 
 - Über den [Bonusshop](../../pages/allgemein/bonuspunkte.md)
 - Über den [Shop](https://germanrpofficial.tebex.io/category/vip-pakete) von GermanRP (Echtgeld)
+- Als Geschenk von einem Spieler (/geschenk)
 
 ## Erhalten von VIP+
 - Über den Shop von GermanRP (Echtgeld)
+- Als Geschenk von einem Spieler (/geschenk)
 
 ## Erkennung 
 
