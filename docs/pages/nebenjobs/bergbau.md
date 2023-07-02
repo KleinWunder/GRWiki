@@ -1,7 +1,7 @@
 # Bergwerk
 
-docs/assets/image/nebenjobs/bergwerk.png
-<img align="right" width="290" eight="290" src="../../assets/image/nebenjobs/bergwerk.png">
+
+<img align="right" width="290" eight="290" src="../../../assets/image/nebenjobs/bergwerk.png">
 
 
 
