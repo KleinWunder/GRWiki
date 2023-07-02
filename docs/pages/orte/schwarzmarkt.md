@@ -7,12 +7,12 @@ Hier können verschiedene Items kauft werden, diese werden meist zufällig in di
 + [Hase](../../pages/pets/hase.md)
 + [Fledermaus](../../pages/pets/fledermaus.md)
 + Messer
-+ [Brechstange](../../pages/items/brechstange.md)
++ [Brechstange](../../pages/items/brechstange.md) <img align="right" width="275" eight="150" src="../../../assets/image/orte/Schwarzmarkt.png"> 
 + Heilkrautsamen
 + [Havok-47](../../pages/items/weapons/sturmgewehre.md)
-+ schildcracker
++ Schildcracker
 + [Dietrich](../../pages/items/dietrich.md)
-+ Perk: Erweiterte Tasche <img align="right" width="275" eight="150" src="../../../assets/image/orte/Schwarzmarkt.png"> 
++ Perk: Erweiterte Tasche 
 + [Petupgrade](../../pages/pets/allgemein.md)
 
 |  |  |
