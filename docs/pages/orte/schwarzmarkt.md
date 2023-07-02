@@ -1,8 +1,14 @@
 # Schwarzmarkt
-Der Schwarzmarkt befindet sich unter einer Mühle. Bei diesen kann man Items kaufen wofür man im normalen Spielgeschehen nicht in der lage ist.
+Der Schwarzmarkt befindet sich unter einer Mühle. Bei diesen kann man Items kaufen wofür man im normalen Spielgeschehen nicht in der Lage ist.
+
+|  |  |
+| :-: | :-: |
+| Nächste Bushaltestelle | Ort |
+| Oststadt | /navi Schwarzmarkt |
+| Eintrittskosten | 200€ |
 
 ## Verkaufte Items
-Hier können verschiedene Items kauft werden, diese werden meist zufällig in die Auktion genommen.
+Hier können verschiedene Items kauft werden, diese werden zufällig in die Auktion genommen.
 
 + [Hase](../../pages/pets/hase.md)
 + [Fledermaus](../../pages/pets/fledermaus.md)
@@ -15,7 +21,3 @@ Hier können verschiedene Items kauft werden, diese werden meist zufällig in di
 + Perk: Erweiterte Tasche 
 + [Petupgrade](../../pages/pets/allgemein.md)
 
-|  |  |
-| :-: | :-: |
-| Nächste Bushaltestelle | Ort |
-| Oststadt | /navi Schwarzmarkt |
