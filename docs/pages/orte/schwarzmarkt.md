@@ -17,5 +17,5 @@ Hier können verschiedene Items kauft werden, diese werden meist zufällig in di
 
 |  |  |
 | :-: | :-: |
-| Navipunkt | /navi Schwarzmarkt |
-| Nähste Bushaltestelle | Oststadt |
+| Nächste Bushaltestelle | Ort |
+| Oststadt | /navi Schwarzmarkt |
