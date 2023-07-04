@@ -21,8 +21,6 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 ## Lage des Hauptquartiers
 
-
-
 <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/CamorraHQ.png">
 
 
