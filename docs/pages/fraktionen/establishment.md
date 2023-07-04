@@ -1,5 +1,7 @@
 # The Establishment
 
+<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/EstablishmentHQ.png">
+
 Die britische Mafia, The Establishment, hat ihren Ursprung aus den Zeiten der Monarchie. Einst ein angesehenes Haus mit könglichen Privilegien, sind sie verbannt und ihren Privilegien entlassen worden. Bis heute sind die Nachfahren unzufrieden mit der Art und Weise, wie ihre Ahnen behandelt worden sind und stolze Royalisten, welche treu zur Monarchie stehen.
 
 ## Hintergrundgeschichte 
@@ -23,6 +25,5 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 
 ## Lage des Hauptquartiers
-<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/EstablishmentHQ.png">
 
 Zum Establishment gelangt man, indem man den Bus zur Justizvollzugsanstalt verwendet.
