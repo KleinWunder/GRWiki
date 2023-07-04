@@ -4,7 +4,9 @@
     
 # Sinaloa Kartell
 Das Sinaloa Kartell ist ein mexikanisches Kartell. Seit Jahren machen sie das Medellín Kartell verantwortlich, dass ihr Anführer bei Vermittlungsgesprächen zwischen den Kartellen von der Regierung verhaftet und ausgeliefert worden ist. In ihren Augen ist das kolumbianische Kartell ein Erzfeind und Veräter, welches sie mit allen Mitteln auslöschen möchten. Sie organisieren gezieltes Verbrechen und sind für viele Bombenanschläge verantwortlich.
+
 ## Hintergrundgeschichte 
+Aktuell nicht verfügbar.
 
 ## Auftreten 
 Mitglieder des Sinaloa Kartell sind leicht militärisch gekleidet. Sie sind erkennbar an ihren Camouflage Hosen und tragen an ihrer Kleidung die mexikanische Flagge.
@@ -18,4 +20,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 * Bearbeitung von Kopfgeldern
 
 ## Lage des Hauptquartiers
-Sie arbeiten im Untergrund eines Tunnels zwischen dem County und Asiaviertel.
+Sie arbeiten im Untergrund eines Tunnels zwischen dem [County](../../pages/gebiete/county.md) und [Asiaviertel](../../pages/gebiete/asiaviertel.md).
