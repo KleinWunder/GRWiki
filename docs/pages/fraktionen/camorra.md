@@ -1,6 +1,6 @@
 # Camorra
 
- <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/CamorraHQ.png">
+ <img align="right" width="360" eight="360" src="../../../assets/image/fraktionen/CamorraHQ.png">
 
 
 Die Camorra ist eine italienische Mafia, welche unter einem pharmazeutischen Deckgeschäft agieren. Ihre Geheimhaltung der Indentät ist oberstes Gut und nutzen jedes Mittel zur Verschleierung. Sie tragen Maskierungen und verfälschen Personalausweise und [Lizenzen](../../Pages/allgemein/lizenzen.md), damit ihnen die Polizei oder Rivalen nicht auf die Fährte kommen und sind Meister der Intrigenspiele, Manipulationen und Bestechungen.
