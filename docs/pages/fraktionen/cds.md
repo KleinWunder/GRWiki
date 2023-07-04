@@ -20,4 +20,8 @@ Die Fraktion geht folgenden Aktivitäten nach:
 * Bearbeitung von Kopfgeldern
 
 ## Lage des Hauptquartiers
+
+<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/CDSHQ.png">
+
+
 Sie arbeiten im Untergrund eines Tunnels zwischen dem [County](../../pages/gebiete/county.md) und [Asiaviertel](../../pages/gebiete/asiaviertel.md).
