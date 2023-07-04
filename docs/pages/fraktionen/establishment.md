@@ -1,6 +1,6 @@
 # The Establishment
 
-<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/EstablishmentHQ.png">
+<img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/EstablishmentHQ.png">
 
 Die britische Mafia, The Establishment, hat ihren Ursprung aus den Zeiten der Monarchie. Einst ein angesehenes Haus mit könglichen Privilegien, sind sie verbannt und ihren Privilegien entlassen worden. Bis heute sind die Nachfahren unzufrieden mit der Art und Weise, wie ihre Ahnen behandelt worden sind und stolze Royalisten, welche treu zur Monarchie stehen.
 
