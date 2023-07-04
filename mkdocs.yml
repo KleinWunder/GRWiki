@@ -20,12 +20,12 @@ nav:
     - Businesse (BIZ):
       - BIZ-Management: pages/biz/biz-managment.md
       - Gewerbe: pages/biz/business.md
-      - Waffenläden: pages/biz/waffenladen.md
-      - Supermärkte: pages/biz/supermarkt.md
-      - Bars: pages/biz/bar.md
       - Apotheken: pages/biz/apotheke.md
+      - Bars: pages/biz/bar.md
       - Starblocks: pages/biz/starblocks.md
+      - Supermärkte: pages/biz/supermarkt.md
       - Tankstellen: pages/biz/tankstelle.md
+      - Waffenläden: pages/biz/waffenladen.md
     - Fahrzeuge:
       - Allgemein: pages/fahrzeuge/allgemein.md
       - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
@@ -105,7 +105,6 @@ nav:
         - Juwelenraub: pages/fraktionen/juwelenraub.md
       - Gangzonen:
         - Gangwar: pages/fraktionen/gangwar.md
-        - Gangzone: pages/fraktionen/gangzonen.md
     - Pflanzen:
       - Heilkraut: pages/pflanzen/heilkraut.md
       - Mohnfeld: pages/pflanzen/mohnfeld.md
