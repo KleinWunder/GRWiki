@@ -25,7 +25,7 @@ Die Camorra hat ihren Standort im Reichenviertel als ihre pharmazeutische Firma 
 
 
 
- <img align="left" width="290" eight="290" src="../../../assets/image/fraktionen/CamorraHQ.png">
+ <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/CamorraHQ.png">
 
 
  
