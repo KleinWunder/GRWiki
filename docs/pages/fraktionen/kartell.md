@@ -1,4 +1,8 @@
 # Medellín Kartell
+
+<img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/KartellHQ.png">
+
+
 Das Medellín Kartell ist ein kolumbianisches Kartell, welche unter einem verdeckten Agaven Verarbeitungsgeschäft agieren. Ihre Geheimhaltung der Inderdität ist die oberste Priorität und nutzen jedes Mittel zur Geheimhaltung des Geschäftes.
 Sie planen große Bomben Anschläge gegen den staat und überfallen Apotheken, damit sie der größte Export von Novapulver sind.
 
@@ -20,4 +24,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 * Bearbeitung von Kopfgeldern
 
 ## Lage des Hauptquartiers
-Das Medellín Kartell hat ihren Standort neben der Agavenfarm in County. <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/KartellHQ.png">
+Das Medellín Kartell hat ihren Standort neben der Agavenfarm in County. 
