@@ -1,5 +1,8 @@
 # Yakuza
 
+ <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/YakuzaHQ.png">
+
+
 Die Yakuza ist eine Mafia japanischer Herkunft. Sie agieren verdeckt in einer Kampfschule, welche sehr spirituell aufgebaut ist. Ihre Reinheit der Seele und die Harmonie mit den Geistern ist das höchste Gebot der Kampfschule. Kommt man ihnen zu nahe, werden sie gefährlich und schützen sich mit allen Mitteln.
 
 ## Hintergrundgeschichte 
@@ -22,5 +25,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 
 ## Lage des Hauptquartiers
-<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/YakuzaHQ.png">
 Die Yakuza hat ihren Standort als Kampfschule im Asiaviertel.
