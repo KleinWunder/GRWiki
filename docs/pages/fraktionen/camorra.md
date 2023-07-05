@@ -3,10 +3,10 @@
  <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/CamorraHQ.png">
 
 
-Die Camorra ist eine italienische Mafia, welche unter einem pharmazeutischen Deckgeschäft agieren. Ihre Geheimhaltung der Indentät ist oberstes Gut und nutzen jedes Mittel zur Verschleierung. Sie tragen Maskierungen und verfälschen Personalausweise und [Lizenzen](../../Pages/allgemein/lizenzen.md), damit ihnen die Polizei oder Rivalen nicht auf die Fährte kommen und sind Meister der Intrigenspiele, Manipulationen und Bestechungen.
+Die Camorra ist eine italienische Mafia, welche unter einem pharmazeutischen Deckgeschäft agieren. Ihre Geheimhaltung der Indentät ist oberstes Gut und nutzen jedes Mittel zur Verschleierung. Sie tragen Maskierungen und verfälschen Personalausweise und [Lizenzen](../../Pages/allgemein/lizenzen.md), damit ihnen die [Polizei](../../pages/fraktionen/polizei.md) oder Rivalen nicht auf die Fährte kommen und sind Meister der Intrigenspiele, Manipulationen und Bestechungen.
 
 ## Hintergrundgeschichte 
-
+Aktuell nicht verfügbar.
 
 ## Auftreten 
 
@@ -16,13 +16,13 @@ Nicht italienische Mitglieder werden angehalten italienische Worte zu übernehme
 Die Fraktion geht folgenden Aktivitäten nach:
 
 * Herstellung und Verkauf von illegalen Betäubungsmitteln
-* Apothekenräuben
-* Bearbeitung von Darklists
-* Bearbeitung von Kopfgeldern
-* Juwelenräuben
-* Mohnfelder abbauen
+* [Apothekenräuben](../../pages/fraktionen/apothekenraub.md)
+* Bearbeitung von [Darklists](../../pages/fraktionen/darklist.md)
+* Bearbeitung von [Kopfgeldern](../../pages/fraktionen/kopfgeld.md)
+* [Juwelenräuben](../../pages/fraktionen/juwelenraub.md)
+* [Mohnfelder](../../pages/pflanzen/mohnfeld.md) abbauen
 
 
 ## Lage des Hauptquartiers
 
-Die Camorra hat ihren Standort im Reichenviertel als ihre pharmazeutische Firma "Il Fiore Scuro".
+Die Camorra besitzt ein Firmengelände, in der Nähe vom [Sägewerk](../../pages/nebenjobs/sägewerk.md), im [Reichenviertel](../../pages/gebiete/reichenviertel.md). An den Toren des Eingangs wird die pharmazeutische Firma mit "Il Fiore Scuro" beschriftet.
