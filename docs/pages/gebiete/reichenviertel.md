@@ -1,5 +1,3 @@
-## Reichenviertel
-
 Die markanten Backsteinhäuser im Reichenviertel stechen jedem sofort ins Auge. Hier herrschen die Camorra. Es ist normalerweise eine ruhige Gegend, doch im verborgenen geschehen die haarsträubendsten Dinge.
 
 | Inhalt | Ort |
