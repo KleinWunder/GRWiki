@@ -11,10 +11,10 @@ Eine Fraktion kann eine Kriegserklärung im Feedbeck Bereich der jeweiligen Frak
 ##Gangzonen
 | Zone | Gebiet | Besetzende Fraktion |
 | :-: | :-: | :-: |
-| Agavenfarm | County | [Camorra](,,/camorra.md) |
-| Farm | Oststadt/Farm | [Camorra](,,/camorra.md) |
-| Freizeitpark | Asiaviertel | [The Establishment](../establishment.md)  |
-| Raffinerie | Downtown | [Medellín Kartell](../kartell,md) |
-| Schmelzwerk | Ganggebiet | [Medellín Kartell](../kartell,md) |
-| Yachthafen | Strandpassage | [The Establishment](,,/establishment.md) |
+| Agavenfarm | County | [Camorra](camorra.md) |
+| Farm | Oststadt/Farm | [Camorra](camorra.md) |
+| Freizeitpark | Asiaviertel | [The Establishment](establishment.md)  |
+| Raffinerie | Downtown | [Medellín Kartell](kartell,md) |
+| Schmelzwerk | Ganggebiet | [Medellín Kartell](kartell,md) |
+| Yachthafen | Strandpassage | [The Establishment](establishment.md) |
 
