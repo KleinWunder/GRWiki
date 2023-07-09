@@ -20,7 +20,7 @@ Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, w
 * Sparziel im Chat eingeben.
 * Betrag eingeben, welcher jeden Payday abgezogen werden soll.
 * Ist das Sparziel erreicht, kann das Konto auflösen werden und erhält den Betrag auf die Hand.
-  * Das Sparkonto kann jederzeit aufgelöst werden.
+      * Das Sparkonto kann jederzeit aufgelöst werden.
 
 Nun wird zu jedem [PayDay](../../pages/allgemein/payday.md) der ausgewählte Betrag aufs Sparkonto überwiesen.
 
@@ -55,7 +55,7 @@ Es besteht ebenfalls auch die Möglichkeit 50% des Bargeldes einzuzahlen.
 * Man stellt sich an einen ATM.
 * Nun gibt man den Befehl **/überweisen [Name][Betrag][Verwendungszweck]** ein.
 * Das Geld wird umgehend überwiesen, allerdings werden Gebühren verrechnet.
-  * Beispiel: /überweisen KleinWunder 1720 Rückzahlung
+      * Beispiel: /überweisen KleinWunder 1720 Rückzahlung
   
 ### ATM aufbrechen
 Bankautomaten können mit einer [Brechstange](../../pages/items/brechstange.md) aufgebrochen werden und Schwarzgeld erlangen. Brechstangen sind in [Schwarzmarktauktionen](../../pages/orte/schwarzmarkt.md) oder als Mitglied einer [Crimefraktion](../../pages/fraktionen/allgemein.md) erhältlich.
