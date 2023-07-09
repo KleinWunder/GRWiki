@@ -20,9 +20,9 @@ Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, w
 # Ist das Sparziel erreicht, kann das Konto auflösen werden und erhält den Betrag auf die Hand.
   # Das Sparkonto kann jederzeit aufgelöst werden.
 
-Nun wird zu jedem [PayDay](../../pages/ der ausgewählte Betrag aufs Sparkonto überwiesen.
+Nun wird zu jedem [PayDay](../../pages/allgmein/payday.md) der ausgewählte Betrag aufs Sparkonto überwiesen.
 
-## Geldautomaten (ATM)
+## Geldautomaten
 Geldautomaten sind auf der ganzen Map verteilt. Besonders oft zu finden sind diese bei Bushaltestellen und öffentlichen Gebäuden. Sie erlauben es dem Spieler seinen Kontostand einzusehen und Geld von diesem abzuheben oder einzuzahlen.
 
 ### Geld abheben 
