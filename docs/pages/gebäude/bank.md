@@ -1,5 +1,8 @@
 # Bank
 
+
+<img align="right" width="290" eight="290" src="../../../assets/image/orte/Bank.png"> 
+
 Die Bank befindet sich in [Downtown](../../pages/gebiete/downtown.md) und ist über die [Bushaltestelle](../../pages/öpnv/bus.md) Polizeipräsidium einfach zu erreichen. In der Bank werden die Spieler mit den nötigen Items ausgerüstet, um die persönliche finanzielle Lage auf dem Server zu verwalten.
 
 ## Bankkarte 
