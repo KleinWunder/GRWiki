@@ -3,7 +3,7 @@
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Capybara.png">
 
 Capybara ist ein Wasserschein, welches vorwiegend im Wasser lebt und mehr Fischer-Drops und [XP](../../pages/skills/fischer.md) gibt. Mit ihren kleinen Schwimmhäuten holen sie so manch versunkende Truhe vom Meeresgrund hervor.
-Ein Capybara ist nur bei anderen Spielern über das [Handelshaus](../../pages/gebäude/handelshaus.md) erwerbbar oder den Pet-Eier der Jobrotationen.
+Ein Capybara ist nur bei anderen Spielern über das [Handelshaus](../../pages/gebäude/handelshaus.md) erwerbbar oder den [Peteier](https://imgxrke.github.io/GRWiki/pages/pets/allgemein/#eier) der Jobrotationen.
 
 
 ## Die verschiedenen Stufen des Capybaras
