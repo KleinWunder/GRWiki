@@ -2,6 +2,8 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Rentier.png">
 
+Die, oftmals große, geweihtragende Tiere bewohnen große Teile des nördlichen Nordamerika und Eurasien. Sehr bekannt sind sie als Helfer des Weihnachtsmannes und ziehen einen großen Schlitten mit Geschenken für die Kinder aus der ganzen Welt. Sie verhelfen zu mehr [Koch-XP](../../pages/skils/koch.md) und mit einer Portion Glück schenken sie einem mehr Essen.
+
 
 ## Die verschiedenen Stufen des Rentiers
 
