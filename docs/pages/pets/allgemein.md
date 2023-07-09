@@ -9,17 +9,18 @@ Zur Zeit gibt es 11 verschiedene Pets.
 Jedes Pet ist einem bestimmten Skill zugeordnet.
  Manche Pets teilen sich einen Skill.  <img align="right" width="300" eight="200" src="../../../assets/image/pets/Petmenü.png">
 
- - [Katze](katze.md) ([Social-Skill](../../pages/skills/social.md))
- - [Hund](hund.md) ([Combat-Skill](../../pages/skills/combat.md))
+
  - [Affe](affe.md) ([Farming-Skill](../../pages/skills/farming.md))
- - [Papagei](papagei.md) ([Fischer-Skill](../../pages/skills/fischer.md))
- - [Rentier](rentier.md) ([Koch-Skill](../../pages/skills/kochen.md))
- - [Wolf](wolf.md) ([Combat-Skill](../../pages/skills/combat.md))
- - [Schmetterling](schmetterling.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
- - [Fledermaus](fledermaus.md) ([Bergbau-Skill](../../pages/skills/bergbau.md))
- - [Hase](hase.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
  - [Biene](biene.md) ([Farming-Skill](../../pages/skills/farming.md))
  - [Capybara](capybara.md) ([Fischer-Skill](../../pages/skills/fischer.md))
+ - [Fledermaus](fledermaus.md) ([Bergbau-Skill](../../pages/skills/bergbau.md))
+ - [Hase](hase.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
+ - [Hund](hund.md) ([Combat-Skill](../../pages/skills/combat.md))d
+ - [Katze](katze.md) ([Social-Skill](../../pages/skills/social.md))
+ - [Papagei](papagei.md) ([Fischer-Skill](../../pages/skills/fischer.md))
+ - [Rentier](rentier.md) ([Koch-Skill](../../pages/skills/kochen.md))
+ - [Schmetterling](schmetterling.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
+ - [Wolf](wolf.md) ([Combat-Skill](../../pages/skills/combat.md))
 
 
 ## Pets verbessern
