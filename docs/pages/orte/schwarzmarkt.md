@@ -3,8 +3,8 @@ Der Schwarzmarkt befindet sich unter einer Mühle. Bei diesen kann man Items kau
 
 |  |  |
 | :-: | :-: |
-| Nächste Bushaltestelle | Ort |
-| Oststadt | /navi Schwarzmarkt |
+| Nächste Bushaltestelle | Farm |
+| Ort | /navi Schwarzmarkt |
 | Eintrittskosten | 200€ |
 
 ## Verkaufte Items
