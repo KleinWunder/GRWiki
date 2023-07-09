@@ -3,6 +3,9 @@
 Anwälte können in der [Justizvollzugsanstalt](../../pages/gebäude/jva.md) angerufen werden. Je nach angeheuerten Anwalt kann dieser einen eine Kaution hinterlegen, die Haftzeit vermindern oder gar nichts erreichen.
 
 ## Lage der Kanzlei
+
+docs/assets/image/orte/Anwalt.png
+
 Die Kanzlei befindet sich in der Nähe der [Polizei](../../pages/fraktionen/polizei.md), rechts neben der [Wäscherei](../../pages/nebenjobs/wäscherei.md). Die nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) ist Postzentrale. Im ersten Stock befindet sich der Anwalt.
 
 ## Anwälte
