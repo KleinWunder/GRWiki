@@ -22,7 +22,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 ## Arten
 ### Folgende Fahrzeuge sind für Zivilisten erhältlich.
 
-| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraum | Substanzen | Steuern (pro Abrechnung) | Preis |
+| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Roller| 50 km/h | 50.0 | 15.0 Liter | 2 | - | 5g | 5.0€ | 1500.0€ |
 | Motorrad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | - | 45.0€ | 11000.0€ |
@@ -39,11 +39,11 @@ Fahrzeuge unterscheiden sich in den Werten:
 
 ### Folgende Fahrzeuge sind für das [VCPD](../../pages/fraktionen/polizei.md) erhältlich.
 
-| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraum | Substanzen  | Steuern (pro Abrechnung) | Preis |
+| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen  | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Ziviltransporter | 100 km/h |175.0 | 30.0 Liter | 8 | - | - | - | 6500.0€ |
 | Polizeitransporter | 100 km/h | 125.0 | 30.0 Liter | 8 | 5 | 100g | - | 5500€ |
-| Polizei SUV | 140 km/h | 200.0 | 30.0 Liter | 4 | - | 3 | 30g | 14500.0€ |
+| Polizei SUV | 140 km/h | 200.0 | 30.0 Liter | 4 | 3 | 30g | - | 14500.0€ |
 | Polizeidienstwagen | 120 km/h | 100.0 | 25.0 Liter | 4 | 5 | 25g | - | 3250.0€ |
 | Zivilstreifenwagen | 115 km/h | 120.0 | 30.0 Liter | 4 | 1 | 25g | - | 13500.0€ |
 | Zilvilsteifenwagen 2 | 135 km/h | 120.0 | 25.0 Liter | 2 | 1 | 25g | - | 18500.0€ |
@@ -52,7 +52,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 
 ### Folgende Fahrzeuge sind für das [VCMD](../../pages/fraktionen/rettungsdienst.md) erhältlich.
 
-| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraum | Substanzen | Steuern (pro Abrechnung) | Preis |
+| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Krankentransportwagen | 100 km/h | 125.0 | 30 Liter | 4 | 5 | 100g | - | 5500€ |
 | RTW | 100 km/h | 100.0 | 25.0 Liter | 4 | 5 | 25g | - | 4650.0€ |
