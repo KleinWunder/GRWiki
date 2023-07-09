@@ -1,64 +1,22 @@
-= Befehle =
+# Befehlsliste
 
-== Eigener Charakter und andere Spieler ==
-{| class="fandom-table"
-!Befehl
-!Erklärung
-!Beispiel
-|-
-|'''/memberinfo [Name]'''
-|Zugehörigkeit einer
-Fraktion abfragen
-|/memberinfo Train_Driver
-|-
-|'''/profil [Name]'''
-|Anzeigen von Spielerdaten
-(Level, [[Skills|Sklils]], Spielzeit, etc.)
-|/profil Tatylein
-|-
-|'''/health'''
-|Zeigt den eigenen [[Gesundheit|Gesundheits-]]
-[[Gesundheit|zustand]] an
-|
-----<br />
-|-
-|'''/id [Name]'''
-|Abrufen des Spielerlevels,
-Ping oder Status
-|/id Jaleen
-|-
-|'''/showdarklist [Name]'''
-|Informationen zu [[Darklist|Darklisteinträgen]]
-|/showdarklist Tomsro
-|-
-|'''/charinfo'''
-|Informationen zum eigenen Charakter
-(Name, Alter, etc.)
-|
-----<br />
-|-
-|'''/lizenzen'''
-|Übersicht der eigenen [[Lizenzen]]
-|
-----<br />
-|-
-|'''/level'''
-|Übersicht zum eigenen Level
-und XP
-|
-----<br />
-|-
-|'''/stats'''
-|Anzeige von Informationen 
-(Level, XP, Spielzeit, [[Bonuspunkte]])
-|
-----<br />
-|}
-== Roleplay und Spielereignisse ==
-{| class="fandom-table"
-!Befehl
-!Erklärung
-!Beispiel
+## Eigener Charakter und andere Spieler 
+| Befehl | Erklärung | Beispiel |
+|:-:|:-:|:-:|
+| /memberinfo [Name]| Zugehörigkeit einer Fraktion abfragen | /memberinfo KleinWunder / /memberinfo Polizei |
+| /profil [Name] | Anzeigen von Spielerdaten (Level, Skills, Spielzeit, etc.) | /profil KleinWunder |
+| /health | Zeigt den eigenen Gesundheitzustand an |
+| /id [Name] | Abrufen des Spielerlevels, Ping oder Status | /id KleinWunder |
+| /showdarklist [Name] | Informationen zu Darklisteinträgen | /showdarklist KleinWunder |
+| /charinfo | Informationen zum eigenen Charakter (Name, Alter, etc.)|
+| /lizenzen | Übersicht der eigenen Lizenzen |
+| /level | Übersicht zum eigenen Level und XP Fortschritt|
+| /stats | Anzeige von Informationen (Level, XP, Spielzeit, Bonuspunkte)|
+
+## Roleplay und Spielereignisse
+
+| Befehl | Erklärung | Beispiel |
+|:-:|:-:|:-:|
 |-
 |'''/me'''
 |Ausführen von Aktionen
@@ -69,13 +27,8 @@ und XP
 |/kuss QuixTime
 |-
 |'''/ooc'''
-|Kommunikation ausserhalb
-
-des RPs
-|/ooc Wann bist du heute Abend
-
-online?
-|-
+|Kommunikation ausserhalb des RPs
+|/ooc Wann bist du heute Abend online? |-
 |'''/s'''
 |Schreien (20 Blöcke)
 |/s Hilfe
@@ -175,11 +128,10 @@ Rückzahlung
 |Startet das Navi zum gewünschten Ort
 |/navi [[Apotheke|Apotheke-1]]
 |}
-== Geld verdienen auf dem Server ==
-{| class="fandom-table"
-!Befehle
-!Erklärung
-!Beispiel
+
+## Geld verdienen auf dem Server 
+| Befehl | Erklärung | Beispiel |
+|:-:|:-:|:-:|
 |-
 |'''/jobs'''
 |Öffnet eine Übersichtaller [[Nebenjob|Nebenjobs]]
