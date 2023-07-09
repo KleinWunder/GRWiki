@@ -2,6 +2,7 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Wolf.png">
 
+Der Wolf ist das größte Raubtier aus der Familie der Hunde. Hier unterstützt der Wolf beim [Jagen](../../pages/nebenjobs/jagd.md) von Wolfsrudeln und fördert den Erhalt von [Combat-XP](../../pages/skills/combat.md).
 
 ## Die verschiedenen Stufen des Wolfes
 
