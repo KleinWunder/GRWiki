@@ -15,7 +15,7 @@ Jedes Pet ist einem bestimmten Skill zugeordnet.
  - [Capybara](capybara.md) ([Fischer-Skill](../../pages/skills/fischer.md))
  - [Fledermaus](fledermaus.md) ([Bergbau-Skill](../../pages/skills/bergbau.md))
  - [Hase](hase.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
- - [Hund](hund.md) ([Combat-Skill](../../pages/skills/combat.md))d
+ - [Hund](hund.md) ([Combat-Skill](../../pages/skills/combat.md))
  - [Katze](katze.md) ([Social-Skill](../../pages/skills/social.md))
  - [Papagei](papagei.md) ([Fischer-Skill](../../pages/skills/fischer.md))
  - [Rentier](rentier.md) ([Koch-Skill](../../pages/skills/kochen.md))
