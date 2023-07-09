@@ -10,6 +10,7 @@ Die Kanzlei befindet sich in der Nähe der [Polizei](../../pages/fraktionen/poli
 Es gibt 3 verschiedene Anwälte, welche unterschiedliche Kosten pro [PayDay](../../pages/allgemein/payday.md) haben. Je nach Anwalt gibt es unterschiedliche Chancen auf Kaution und Haftminderung. Der angeheuerte Anwalt kann erst nach mehreren PayDays gefeuert werden.
 
 | Anwalt | Kosten | Chance Kaution | Chance Haftminderung |
+|:-:|:-:|:-:|:-:|
 | Cooper | 10.0€ | 2% | 15% |
 | Clinton | 50.0€ | 8% | 25% |
 | Stanley | 100.0€ | 13% | 35% |
