@@ -3,6 +3,7 @@
 Die Bank befindet sich in [Downtown](../../pages/gebiete/downtown.md) und ist über die [Bushaltestelle](../../pages/öpnv/bus.md) Polizeipräsidium einfach zu erreichen. In der Bank werden die Spieler mit den nötigen Items ausgerüstet, um die persönliche finanzielle Lage auf dem Server zu verwalten.
 
 ## Bankkarte 
+
 Am Schalter der Bank kann mit **/bank** eine Bankkarte ausstellet werden, welche später für das Abheben und Einzahlen von Geld benötigt wird. Hat man seine Bankkarte verloren, kann diese bei einer Bank gesperrt werden und neu beantragt werden.
 
 !!! warning "Bankkarte"
@@ -10,7 +11,8 @@ Am Schalter der Bank kann mit **/bank** eine Bankkarte ausstellet werden, welche
 
 
 ## Sparkonto 
-Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte wie beispielsweise ein Haus oder ein [[Pets / Haustiere|Haustier]].
+
+Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte wie beispielsweise ein Haus oder ein [Pet](../../pages/pets/allgmein.md).
 
 # **/bank** eingeben.
 # Auf "Sparkonto verwalten" klicken.
@@ -23,6 +25,7 @@ Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, w
 Nun wird zu jedem [PayDay](../../pages/allgmein/payday.md) der ausgewählte Betrag aufs Sparkonto überwiesen.
 
 ## Geldautomaten
+
 Geldautomaten sind auf der ganzen Map verteilt. Besonders oft zu finden sind diese bei Bushaltestellen und öffentlichen Gebäuden. Sie erlauben es dem Spieler seinen Kontostand einzusehen und Geld von diesem abzuheben oder einzuzahlen.
 
 ### Geld abheben 
