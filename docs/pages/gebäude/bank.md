@@ -14,48 +14,48 @@ Am Schalter der Bank kann mit **/bank** eine Bankkarte ausstellet werden, welche
 
 Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte wie beispielsweise ein Haus oder ein [Pet](../../pages/pets/allgmein.md).
 
-# **/bank** eingeben.
-# Auf "Sparkonto verwalten" klicken.
-# Auf "Sparkonto einrichten" klicken. 
-# Sparziel im Chat eingeben.
-# Betrag eingeben, welcher jeden Payday abgezogen werden soll.
-# Ist das Sparziel erreicht, kann das Konto auflösen werden und erhält den Betrag auf die Hand.
-  # Das Sparkonto kann jederzeit aufgelöst werden.
+* **/bank** eingeben.
+* Auf "Sparkonto verwalten" klicken.
+* Auf "Sparkonto einrichten" klicken. 
+* Sparziel im Chat eingeben.
+* Betrag eingeben, welcher jeden Payday abgezogen werden soll.
+* Ist das Sparziel erreicht, kann das Konto auflösen werden und erhält den Betrag auf die Hand.
+  * Das Sparkonto kann jederzeit aufgelöst werden.
 
 Nun wird zu jedem [PayDay](../../pages/allgmein/payday.md) der ausgewählte Betrag aufs Sparkonto überwiesen.
 
-## Geldautomaten
+## Geldautomaten (ATM)
 
 Geldautomaten sind auf der ganzen Map verteilt. Besonders oft zu finden sind diese bei Bushaltestellen und öffentlichen Gebäuden. Sie erlauben es dem Spieler seinen Kontostand einzusehen und Geld von diesem abzuheben oder einzuzahlen.
 
 ### Geld abheben 
 
-# Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
-# Das Feld "Geld abheben" auswählen.
-# Den gewünschten Betrag im Chat eingeben.
+* Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
+* Das Feld "Geld abheben" auswählen.
+* Den gewünschten Betrag im Chat eingeben.
 
 Es besteht auch die Möglichkeit 50% des Kontostandes abzuheben.
 
 ### Geld einzahlen
 
-# Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
-# Das Feld "Geld einzahlen" auswählen.
-# Den gewünschten Betrag im Chat eingeben.
+* Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
+* Das Feld "Geld einzahlen" auswählen.
+* Den gewünschten Betrag im Chat eingeben.
 
 Es besteht ebenfalls auch die Möglichkeit 50% des Bargeldes einzuzahlen.
 
 ### Kontoauszug 
 
-# Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
-# Das Feld "Kontoauszug" auswählen. 
-# Es erscheint eine Übersicht der letzten Transaktionen im Chat. 
+* Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
+* Das Feld "Kontoauszug" auswählen. 
+* Es erscheint eine Übersicht der letzten Transaktionen im Chat. 
 
 ### Geld überweisen
 
-# Man stellt sich an einen ATM.
-# Nun gibt man den Befehl **/überweisen [Name][Betrag][Verwendungszweck]** ein.
-# Das Geld wird umgehend überwiesen, allerdings werden Gebühren verrechnet.
-  # Beispiel: /überweisen KleinWunder 1720 Rückzahlung
+* Man stellt sich an einen ATM.
+* Nun gibt man den Befehl **/überweisen [Name][Betrag][Verwendungszweck]** ein.
+* Das Geld wird umgehend überwiesen, allerdings werden Gebühren verrechnet.
+  * Beispiel: /überweisen KleinWunder 1720 Rückzahlung
   
 ### ATM aufbrechen
 Bankautomaten können mit einer [Brechstange](../../pages/items/brechstange.md) aufgebrochen werden und Schwarzgeld erlangen. Brechstangen sind in [Schwarzmarktauktionen](../../pages/orte/schwarzmarkt.md) oder als Mitglied einer [Crimefraktion](../../pages/fraktionen/allgemein.md) erhältlich.
