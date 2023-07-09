@@ -12,7 +12,7 @@ Am Schalter der Bank kann mit **/bank** eine Bankkarte ausstellet werden, welche
 
 ## Sparkonto 
 
-Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte wie beispielsweise ein Haus oder ein [Pet](../../pages/pets/allgmein.md).
+Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte wie beispielsweise ein Haus oder ein [Pet](../../pages/pets/allgemein.md).
 
 * **/bank** eingeben.
 * Auf "Sparkonto verwalten" klicken.
