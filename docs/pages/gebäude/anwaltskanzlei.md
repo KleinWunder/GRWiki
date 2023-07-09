@@ -4,7 +4,8 @@ Anwälte können in der [Justizvollzugsanstalt](../../pages/gebäude/jva.md) ang
 
 ## Lage der Kanzlei
 
-docs/assets/image/orte/Anwalt.png
+
+<img align="right" width="290" eight="290" src="../../../assets/image/orte/Anwalt.png"> 
 
 Die Kanzlei befindet sich in der Nähe der [Polizei](../../pages/fraktionen/polizei.md), rechts neben der [Wäscherei](../../pages/nebenjobs/wäscherei.md). Die nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) ist Postzentrale. Im ersten Stock befindet sich der Anwalt.
 
