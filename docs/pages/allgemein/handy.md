@@ -24,7 +24,7 @@ Um die ganzen Funktionen eines Handys nutzen zu können, benötigt man einen Han
 ## Funktionen des Handys
 
 
-<img align="right" width="160" eight="100" src="../../../assets/image/allgemein/Handyinterface.png">
+<img align="right" width="240" eight="200" src="../../../assets/image/allgemein/Handyinterface.png">
 
 
 Mit **/handy** öffnet sich das Handymenü. Hier finden sich verschiedene Köpfe und Items. Der blaue Infokopf zeigt einem den Vertrag, seine Nummer, Akku und Guthaben an. Darunter sind die verschiedenen Funktionen. Die Kiste symbolisiert den Appstore, wo drei verschiedene Apps installiert werden können, die dann auch im Handymenü angezeigt werden. Daneben befindet sich das Nummernfeld, wo auch die Notrufnummern stehen. Im Buch befindet sich die Kontaktliste, wo man sich seine eigenen Kontakte einspeichern und auswählen kann. Hat man die Handelshaus App, wird einem eine Nachricht gesendet, wenn es ein neues Angebot im Handelshaus gibt.
