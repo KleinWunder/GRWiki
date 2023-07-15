@@ -23,7 +23,7 @@ Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, w
 * Sparziel im Chat eingeben.
 * Betrag eingeben, welcher jeden Payday abgezogen werden soll.
 * Ist das Sparziel erreicht, kann das Konto auflösen werden und erhält den Betrag auf die Hand.
-      * Das Sparkonto kann jederzeit aufgelöst werden.
+          * Das Sparkonto kann jederzeit aufgelöst werden.
 
 Nun wird zu jedem [PayDay](../../pages/allgemein/payday.md) der ausgewählte Betrag aufs Sparkonto überwiesen.
 
