@@ -2,7 +2,7 @@
 
 In Supermärkten können Lebensmittel gekauft werden. Leere Flaschen können an Flaschen-Automaten entsorgt werden. (**/navi Supermarkt-1/2/3/4/5/6/7**)
 
-Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" eight="150" src="../../../assets/image/biz/Supermarkt-Kaufmenü.png"> 
+Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" eight="150" src="../../../assets/image/biz/supermarkt/Supermarkt-Kaufmenü.png"> 
 
 + Apfel
 + Schweinefleisch (Roh)
@@ -16,7 +16,7 @@ Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" e
   
 
 
-### Standorte der Supermärkte <img align="right" width="300" eight="150" src="../../../assets/image/biz/Supermarkt-1.png" alt="Supermarkt-1" title="Supermarkt-1">
+### Standorte der Supermärkte <img align="right" width="300" eight="150" src="../../../assets/image/biz/supermarkt/Supermarkt-1.png" alt="Supermarkt-1" title="Supermarkt-1">
 
 | Name | Ort | Nächste Bushaltestelle |
 |:-:|:-:|:-:|
