@@ -49,6 +49,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Zilvilsteifenwagen 2 | 135 km/h | 120.0 | 25.0 Liter | 2 | 1 | 25g | - | 18500.0€ |
 | Polizei Limousine | 145 km/h | 150.0 | 30.0 Liter | 4 | 3 | 30g | - | 10000.0€ |
 | Polizei Motorad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | - | - | 11000.0€ |
+| Polizei Helikopter | 200 km/h | 200.0 | 50.0 Liter | 5 | - | - | - | unknown |
 
 ### Folgende Fahrzeuge sind für das [VCMD](../../pages/fraktionen/rettungsdienst.md) erhältlich.
 
