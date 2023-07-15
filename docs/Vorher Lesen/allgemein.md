@@ -1,7 +1,7 @@
 ## Aufgabenverteilung
 
 * Luis: Seiten überprüfen (Endüberprüfung), Seiten übertragen/erstellen von Fandom ins GitHub,
-* Hoschi: Seiten überprüfen (Endüberprüfung),
+* Hoschi: Seiten überprüfen (Endüberprüfung), Aktualisierung von Änderrungen etc.
 * Realcrafter:
 * PietTime:
   
