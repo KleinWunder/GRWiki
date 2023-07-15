@@ -4,9 +4,9 @@ Jedes Gewerbe gehört einer Person oder dem [Gewerbemanagement](biz-managment.md
 Jeder Gewerbebesitzer kann Mitarbeiter über das BIZ-Menü einstellen. 
 
 ### Auffüllen des Gewerbe-Lagers 
-<img align="right" width="110" height="100" src="../../../assets/image/biz/händler.png">
+<img align="right" width="110" height="100" src="../../../assets/image/NPCs/händler.png">
 Um ein Lager aufzufüllen müssen die Besitzer oder Mitarbeiter eines Gewerbes zu den Händlern, welche in ganz Vance City verteilt stehen.
-Jeder Händler hat verschiedene Lagerkisten im Angebot. <img align="right" width="200" height="150" src="../../../assets/image/biz/händlerview.png">
+Jeder Händler hat verschiedene Lagerkisten im Angebot. <img align="right" width="200" height="150" src="../../../assets/image/sonstige-kaufmenü/händlerview.png">
 
 !!! info "Preise der Lagerkisten"
     Die Preise der Lagerkisten können variieren. 
