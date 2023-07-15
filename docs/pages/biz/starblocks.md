@@ -2,7 +2,7 @@
 
 In Starblocks können Süßwaren & heiße Getränke gekauft werden. (**/navi Starblocks-1/2**)  
 
-Im Starblocks werden folgende Artikel verkauft: <img align="right" width="300" eight="150" src="../../../assets/image/biz/Starblocks-Kaufmenü.png">
+Im Starblocks werden folgende Artikel verkauft: <img align="right" width="300" eight="150" src="../../../assets/image/biz/starblocks/Starblocks-Kaufmenü.png">
 
 + Kaffee
 + Kakao
@@ -11,7 +11,7 @@ Im Starblocks werden folgende Artikel verkauft: <img align="right" width="300" e
 + Donut (Zuckerguss)
 + Muffin  
 
-### Standorte der Starblocks  <img align="right" width="300" eight="150" src="../../../assets/image/biz/Starblock-1.png" alt="Starblocks-1" title="Starblocks-1">
+### Standorte der Starblocks  <img align="right" width="300" eight="150" src="../../../assets/image/biz/starblocks/Starblock-1.png" alt="Starblocks-1" title="Starblocks-1">
 
 | Name | Ort | Nächste Bushaltestelle
 |:-:|:-:|:-:|   
