@@ -42,6 +42,6 @@ Diese Items werden unterschiedlich verwertet:
 ## Hilfreiche Tipps
 
 * Je höher der Bergbau Skill Level ist, desto bessere Items und Spitzhacken erhält man.
-* Das Pet [Fledermaus](../../pages/pets/fledermaus.md) unterstützt die Arbeit im Bergbau.
+* Das [Fledermaus](../../pages/pets/fledermaus.md) Pet unterstützt die Arbeit im Bergbau.
 * Abgebaute Eisenerze färben sich grau und regenerieren sich nach kurz Zeit von selbst.
 * Für Neulinge ist die Spitzhacke für Anfänger am Effizientesten.
