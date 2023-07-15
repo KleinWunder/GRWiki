@@ -1,5 +1,10 @@
 # FightClub 
 
+
+
+<img align="right" width="360" eight="300" src="../../../assets/image/orte/Fightclub.png">
+
+
 Der FightClub bietet den Spielern die Möglichkeit sich mit Waffen zu duellieren. Was hier speziell ist: Nach dem Tod wird man sofort wiederbelebt und man verliert kein Charakterleben. Der FightClub ist mit dem Bus über die [Haltestelle](../../pages/öpnv/bus.md) [Reichenviertel](../../pages/gebiete/reichenviertel.md) zu erreichen. Die Arena hat eine eigene [U-Bahn](../../pages/öpnv/ubahn.md) Station. Zutritt erlangt man über den Befehl am Eingang der Arena. Der Zutritt ist kostenlos.
 
 ## Waffen
