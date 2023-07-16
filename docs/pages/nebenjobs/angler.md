@@ -1,13 +1,10 @@
 # Angler
 
 <img align="right" width="340" eight="340" src="../../../assets/image/nebenjobs/anglerdowntown.png">
- <img align="right" width="340" eight="340" src="../../../assets/image/nebenjobs/anglerreichenviertel.png">
+<img align="right" width="340" eight="340" src="../../../assets/image/nebenjobs/anglerreichenviertel.png">
 
 Der erste Anglerteich (**/navi Angler**) befindet sich in Downtown, nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parkes befindet sich der NPC 
-Walter. Der zweite Anglerteich befindet sich im Reichenviertel beim Campingplatz. 
-
-
-Im Bergwerk kann als Minenarbeiter gearbeitet werden. Diese Arbeit gewährt einem Erfahrungspunkte, Geld, [BergbauXP](../../pages/skills/bergbau.md) und [SozialXP](../../pages/skills/social.md). 
+Walter. Der zweite Anglerteich befindet sich im Reichenviertel beim Campingplatz (**/navi Campingplatz**). Waltraud, der NPC, ist auf dem Steg zu finden. Angeln gewährt einem Erfahrungspunkte, Geld, [FischerXP](../../pages/skills/fischer.md) und [SozialXP](../../pages/skills/social.md). 
 
 ## Ablauf
 Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
@@ -15,13 +12,13 @@ Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
 - Gehe zum NPC Walter/Waltraud und kaufe eine Angel. 
 - Nun muss mit der Angel die Fische aus dem Wasser geangelt werden.
 - Es können drei verschiedene Items im Inventar landen: 
-   - Glasscherben 
-   - Roher Fisch
-   - Roher Lachs
-   - Roher Clownfisch
-   - Roher Pufferfisch
-   - Haltbarkeitsverbesserung
-   - XP-Verbesserung
+    - Glasscherben 
+    - Roher Fisch
+    - Roher Lachs
+    - Roher Clownfisch
+    - Roher Pufferfisch
+    - Haltbarkeitsverbesserung
+    - XP-Verbesserung
 - Am Ende die Fische, Haltbarkeitsverbesserung und XP-Verbesserung beim NPC verkaufen
 - Glasscherben im Mülleimer entsorgen
 
