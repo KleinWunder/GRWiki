@@ -11,5 +11,5 @@ Dehydrierung bringt folgende Nebeneffekte mit sich:
 
 ## Behandlung
 
-Man kann eine Dehydrierung mit medizinische Hilfe versorgen lassen. Dafür wendet man sich an ein Mitglied des Rettungsdienstes in der Uniklinik. Die Dehydrierung wird vom Mediziner durch eine Überprüfung des Allgemeinzustandes herausgefunden. Anschließend wird bei der Behandlung den Patienten eine NaCl-Infusion verabreicht. 
+Man kann eine Dehydrierung mit medizinische Hilfe versorgen lassen. Dafür wendet man sich an ein Mitglied des [Rettungsdienstes](../../pages/fraktionen/rettungsdienst.md) in der Uniklinik. Die Dehydrierung wird vom Mediziner durch eine Überprüfung des Allgemeinzustandes herausgefunden. Anschließend wird bei der Behandlung den Patienten eine NaCl-Infusion verabreicht. 
 Nach der Behandlung kann der Patient wieder ganz normal trinken, ohne dass es irgendwelche Nebeneffekte nach sich zieht.
