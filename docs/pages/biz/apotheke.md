@@ -1,4 +1,3 @@
-# Apotheke 
 In der Apotheke findest du alles für deine [Gesundheit](../../pages/krankheiten/gesundheit.md). Ebenfalls können hier Rezepte gegen Medikamente eingetauscht werden.
 
 ## Sortiment 
