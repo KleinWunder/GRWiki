@@ -1,5 +1,3 @@
-## Allgemein
-
 Mit einem Fahrzeug kommt man schneller von A nach B, ohne lästigen Busfahren. Regelmäßiges Tanken an den [Tankstellen](../../pages/biz/tankstelle.md) sollte hierbei auch berücksichtigt werden.
 
 Sollte man in einem Fahrzeug sitzen, kann man mit der Offhand-Taste (standartmäßig ++f++ ), die Fahrzeugsteuerung aufrufen. Ist der Motor aus, so ist die einzige Option, den Motor zu starten. Sollte der Motor an sein, sieht man die erweiterte Fahrzeugsteuerung. Unter anderem kann man hier die Fahrzeuginformationen einsehen, einen Tempomat einstellen, Fraktionstore öffnen und den Gang wechseln. Im Menü kann der Warnblicker angeschaltet werden, mit den Maustasten jeweils blinken. Bei Dienstwägen kann man hier auch das Sondersignal einstellen. Mit einem Druck auf die Sprungtaste (standartmäßig die ++spc++ -Taste) betätigt man die Hupe. 
