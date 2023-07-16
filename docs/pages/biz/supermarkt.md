@@ -1,5 +1,3 @@
-## Supermarkt
-
 In Supermärkten können Lebensmittel gekauft werden. Leere Flaschen können an den Pfandflaschenautomaten entsorgt werden. (**/navi Supermarkt-1/2/3/4/5/6/7**)
 
 Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" eight="150" src="../../../assets/image/biz/supermarkt/Supermarkt-Kaufmenü.png"> 
