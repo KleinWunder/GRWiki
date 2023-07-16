@@ -11,9 +11,12 @@ Im Starblocks werden folgende Artikel verkauft: <img align="right" width="300" e
 + Donut (Zuckerguss)
 + Muffin  
 
-### Standorte der Starblocks  <img align="right" width="300" eight="150" src="../../../assets/image/biz/starblocks/Starblock-1.png" alt="Starblocks-1" title="Starblocks-1">
+### Standorte der Starblocks  
 
-| Name | Ort | Nächste Bushaltestelle
+
+<img align="right" width="300" eight="150" src="../../../assets/image/biz/starblocks/Starblock-1.png" alt="Starblocks-1" title="Starblocks-1">
+
+| Starblocks | Ort | Nächste [Bushaltestelle](../../pages/öpnv/bus.md) |
 |:-:|:-:|:-:|   
 | Starblocks-1 | Stadtpark | Postzentrale |
-| Starblocks-2 | Strandpasage | Strandpasage |
+| Starblocks-2 | [Strandpasage](../../pages/gebiete/strandpassage.md) | Strandpasage |
