@@ -9,6 +9,8 @@
 
 
 
+
+
 Der erste Anglerteich (**/navi Angler**) befindet sich in Downtown, nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parkes befindet sich der NPC Walter. Der zweite Anglerteich befindet sich im Reichenviertel beim Campingplatz. 
 
 Im Bergwerk kann als Minenarbeiter gearbeitet werden. Diese Arbeit gewährt einem Erfahrungspunkte, Geld, [BergbauXP](../../pages/skills/bergbau.md) und [SozialXP](../../pages/skills/social.md). 
