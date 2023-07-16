@@ -17,7 +17,7 @@ Im Tierheim kann man Tierfutter (EG) und drei verschiedene Pets (1.OG) kaufen. D
 | Hund | 5.000,00€ | 1.666,67€ |  |  |  |  | 12.166,67€ |
 | Papagei | 7.200,00€ | 2.400,00€ |  |  |  |  | 12.900,00€ |
 | Hase | / |  |  |  |  |  | 11.116,67€ |
-| Capybara | / |  |  |  | 5.833,33€ |  |  |
+| Capybara | / |  |  |  | 5.833,33€ |  | 12.166,67€ |
 | Biene | / |  |  |  |  | 9.000,00€ |  |
 | Affe | / | |  |  |  |  |  |
 | Rentier | / |  |  | 2.666,67€ |  |  |  |
