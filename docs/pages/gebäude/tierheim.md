@@ -13,12 +13,11 @@ Im Tierheim kann man Tierfutter (EG) und drei verschiedene Pets (1.OG) kaufen. D
 
 | Tier | Kosten | Verkauf (Gewöhnlich) |
 |:-:|:-:|:-:|
-| Katze | 1.600,00€ | Zahl |
+| Katze | 1.600,00€ |  |
 | Hund | 5.000,00€ | 1.666,67€ |
-| Papagei | 7.200,00€ | Zahl |
+| Papagei | 7.200,00€ | 2.400,00€ |
 | Biene | / | 1.666,67€ |
 | Affe | / | 1.666,67€ |
-| Tier | / | Zahl |
 
 
 Im 1. OG kann man beim NPC Kate drei unterschiedliche Pets erwerben. Ebenfalls bietet sich hier die Gelegenheit das Pet zu verbessern auf die Stufen **Ungewöhnlich** und **Selten**. Und so funktioniert es:
