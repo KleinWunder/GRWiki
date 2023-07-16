@@ -1,19 +1,19 @@
 # Aktivitäten
 
 Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionkasse geben, aber auch zu einem Verlust von Geld führen.
-DIe Polizei und der Rettungsdienst erhalten Aktivitäten übermäßig von den Crimefraktionen, die die Aktivitäten auslösen oder vom System.
+DIe [Polizei](../../pages/fraktionen/polizei.md) und der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](../../pages/fraktionen/allgemein.md), die die Aktivitäten auslösen oder vom System.
 
 
 ## Polizei
 Die Polizei kann folgende Aktivitäten machen:
 
-* Apothekeraub verhindern
-* Bombe neutralisieren
+* [Apothekeraub](../../pages/fraktionen/apothekenraub.md) verhindern
+* [Bombe](../../pages/fraktionen/bomben.md) neutralisieren
 * Bußgelder verteilen
 * Gewerberaub verhindern
-* Hausaktion durchführen
+* [Hausaktion](../../pages/fraktionen/hausaktionen.md) durchführen
 * Illegale Pflanzen verbrennen
-* Juwelierraub verhindern
+* [Juwelierraub](../../pages/fraktionen/juwelierraub.md) verhindern
 * Notrufe nachgehen
 * Personen durchsuchen
 * Personen mit Fahndungspunkten elemieren
@@ -38,7 +38,7 @@ Der Rettungsdienst kann folgende Aktivitäten machen:
     - Gesundheitscheck
     - Impfung
     - Lebenmittelvergiftung  
-- Hausaktionen durchführen
+- [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
 - Krankentransporte durchführen
 - Notrufe bearbeiten
 
@@ -54,28 +54,28 @@ Die Feuerwehr kann folgende Aktivitäten machen:
 
 Die Kartellfraktionen können folgende Aktivitäten machen:
 
-* Apothekenräube starten
+* [Apothekeraub](../../pages/fraktionen/apothekenraub.md) starten
 * ATM's aufbrechen
-* Bomben legen
+* [Bombe](../../pages/fraktionen/bomben.md) legen
 * Brandstiftung durchführen
 * Gewerberäube starten
-* Hausaktionen durchführen
+* [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
 * Heilkrautplantagen legen
-* HQ Raids durchführen
-* Kopfgeld erledigen
+* [HQ Raids](../../pages/fraktionen/hqraids.md) durchführen
+* Kopfgelder erledigen
 
 
 ## Mafia
 
 Die Mafiafraktionen können folgende Aktivitäten machen:
 
-* Apothekenräube starten
+* [Apothekeraub](../../pages/fraktionen/apothekenraub.md) starten
 * ATM's aufbrechen
 * Brandstiftung durchführen
 * Gewerberäube starten
-* Hausaktionen durchführen
+* [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
 * Heilkrautplantagen legen
-* HQ Raids durchführen
-* Juwelierüberfälle starten
-* Kopfgeld erledigen
+* [HQ Raids](../../pages/fraktionen/hqraids.md) durchführen
+* [Juwelierraub](../../pages/fraktionen/juwelierraub.md) starten
+* Kopfgelder erledigen
 * Mohnkapseln herstellen
