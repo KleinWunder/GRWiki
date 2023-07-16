@@ -1,5 +1,3 @@
-## Bars
-
 In Bars werden Getränke verkauft. (**/navi Bar-1/2/3**) <img align="right" width="300" eight="150" src="../../../assets/image/biz/bar/Bar-Kaufmenü.png"> 
 
 
