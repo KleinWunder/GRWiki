@@ -5,52 +5,77 @@ DIe Polizei und der Rettungsdienst erhalten Aktivitäten übermäßig von den Cr
 
 
 ## Polizei
+Die Polizei kann folgende Aktivitäten machen:
 
-Verhaften
-Wantedskills
-Verbrennen von Betäubungsmittel
-Personen durchsuchen
-Bußgelder verteilen
-Illegale Pflanzen verbrennen
-Strafzettel
-Radarkontrollen
-Notrufe nachgehen
-Hausaktion
-Apothekeraub verhindern
-Juwelierraub verhindern
-Bombe neutralisieren
-Gewerberaub verhindern
-Nach ABC sortiert
+* Apothekeraub verhindern
+* Bombe neutralisieren
+* Bußgelder verteilen
+* Gewerberaub verhindern
+* Hausaktion durchführen
+* Illegale Pflanzen verbrennen
+* Juwelierraub verhindern
+* Notrufe nachgehen
+* Personen durchsuchen
+* Personen mit Fahndungspunkten elemieren
+* Radarkontrollen durchführen
+* Strafzettel verteilen
+* Verbrennen von Betäubungsmittel
+* Verhaftungen durchführen
+  
 
 ## Rettungsdienst
+Der Rettungsdienst kann folgende Aktivitäten machen:
 
+- Bewusstlose wiederbeleben
+- Behandlung durchführen
+    - Attest ausstellen
+    - Beinverletzungen
+    - Blutentnahme
+    - Bluthochdruck
+    - Blutzucker
+    - Dehydrierung
+    - Grippe
+    - Gesundheitscheck
+    - Impfung
+    - Lebenmittelvergiftung  
+- Hausaktionen durchführen
+- Krankentransporte durchführen
+- Notrufe bearbeiten
 
+### Feuerwehr  
+Die Feuerwehr kann folgende Aktivitäten machen:
 
-Nach ABC sortiert
+- Brände löschen
+- Türöffnungen durchführen
+- Windbrüche beseitigen
+
 
 ## Kartell
 
-Heilkrautplantagen 
-Hausaktionen
-Brandstiftung
-Apothekenräube
-Kopfgeld
-Gewerberäube
-ATM's aufbrechen
-Bomben
+Die Kartellfraktionen können folgende Aktivitäten machen:
 
-Nach ABC sotiert
+* Apothekenräube starten
+* ATM's aufbrechen
+* Bomben legen
+* Brandstiftung durchführen
+* Gewerberäube starten
+* Hausaktionen durchführen
+* Heilkrautplantagen legen
+* HQ Raids durchführen
+* Kopfgeld erledigen
+
 
 ## Mafia
 
-Heilkrautplantagen 
-Hausaktionen
-Brandstiftung
-Juwelierüberfälle
-Apothekenräube
-Mohnkapseln herstellen
-Kopfgeld
-Gewerberäube
-ATM's aufbrechen
+Die Mafiafraktionen können folgende Aktivitäten machen:
 
-Nach ABC sotiert
+* Apothekenräube starten
+* ATM's aufbrechen
+* Brandstiftung durchführen
+* Gewerberäube starten
+* Hausaktionen durchführen
+* Heilkrautplantagen legen
+* HQ Raids durchführen
+* Juwelierüberfälle starten
+* Kopfgeld erledigen
+* Mohnkapseln herstellen
