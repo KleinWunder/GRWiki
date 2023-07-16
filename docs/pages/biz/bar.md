@@ -11,9 +11,12 @@ In der Bar werden folgende Artikel verkauft:
   
 
 
-### Standorte der Bars <img align="right" width="300" eight="150" src="../../../assets/image/biz/bar/Bar-1.png" alt="Bar-1" title="Bar-1">
+### Standorte der Bars 
 
-| Name | Ort | Nächste Bushaltestelle |
+
+<img align="right" width="300" eight="150" src="../../../assets/image/biz/bar/Bar-1.png" alt="Bar-1" title="Bar-1">
+
+| Name | Ort | Nächste [Bushaltestelle](../../pages/öpnv/bus.md) |
 |:-:|:-:|:-:|
 | Bar-1 | [Oststadt](../../pages/gebiete/oststadt.md) | Farm |
 | Bar-2 | [County](../../pages/gebiete/county.md) | County |
