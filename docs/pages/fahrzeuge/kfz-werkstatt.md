@@ -13,5 +13,5 @@ Hier unterscheiden sich die Arbeiten unter einer normalen Reparatur, <img align=
 ### Lackierung
 
 
-Die Fahrzeuge können individuell farblich angepasst werden. <img align="right" width="200" eight="150" src="../../../assets/image/Öpnv/Mechaniker/Lakieren.png"> Es werden bereits 11 Farben angeboten, aber es besteht die Möglichkeit einen eigenen RGB Code einzufügen. Ebenso kann sich ein Farbmessgerät für 25 Euro beim Mechaniker gekauft werden, welches den RGB Code ermittelt bei anderen Autos.
+Die Fahrzeuge können individuell farblich angepasst werden. <img align="right" width="200" eight="150" src="../../../assets/image/Öpnv/Mechaniker/Lakieren.png"> Es werden bereits 11 Farben angeboten, aber es besteht die Möglichkeit einen eigenen [RGB Code](https://encycolorpedia.de/00ff00) einzufügen. Ebenso kann sich ein Farbmessgerät für 25 Euro beim Mechaniker gekauft werden, welches den RGB Code ermittelt bei anderen Autos.
 
