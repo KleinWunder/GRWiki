@@ -3,7 +3,7 @@
 
  <img align="right" width="290" eight="290" src="../../../assets/image/nebenjobs/anglerreichenviertel.png">
 
-Der erste Anglerteich (**/navi Angler**) befindet sich in Downtown, nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parkes befindet sich der NPC <img align="right" width="290" eight="290" src="../../../assets/image/nebenjobs/anglerdowntown.png">
+Der erste Anglerteich (**/navi Angler**) befindet sich in Downtown, nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parkes befindet sich der NPC <img align="left" width="290" eight="290" src="../../../assets/image/nebenjobs/anglerdowntown.png">
 Walter. Der zweite Anglerteich befindet sich im Reichenviertel beim Campingplatz. 
 
 
