@@ -18,15 +18,15 @@ Der Bus hat eine weiß-hellblaue Lackierung. Er steht meistens in einer Haltebuc
 | Farm | Supermarkt-4; Bar-1; Starblocks-2 | Farmer; Getränketransport; Winzer; Gärtner; Blumentransport; Imker | Jagdhütte; [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md); Gärtnerei; [Mohnfeld](../../pages/pflanzen/mohnfeld.md) |
 | Postzentrale | Apotheke-1; Bar-3 | Tellerwäscher; Paketsortierer; Zeitungsjunge | [Elektroladen](../../pages/allgemein/handy.md); Blumenladen; [Rathaus](../../pages/orte/rathaus.md); [Stadthalle](../../pages/orte/stadthalle.md); [Feuerwehr](../../pages/fraktionen/rettungsdienst.md) |
 | Uniklinik | Starblocks-1; Tankstelle-1 | Wäschetransport | Krankenhaus; [Anglerteich](../../pages/nebenjobs/angler.md); [Bergwerk](../../pages/nebenjobs/bergbau.md) |
-| Ganggebiet | Apotheke-2 |  | Sekte; [Tierheim](../../pages/gebäude/tierheim.md) |
+| [Ganggebiet](../../pages/gebiete/ganggebiet.md) | Apotheke-2 |  | Sekte; [Tierheim](../../pages/gebäude/tierheim.md) |
 | Ganggebiet Nord | Supermarkt-5; Waffenladen-3 |
-| Strandpassage | Starblocks-2 | Bademeister | Schwimmbad; Yachthafen |
-| Reichenviertel | Supermarkt-2; Apotheke-3 | Pizzabäcker | [Sägewerk](../../pages/nebenjobs/sägewerk.md); [Camorra HQ](../../pages/fraktionen/camorra.md); Mohnfeld; [Polizei Süd](../../pages/fraktionen/polizei.md) |
-| County | Waffenladen-2; Bar-2 | | Tacoladen |
+| [Strandpassage](../../pages/gebiete/strandpassage.md) | Starblocks-2 | Bademeister | Schwimmbad; Yachthafen |
+| [Reichenviertel](../../pages/gebiete/reichenviertel.md) | Supermarkt-2; Apotheke-3 | Pizzabäcker | [Sägewerk](../../pages/nebenjobs/sägewerk.md); [Camorra HQ](../../pages/fraktionen/camorra.md); Mohnfeld; [Polizei Süd](../../pages/fraktionen/polizei.md) |
+| [County](../../pages/gebiete/county.md) | Waffenladen-2; Bar-2 | | Tacoladen |
 | Plaza | Supermarkt-3; Tankstelle-2 | Agavenfarmer | [Kartell HQ](../../pages/fraktionen/kartell.md) |
 | Justizvollzugsanstalt | Tankstelle-3 | JVA-Transport; Fensterputzer | [Gefängnis](../../pages/gebäude/jva.md); Papierfabrik; [Labor](../../pages/gebäude/labor.md); Geldwäsche; Möbelhaus |
-| Asia-Viertel | Supermarkt-6; Waffenladen-4; Tankstelle-4; Apotheke-4 |  | [Yakuza HQ](../../pages/fraktionen/yakuza.md); Freizeitpark; Mohnfeld; Meditationstempel |
-| Oststadt | Supermarkt-1; Waffenladen-1 |  | [Jagdgebiet](../../pages/nebenjobs/jagd.md) |
+| [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Supermarkt-6; Waffenladen-4; Tankstelle-4; Apotheke-4 |  | [Yakuza HQ](../../pages/fraktionen/yakuza.md); Freizeitpark; Mohnfeld; Meditationstempel |
+| [Oststadt](../../pages/gebiete/oststadt.md) | Supermarkt-1; Waffenladen-1 |  | [Jagdgebiet](../../pages/nebenjobs/jagd.md) |
 | Polizeipräsidium |  | Wäscherei; Koch | [Zentralbank](../../pages/gebäude/bank.md); Makler; Polizei HQ |
 | Hallenbad | | Bademeister | Schwimmbad |
-| Westside | Supermarkt-7; Tankstelle-5; Apotheke-5 |  | Polizeirevier West; Krankenhaus West |
+| [Westside](../../pages/gebiete/westside.md) | Supermarkt-7; Tankstelle-5; Apotheke-5 |  | Polizeirevier West; Krankenhaus West |
