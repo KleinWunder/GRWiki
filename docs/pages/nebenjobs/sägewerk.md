@@ -15,9 +15,9 @@ Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten.
 - Gehe zum NPC Jack und kaufe eine Axt. 
 - Nun müssen Bäume in der Umgebung gefällt werden.
 - Es können drei verschiedene Items im Inventar landen: 
-   - Stock 
-   - Holzstamm 
-   - Entrindeter Holzstamm.
+      - Stock 
+      - Holzstamm 
+      - Entrindeter Holzstamm.
 - Am Ende die Holzstämme in der Halle bei der Säge verarbeiten und verkaufen
 - Stöcke im Mülleimer entsorgen
 
