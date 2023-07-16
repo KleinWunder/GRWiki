@@ -1,7 +1,7 @@
 # Angler
 
-<img align="right" width="340" eight="340" src="../../../assets/image/nebenjobs/anglerdowntown.png">
-<img align="right" width="340" eight="340" src="../../../assets/image/nebenjobs/anglerreichenviertel.png">
+<img align="right" width="360" eight="340" src="../../../assets/image/nebenjobs/anglerdowntown.png">
+<img align="right" width="360" eight="340" src="../../../assets/image/nebenjobs/anglerreichenviertel.png">
 
 Der erste Anglerteich (**/navi Angler**) befindet sich in Downtown, nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parkes befindet sich der NPC 
 Walter. Der zweite Anglerteich befindet sich im Reichenviertel beim Campingplatz (**/navi Campingplatz**). Waltraud, der NPC, ist auf dem Steg zu finden. Angeln gewährt einem Erfahrungspunkte, Geld, [FischerXP](../../pages/skills/fischer.md) und [SozialXP](../../pages/skills/social.md). 
