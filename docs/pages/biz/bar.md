@@ -15,6 +15,6 @@ In der Bar werden folgende Artikel verkauft:
 
 | Name | Ort | Nächste Bushaltestelle |
 |:-:|:-:|:-:|
-| Bar-1 | Oststadt | Farm |
-| Bar-2 | County | County |
-| Bar-3 | Downtown | Postzentrale |
+| Bar-1 | [Oststadt](../../pages/gebiete/oststadt.md) | Farm |
+| Bar-2 | [County](../../pages/gebiete/county.md) | County |
+| Bar-3 | [Downtown](../../pages/gebiete/downtown.md) | Postzentrale |
