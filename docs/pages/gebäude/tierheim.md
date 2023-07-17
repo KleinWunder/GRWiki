@@ -13,15 +13,15 @@ Im Tierheim kann man Tierfutter (EG) und drei verschiedene Pets (1.OG) kaufen. D
 
 | Tier | Kaufkosten | Verkauf (Gewöhnlich) | Verkauf (Ungewöhnlich) | Verkauf (Selten) | Verkauf (Episch) | Verkauf (Legendär) | Verkauf (Ultralegendär) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Katze | 1.600,00€ | 500,00€ | 1000,00€ | / | / | / | 11.000,00€ |
-| Hund | 5.000,00€ | 1.666,67€ | / | / | / | / | 12.166,67€ |
-| Papagei | 7.200,00€ | 2.400,00€ | / | / | / | / | 12.900,00€ |
-| Hase | / | 616,67€ | / | / | / | / | 11.116,67€ |
-| Capybara | / | 1666,67€ | / | / | 5.833,33€ | / | 12.166,67€ |
-| Biene | / | 1666,67€ | / | / | / | 9.000,00€ | / |
-| Affe | / | 1666,67€ | / | / | / | / | / |
-| Rentier | / | 1666,67€ | / | 2.666,67€ | / | / | / |
-| Fledermaus | / | 900,00€ | / | 1.900,00€ | / | / | / |
+| Katze | 1.600,00€ | 500,00€ | 1000,00€ | 4666,67€ | 7833,33€ | / | 11.000,00€ |
+| Hund | 5.000,00€ | 1.666,67€ | 2166,66€ | 4666,67€ | 9000,0€ | / | 12.166,67€ |
+| Papagei | 7.200,00€ | 2.400,00€ | 2900,00€ | 6566,67€ | 9733,33€ | / | 12.900,00€ |
+| Hase | / | 616,67€ | 1116,67€ | 4783,33€ | 7950,0€ | / | 11.116,67€ |
+| Capybara | / | 1666,67€ | 2166,67€ | 6566,67€ | 5.833,33€ | / | 12.166,67€ |
+| Biene | / | 1666,67€ | 2166,67€ | 6566,67€ | 9000,00€ | / | / |
+| Affe | / | 1666,67€ | 2166,67€ | 6566,67€ | 9000,00€ | / | / |
+| Rentier | / | 1666,67€ | 2166,67€ | 2.666,67€ | 9000,00€ | / | / |
+| Fledermaus | / | 900,00€ | 1900,00€ | 5066,67€ | 8233,33€ | / | / |
 
 
 Im 1. OG kann man beim NPC Kate drei unterschiedliche Pets erwerben. Ebenfalls bietet sich hier die Gelegenheit das Pet zu verbessern auf die Stufen **Ungewöhnlich** und **Selten**. Und so funktioniert es:
