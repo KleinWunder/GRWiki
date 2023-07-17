@@ -12,7 +12,7 @@ Bei Dorothea kann das Tier mit einem Petupgrade, welches beim Schwarzmarkt oder 
 Im Tierheim kann man Tierfutter (EG) und drei verschiedene Pets (1.OG) kaufen. Das sind die [Katze](../../pages/pets/katze.md), der [Hund](../../pages/pets/hund.md) & der [Papagei](../../pages/pets/papagei.md).
 
 | Tier | Kosten | Verkauf (Gewöhnlich) | Verkauf (Ungewöhnlich) | Verkauf (Selten) | Verkauf (Episch) | Verkauf (Legendär) | Verkauf (Ultralegendär) |
-|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Katze | 1.600,00€ | 500,00€ | 1000,00€ | / | / | / | 11.000,00€ |
 | Hund | 5.000,00€ | 1.666,67€ | / | / | / | / | 12.166,67€ |
 | Papagei | 7.200,00€ | 2.400,00€ | / | / | / | / | 12.900,00€ |
