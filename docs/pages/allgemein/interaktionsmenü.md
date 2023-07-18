@@ -19,7 +19,7 @@ Das Interaktionsmenü liefert eine Vielzahl an Möglichkeiten, um mit Spielern z
 ## Fraktionsspezifische Interaktionsmenüs
 
 Für die Fraktionsmitglieder gibt es noch zusätzliche Interaktionen:
-
+<img align="left" width="240" eight="200" src="../../../assets/image/allgemein/Medicmenü.png"> <img align="center" width="240" eight="200" src="../../../assets/image/allgemein/Copmenü.png"> <img align="right" width="240" eight="200" src="../../../assets/image/allgemein/Crimemenü.png">
 | Fraktion | Funktionen |
 |:-:|:-:|
 | [Rettungsdienst] | Allgemeinzustand überprüfen; Arztbericht anfertigen; Erste Hilfe Kurs attestieren; Gesundheitscheck attestieren |
