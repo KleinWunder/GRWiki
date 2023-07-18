@@ -80,11 +80,13 @@ Die Mafiafraktionen können folgende Aktivitäten machen:
 * [Kopfgelder](../../pages/fraktionen/kopfgeld.md) erledigen
 * Mohnkapseln herstellen
 
+
 # Rufpunkte
 
 Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie können sich mit Aktivitäten Rufpunkte erlangen, auch Reputationpoints genannt, welche ihren Lagerverfall senken kann. Mit **/reputationpoints** können die Punktestände eingesehen werden.
 
 ## Rufpunkte erlangen und verlieren
+
 <table>
   <thead>
     <tr>
