@@ -16,7 +16,7 @@ Die Polizei kann folgende Aktivitäten machen:
 * [Juwelierraub](../../pages/fraktionen/juwelierraub.md) verhindern
 * Notrufe nachgehen
 * Personen durchsuchen
-* Personen mit Fahndungspunkten elemieren
+* Personen mit [Fahndungspunkten] elemieren
 * Radarkontrollen durchführen
 * Strafzettel verteilen
 * Verbrennen von Betäubungsmittel
@@ -28,16 +28,16 @@ Der Rettungsdienst kann folgende Aktivitäten machen:
 
 - Bewusstlose wiederbeleben
 - Behandlung durchführen
-    - Attest ausstellen
-    - Beinverletzungen
+    - [Attest](../../pages/krankheiten/rezepte.md) ausstellen
+    - [Beinverletzungen](../../pages/krankheiten/beinverletzungen.md)
     - Blutentnahme
     - Bluthochdruck
-    - Blutzucker
-    - Dehydrierung
-    - Grippe
+    - [Blutzucker](../../pages/krankheiten/blutzucker.md)
+    - [Dehydrierung](../../pages/krankheiten/dehydration.md)
+    - [Grippe](../../pages/krankheiten/grippe.md)
     - Gesundheitscheck
-    - Impfung
-    - Lebenmittelvergiftung  
+    - [Impfung](../../pages/krankheiten/impfung.md)
+    - [Lebenmittelvergiftung](../../pages/krankheiten/lebensmittelvergiftung.md)
 - [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
 - Krankentransporte durchführen
 - Notrufe bearbeiten
@@ -60,9 +60,9 @@ Die Kartellfraktionen können folgende Aktivitäten machen:
 * Brandstiftung durchführen
 * Gewerberäube starten
 * [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
-* Heilkrautplantagen legen
+* [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) legen
 * [HQ Raids](../../pages/fraktionen/hqraids.md) durchführen
-* Kopfgelder erledigen
+* [Kopfgelder](../../pages/fraktionen/kopfgeld.md) erledigen
 
 
 ## Mafia
@@ -74,8 +74,77 @@ Die Mafiafraktionen können folgende Aktivitäten machen:
 * Brandstiftung durchführen
 * Gewerberäube starten
 * [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
-* Heilkrautplantagen legen
+* [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) legen
 * [HQ Raids](../../pages/fraktionen/hqraids.md) durchführen
 * [Juwelierraub](../../pages/fraktionen/juwelierraub.md) starten
-* Kopfgelder erledigen
+* [Kopfgelder](../../pages/fraktionen/kopfgeld.md) erledigen
 * Mohnkapseln herstellen
+
+# Rufpunkte
+
+Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie können sich mit Aktivitäten Rufpunkte erlangen, auch Reputationpoints genannt, welche ihren Lagerbefall senken kann.
+
+## Rufpunkte erlangen und verlieren
+<table>
+  <thead>
+    <tr>
+      <th colspan=2 align="center">R1 Text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+  </tbody>
+</table>
+
+## Punkteverteilung
+
+<table>
+  <thead>
+    <tr>
+      <th colspan=2 align="center">Reputationpoints</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" >Punkte</td>
+      <td align="center" >Verlust pro Stunde (Heilkraut)</td>
+    </tr>
+    <tr>
+      <td align="center" >Unter 0</td>
+      <td align="center" >10 Gram</td>
+    </tr>
+    <tr>
+      <td align="center" >0 bis 99</td>
+      <td align="center" >6 Gram</td>
+    </tr>
+    <tr>
+      <td align="center" >100 bis 499</td>
+      <td align="center" >5 Gram</td>
+    </tr>
+    <tr>
+      <td align="center" >500 bis 999</td>
+      <td align="center" >4 Gram</td>
+    </tr>
+    <tr>
+      <td align="center" >1000 bis 1499</td>
+      <td align="center" >3 Gram</td>
+    </tr>
+    <tr>
+      <td align="center" >ab 1500</td>
+      <td align="center" >2 Gram</td>
+    </tr> 
+  </tbody>
+</table>
+
+
+
+
+
+
