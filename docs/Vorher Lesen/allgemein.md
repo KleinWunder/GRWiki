@@ -27,3 +27,23 @@
 * Serverstrafen
 * Tasche
 * tickets
+
+## Tabelle Yippyyeahhhh Oneheader
+
+<table>
+  <thead>
+    <tr>
+      <th colspan=2 align="center">R1 Text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+  </tbody>
+</table>
