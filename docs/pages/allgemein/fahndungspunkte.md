@@ -15,5 +15,4 @@ Wird nach einem Spieler gefahndet gibt es mehrere Möglichkeiten der Strafverfol
 Möchte man sich als Verbrecher nicht stellen, sollte man sich stets bedeckt und versteckt vor Polizisten halten. Mit der Zeit wird es aber immer schwerer der Polizei zu entkommen und einer Verhaftung aus dem Weg zu gehen, sodass man um diese nicht drumherum kommt.
 
 Fährt ein Schwerverbecher mit dem Bus, erhalten die Polizisten eine Nachricht mit der Zielhaltestelle des Verbrechers:
-
 <img align="right" width="440" eight="440" src="../../../assets/image/allgemein/fahndungspunkte/FahndungBus.png">
