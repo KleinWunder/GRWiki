@@ -16,7 +16,7 @@ Die Polizei kann folgende Aktivitäten machen:
 * [Juwelierraub](../../pages/fraktionen/juwelierraub.md) verhindern
 * Notrufe nachgehen
 * Personen durchsuchen
-* Personen mit [Fahndungspunkten] elemieren
+* Personen mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) elemieren
 * Radarkontrollen durchführen
 * Strafzettel verteilen
 * Verbrennen von Betäubungsmittel
@@ -82,28 +82,52 @@ Die Mafiafraktionen können folgende Aktivitäten machen:
 
 # Rufpunkte
 
-Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie können sich mit Aktivitäten Rufpunkte erlangen, auch Reputationpoints genannt, welche ihren Lagerbefall senken kann.
+Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie können sich mit Aktivitäten Rufpunkte erlangen, auch Reputationpoints genannt, welche ihren Lagerverfall senken kann. Mit **/reputationpoints** können die Punktestände eingesehen werden.
 
 ## Rufpunkte erlangen und verlieren
 <table>
   <thead>
     <tr>
-      <th colspan=2 align="center">R1 Text</th>
+      <th colspan=2 align="center">Punkteverteilung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
+      <td align="center">Punkte</td>
+      <td align="center">Aktivität</td>
     </tr>
     <tr>
-      <td>Inhalt</td>
-      <td>Inhalt</td>
+      <td align="center">50</td>
+      <td align="center">Gewinnen eines Gangwars</td>
+    </tr>
+    <tr>
+      <td align="center">25</td>
+      <td align="center">Herstellung von Mohnkapseln</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td align="center">Herstellung von Novapulver</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center">Erntnen einer Heilkrautpflanze</td>
+    </tr>
+    <tr>
+      <td align="center">1</td>
+      <td align="center">Brandstiftung</td>
+    </tr>
+    <tr>
+      <td align="center">-1</td>
+      <td align="center">Erschossen und Autoarrest</td>
+    </tr>
+    <tr>
+      <td align="center">-50</td>
+      <td align="center">Verlieren eines Gangwars</td>
     </tr>
   </tbody>
 </table>
 
-## Punkteverteilung
+## Lagerverfall
 
 <table>
   <thead>
