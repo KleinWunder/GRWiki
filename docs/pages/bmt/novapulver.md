@@ -1,7 +1,6 @@
 # Novapulver
 
-Text
-
+Novapulver wird aus [Tablettenschachteln](../../pages/bmt/tablettenschachtel.md) herstellt. Ihr Besitz ist höchst illegal. Nach der Einnahme setzt sich eine berauschende Wirkung ein, die einen schneller macht.
 
 ## Wirkung
 
