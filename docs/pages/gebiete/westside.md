@@ -6,10 +6,6 @@ An das Land England angelehnt gestaltet, bringt das Viertel drei Gewerbe mit sic
 
 
 
-
-
-<img align="right" width="340" eight="340" src="../../../assets/image/gebiete/Westside1.png">
-
 <table>
   <thead>
     <tr>
@@ -35,3 +31,6 @@ An das Land England angelehnt gestaltet, bringt das Viertel drei Gewerbe mit sic
     </tr>
   </tbody>
 </table>
+
+<img align="right" width="340" eight="340" src="../../../assets/image/gebiete/Westside1.png">
+
