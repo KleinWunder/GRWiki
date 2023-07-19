@@ -7,7 +7,7 @@
     + Nach 15min --> Wasser 
     + Nach 20min --> Ernten 
     
-    (Mit Dünger, Wasser oder zum Ernten Rechtsklick auf die Pflanze machen. ++rightmousekey++)
+    (Mit Dünger, Wasser oder zum Ernten Rechtsklick auf die Pflanze machen.)
 
 ## Materialien
 - Heilkrautsamen (kann entweder in der Schwarzmarktauktion oder bei dem NPC "Simon" kaufen, welcher sich an der Farm befindet)
