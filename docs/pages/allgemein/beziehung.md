@@ -23,7 +23,7 @@ Verheiratete Personen haben nun Zugriff auf die [Häuser/Wohnungen](../../pages/
 <img align="right" width="440" eight="440" src="../../../assets/image/allgemein/beziehung/Heiraten.png">
 
 ## Scheidung
-Möchte man die Ehe beenden, geht das ganz einfach und indem man im [Rathaus](../../pages/orte/rathaus.md) beim Standesamt sich scheiden lässt. Man ist jedoch danach immer noch in einer Beziehung mit der Person.
+Möchte man die Ehe beenden, geht das ganz einfach indem man im [Rathaus](../../pages/orte/rathaus.md) beim Standesamt sich scheiden lässt. Das ganze ist komplett kostenlos. Man ist jedoch danach immer noch in einer Beziehung mit der Person.
 
 ## Trennung
 Möchte man sich vollständig von seinem Gegenüber lösen, gibt man den Befehl **/trennung [Name]** ein und die Beziehung ist beendet.
