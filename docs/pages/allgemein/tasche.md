@@ -8,7 +8,7 @@ Taschenslots sind die insgesamte Anzahl an Sachen, die bei sich in der Tasche ge
 + Durch das Erwerben im [Shop von GermanRP](https://germanrpofficial.tebex.io)
   
 ## Aussehen
-Nach dem Befehl **/inv** öffnet sich ein Menü, was wie folgt aussieht:
+Nach dem Befehl **/inv** öffnet sich ein Menü, was wie folgt aussieht: <img align="right" width="240" eight="200" src="../../../assets/image/allgemein/Tasche.png">
 
 Durch das drüber halten des Mauszeigers lassen sich mehr Informationen darstellen. Ganz oben beim Trichter kann eingesehen werden, wieviel bereits belegt ist und wieviel Tascheninhalt man ingesamt hat.
 Darunter befinden sich alle Sachen, welche man konsumieren kann oder bei sich führt.
