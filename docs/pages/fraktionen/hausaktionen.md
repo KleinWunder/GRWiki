@@ -32,10 +32,11 @@ Hausbesitzer bekommen eine ausgehende Überweisung an die jeweilige Fraktion.
 
 ## Fraktions NPC
 Beim NPC der Fraktion können für die Hausaktionen zwei verschiedene Sachen gekauft werden:
-+ Hausaktionen generieren
-    + 50 Häuser für 500€
-+ Transporterperk
-    + 50 automatische Abgaben einer gelungender Hausaktion für 200€
+
+* Hausaktionen generieren
+    * 50 Häuser für 500€
+* Transporterperk
+    * 50 automatische Abgaben einer gelungender Hausaktion für 200€
 
 !!! info "Transporterperk"
-            Das Transporterperk kann gestackt werden.
+        Das Transporterperk kann gestackt werden.
