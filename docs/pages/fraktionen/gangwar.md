@@ -8,10 +8,10 @@ Eine Fraktion kann eine Kriegserklärung im Feedbeck Bereich der jeweiligen Frak
 
  <img align="right" width="600" eight="150" src="../../../assets/image/fraktionen/gangwar/ErgebnisGangwar.png">
 
-##Gangzonen
+## Gangzonen
 | Zone | Gebiet | Besetzende Fraktion |
 | :-: | :-: | :-: |
-| Agavenfarm | County | [Camorra](camorra.md) |
+| Agavenfarm | County | [The Establishment](establishment.md) |
 | Farm | Oststadt/Farm | [Camorra](camorra.md) |
 | Freizeitpark | Asiaviertel | [The Establishment](establishment.md)  |
 | Raffinerie | Downtown | [Medellín Kartell](kartell,md) |
