@@ -4,7 +4,7 @@ Text
 
 ## Wirkung
 Wird xxx eingenommen, erhält man folgende Wirkung:
-- Absorption x für x Minuten
-- Regeneration x für xx Sekunden
-- Übelkeit x für x Sekunden
--  
+- Absorption 2 für 2 Minuten
+- Regeneration 2 für 25 Sekunden
+- Übelkeit 1 für 5 Sekunden
+- für 3 Minuten 20% weniger Schaden
