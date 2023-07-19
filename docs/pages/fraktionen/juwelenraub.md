@@ -7,7 +7,7 @@ Der Juwelenraub ist eine Fraktionsaktivität der Fraktion [Yakuza](../../pages/f
 ## Ablauf
 1. Die Mitglieder der Crimefraktion versammeln sich beim Juwelier.
 2. Ein Mitglied gibt den Befehl /juwelenraub ein.
-3. Nun haben sie fünf Minuten Zeit die Steinblöcke unter den Glasblöcken (Vitrine) abzubauen.
+3. Nun haben sie drei Minuten Zeit die Steinblöcke unter den Glasblöcken (Vitrine) abzubauen.
 4. Jeder Block kann nur einmal abgebaut werden und generiert Geld und Combat-XP.
 5. Nach drei Minuten wird der Gesamterlös im Chat angezeigt und der Raub ist beendet.
 6. Nach dem start muss die Fraktion noch 10 Minuten sich in Downton verstecken. Nach den 10 Minuten dürfen sie Downtown auch verlassen.
