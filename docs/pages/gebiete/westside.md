@@ -1,5 +1,15 @@
 An das Land England angelehnt gestaltet, bringt das Viertel drei Gewerbe mit sich und ist Standort des Luxusfahrzeughändler.  Das Viertel hat einen kleinen Strandabschnitt und ins Auge fällt ein größeres Gebäude, welches dem [The Establishment](../../pages/fraktionen/establishment.md) gehört. In der Mitte des Gebietes ist ein alter Marktplatz und kennzeichnet somit die Ortsmitte. 
 
+
+
+<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Westside2.png"> <img align="right" width="340" eight="340" src="../../../assets/image/gebiete/Westside3.png">
+
+
+
+
+
+<img align="right" width="340" eight="340" src="../../../assets/image/gebiete/Westside1.png">
+
 <table>
   <thead>
     <tr>
