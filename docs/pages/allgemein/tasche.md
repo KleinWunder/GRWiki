@@ -20,6 +20,22 @@ Nach dem Befehl **/inv** öffnet sich ein Menü, was wie folgt aussieht:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Durch das drüber halten des Mauszeigers lassen sich mehr Informationen darstellen. Ganz oben beim Trichter kann eingesehen werden, wieviel bereits belegt ist und wieviel Tascheninhalt man ingesamt hat.
 Darunter befinden sich alle Sachen, welche man konsumieren kann oder bei sich führt.
 
