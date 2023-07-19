@@ -7,10 +7,10 @@ Das Interaktionsmenü liefert eine Vielzahl an Möglichkeiten, um mit Spielern z
 | Inhalt | Funktion |
 |:-:|:-:|
 | Fraktionsinfo | Zeigt, in welcher Fraktion der Spieler ist. |
-| Informationen | Zeigt die verschiedenen [Skill-Level]. |
-| Haustier | Zeigt das aktuell ausgerüstete [Pet] des Spielers. |
-| Dokumente zeigen | Zeige dem Spieler deine [Lizenzen]. |
-| Tascheninhalt zeigen | Zeige dem Spieler den [Tascheninhalt]. |
+| Informationen | Zeigt die verschiedenen [Skill-Level](../../pages/skills/allgemein.md). |
+| Haustier | Zeigt das aktuell ausgerüstete [Pet](../../pages/pets/allgemein.md) des Spielers. |
+| Dokumente zeigen | Zeige dem Spieler deine [Lizenzen](../../pages/allgemein/lizenzen.md). |
+| Tascheninhalt zeigen | Zeige dem Spieler den [Tascheninhalt](../../pages/allgemein/tasche.md). |
 | Finanzen | Zeige dem Spieler deine Finanzen (Bargeld & Konto). |
 | Personalausweis zeigen | Zeige dem Spieler deinen Personalausweis. |
 | Küssen | Küsse den Spieler. |
@@ -27,6 +27,6 @@ Für die Fraktionsmitglieder gibt es noch zusätzliche Interaktionen:
 
 | Fraktion | Funktionen |
 |:-:|:-:|
-| [Rettungsdienst] | Allgemeinzustand überprüfen; Arztbericht anfertigen; Erste Hilfe Kurs attestieren; Gesundheitscheck attestieren |
-| [Polizei] | Bußgeld ausstellen; Durchsuchen; Transport anfordern; Fahndungsinfo abrufen; Dienstmarke zeigen; Zu Boden drücken |
-| Crimefraktionen | Packen; Fesseln; Knebeln; Kommunikationsmittel abnehmen |
+| [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) | Allgemeinzustand überprüfen; Arztbericht anfertigen; Erste Hilfe Kurs attestieren; Gesundheitscheck attestieren |
+| [Polizei](../../pages/fraktionen/polizei.md) | Bußgeld ausstellen; Durchsuchen; Transport anfordern; Fahndungsinfo abrufen; Dienstmarke zeigen; Zu Boden drücken |
+| [Crimefraktionen](../../pages/fraktionen/allgemein.md) | Packen; Fesseln; Knebeln; Kommunikationsmittel abnehmen |
