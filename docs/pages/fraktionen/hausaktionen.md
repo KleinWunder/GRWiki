@@ -26,7 +26,7 @@ Die Funktionsweise unterscheidet sich bei der Polizei, Rettungsdienst und der Cr
     + Der Hauseinbruch kann erfolreich sein. (Wertgegenstände gestohlen)
 
 ### Erfolgreiche Hausaktion
-Gelingt einem eine erfolreiche Hausaktion, so muss diese am Equippunkt (**/hauseinbruch**) der Fraktionsbasis abgeliefert werden mit dem gleichen Befehl. Bei der Polizei ist dies die Verwahrungszelle (**/hauskontrolle**) statt des Equippunkt und beim Rettungsdienst die Notaufnahme (**/hausbesuch)**). Dabei 
+Gelingt einem eine erfolreiche Hausaktion, so muss diese am Equippunkt (**/hauseinbruch**) der Fraktionsbasis abgeliefert werden mit dem gleichen Befehl. Bei der Polizei ist dies die Verwahrungszelle (**/hauskontrolle**) statt des Equippunkt und beim Rettungsdienst die Notaufnahme (**/hausbesuch**). Dabei 
 Dabei werden dem Hausbesitzer 25€ abgezogen, welche in die Fraktionskasse der jeweiligen Fraktion fließen. Der Member erhält davon 10€ und Erfahrungspunkte.
 Hausbesitzer bekommen eine ausgehende Überweisung an die jeweilige Fraktion.
 
