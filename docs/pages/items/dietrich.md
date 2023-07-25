@@ -1,6 +1,6 @@
 # Dietrich
 
-Ein Dietrich ist ein Werkzeug, mit dem Türen von Häusern und Fraktionsbasen aufgebrochen werden können.
+Ein Dietrich ist ein Werkzeug, mit dem Türen von Häusern und Fraktionsbasen aufgebrochen werden können. <img align="right" width="200" eight="150" src="../../../assets/image/items/Dietrich.png"> 
 
 ## Kauf
 Ein Dietrich kann in der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) für 350€ gekauft werden.
