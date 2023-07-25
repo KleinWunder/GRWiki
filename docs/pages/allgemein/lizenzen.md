@@ -1,10 +1,11 @@
 # Lizenzen 
+Eine Lizenz ist die Bescheinigung für eine Genehmigung oder Erlaubnis an 
 
-*Personalausweis
-*Waffenschein
-*Jagdschein
-*Führerschein
-*Krankenversicherung
+* Personalausweis
+* Waffenschein
+* Jagdschein
+* Führerschein
+* Krankenversicherung
 
 ## Erwerb von Lizenzen
 
