@@ -39,21 +39,21 @@ Man hat die Möglichkeit sein Haus wieder zu verkaufen. Dies kann man beim Makle
 Das Haus hat eine vollwertige Adresse mit Straßennamen, Postleitzahl und Hausnummer. Hier hat jedes Stadtteil eine eigende Postteiltzahl, sowie jede Straße eine eigende ID.
 
 ### Zusammensetzung
-Jedes Haus hat 2 Nummern, welche sich nach Straßen-ID und der eigentlichen Hausnummer zusammen setzen. So ist zum Beispiel Haus 1-22, ein Haus mit der ID 1, welche sich in [Downtown] befindet. Die 22 bedeutet, dass das Haus das 22te Haus in dieser Straße ist.
+Jedes Haus hat 2 Nummern, welche sich nach Straßen-ID und der eigentlichen Hausnummer zusammen setzen. So ist zum Beispiel Haus 1-22, ein Haus mit der ID 1, welche sich in [Downtown](../../pages/gebiete/downtown.md) befindet. Die 22 bedeutet, dass das Haus das 22te Haus in dieser Straße ist.
 ### Straßenzuordnung
 | Nummer | Gebiet |
 |:-:|:-:|
 | 1-9; 52 | Downtown |
-| 10-15 | Oststadt |
-| 16-25; 49 | Reichenviertel |
-| 26-27; 37 | Strandpassage |
-| 28-32; 51 | Asia-Viertel |
-| 33-36; 50; 54 | County |
-| 38-42; 53 | Westside |
-| 43-48 | Ganggebiet |
+| 10-15 | [Oststadt](../../pages/gebiete/oststadt.md) |
+| 16-25; 49 | [Reichenviertel](../../pages/gebiete/reichenviertel.md) |
+| 26-27; 37 | [Strandpassage](../../pages/gebiete/strandpassage.md) |
+| 28-32; 51 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) |
+| 33-36; 50; 54 | [County](../../pages/gebiete/county.md) |
+| 38-42; 53 | [Westside](../../pages/gebiete/westside.md) |
+| 43-48 | [Ganggebiet](../../pages/gebiete/ganggebiet.md) |
    
 ## Nice to Know 
 
 * Das Haus kann mit einer Drogenbank, einer Hauskasse und Mieterslots ausgestattet werden. Diese können im Möbelhaus mit **/möbelhaus** gekauft werden.
 * Mieter können die Türen der Immobilie öffnen und schliessen und den Herd nutzen. Sie haben aber keinen Zugriff auf die Drogenbank oder die Hauskasse.
-* Häuser können auch unter Spielern verkauft werden. Dies muss aber über einen [Administrator] gemacht werden. Am Besten meldet man sich mit einem [Ticket] (Accountproblem).
+* Häuser können auch unter Spielern verkauft werden. Dies muss aber über einen [Administrator](../../pages/other/serverteam.md). gemacht werden. Am Besten meldet man sich mit einem Ticket (Accountproblem).
