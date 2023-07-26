@@ -12,7 +12,7 @@ Eine Fraktion kann eine Kriegserklärung im Feedbeck Bereich der jeweiligen Frak
 | Zone | Gebiet | Besetzende Fraktion |
 | :-: | :-: | :-: |
 | Agavenfarm | County | [The Establishment](establishment.md) |
-| Farm | Oststadt/Farm | [Camorra](camorra.md) |
+| Farm | Oststadt/Farm | [The Establishment](establishment.md) |
 | Freizeitpark | Asiaviertel | [The Establishment](establishment.md)  |
 | Raffinerie | Downtown | [Medellín Kartell](kartell,md) |
 | Schmelzwerk | Ganggebiet | [Medellín Kartell](kartell,md) |
