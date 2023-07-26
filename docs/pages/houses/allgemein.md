@@ -43,14 +43,14 @@ Jedes Haus hat 2 Nummern, welche sich nach Straßen-ID und der eigentlichen Haus
 ### Straßenzuordnung
 | Nummer | Gebiet |
 |:-:|:-:|
-| 1-9 | Downtown |
+| 1-9; 52 | Downtown |
 | 10-15 | Oststadt |
-| 16-25;  | Reichenviertel |
+| 16-25; 49 | Reichenviertel |
 | 26-27; 37 | Strandpassage |
-| 28-32 | Asia-Viertel |
-| 33-36 | County |
-| 38-42 | Westside |
-| 
+| 28-32; 51 | Asia-Viertel |
+| 33-36; 50; 54 | County |
+| 38-42; 53 | Westside |
+| 43-48 | Ganggebiet |
    
 ## Nice to Know 
 
