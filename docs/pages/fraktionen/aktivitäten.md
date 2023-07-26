@@ -18,6 +18,7 @@ Die Polizei kann folgende Aktivitäten machen:
 * Personen durchsuchen
 * Personen mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) elemieren
 * Radarkontrollen durchführen
+* [Razzias](../../pages/fraktionen/hqraids.md) durchführen
 * Strafzettel verteilen
 * Verbrennen von Betäubungsmittel
 * Verhaftungen durchführen
