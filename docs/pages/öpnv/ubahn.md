@@ -1,10 +1,20 @@
 # U-Bahn
+
+
+<img align="right" width="290" eight="200" src="../../../assets/image/Öpnv/UBahn.png">
+
+
 Die U-Bahn ist einer der Verkehrsmittel, welches einen schnell von A nach B bringen kann. Die Fahrtzeit kann durch Drücken der ++f++ + ++shift++ Taste eingesehen werden. Um mit der U-Bahn zu fahren, geht man in die Bahn und drückt Rechtsklick den Kopf an der Wand, welches einen Fahrkartenautomat darstellt. Dann kann das gewünschte Reiseziel ausgewählt werden. 
 
 !!! info Während der Bahnfahrt
     In einer Bahn wird kein RP gemacht, auch kann in der Bahn kein Spieler Schaden erhalten und verteilen.
 
 ## Lage der U-Bahnstationen
+
+
+<img align="right" width="290" eight="200" src="../../../assets/image/Öpnv/UBahnstation.png">
+
+
 Die Stationen befinden sich meist in wichtigen Stadtteilen auf der Map (z.B. Downtown, Reichenviertel usw.).
 
 ## Preis und Aussehen
