@@ -1,6 +1,9 @@
 # Kopfgeld
 
-Das Kopfgeld ist eine Funktion, mit dem Spieler Kopfgeld auf andere Spieler aussetzen können. Dieses kann von allen Crimefraktionen bearbeitet werden. Als Person. Entweder man kauft sich frei oder man wird von dem Kopfgeldjäger erschossen. Freikaufen kann man sich, indem man mit dem Kopfgeldjäger Roleplay macht und diesem dann das Geld gibt.
+Das Kopfgeld ist eine Funktion, mit dem Spieler Kopfgeld auf andere Spieler aussetzen können. Dieses kann von allen Crimefraktionen bearbeitet werden. Als betroffende Person ist es möglich diese Summe zu bezahlen, solange diese unter 1250 Euro beträgt. Beträgt diese Summe höher als 1250€ kann dieses nicht abgezahlt werden und muss sterben.
 
 ## Freikaufen
-Diese Person hat sich dann freigekauft und im Chat wird diese Nachricht erscheinen. Diese Person hat sich gewehrt das Geld zu bezahlen und musste dafür dann sterben.
+In einem kleinen Roleplay wird der betroffende Angesprochen und auf die Summe um sein Leben angesprochen. Es verläuft sich auf ein Roleplay über die Geldvergabe und der Crimefrakler kauft die Person mit einem Befehl frei.
+
+## Kopfgeldtod
+Beträgt die Geldsumme mehr als 1250 Euro können Crimefraktionen diese Person ohne weitere Vorankündigung erschießen. Um die Summe zu bekommen, muss der Bewusstlose mit Kopfgeld sterben. Hierbei ist es zu beachten, dass das [Regelwerk] eingehalten wird.
