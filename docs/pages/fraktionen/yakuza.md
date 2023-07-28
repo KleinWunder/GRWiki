@@ -1,5 +1,6 @@
 # Yakuza
-!!! info "Status" Die Fraktion Yakuza ist zur Zeit deaktiviert und gilt als Leerfraktion. Besteht ein Interesse, kann sich im Forum an das Fraktionsmanagement gewendet werden.
+!!! info "Status" 
+    Die Fraktion Yakuza ist zur Zeit deaktiviert und gilt als Leerfraktion. Besteht ein Interesse, kann sich im Forum an das Fraktionsmanagement gewendet werden.
  <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/YakuzaHQ.png">
 
 
