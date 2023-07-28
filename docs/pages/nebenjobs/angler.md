@@ -11,7 +11,7 @@ Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
 
 - Gehe zum NPC Walter/Waltraud und kaufe eine Angel. 
 - Nun muss mit der Angel die Fische aus dem Wasser geangelt werden.
-- Es können drei verschiedene Items im Inventar landen: 
+- Es können sieben verschiedene Items im Inventar landen: 
     - Glasscherben 
     - Roher Fisch
     - Roher Lachs
