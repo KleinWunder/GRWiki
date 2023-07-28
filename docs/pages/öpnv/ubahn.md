@@ -24,3 +24,4 @@ U-Bahnstationen sind an einem Eingang, welcher mit "U-Bahn" beschriftet ist, zu 
 | [Oststadt](../../pages/gebiete/oststadt.md) | Supermarkt-1; Waffenladen-1 |  Gärtner; Blumentransport; Winzer; Getränketransport | Farm; [Jagdgebiet](../../pages/nebenjobs/jagd.md); Schwarzmarkt; Gärtnerei;  |
 | Hallenbad | | Bademeister | Schwimmbad |
 | [Westside](../../pages/gebiete/westside.md) | Supermarkt-7; Tankstelle-5; Apotheke-5 |  | Polizeirevier West; Krankenhaus West |
+| Fightclub | | | Fightclub; Eventgebäude |
