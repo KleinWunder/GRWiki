@@ -102,7 +102,10 @@ nav:
         - Bombe: pages/fraktionen/bomben.md
         - Darklist: pages/fraktionen/darklist.md
         - Hausaktionen: pages/fraktionen/hausaktionen.md
+        - HQ Raids/Razzia: pages/fraktionen/hqraids.md
         - Juwelenraub: pages/fraktionen/juwelenraub.md
+        - Spezialtransport: pages/fraktionen/spezialtransport.md
+        - Streetrace: pages/fraktionen/streetrace.md
       - Gangzonen:
         - Gangwar: pages/fraktionen/gangwar.md
     - Pflanzen:
