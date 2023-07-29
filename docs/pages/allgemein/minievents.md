@@ -6,8 +6,8 @@ Zur jeder Stunde um Viertel nach beginnt ein Minievent. Innerhalb von 10 Minuten
 | Minievent | Aufgabe | Navi |
 |:-:|:-:|:-:|
 | Baum fällt... | Baue so viel Holz ab wie möglich. | **/navi Sägewerk** |
-| Plitsch! Platsch! Quatsch! | ??? | **/navi Angler** |
+| Plitsch! Platsch! Quatsch! | Angle Fische und sammle dadurch so viele Punkte wie möglich. | **/navi Angler** |
 | Ab in die Mine! | Baue soviel Eisenerz ab wie möglich. | **/navi Bergwerk** |
 | Arbeit, Arbeit, Arbeit! | Erledige soviele Nebenjobs wie möglich. | **/jobs** |
-| ??? | Erledige soviele Wölfe wie möglich. | **/navi Jagdhütte** **/jagdgebiet** |
+| Ausgeknurrt | Erledige soviele Wölfe wie möglich. | **/navi Jagdhütte** **/jagdgebiet** |
 | EXP-Wahnsinn | Sammel soviele Erfahrungspunkte wie möglich. |
