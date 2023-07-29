@@ -18,7 +18,7 @@ Wir wünschen dir viel Spaß auf deiner Entdeckungstour!
 
 * [Anfängerhilfe](pages/help/anfängerhilfe)
 * [Nebenjobs](pages/nebenjobs/nebenjobs)
-* [Nahrung](pages/health/nahrung)
+* [Nahrung](pages/allgemein/essen)
 
 
 
