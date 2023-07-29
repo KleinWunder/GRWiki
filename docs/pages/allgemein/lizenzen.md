@@ -16,6 +16,7 @@ Eine Lizenz ist die Bescheinigung für eine Genehmigung oder Erlaubnis an
 | Jagdschein | Stadthalle | 2400€ | Kann bei Missbrauch von der Polizei abgenommen werden. |
 | Führerschein | Fahrschule | 750€ | 
 | Krankenversicherung | Versicherungsgebäude (/navi Versicherungen) | 10€/PayDay; 35€/PayDay; 45€/PayDay | NPC Antonia mit Rechtsklick anklicken. |
+| Pilotenschein |  |  |  |
 
 ## Einsehen der Lizenzen
 
