@@ -11,6 +11,7 @@ nav:
       - Events & Timer:
         - Stündliche Abrechnung: pages/allgemein/payday.md
         - Bürgermeister: pages/allgemein/bürgermeister.md
+        - Minievents: pages/allgemein/minievents.md
       - Shops & VIP:
         - Bonus-Shop: pages/allgemein/bonuspunkte.md
         - VIP-Status: pages/allgemein/vip.md
@@ -106,6 +107,7 @@ nav:
         - Juwelenraub: pages/fraktionen/juwelenraub.md
         - Spezialtransport: pages/fraktionen/spezialtransport.md
         - Streetrace: pages/fraktionen/streetrace.md
+        - Substanzen-Dealer: pages/fraktionen/substanzendealer.md
       - Gangzonen:
         - Gangwar: pages/fraktionen/gangwar.md
     - Pflanzen:
