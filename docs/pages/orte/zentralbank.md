@@ -7,17 +7,17 @@ Die Bank befindet sich in [Downtown](../../pages/gebiete/downtown.md) und ist ü
 
 ## Bankkarte 
 
-Am Schalter der Bank kann mit **/bank** eine Bankkarte ausstellet werden, welche später für das Abheben und Einzahlen von Geld benötigt wird. Hat man seine Bankkarte verloren, kann diese bei einer Bank gesperrt werden und neu beantragt werden.
+Am Schalter der Bank kann mit Rechtsklick auf den NPC Bianca eine Bankkarte ausstellet werden, welche später für das Abheben und Einzahlen von Geld benötigt wird. Hat man seine Bankkarte verloren, kann diese bei einer Bank gesperrt werden und neu beantragt werden.
 
 !!! warning "Bankkarte"
     Bankkarten können fallen gelassen werden und von anderen Spielern aufgesammelt werden, welche dann auf das Konto zugreifen können.
 
 
 ## Sparkonto 
+NPC Bianca
+Am Schalter kann mit Rechtsklick auf den NPC Bianca in der Menüauswahl ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte, wie beispielsweise ein Haus oder ein [Pet](../../pages/pets/allgemein.md).
 
-Am Schalter kann man mit **/bank** ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte wie beispielsweise ein Haus oder ein [Pet](../../pages/pets/allgemein.md).
-
-* **/bank** eingeben.
+* Rechtsklick auf NPC Bianca
 * Auf "Sparkonto verwalten" klicken.
 * Auf "Sparkonto einrichten" klicken. 
 * Sparziel im Chat eingeben.
