@@ -16,9 +16,9 @@ Wir wünschen dir viel Spaß auf deiner Entdeckungstour!
 
 ## Nützliche Links
 
-* [Anfängerhilfe](../../../pages/help/anfängerhilfe.md)
-* [Nebenjobs](../../pages/nebenjobs/nebenjobs.md)
-* [Nahrung](../../pages/allgemein/essen.md)
+* [Anfängerhilfe](https://imgxrke.github.io/GRWiki/pages/help/anfängerhilfe/)
+* [Nebenjobs](https://imgxrke.github.io/GRWiki/pages/nebenjobs/nebenjobs/)
+* [Nahrung](https://imgxrke.github.io/GRWiki/pages/allgemein/essen/)
 
 
 
