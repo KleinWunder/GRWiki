@@ -8,6 +8,7 @@ nav:
     - Allgemeines:
       - Spielmenü:
         - Allgemein: pages/allgemein/spielmenü.md
+        - Quests: pages/allgemein/quests.md
         - Events & Timer:
           - Stündliche Abrechnung: pages/allgemein/payday.md
           - Bürgermeister: pages/allgemein/bürgermeister.md
