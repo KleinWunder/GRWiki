@@ -16,9 +16,9 @@ Wir wünschen dir viel Spaß auf deiner Entdeckungstour!
 
 ## Nützliche Links
 
-* [Anfängerhilfe](pages/help/anfängerhilfe)
-* [Nebenjobs](pages/nebenjobs/nebenjobs)
-* [Nahrung](pages/allgemein/essen)
+* [Anfängerhilfe](../../pages/help/anfängerhilfe.md)
+* [Nebenjobs](../../pages/nebenjobs/nebenjobs.md)
+* [Nahrung](../../pages/allgemein/essen.md)
 
 
 
