@@ -13,17 +13,17 @@ Die Stunden werden nur dann gezählt, wenn der Spieler anwesend ist. Im AFK-Modu
 
 - Über den [Bonusshop](../../pages/allgemein/bonuspunkte.md)
 - Über den [Shop](https://germanrpofficial.tebex.io/category/vip-pakete) von GermanRP (Echtgeld)
-- Als Geschenk von einem Spieler (/geschenk)
+- Als Geschenk von einem Spieler (**/geschenk**)
 
 ## Erhalten von VIP+
 - Über den Shop von GermanRP (Echtgeld)
-- Als Geschenk von einem Spieler (/geschenk)
+- Als Geschenk von einem Spieler (**/geschenk**)
 
 ## Erkennung 
 
-Schaut man sich auf dem Server die Spielerliste an, sieht man hinter den Namen einiger Spieler kleine verschiedenfarbige Vierecke. Diese zeigen den VIP Rang eines Spielers.
+Schaut man sich auf dem Server die Spielerliste an, stehen hinter den Namen einiger Spieler kleine verschiedenfarbige Vierecke. Diese zeigen den VIP Rang eines Spielers.
 
 * Graues Viereck: VIP
 * Blaues Viereck: VIP+
 * Violettes Viereck: Content Creator
-* Rot: Lifetime VIP+ (nur für [Adminstratoren)
+* Rot: Lifetime VIP+ (nur für [Adminstratoren](../../pages/other/serverteam.md)
