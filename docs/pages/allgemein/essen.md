@@ -13,7 +13,7 @@ Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheit
 |    Donut (Schokolade)   |  [Starblocks](../../pages/biz/starblocks.md)  |                 +6:poultry_leg:              |  
 |       Donut (Pink)      |   Starblocks   |                 +6:poultry_leg:               | 
 |    Donut (Zuckerguss)   |   Starblocks   |                 +6:poultry_leg:               | 
-|          Muffin         |   Starblocks   |                                             |  
+|          Muffin         |   Starblocks   |                      +3🍗                       |  
 |          Kaffee          |   Starblocks   |                +5%:droplet:               |       
 |          Kakao          |   Starblocks   |                      ?                      |        
 |         Sandwich        |  [Tankstelle](../../pages/biz/tankstelle.md)  |                 +8:poultry_leg:                |   
