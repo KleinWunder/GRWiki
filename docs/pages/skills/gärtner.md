@@ -7,7 +7,7 @@ Der Gärtner-Skill kann durch folgende Aktivitäten gelevelt werden:
 
 * Nebenjob [Gärtner](../../pages/nebenjobs/gärtner.md) und [Blumentransport](../../pages/nebenjobs/blumentransport.md)
 * Pflanzen von [Rosen](../../pages/pflanzen/Rosen.md)
-* Pflanzen von [Heilkräutern](../../pages/pflanzen/heilkraut.md) (nur Crimefraktionen)
+* Pflanzen von [Heilkräutern](../../pages/pflanzen/heilkraut.md) (nur [Crimefraktionen](../../pages/fraktionen/allgemein.md))
 
 ## Pets
 Folgende Pets wirken sich ebenfalls positiv auf den Gärtner-Skill aus:
