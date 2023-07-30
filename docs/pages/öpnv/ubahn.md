@@ -25,13 +25,13 @@ U-Bahnstationen sind an einem Eingang, welcher mit "U-Bahn" beschriftet ist, zu 
 
 | Haltestelle | [Gewerbe](../../pages/biz/business.md) | [Nebenjobs](../../pages/nebenjobs/nebenjobs.md) | Orte von Interresse|
 | :-: | :-: | :-: | :-: |
-| Downtown | Apotheke-1; Bar-3 | Tellerwäscher; Paketsortierer; Zeitungsjunge | [Elektroladen](../../pages/allgemein/handy.md); Blumenladen; [Rathaus](../../pages/orte/rathaus.md); [Stadthalle](../../pages/orte/stadthalle.md); [Feuerwehr](../../pages/fraktionen/rettungsdienst.md) |
-| [Ganggebiet](../../pages/gebiete/ganggebiet.md) | Apotheke-2; Supermarkt-5; Waffenladen-3 |  | Sekte; [Tierheim](../../pages/gebäude/tierheim.md) |
-| [Strandpassage](../../pages/gebiete/strandpassage.md) | Starblocks-2 | Bademeister | Schwimmbad; Yachthafen |
-| [Reichenviertel](../../pages/gebiete/reichenviertel.md) | Supermarkt-2; Apotheke-3 | Pizzabäcker | [Sägewerk](../../pages/nebenjobs/sägewerk.md); [Camorra HQ](../../pages/fraktionen/camorra.md); Mohnfeld; [Polizei Süd](../../pages/fraktionen/polizei.md) |
-| [County](../../pages/gebiete/county.md) | Waffenladen-2; Bar-2; Supermarkt-3; Tankstelle-2 | Agavenfarmer | Tacoladen; [Kartell HQ](../../pages/fraktionen/kartell.md) |
-| [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Supermarkt-6; Waffenladen-4; Tankstelle-4; Apotheke-4 |  | [Yakuza HQ](../../pages/fraktionen/yakuza.md); Freizeitpark; Mohnfeld; Meditationstempel |
-| [Oststadt](../../pages/gebiete/oststadt.md) | Supermarkt-1; Waffenladen-1 |  Gärtner; Blumentransport; Winzer; Getränketransport | Farm; [Jagdgebiet](../../pages/nebenjobs/jagd.md); Schwarzmarkt; Gärtnerei;  |
+| Downtown | Apotheke-1 <br> Bar-3 | Tellerwäscher <br> Paketsortierer <br> Zeitungsjunge | [Elektroladen](../../pages/allgemein/handy.md) <br> Blumenladen <br> [Rathaus](../../pages/orte/rathaus.md) <br> [Stadthalle](../../pages/orte/stadthalle.md) <br> [Feuerwehr](../../pages/fraktionen/rettungsdienst.md) |
+| [Ganggebiet](../../pages/gebiete/ganggebiet.md) | Apotheke-2 <br> Supermarkt-5 <br> Waffenladen-3 |  | Sekte <br> [Tierheim](../../pages/gebäude/tierheim.md) |
+| [Strandpassage](../../pages/gebiete/strandpassage.md) | Starblocks-2 | Bademeister | Schwimmbad <br> Yachthafen |
+| [Reichenviertel](../../pages/gebiete/reichenviertel.md) | Supermarkt-2 <br> Apotheke-3 | Pizzabäcker | [Sägewerk](../../pages/nebenjobs/sägewerk.md) <br> [Camorra HQ](../../pages/fraktionen/camorra.md) <br> Mohnfeld <br> [Polizei Süd](../../pages/fraktionen/polizei.md) |
+| [County](../../pages/gebiete/county.md) | Waffenladen-2 <br> Bar-2 <br> Supermarkt-3 <br> Tankstelle-2 | Agavenfarmer | Tacoladen <br> [Kartell HQ](../../pages/fraktionen/kartell.md) |
+| [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Supermarkt-6 <br> Waffenladen-4 <br> Tankstelle-4 <br> Apotheke-4 |  | [Yakuza HQ](../../pages/fraktionen/yakuza.md) <br> Freizeitpark <br> Mohnfeld <br> Meditationstempel |
+| [Oststadt](../../pages/gebiete/oststadt.md) | Supermarkt-1 <br> Waffenladen-1 |  Gärtner <br> Blumentransport <br> Winzer <br> Getränketransport | Farm <br> [Jagdgebiet](../../pages/nebenjobs/jagd.md) <br> Schwarzmarkt <br> Gärtnerei |
 | Hallenbad | | Bademeister | Schwimmbad |
-| [Westside](../../pages/gebiete/westside.md) | Supermarkt-7; Tankstelle-5; Apotheke-5 |  | Polizeirevier West; Krankenhaus West |
-| Fightclub | | | Fightclub; Eventgebäude |
+| [Westside](../../pages/gebiete/westside.md) | Supermarkt-7 <br> Tankstelle-5 <br> Apotheke-5 |  | Polizeirevier West <br> Krankenhaus West |
+| Fightclub | | | Fightclub <br> Eventgebäude |
