@@ -1,6 +1,5 @@
 # Beziehung
 
-## Allgemeines
 Man kann auf dem Server mit Spielern eine Partnerschaft eingehen, sich verloben und auch heiraten. Natürlich kann man sich auch scheiden lassen beziehungsweise sich wieder trennen.
 
 ## Eine Beziehung eingehen
