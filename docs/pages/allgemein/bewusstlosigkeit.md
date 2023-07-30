@@ -9,7 +9,7 @@ Sobald der Zustand der Bewusstlosigkeit erreicht ist, erfolgt eine Teleportation
 ## Wiederbelebung durch einen Medic
 
 
-<img align="right" width="82" eight="133" src="../../../assets/image/allgemein/Leiche.png">
+<img align="right" width="102" eight="153" src="../../../assets/image/allgemein/Leiche.png">
 
 
 Der Medic kann einen durch einen Befehl wiederbeleben. Gelingt diese, erwacht man an der Stelle, wo die Bewusstlosigkeit eingetreten ist und kann unter Berücksichtigung des [Regelwerks](https://germanrp.eu/forum/index.php?thread/1-regelwerk/&postID=3#post3) am Spielgeschehen teilnehmen.
