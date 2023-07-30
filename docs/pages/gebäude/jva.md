@@ -12,5 +12,5 @@ Bla bla
 ## Entlassung
 
 In der JVA sitzt man seine Straftat in Form einer Zeitstrafe ab. Je nachdem welches Verbrechen man begangen und wie viele Fahndungspunkte man erhalten hat, dauert diese Zeitstrafe unterschiedlich lang an. Mit dem Befehl /jailtime wird dem Spieler angezeigt, wie lange dieser noch in der JVA sitzt.
-Als Häftling hat man auch die Möglichkeit mithilfe einer Kaution früher die JVA zu verlassen. Dafür muss eine zweite Person im Eingangsbereich der JVA den Befehl /kaution eingeben. Damit wird für den Häftling ein Geldbetrag hinterlegt, der je nach noch vorhandener Zeitstrafe, unterschiedlich hoch ausfällt.
+Als Häftling hat man auch die Möglichkeit mithilfe einer Kaution früher die JVA zu verlassen. Dafür muss eine zweite Person im Eingangsbereich der JVA den Befehl /kaution eingeben, welches ab Sociallevel 2 möglich ist. Damit wird für den Häftling ein Geldbetrag hinterlegt, der je nach noch vorhandener Zeitstrafe, unterschiedlich hoch ausfällt.
 
