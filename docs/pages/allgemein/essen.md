@@ -15,7 +15,7 @@ Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheit
 |    Donut (Zuckerguss)   |   Starblocks   |                 +6:poultry_leg:               | 
 |          Muffin         |   Starblocks   |                      +3🍗                       |  
 |          Kaffee          |   Starblocks   |                +5%:droplet:               |       
-|          Kakao          |   Starblocks   |                      ?                      |        
+|          Kakao          |   Starblocks   |                      +8%💧                      |        
 |         Sandwich        |  [Tankstelle](../../pages/biz/tankstelle.md)  |                 +8:poultry_leg:                |   
 |        Kartoffel        |    Mülleimer   |               Roh +1:poultry_leg:             |                            Roher Konsum führt zur Lebensmittelvergiftung.                           |
 | Verschimmelte Kartoffel |    Mülleimer   |                +1,5:poultry_leg:               |                                Führt zu einer Lebensmittelvergiftung.                               |
