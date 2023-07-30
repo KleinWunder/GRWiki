@@ -7,6 +7,11 @@
 Sobald der Zustand der Bewusstlosigkeit erreicht ist, erfolgt eine Teleportation in den Todenraum des Krankenhauses. Für **8 Minuten** ist man in diesem Raum, mit [VIP](../../pages/vip.md) nur **5 Minuten**. In der Zeit hat ein [Rettungsdienstler](../../pages/rettungsdienst.md) die Möglichkeit, die Person wiederzubeleben.
 
 ## Wiederbelebung durch einen Medic
+
+
+<img align="right/" width="82" eight="133" src="../../../assets/image/allgemein/Leiche.png">
+
+
 Der Medic kann einen durch einen Befehl wiederbeleben. Gelingt diese, erwacht man an der Stelle, wo die Bewusstlosigkeit eingetreten ist und kann unter Berücksichtigung des [Regelwerks](https://germanrp.eu/forum/index.php?thread/1-regelwerk/&postID=3#post3) am Spielgeschehen teilnehmen.
 
 ## Despawn ohne Wiederbelebung
