@@ -6,9 +6,9 @@ Das Essen hat unterscheidliche Werte, die die Gesundheit beeinflussen. Die Leben
 |          Essen          |    [Gewerbe]   |                  Nährwert                  |                                               Anderes                                               |
 |:-----------------------:|:--------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 |          Apfel          |  [Supermarkt]  |                 +2 Sättigung                |                                                  /                                                  |
-|     Schweinefleisch     |   Supermarkt   |  Roh +1,5 Sättigung; Gebraten +8 Sättigung  | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
-|       Rindfleisch       |   Supermarkt   | Roh +1,5 Sättigung; Gebraten +6,5 Sättigung | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
-|     Hähnchenfleisch     |   Supermarkt   |   Roh +2 Sättigung; Gebraten +6 Sättigung   | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
+|     Schweinefleisch     |   Supermarkt   |  Roh +1,5 Sättigung <br> Gebraten +8 Sättigung  | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
+|       Rindfleisch       |   Supermarkt   | Roh +1,5 Sättigung <br> Gebraten +6,5 Sättigung | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
+|     Hähnchenfleisch     |   Supermarkt   |   Roh +2 Sättigung <br> Gebraten +6 Sättigung   | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
 |          Wasser         |   Supermarkt   |               +20% Hydrierung               |                                                  /                                                  |
 |    Donut (Schokolade)   |  [Starblocks]  |                 +6 Sättigung                |                                                  /                                                  |
 |       Donut (Pink)      |   Starblocks   |                 +6 Sättigung                |                                                  /                                                  |
