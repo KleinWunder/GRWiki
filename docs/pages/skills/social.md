@@ -8,7 +8,7 @@ Der Sozial-Skill kann durch folgende Aktivitäten gelevelt werden:
 * Entsorgen von Müll und Rückgabe von Pfandflaschen
 * Medizinische Behandlungen erhalten inkl. Bandagieren
 * Fraktionsaktivitäten ([Rettungsdienst](../../pages/fraktionen/rettungsdienst.md))
-* Aktivitäten bei Wohnhäusern (alle Fraktionen)
+* [Aktivitäten](../../pages/fraktionen/hausaktionen.md) bei Wohnhäusern (alle [Fraktionen](../../pages/fraktionen/allgemein.md))
 
 ## Pets
 
