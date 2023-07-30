@@ -6,15 +6,15 @@ Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheit
 |          Essen          |    Gewerbe   |                  Nährwert                  |                                               Nebeninfos   |
 |:-----------------------:|:--------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 |          Apfel          |  [Supermarkt](../../pages/biz/supermarkt.md)  |                 +2:poultry_leg:                | 
-|     Schweinefleisch     |   Supermarkt   |  Roh +1,5:poultry_leg: <br> Gebraten +8:poultry_leg:  | Roher Konsum führt zur [Lebensmittelvergiftung](../../pages/krankheiten/lebensmittelvergiftung.md). Kann in einem Ofen vom eigenen Haus gebraten werden. |
-|       Rindfleisch       |   Supermarkt   | Roh +1,5:poultry_leg: <br> Gebraten +6,5:poultry_leg: | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
-|     Hähnchenfleisch     |   Supermarkt   |   Roh +2:poultry_leg: <br> Gebraten +6:poultry_leg:   | Roher Konsum führt zur Lebensmittelvergiftung. Kann in einem Ofen vom eigenen Haus gebraten werden. |
+|     Schweinefleisch     |   Supermarkt   |  Roh +1,5:poultry_leg: <br> Gebraten +8:poultry_leg:  | Roher Konsum führt zur [Lebensmittelvergiftung](../../pages/krankheiten/lebensmittelvergiftung.md).<br> Kann in einem Ofen vom eigenen Haus gebraten werden. |
+|       Rindfleisch       |   Supermarkt   | Roh +1,5:poultry_leg: <br> Gebraten +6,5:poultry_leg: | Roher Konsum führt zur Lebensmittelvergiftung.<br> Kann in einem Ofen vom eigenen Haus gebraten werden. |
+|     Hähnchenfleisch     |   Supermarkt   |   Roh +2:poultry_leg: <br> Gebraten +6:poultry_leg:   | Roher Konsum führt zur Lebensmittelvergiftung.<br> Kann in einem Ofen vom eigenen Haus gebraten werden. |
 |          Wasser         |   Supermarkt   |               +20%:droplet:             |  
 |    Donut (Schokolade)   |  [Starblocks](../../pages/biz/starblocks.md)  |                 +6:poultry_leg:              |  
 |       Donut (Pink)      |   Starblocks   |                 +6:poultry_leg:               | 
 |    Donut (Zuckerguss)   |   Starblocks   |                 +6:poultry_leg:               | 
 |          Muffin         |   Starblocks   |                                             |  
-|          Kaffe          |   Starblocks   |                +5%:droplet:               |       
+|          Kaffee          |   Starblocks   |                +5%:droplet:               |       
 |          Kakao          |   Starblocks   |                      ?                      |        
 |         Sandwich        |  [Tankstelle](../../pages/biz/tankstelle.md)  |                 +8:poultry_leg:                |   
 |        Kartoffel        |    Mülleimer   |               Roh +1:poultry_leg:             |                            Roher Konsum führt zur Lebensmittelvergiftung.                           |
