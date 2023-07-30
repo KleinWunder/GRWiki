@@ -14,14 +14,14 @@ Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheit
 |       Donut (Pink)      |   Starblocks   |                 +6:poultry_leg:               | 
 |    Donut (Zuckerguss)   |   Starblocks   |                 +6:poultry_leg:               | 
 |          Muffin         |   Starblocks   |                      +3🍗                       |  
-|          Kaffee          |   Starblocks   |                +5%:droplet:               |       
-|          Kakao          |   Starblocks   |                      +8%💧                      |        
-|         Sandwich        |  [Tankstelle](../../pages/biz/tankstelle.md)  |                 +8:poultry_leg:                |   
+|          Kaffee          |   Starblocks   |                +10%:droplet:               |       
+|          Kakao          |   Starblocks   |                  +8%💧                      |        
+|         Sandwich        |  [Tankstelle](../../pages/biz/tankstelle.md)  |                 +2:poultry_leg:                |   
 |        Kartoffel        |    Mülleimer   |               Roh +1:poultry_leg:             |                            Roher Konsum führt zur Lebensmittelvergiftung.                           |
 | Verschimmelte Kartoffel |    Mülleimer   |                +1,5:poultry_leg:               |                                Führt zu einer Lebensmittelvergiftung.                               |
-|          Hotdog         | Fastfood-Truck |                 +4:poultry_leg:                |          
-|         Limolade        |      [Bar](../../pages/biz/bars.md)     |               +0,88:droplet:               |
-|           Cola          |       Bar      |               +0,8:droplet:                |   
-|     Roher Clownfisch    |  [Anglerteich](../../pages/nebenjobs/angler.md) |                +0,5:poultry_leg:               |                                Führt zu einer Lebensmittelvergiftung.                               |
+|          Hotdog         | Fastfood-Truck |                 +2:poultry_leg:                |          
+|         Limolade        |      [Bar](../../pages/biz/bars.md)     |               +5%:droplet:               |
+|           Cola          |       Bar      |               +2,5%ewe:droplet:                |   
+|     Roher Clownfisch    |  [Anglerteich](../../pages/nebenjobs/angler.md) |                +5:poultry_leg:               |                                Führt zu einer Lebensmittelvergiftung.                               |
 |       Roher Fisch       |   Anglerteich  |                 +1:poultry_leg:                |                                Führt zu einer Lebensmittelvergiftung.                               |
 |       Roher Lachs       |   Anglerteich  |                 +1:poultry_leg:                |                                Führt zu einer Lebensmittelvergiftung.                               |
