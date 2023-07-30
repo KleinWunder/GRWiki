@@ -1,6 +1,6 @@
 # Allgemeine Gesundheit
 
-Der Gesundheitszustand des Charakters ist ausschlaggebend für Effekte, die bei einer Mangelerscheinung spürbar werden. Es wird in 4 verschiedene Vitalparameter unterschieden:
+Der Gesundheitszustand des Charakters ist ausschlaggebend für Effekte, die bei einer Mangelerscheinung spürbar werden.<br> Es wird in 4 verschiedene Vitalparameter unterschieden:
 
 - Hydrierung
 - Sättigung
@@ -15,12 +15,12 @@ Der Unterpunkt "Leben" zeigt an, wie viele Charakterleben der Spieler noch besit
 
 ### Charaktertod
 
-Bei einem Charaktertod verliert man sein Bargeld, Inventar, Lizensen und Munition. Nachdem 0 von 10 Charakterleben erreicht worden sind oder der Tod von einem Rettungsdienstler beurkundet wird, wird man zur Stadthalle teleportiert, um direkt einen neuen Charakter zu erstellen.
+Bei einem Charaktertod verliert man sein Bargeld, Inventar, [Lizenzen](../../pages/allgemein/lizenzen.md) und Munition. Nachdem 0 von 10 Charakterleben erreicht worden sind oder der Tod von einem Rettungsdienstler beurkundet wird, wird man zur [Stadthalle](../../pages/orte/stadthalle.md) teleportiert, um direkt einen neuen Charakter zu erstellen.
 
 
 !!! info "Chance erhöhen um kein Charakterleben zu verlieren"
         Mit einem epischen [Hund](../../pages/pets/hund.md) oder höher wird die Chance erhöht, dass das Charakterleben bei einem Despawn verschont wird.
-        Je höher das eigende Level ist, desto höher ist die Grundchance kein Charakterleben zu verlieren.
+        Je höher das eigende [Level](../../pages/allgemein/level.md) ist, desto höher ist die Grundchance kein Charakterleben zu verlieren.
    
 ## Geisteszustand
 
@@ -35,8 +35,8 @@ Der Geisteszustand zeigt in Prozent an, wieviel man noch von 100% besitzt. Bei z
 
 ## Hydrierung
 
-Die Hydrierung gibt an, wie hoch der Wassergehalt des Charakters ist. Dabei ist eine Hydrierung von 100% der Optimalzustand. Ab einer Hydrierung unter 5% treten Mangelerscheinungen auf. Diese äußern sich in einem Übelkeitseffekt und einer Nachricht über der Hotbar: "Du fühlst dich schwach". Die Hydrierung kann gesteigert, indem Wasserflaschen in einem Supermarkt kauft und diese mit Rechtsklick konsumiert. Wenn man dehydriert ist, muss ein Arzt aufsucht werden, um die [Dehydrierung](../../pages/krankheiten/dehydration.md) zu behandeln.
+Die Hydrierung gibt an, wie hoch der Wassergehalt des Charakters ist. Dabei ist eine Hydrierung von 100% der Optimalzustand. Ab einer Hydrierung unter 5% treten Mangelerscheinungen auf. Diese äußern sich in einem Übelkeitseffekt und einer Nachricht über der Hotbar: "Du fühlst dich schwach". Die Hydrierung kann gesteigert werden, indem Wasserflaschen in einem [Supermarkt](../../pages/biz/supermarkt.md) kauft und diese mit Rechtsklick konsumiert. Wenn man dehydriert ist, muss ein Arzt aufsucht werden, um die [Dehydrierung](../../pages/krankheiten/dehydration.md) zu behandeln.
 
 ## Sättigung
 
-Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch das Hungergefühl deines Charakters ist. Ab einer Sättigung von 5.0/20.0 kann dein Charakter nicht mehr sprinten. Ab dem Zeitpunkt sollte schnellstmöglich Nahrung zu sich genommen werden, die beispielsweise in einem [Supermarkt](../../pages/biz/supermarkt.md) gekauft werden kann.
+Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch das Hungergefühl deines Charakters ist. Ab einer Sättigung von 5.0/20.0 kann dein Charakter nicht mehr sprinten. Ab dem Zeitpunkt sollte schnellstmöglich [Nahrung](../../pages/allgemein/essen.md) zu sich genommen werden, die beispielsweise in einem [Supermarkt](../../pages/biz/supermarkt.md) gekauft werden kann.
