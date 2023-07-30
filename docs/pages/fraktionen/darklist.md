@@ -1,5 +1,5 @@
 # Darklist
-Die Darklist ist eine Auflistung von Personen, die der zugehörigen [Crimefraktion] geschadet haben. Mitglieder der Crimefraktion können mit dem Befehl **/darklists** einsehen, welche Person aus welchem Grund und für welchen Preis auf der Darklist stehen.
+Die Darklist ist eine Auflistung von Personen, die der zugehörigen [Crimefraktion](../../pages/fraktionen/allgemein.md) geschadet haben. Mitglieder der Crimefraktion können mit dem Befehl **/darklists** einsehen, welche Person aus welchem Grund und für welchen Preis auf der Darklist stehen.
 
 ## Gründe 
 Es gibt vier Gründe, wofür man auf der Darklist landen kann:
@@ -10,7 +10,7 @@ Es gibt vier Gründe, wofür man auf der Darklist landen kann:
 | Grund | Preis |
 |:-:|:-:|
 | Gangzone | 400€ |
-| Fraktionsschädigung | 450€ |-
+| Fraktionsschädigung | 450€ |
 | Leadermord | 1000€ |
 | Rufmord | 350€ |
 
