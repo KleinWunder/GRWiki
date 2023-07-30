@@ -43,7 +43,7 @@ Auf dem Server gibt es verschiedene Erfolge, welche die verschiedene Wege auf Ge
 |          Vorsicht giftig         |           [Angel](../../pages/nebenjobs/angler.md) einen Pufferfisch           |                                       Angel an Flüssen und Teichen.                |
 |        Versteckter Erfolg        |                     ???                     |    Erkunde den Server.      |
 |          Speedy Gonzales         |       Werde von einem Blitzer erwischt      |   [Fahre](../../pages/fahrzeuge/allgemein.md) mit erhöhter Geschwindigkeit an einem Blitzer vorbei.   |
-|           Nur das Beste          |  Konsumiere zum ersten Mal eine [Mohnkapsel](../../pages/bmt/mohnkapsel.md)  |                         Spreche einen [Crimefrakler](../../pages/fraktionen/allgemein.md) an und erwerbe eine Mohnkapsel.   |
+|           Nur das Beste          |  Konsumiere zum ersten Mal eine [Mohnkapsel](../../pages/bmt/mohnkapseln.md)  |                         Spreche einen [Crimefrakler](../../pages/fraktionen/allgemein.md) an und erwerbe eine Mohnkapsel.   |
 |        Feelin' like Snoop        |     Konsumiere zum ersten Mal [Heilkraut](../../pages/bmt/heilkraut.md)     |                            Spreche einen Crimefrakler an und erwerbe Heilkraut.      |
 |     Schnurrt wie ein Kätzchen    |    Repariere zum ersten Mal ein [Fahrzeug](../../pages/fahrzeuge/allgemein.md)    |                  Fahre dein Fahrzeug zur einer [KFZ Werkstatt](../../pages/fahrzeuge/kfz-werkstatt.md) und reparariere es beim NPC.  |
 |       So trifft man besser       |    Modifiziere eine [Waffe](../../pages/biz/waffenladen.md) mit einem Addon   |                  Level dein [Combat Level](../../pages/skills/combat.md) oder erledige [Quests](../../pages/allgemein/quests.md) um [Waffenaddons](../../pages/items/weapons/waffenaddons.md) zu kaufen. |
@@ -53,4 +53,6 @@ Auf dem Server gibt es verschiedene Erfolge, welche die verschiedene Wege auf Ge
 |           Zoo oder was?          |  Besitze alle [Pets](../../pages/pets/allgemein.md) auf ihrer höchsten Stufe |                                   Rüste alle Pets auf Ultralegendär auf.   |
 |           Meisterjäger           |     Erledige die Bestie unter 5 Minuten     |    Finde den NPC Wolfgang im [Jagdgebiet](../../pages/nebenjobs/jagd.md) und besiege die Bestie in unter 5 Minuten.   |
 |            Profijäger            |     Erledige die Bestie unter 8 Minuten     |   Finde den NPC Wolfgang im Jagdgebiet und besiege die Bestie in unter 8 Minuten.  |
-|       We are the Champions       |            Gewinne einen [Gangwar](../../pages/fraktionen/gangwar.md)            |          Nehme mit einer Crimefraktion an einen Gangwar teil und gewinne diesen.  |
+|       We are the Champions       |            Gewinne einen [Gangwar](../../pages/fraktionen/gangwar.md)            |          Nehme mit einer [Crimefraktion](../../pages/fraktionen/allgemein.md) an einen Gangwar teil und gewinne diesen.  |
+| Man kanns ja mal probieren! | Nehme an einem [Streetrace](../../pages/fraktionen/streetrace.md) teil | Begebe dich zum Startpunkt des Streetraces. |
+| Ich bin der schnellste! | Gewinne einen Streetrace | Werde Erster im Rennen. |
