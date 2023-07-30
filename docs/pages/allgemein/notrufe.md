@@ -1,11 +1,11 @@
 # Notruf
-Auf dem Server gibt es zwei mögliche Notrufe, welche abgesetzt werden können. Zum Einen der Notruf bei der [Polizei] und zum Anderen der Notruf bei des [Rettungsdienst]. Das Wählen des Notrufes ist kostenlos, aber nur solange möglich, wie man Kommunikationsmittel besitzt. Für das Absetzen eines Notrufes ist ein [Handyvertrag] erforderlich.
+Auf dem Server gibt es zwei mögliche Notrufe, welche abgesetzt werden können. Zum Einen der Notruf bei der [Polizei](../../pages/fraktionen/polizei.md) und zum Anderen der Notruf bei des [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md). Das Wählen des Notrufes ist kostenlos, aber nur solange möglich, wie man Kommunikationsmittel besitzt. Für das Absetzen eines Notrufes ist ein [Handyvertrag](../../pages/allgemein/handy.md) erforderlich.
 
 ## Notrufnummern
 | Nummer | Fraktion | Beispielgründe |
 |:-:|:-:|:-:|
-| 112 | Rettungsdienst | Verletze Personen; Bewusstlose Personen |
-| 110 | Polizei | Man wird bedroht; Man ist eingesperrt; Man beobachtet kriminelle Handlungen |
+| 112 | Rettungsdienst | Verletze Personen<br> Bewusstlose Personen |
+| 110 | Polizei | Man wird bedroht<br> Man ist eingesperrt<br> Man beobachtet kriminelle Handlungen |
 
 ## Notruf absetzen
 
@@ -15,7 +15,7 @@ Auf dem Server gibt es zwei mögliche Notrufe, welche abgesetzt werden können. 
 * Die Nummer wird gewählt.
 * Die Notrufzentrale meldet sich und den Grund des Notrufes eingeben.
     * Der Grund sollte möglichst klar definiert sein. Bsp.: "Ich bin im Haus 12-4 eingesperrt", "Hier liegt eine bewusstlose Person".
-* Wenn Hilfe unterwegs ist wird dies einem im chat mitgeteilt.
+* Wenn Hilfe unterwegs ist wird dies einem im Chat mitgeteilt.
     * Sollte der Notruf ein Versehen oder nicht mehr benötigt werden, kann dies über die Schaltfläche "Klicke hier, um den Notruf zurückzuziehen" zurückgezogen werden.
 * Vor Ort bleiben und wenn nötig auf sich aufmerksam machen.
   
