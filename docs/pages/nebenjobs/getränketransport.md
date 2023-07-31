@@ -25,14 +25,17 @@ Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges b
     <tr>
       <td align="center"> Bar-1 </td>
       <td align="center"> Oststadt </td>
+       <td align="center"> /navi Bar-1 </td>
     </tr>
     <tr>
       <td align="center"> Bar-2 </td>
       <td align="center"> County </td>
+       <td align="center"> /navi Bar-2 </td>
     </tr>
      <tr>
       <td align="center"> Bar-3 </td>
       <td align="center"> Downtown </td>
+        <td align="center"> /navi Bar-3 </td>
     </tr>
   </tbody>
 </table>
