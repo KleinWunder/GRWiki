@@ -4,10 +4,10 @@
 Das Labor bietet die Möglichkeit für Crimefraktionen das, durch den [Apothekenraub](../,./pages/fraktionen/apothekenraub.md) erhaltene, Tablettenschachteln zu Novapulver zu verarbeiten. Daher ist das Labor ein beliebter Ort für Crimefraktionen.
 
 ## Lage
-Das Labor ist ein dunkles Ziegelsteingebäude und befindet sich am Rand des [Ganggebietes](../../gebiete/ganggebiet.md). Das Labor kann ebenfalls mithilfe von /navi Labor gefunden werden. <img align="right" width="200" height="150" src="../../../assets/image/gabaeude/labor/Labor.png">
+Das Labor ist ein dunkles Ziegelsteingebäude und befindet sich am Rand des [Ganggebietes](../../gebiete/ganggebiet.md). Das Labor kann ebenfalls mithilfe von /navi Labor gefunden werden. <img align="right" width="200" height="150" src="../../../assets/image/gebaeude/labor/Labor.png">
 
 ## Novapulver herstellen
-Für das Herstellen von Novapulver werden Tablettenschachteln benötigt. Um den Prozess zu starten, muss der Braustand im hinteren Teil des Labors angeklickt und die Eingabe bestätigt werden. <img align="right" width="200" height="150" src="../../../assets/image/gabaeude/labor/BraustandLabor.png">
+Für das Herstellen von Novapulver werden Tablettenschachteln benötigt. Um den Prozess zu starten, muss der Braustand im hinteren Teil des Labors angeklickt und die Eingabe bestätigt werden. <img align="right" width="200" height="150" src="../../../assets/image/gebaeude/labor/BraustandLabor.png">
 
 Die Verarbeitung der Tablettenschachteln dauert zwei Minuten. Nach Ablauf der Wartezeit wird das Novapulver in die Tasche des Herstellers, ungeachtet der freien Slots, hinzugefügt.
 
