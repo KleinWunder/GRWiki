@@ -1,14 +1,17 @@
 # Imker (Nebenjob)
-Der Imker ist ein Nebenjob, welcher beim Imker-NPC gestartet wird. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
+Der Imker ist ein Nebenjob, welcher beim Imker NPC gestartet wird. Helfe dem Imker den Honig aus den Bienenstöcker zu entnehmen. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| Bushaltestelle | County |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | [County](../../pages/gebiete/county.md) |
 | Navi | /navi Imker |
 | Dauer | ca. 3 Minuten |
 | Cooldown | 4 Minuten |
-| Gewinn | Geld, XP, [Farming-XP](../../pages/skills/farming.md) |
+| Gewinn | Geld, [XP](../../pages/allgemein.md), [Farming-XP](../../pages/skills/farming.md) |
 
 ## Aufgabe
-1. Entnehme Honig aus einem Bienenvolk
-2. Lade den Honig auf den Truck
+1. Im Haus den Imker NPC mit Rechtsklick anklicken und die Biene auswählen.
+2. Das Inventar wird um einen Honigglaskopf bereichert.
+3. Entnehme draußen aus dem Bienenstock Honig. Rechtsklicke mit dem Glas die Falltür.
+4. Danach das volle Glas zum Transporter und mit **/drophoney** beladen.
+5. Wiederhole diesen Vorgang so lange, bis der Nebenjob abgeschlossen ist.
