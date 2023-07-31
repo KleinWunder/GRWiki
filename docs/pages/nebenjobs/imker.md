@@ -1,5 +1,5 @@
 # Imker (Nebenjob)
-Der Imker ist ein Nebenjob, welcher beim Imker NPC gestartet wird. Helfe dem Imker den Honig aus den Bienenstöcker zu entnehmen. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
+Der Imker ist ein Nebenjob, welcher beim Imker NPC gestartet wird. Helfe dem Imker den Honig aus den Bienenstöckern zu entnehmen. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
