@@ -7,10 +7,42 @@ Ein Rezept kann in einer der [Apotheke] gegen eine je nach Medikament variierend
 ## Ausgabemengen
 Die aktuellen Ausgabemengen betragen:
 
-Rezeptausgabegrenzen rowspan4
-Medikament Staatsfraktionen Crimefraktionen Zivilisten |
-| Grippostat | Paracetamol | Antibiotika | Schmerzmittel |
-|4|4|4|
-|4|4|4
-|4|4|4|
-1-5|1-3|1-2|
+<table>
+  <thead>
+    <tr>
+      <th colspan=4 align="center">Rezeptausgabegrenzen des Rettungsdienst</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Medikament</td>
+      <td align="center">Staatsfraktionen</td>
+      <td align="center">Crimefraktionen</td>
+      <td align="center">Zivilisten</td>
+    </tr>
+    <tr>
+      <td align="center">Grippostat</td>
+      <td align="center">4</td>
+      <td align="center">4</td>
+      <td align="center">4</td>
+    </tr>
+     <tr>
+      <td align="center">Paracetamol</td>
+      <td align="center">4</td>
+      <td align="center">4</td>
+      <td align="center">4</td>
+    </tr>
+     <tr>
+      <td align="center">Antibiotika</td>
+      <td align="center">4</td>
+      <td align="center">4</td>
+      <td align="center">4</td>
+    </tr>
+     <tr>
+      <td align="center">Schmerzmittel</td>
+      <td align="center">1-5</td>
+      <td align="center">1-3</td>
+      <td align="center">1-2</td>
+    </tr>
+  </tbody>
+</table>
