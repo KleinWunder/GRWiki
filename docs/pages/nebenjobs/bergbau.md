@@ -5,7 +5,7 @@
 
 
 
-Das Bergwerk befindet sich im zwischen [Downtown](../../pages/gebiete/downtown.md) und [Gangviertel](../../pages/gebiete/gangviertel.md), dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) Uniklinik ist und ihr [Navipunkt](../../pages/allgemein/navigation.md) ist **/navi Bergwerk**.
+Das Bergwerk befindet sich im zwischen [Downtown](../../pages/gebiete/downtown.md) und [Gangviertel](../../pages/gebiete/ganggebiet.md), dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) Uniklinik ist und ihr [Navipunkt](../../pages/allgemein/navigation.md) ist **/navi Bergwerk**.
 Im Bergwerk kann als Minenarbeiter gearbeitet werden. Diese Arbeit gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [BergbauXP](../../pages/skills/bergbau.md) und [SozialXP](../../pages/skills/social.md). 
 
 ## Ablauf
