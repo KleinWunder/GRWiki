@@ -9,8 +9,8 @@ Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann.
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| Bushaltestelle | Polizeipräsidium |
-| Navi | /navi JVA |
+| Bushaltestelle | [Polizeipräsidium](../../pages/fraktionen/polizei.md) |
+| Navi | /navi Restaurant |
 | Dauer | ca. 3 Minuten |
 | Cooldown | 7 Minuten |
 | Gewinn | Geld, [XP](../../allgmein/level.md), [Koch-XP](../../pages/skills/kochen.md) |
