@@ -4,7 +4,7 @@ Der Agavenfarmer ist ein Nebenjob, welcher am Truck bei der Agavenfarm gestartet
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| Bushaltestelle | Plaza |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | Plaza |
 | Navi | /navi Agavenfarm |
 | Dauer | ca. 2 Minuten |
 | Cooldown | 7 Minuten |
