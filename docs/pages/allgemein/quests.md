@@ -1,6 +1,6 @@
 # Quests
 
-Im Spielmenü (++f++ + ++space++) kann die Questübersicht über den Smaragd aufgerufen werden. Erledigte Quests bringen weiter Vorteile für das Spielgeschehen im weiteren Verlauf.<br>
+Im Spielmenü (++shift++ + ++f++) kann die Questübersicht über den Smaragd aufgerufen werden. Erledigte Quests bringen weiter Vorteile für das Spielgeschehen im weiteren Verlauf.<br>
 Aktuell bietet der Server 4 Quests an.
 
 ## Albertus' Liebesbrief
