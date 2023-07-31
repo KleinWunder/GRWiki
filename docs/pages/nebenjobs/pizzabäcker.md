@@ -3,14 +3,16 @@ Der Pizzabäcker ist ein Nebenjob, welcher in der Pizzera erledigt wird. <img al
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| Bushaltestelle | Reichenviertel |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | [Reichenviertel](../../pages/gebiete/reichenviertel.md) |
 | Navi | /navi Pizzeria |
 | Dauer | ca. 2 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, XP, [Koch-XP](../../pages/skills/kochen.md) |
+| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Koch-XP](../../pages/skills/kochen.md) |
 
 ## Aufgaben
-1. Nehme Teig von dem Tresen sowie Käse und ein Topping aus der Kühlkammer.
-2. Lege den Käse und dein ausgewähltes Topping auf die Pizza.
-3. Back die Pizza im Steinofen.
-4. Lege die Pizza auf die Theke.
+1. Nehme Teig vom Tresen, sowie Käse und ein Topping aus der Kühlkammer.
+2. Gehe zur Arbeitsplatte und nehme die Tomatensoße.
+3. Zum Zubereiten, klicke Rechtsklick auf die Platte.
+4. Lege den Käse und das ausgewählte Topping auf die Pizza.
+5. Back die Pizza im Steinofen und hol sie nach 10 Sekunden raus.
+6. Lege die Pizza auf die Theke.
