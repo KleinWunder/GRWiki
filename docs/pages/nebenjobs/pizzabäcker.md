@@ -1,5 +1,5 @@
 # Pizzabäcker (Nebenjob)
-Der Pizzabäcker ist ein Nebenjob, welcher in der Pizzera erledigt wird. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Pizzabäcker.png">
+Der Pizzabäcker ist ein Nebenjob, welcher in der Pizzera erledigt wird. Hier wird jegliche Unterstützung zur Zubereitung der Pizzen benötigt. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Pizzabäcker.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
