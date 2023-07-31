@@ -7,6 +7,6 @@ Sie sind rezeptpflichtig, welche beim Rettungsdienst erhältlich sind. Die Anzah
 
 Wird Heilkraut eingenommen, erhält man folgende Wirkung:
 
-- Absorption 3 für 2 Minuten und 30 Sekunden
-- Regeneration 3 für 30 Sekunden
-- Übelkeit 2 für 2 Sekunden
+*  Absorption 3 für 2 Minuten und 30 Sekunden
+*  Regeneration 3 für 30 Sekunden
+*  Übelkeit 2 für 2 Sekunden
