@@ -26,17 +26,30 @@ Mieterslots: Jedes Haus hat nur eine bestimmte Anzahl Mieterslots. Um diese zu e
 
 ## Die Immobilie verkaufen
 
-Man hat die Möglichkeit sein Haus wieder zu verkaufen. Dies kann man beim Maklerbüro machen lassen. Man findet den Makler mit **/navi maklerbüro**. Das Haus wird zu 50% des Kaufpreises verkauft.
+Man hat die Möglichkeit sein Haus wieder zu verkaufen.
+
+Dabei hat man zwei Möglichkeiten:
+
+* An einen Spieler verkaufen
+* An das Maklerbro verkaufen
+
+!!! warning "Haus verkaufen"
+        Ist das Haus einmal verkauft, kann dieses nur durch einen Neukauf zurück erworben werden.
+
+### Immobilien an Spieler verkaufen
+
+Das Verkaufen von Immobilien an Spieler ist per **/sellhouse [Haus] [Spieler] [Preis]** möglich. Dabei muss der Preis mindestens den Mindestpreis der Immobilie betragen. 
+
+### Immobilien an das Maklerbüro verkaufen
+Im Maklerbüro ist es Möglich, Immobilien für die Hälfte des Mindestpreises zu verkaufen.
+Das Maklerbüro kann unter **/navi Maklerbüro** gefunden werden,
 
 * Gehe zum NPC im Maklerbüro.
 * Klicke ihn mit der rechten Maustaste an.
 * Wähle das Haus aus, welches du verkaufen möchtest.
 
-!!! warning "Haus verkaufen"
-        Ist das Haus einmal verkauft, kann dieses nur durch einen Neukauf zurück erworben werden.
-
 ## Hausnummer
-Das Haus hat eine vollwertige Adresse mit Straßennamen, Postleitzahl und Hausnummer. Hier hat jedes Stadtteil eine eigende Postteiltzahl, sowie jede Straße eine eigende ID.
+Das Haus hat eine vollwertige Adresse mit Straßennamen, Postleitzahl und Hausnummer. Hier hat jedes Stadtteil eine eigende Postleitzahl, sowie jede Straße eine eigene ID.
 
 ### Zusammensetzung
 Jedes Haus hat 2 Nummern, welche sich nach Straßen-ID und der eigentlichen Hausnummer zusammen setzen. So ist zum Beispiel Haus 1-22, ein Haus mit der ID 1, welche sich in [Downtown](../../pages/gebiete/downtown.md) befindet. Die 22 bedeutet, dass das Haus das 22te Haus in dieser Straße ist.
@@ -54,6 +67,7 @@ Jedes Haus hat 2 Nummern, welche sich nach Straßen-ID und der eigentlichen Haus
    
 ## Nice to Know 
 
-* Das Haus kann mit einer Drogenbank, einer Hauskasse und Mieterslots ausgestattet werden. Diese können im Möbelhaus mit **/möbelhaus** gekauft werden.
-* Mieter können die Türen der Immobilie öffnen und schliessen und den Herd nutzen. Sie haben aber keinen Zugriff auf die Drogenbank oder die Hauskasse.
-* Häuser können auch unter Spielern verkauft werden. Dies muss aber über einen [Administrator](../../pages/other/serverteam.md). gemacht werden. Am Besten meldet man sich mit einem Ticket (Accountproblem).
+* Das Haus kann mit einem Hauslager, einer Hauskasse und Mieterslots ausgestattet werden. Diese können im Möbelhaus mit **/möbelhaus** gekauft werden.
+* Mieter können die Türen der Immobilie öffnen und schliessen und den Herd nutzen. Sie haben aber keinen Zugriff auf das Hauslager oder die Hauskasse.
+* Mit **/streetinfo** ist es möglich, eine ID durch einen Straßennamen oder den Straßennamen durch eine ID zu erhalten.
+ 
