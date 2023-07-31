@@ -88,7 +88,7 @@ nav:
       - Hausaddons: pages/houses/hausaddons.md
     - Orte:
       - Stadthalle: pages/orte/stadthalle.md
-      - Handelshaus: pages/gebiete/handelshaus.md
+      - Handelshaus: pages/gebäude/handelshaus.md
       - Schwarzmarkt: pages/orte/schwarzmarkt.md
       - Rathaus: pages/orte/rathaus.md
       - Arztpraxis: pages/orte/arztpraxis.md
@@ -98,10 +98,10 @@ nav:
       - Fahrzeughändler: pages/orte/fahrzeughändler.md
       - Justizvollzugsanstalt: pages/orte/jva.md
       - Anwaltskanzlei: pages/gebäude/anwaltskanzlei.md
-      - Labor: pages/gebiete/labor.md
-      - Syndikat: pages/gebiete/syndikat.md
-      - Tierheim: pages/gebiete/tierheim.md
-      - Fightclub: pages/gebiete/fightclub.md
+      - Labor: pages/gebäude/labor.md
+      - Syndikat: pages/gebäude/syndikat.md
+      - Tierheim: pages/gebäude/tierheim.md
+      - Fightclub: pages/gebäude/fightclub.md
     - Jobs/Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
