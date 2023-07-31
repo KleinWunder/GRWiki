@@ -4,8 +4,21 @@ nav:
   - Startseite: index.md
   - Wiki:
     - Wiki-Team: pages/other/wiki-team.md
+    - Serverteam: pages/other/serverteam.md
+    - Sonderteams: pages/other/sonderteams.md
     - Anfängerhilfe: pages/help/anfängerhilfe.md
     - Allgemeines:
+      - Befehlsliste: pages/allgemein/befehle.md
+      - Serverstrafen: pages/allgemein/serverstrafe.md
+      - Ticket: pages/allgemein/tickets.md
+      - Essen: pages/allgemein/essen.md
+      - Navi: pages/allgemein/navigation.md
+      - Bewusstlosigkeit: pages/allgemein/bewusstlosigkeit.md
+      - Fahndungspunkte: pages/allgemein/fahndungspunkte.md
+      - Handy: pages/allgemein/handy.md
+      - Notruf: pages/allgemein/notrufe.md
+      - Lizenzen: pages/allgemein/lizenzen.md
+      - Interaktionsmenü: pages/allgemein/interaktionsmenü.md
       - Spielmenü:
         - Allgemein: pages/allgemein/spielmenü.md
         - Quests: pages/allgemein/quests.md
@@ -19,6 +32,25 @@ nav:
         - Fortschritt:
           - Level: pages/allgemein/level.md
           - Erfolge: pages/allgemein/erfolge.md
+        - Items & Gegenstände:
+          - Tasche: pages/allgemein/tasche.md
+          - Cosmetics: pages/allgemein/cosmetics.md
+      - Beziehung: pages/allgemein/beziehung.md
+      - Gruppierung: pages/allgemein/gruppierung.md
+      - Perks: pages/allgemein/perks.md
+      - Sperrgebiete: pages/allgemein/sperrgebiete.md
+    - Stadtteile:
+      - Asiaviertel: pages/gebiete/asiaviertel.md
+      - County: pages/gebiete/county.md
+      - Downtown: pages/gebiete/downtown.md
+      - Ganggebiet: pages/gebiete/ganggebiet.md
+      - Oststadt: pages/gebiete/oststadt.md
+      - Reichenviertel: pages/gebiete/reichenviertel.md
+      - Strandpassage: pages/gebiete/strandpassage.md
+      - Westside: pages/gebiete/westside.md
+    - Öffentlicher Nahverkehr:
+      - Bus: pages/öpnv/bus.md
+      - U-Bahn: pages/öpnv/ubahn.md
     - Businesse (BIZ):
       - BIZ-Management: pages/biz/biz-managment.md
       - Gewerbe: pages/biz/business.md
@@ -35,7 +67,10 @@ nav:
       - Blitzer: pages/fahrzeuge/blitzer.md
     - Gesundheit:
       - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
+      - Rezepte: pages/krankheiten/rezepte.md
       - Krankeiten:
+        - Beinverletzungen: pages/krankheiten/beinverletzungen.md
+        - Blutzucker: pages/krankheiten/blutzucker.md
         - Dehydration: pages/krankheiten/dehydration.md
         - Grippe: pages/krankheiten/grippe.md
         - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
@@ -53,6 +88,7 @@ nav:
       - Hausaddons: pages/houses/hausaddons.md
     - Orte:
       - Stadthalle: pages/orte/stadthalle.md
+      - Handelshaus: pages/gebiete/handelshaus.md
       - Schwarzmarkt: pages/orte/schwarzmarkt.md
       - Rathaus: pages/orte/rathaus.md
       - Arztpraxis: pages/orte/arztpraxis.md
@@ -61,6 +97,11 @@ nav:
       - Fahrschule: pages/orte/fahrschule.md
       - Fahrzeughändler: pages/orte/fahrzeughändler.md
       - Justizvollzugsanstalt: pages/orte/jva.md
+      - Anwaltskanzlei: pages/gebäude/anwaltskanzlei.md
+      - Labor: pages/gebiete/labor.md
+      - Syndikat: pages/gebiete/syndikat.md
+      - Tierheim: pages/gebiete/tierheim.md
+      - Fightclub: pages/gebiete/fightclub.md
     - Jobs/Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
@@ -117,6 +158,8 @@ nav:
       - Mohnfeld: pages/pflanzen/mohnfeld.md
       - Rosen: pages/pflanzen/rosen.md
     - Items:
+      - Brechstange: pages/items/brechstange.md
+      - Dietrich: pages/items/dietrich.md
       - Weapons:
         - P-51: pages/items/weapons/pistole.md
         - MX8: pages/items/weapons/maschinenpistole.md
