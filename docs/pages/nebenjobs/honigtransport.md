@@ -12,10 +12,40 @@ Der Honigransport ist ein Nebenjob, welcher beim Imker-NPC angenommen wird. <img
 ## Aufgabe
 Liefere den Honig zu einem Supermarkt.
 
-- Supermarkt-1 Oststadt
-- Supermarkt-2 Reichenviertel
-- Supermarkt-3 County
-- Supermarkt-4 Downtown
-- Supermarkt-5 Ganggebiet (Nord)
-- Supermarkt-6 Asiaviertel
-- Superamrkt-7 Westside
+<table>
+  <thead>
+    <tr>
+      <th colspan=3 align="center"> Supermärkte und Standorte</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"> Supermarkt-1 </td>
+      <td align="center"> Oststadt </td>
+    </tr>
+    <tr>
+      <td align="center"> Supermarkt-2 </td>
+      <td align="center"> Reichenviertel </td>
+    </tr>
+     <tr>
+      <td align="center"> Supermarkt-3 </td>
+      <td align="center"> County </td>
+    </tr>
+     <tr>
+      <td align="center"> Supermarkt-4 </td>
+      <td align="center"> Downtown </td>
+    </tr>
+     <tr>
+      <td align="center"> Supermarkt-5 </td>
+      <td align="center"> Ganggebiet (Nord) </td>
+    </tr>
+     <tr>
+      <td align="center"> Supermarkt-6 </td>
+      <td align="center"> Asiaviertel </td>
+    </tr>
+     <tr>
+      <td align="center"> Supermarkt-7 </td>
+      <td align="center"> Westside </td>
+    </tr>
+  </tbody>
+</table>
