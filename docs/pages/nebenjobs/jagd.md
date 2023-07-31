@@ -1,12 +1,27 @@
 # Jagd
 
-In den Bergen gibt es Möglichkeit Wölfe zu jagen. Durch spezielle Wolfsköder werden die Wölfe angelockt, welche mit [Waffen](../../pages/biz/waffenladen.md) erledigt werden müssen. Für das erlegen von Wölfen können Hundepfeifen, Wolfspelz und Wolfszähne erhalten werden, wovon ein kleiner Teil beim Jäger, in der Jägerhütte, verkauft werden können. Auch werden sie für die [Quests](../../pages/allgemein/quests.md) benötigt.
+In den Bergen gibt es die Möglichkeit Wölfe zu jagen. Durch spezielle Wolfsköder werden die Wölfe angelockt, welche mit [Waffen](../../pages/biz/waffenladen.md) erledigt werden müssen. Für das Erlegen von Wölfen können Hundepfeifen, Wolfspelz und Wolfszähne erhalten werden, wovon ein kleiner Teil beim Jäger, in der Jägerhütte, verkauft werden kann. Auch werden sie für die [Quests](../../pages/allgemein/quests.md) benötigt.
 
 ## Die Jagdhütte
+
+<img align="right" width="260" height="200" src="../../../assets/image/nebenjobs/jagdhütte.png">
+
+
+
+
 Die Jagdhütte befindet sich hinter der Mühle an der Farm (**/navi Jagdhütte**). Hier ist die Möglichkeit Köder und ein Jagdmesser zu kaufen oder seine Jagdbeute zu verkaufen.
 
 ## Ablauf der Jagd
-Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Naturschutzgebiet erstreckt. (**/navi Jagdgebiet**). Die Jagd funktioniert mit den folgenden Punkten:
+
+
+
+
+<img align="right" width="260" eight="200" src="../../../assets/image/nebenjobs/jagdgebiet.png">
+
+
+
+
+Es kann nur ausschließlich im Jagdgebiet gejagt werden, welches sich über das Naturschutzgebiet erstreckt. (**/navi Jagdgebiet**). Die Jagd funktioniert mit den folgenden Punkten:
 
 - Gehe zum NPC Jäger und kaufe Wolfköder. 
 - Im Jagdgebiet den Köder mit Rechtsklick in die Luft auslegen
@@ -16,7 +31,7 @@ Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Natu
       - Hundepfeifen
       - Wolfpelz
       - Wolfszähne
-      - Wolfpet 
+      - [Wolfpet](../../pages/pets/wolf.md) 
 - Am Ende das Wolfpelz und Wolfszähne beim NPC verkaufen
     - Hundepfeifen, Wolfpelz und Wolfzähne können bei Quests als Zahlung eingesetzt werden.
 
