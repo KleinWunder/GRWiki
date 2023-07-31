@@ -4,7 +4,7 @@
 <img align="right" width="360" eight="340" src="../../../assets/image/nebenjobs/anglerreichenviertel.png">
 
 Der erste Anglerteich (**/navi Angler**) befindet sich in [Downtown](../../pages/gebiete/downtown.md), nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parkes befindet sich der NPC 
-Walter. Der zweite Anglerteich befindet sich im [Reichenviertel](../../pages/gebiete/reichenviertel.md) beim Campingplatz (**/navi Campingplatz**). Waltraud, der NPC, ist auf dem Steg zu finden. Angeln darf man überall und ist nicht gezwungen an einem Ort zu bleiben. Das Angeln von Fischen gewährt einem Erfahrungspunkte, Geld, [FischerXP](../../pages/skills/fischer.md) und [SozialXP](../../pages/skills/social.md). 
+Walter. Der zweite Anglerteich befindet sich im [Reichenviertel](../../pages/gebiete/reichenviertel.md) beim Campingplatz (**/navi Campingplatz**). Waltraud, der NPC, ist auf dem Steg zu finden. Angeln darf man überall und ist nicht gezwungen an einem Ort zu bleiben. Das Angeln von Fischen gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [FischerXP](../../pages/skills/fischer.md) und [SozialXP](../../pages/skills/social.md). 
 
 ## Ablauf
 Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
@@ -21,7 +21,6 @@ Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
     - XP-Verbesserung
 - Am Ende die Fische, Haltbarkeitsverbesserung und XP-Verbesserung beim NPC verkaufen
 - Glasscherben im Mülleimer entsorgen
-
 
 Diese Items werden unterschiedlich verwertet: 
 
@@ -51,7 +50,7 @@ Diese Items werden unterschiedlich verwertet:
 |:-:|:-:|
 | Roher Fisch | 2.0€ |
 | Roher Lachs | 8.0€ |
-| Roher Clownfisch |	12.0€ |
+| Roher Clownfisch | 12.0€ |
 | Roher Pufferfisch | 35.0€ |
 | Haltbarkeitsverbesserung | 100.0€ |
 | XP-Verbesserung | 1.615.0€ |
