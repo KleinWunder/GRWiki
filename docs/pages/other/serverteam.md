@@ -25,7 +25,7 @@ Sr. Mods werden Spieler, welche sich sowohl als Guides und auch als Moderatoren 
 
 ## Moderatoren 
 
-Moderatoren achten darauf, dass die [Regeln](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) auf dem Server eingehalten werden. Sie helfen bei Bugs und unterstützen die Guides bei ihrer Arbeit. Werden Regeln verletzt, haben die Moderatoren das Recht angemessene Maßnahmen zu ergreifen. Diese [Maßnahmen](../../pages/allgemein/serverstrafen.md) gehen von persönlichen Gesprächen, über Strafpunkte bis hin zu Serverbans.
+Moderatoren achten darauf, dass die [Regeln](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) auf dem Server eingehalten werden. Sie helfen bei Bugs und unterstützen die Guides bei ihrer Arbeit. Werden Regeln verletzt, haben die Moderatoren das Recht angemessene Maßnahmen zu ergreifen. Diese [Maßnahmen](../../pages/allgemein/serverstrafe.md) gehen von persönlichen Gesprächen, über Strafpunkte bis hin zu Serverbans.
 
 ### Aufstieg
 Um Moderator zu werden, musst man sich zuerst als Guide beweisen. Ist man eine längere Zeit Guide und man hat einen guten Eindruck bei der Administration hinterlassen, stehen die Chancen gut Moderator zu werden. 

@@ -49,6 +49,6 @@ Derzeitiger Fraktionsmanager: **[BRATE47](https://germanrp.eu/index.php?user/249
 
 ## Teamleitung
 
-Die Teamleitung ein Sonderposten innerhalb des Serverteams. Die Teamleitung ist Ansprechpartner und Aufsicht der Sonderteamss und Guideteam passiert. Sie sorgt dafür, dass alles gut vonstatten geht.
+Die Teamleitung ein Sonderposten innerhalb des Serverteams. Die Teamleitung ist Ansprechpartner und Aufsicht der Sonderteams und Guideteam passiert. Sie sorgt dafür, dass alles gut vonstatten geht.
 
 Derzeitige Teamleitung: **[Paulphobie](https://germanrp.eu/index.php?user/40-gr-paulphobie/)**
