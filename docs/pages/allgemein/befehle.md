@@ -1,4 +1,5 @@
 # Befehlsliste
+Diese befehlsliste wird laufend erweitert. Es kann vorkommen, dass ein Befehl nicht aufgeführt ist oder Ingame vorrübergehend nicht funktionsfährig ist.
 
 ## Eigener Charakter und andere Spieler 
 | Befehl | Erklärung | Beispiel |
