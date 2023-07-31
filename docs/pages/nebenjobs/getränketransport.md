@@ -12,33 +12,27 @@ Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges b
 ## Aufgabe
 
 1. Im Keller der Winzerhütte **/weintransport** eingeben.
-2. Ein Navi zeigt nun den Weg zu einer Bar. Folge dem Navi.
-3. Bei der Bar angekommen, muss man alle Weinkisten mit /dropwein abgeben. Dieser Befehl muss solange eingegeben werden, bis alle Weinkisten abgeliefert sind.
+2. Ein Navi zeigt nun den Weg zu einer [Bar](../../pages/biz/bar.md) (Siehe Tabelle). Folge dem Navi.
+3. Bei der Bar angekommen, muss man alle Weinkisten mit **/dropwein** abgeben. Dieser Befehl muss solange eingegeben werden, bis alle Weinkisten abgeliefert sind.
 
 <table>
-  <thead> 
-    <td colspan=3> Test </td>
+  <thead>
+    <tr>
+      <th colspan=3 align="center"> Bars und Standort</th>
+    </tr>
   </thead>
-<tbody>
-  <tr>
-    <th> da </th>
-    <th> da </th>
-    <th> da </th>
-  </tr>
-  <tr>
-    <th> da </th>
-    <th> da </th>
-    <th> da </th>
-  </tr>
-  <tr>
-    <th> da </th>
-    <th> da </th>
-    <th> da </th>
-  </tr>
-</tbody>
-</table> 
-
-Liefere Getränkekisten an eine Bar.
-- Bar-1 Oststadt
-- Bar-2 County
-- Bar-3 Downtown
+  <tbody>
+    <tr>
+      <td> Bar-1 </td>
+      <td> Oststadt </td>
+    </tr>
+    <tr>
+      <td> Bar-2 </td>
+      <td> County </td>
+    </tr>
+     <tr>
+      <td> Bar-3 </td>
+      <td> Downtown </td>
+    </tr>
+  </tbody>
+</table>
