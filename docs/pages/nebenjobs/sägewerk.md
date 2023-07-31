@@ -5,13 +5,12 @@
 
 
 
-Das Sägewerk (**/navi Sägewerk**) befindet sich im Reichenviertel, dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/Bus.md) [Reichenviertel](../../pages/gebiete/Reichenviertel.md) ist.
+Das Sägewerk (**/navi Sägewerk**) befindet sich im Reichenviertel, dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) [Reichenviertel](../../pages/gebiete/reichenviertel.md) ist.
 Am Sägewerk kann als Holzfäller gearbeitet werden. Diese Arbeit gewährt einem Erfahrungspunkte, Geld, [FarmingXP](../../pages/skills/farming.md) und [SozialXP](../../pages/skills/social.md). 
 
 ## Ablauf
 
-Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten.
-
+Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten:
 - Gehe zum NPC Jack und kaufe eine Axt. 
 - Nun müssen Bäume in der Umgebung gefällt werden.
 - Es können drei verschiedene Items im Inventar landen: 
@@ -21,12 +20,10 @@ Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten.
 - Am Ende die Holzstämme in der Halle bei der Säge verarbeiten und verkaufen
 - Stöcke im Mülleimer entsorgen
 
-
 Diese Items werden unterschiedlich verwertet: 
-
 * Stock: Die Stöcker können mit Rechtsklick auf einen Mülleimer entsorgt werden. Dies bringt SozialXP.
 * Holzstamm: Holzstämme können an der Säge entrindet werden. Dies generiert Erfahrungspunkte und FarmingXP.
-* Entrindeter Holzstamm: Diese können bei der Säge zu Holzbrettern verarbeitet oder direkt verkauft werden. Die Holzbretter werden dann im Möbelhaus verkauft (**/navi Möbelhaus**). Dies generiert Erfahrungspunkte, FarmingXP und Geld.
+* Entrindeter Holzstamm: Diese können bei der Säge zu Holzbrettern verarbeitet oder direkt verkauft werden. Die Holzbretter werden dann im Möbelhaus verkauft (**/navi Möbelhaus**). Dies generiert Erfahrungspunkte, Farming-XP und Geld.
 
 ## Äxte
 
