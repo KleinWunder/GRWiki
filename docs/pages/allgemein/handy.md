@@ -4,7 +4,7 @@
 <img align="right" width="360" eight="300" src="../../../assets/image/allgemein/Handyladen.png">
 
 
-Das Handy hat verschiedene Funktionen wie zum Beispiel Telefonieren, SMS schreiben und Kontakte einspeichern. Zusätzliche Apps kann man sich im App Store herrunterladen. Darunter befinden sich das Telefonbuch und die Handelshaus App. Ebenso kann bei einem vorhandenen [Anwalt](../../pages/gebäude/anwaltskanzlei.md), dieser anrufen werden, wenn man in der [Justizvollzugsanstalt](../../pages/gebäude/jva.md) sitzt.
+Das Handy hat verschiedene Funktionen wie zum Beispiel Telefonieren, SMS schreiben und Kontakte einspeichern. Zusätzliche Apps kann man sich im App Store herunterladen. Darunter befinden sich das Telefonbuch und die Handelshaus App. Ebenso kann bei einem vorhandenen [Anwalt](../../pages/gebäude/anwaltskanzlei.md), dieser anrufen werden, wenn man in der [Justizvollzugsanstalt](../../pages/gebäude/jva.md) sitzt.
 
 | App | Kosten |
 |:-:|:-:|
@@ -13,7 +13,7 @@ Das Handy hat verschiedene Funktionen wie zum Beispiel Telefonieren, SMS schreib
 
 ## Handyvertrag
 
-Um die ganzen Funktionen eines Handys nutzen zu können, benötigt man einen Handyvertrag, welcher im Elektroladen erwerbar ist. Dieser befindet sich in [Downtown](../../pages/gebiete/downtown.md), gegenüber der [Apotheke](../../pages/biz/apotheke.md)-1. Alternativ kann das **/navi Elektroladen** verwendet werden. Es gibt zwei verschiedene Verträge, welche sich in Abrechnung-, SMS und Anrufkosten und maximalen Kontakten unterscheiden. Nachdem ein Vertrag abgeschlossen wurde, wird einem eine Nummer zugewiesen. Diese ist ziemlich einfach aufgebaut: Es fängt für alle mit +43 15244 an. Dann folgen drei Zahlen, die einem Spieler zugeordnet sind. **Beispiel**: +43 15244 582.
+Um die ganzen Funktionen eines Handys nutzen zu können, benötigt man einen Handyvertrag, welcher im Elektroladen erwerbar ist. Dieser befindet sich in [Downtown](../../pages/gebiete/downtown.md), gegenüber der [Apotheke](../../pages/biz/apotheke.md)-1. Alternativ kann das **/navi Elektroladen** verwendet werden. Es gibt zwei verschiedene Verträge, welche sich in Abrechnung-, SMS und Anrufkosten und maximalen Kontakten unterscheiden. Nachdem ein Vertrag abgeschlossen wurde, wird einem eine Nummer zugewiesen. Diese ist ziemlich einfach aufgebaut: Sie fängt für alle mit +43 15244 an. Dann folgen drei Zahlen, die einem Spieler zugeordnet sind. **Beispiel**: +43 15244 582.
 
 | Vertrag | Kosten pro Abrechnung | SMS | Anruf | Kontaktplätze
 |:-:|:-:|:-:|:-:|:-:|

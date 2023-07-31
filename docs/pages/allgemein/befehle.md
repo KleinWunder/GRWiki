@@ -64,6 +64,6 @@ Diese befehlsliste wird laufend erweitert. Es kann vorkommen, dass ein Befehl ni
 | /vote | Vote für den Server |
 | /werbung | Schalte eine Werbung auf dem Server frei |
 | /ticket  | Erstelle ein Ticket, um mit einem Teammitglied zu reden (Fragen, Bugs, Spielerreport, Accountprobleme, etc.)|
-| /say | Während eines tickets im RP chat anworten | /say Hallo Officer! |
+| /say | Während eines Tickets im RP Chat anworten | /say Hallo Officer! |
 | /cancelticket | Das Ticket zurückziehen |
 | /team | Liste der anwesenden Teammitglieder |
