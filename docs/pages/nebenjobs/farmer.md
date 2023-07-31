@@ -1,5 +1,5 @@
 # Farmer (Nebenjob)
-Der Farmer ist ein Nebenjob, welcher sich direkt an der Farm befindet. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Farmer.png">
+Der Farmer ist ein Nebenjob, welcher sich direkt an der Farm befindet. Eine Reihe an Heuballen müssen verwertet und eingesammelt und dem Farmer NPC abgeben werden. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Farmer.png">
 
 
 | | |
