@@ -14,4 +14,33 @@ Der Munitionstransport ist ein Nebenjob, welcher bei der Lagerhalle in der Nähe
 2. Liefere den Transport zum Waffenladen (Siehe Tabelle).
 3. Liefere den Transport mit **/droptransport** beim Kassierer ab.
 4. Wiederhole den Vorgang bis der Nebenjob beendet ist.
-5. 
+
+<table>
+  <thead>
+    <tr>
+      <th colspan=3 align="center"> Waffenläden und Standorte</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"> Waffenladen-1 </td>
+      <td align="center"> Oststadt </td>
+      <td align="center"> /navi Waffenladen-1 </td>
+    </tr>
+    <tr>
+      <td align="center"> Waffenladen-2 </td>
+      <td align="center"> County </td>
+       <td align="center"> /navi Waffenladen-2 </td>
+    </tr>
+     <tr>
+      <td align="center"> Waffenladen-3 </td>
+      <td align="center"> Ganggebiet (Nord) </td>
+        <td align="center"> /navi Waffenladen-3 </td>
+    </tr>
+     <tr>
+      <td align="center"> Waffenladen-4 </td>
+      <td align="center"> Asiaviertel </td>
+        <td align="center"> /navi Waffenladen-4 </td>
+    </tr>
+  </tbody>
+</table>
