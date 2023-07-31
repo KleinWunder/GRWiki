@@ -60,6 +60,7 @@ nav:
       - Börse: pages/orte/börse.md
       - Fahrschule: pages/orte/fahrschule.md
       - Fahrzeughändler: pages/orte/fahrzeughändler.md
+      - Justizvollzugsanstalt: pages/orte/jva.md
     - Jobs/Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
