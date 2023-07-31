@@ -5,8 +5,8 @@
 
 
 
-Das Bergwerk befindet sich im zwischen Downtown und Gangviertel, dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/Bus.md) Uniklinik ist und ihr Navipunkt ist **/navi Bergwerk**.
-Im Bergwerk kann als Minenarbeiter gearbeitet werden. Diese Arbeit gewährt einem Erfahrungspunkte, Geld, [BergbauXP](../../pages/skills/bergbau.md) und [SozialXP](../../pages/skills/social.md). 
+Das Bergwerk befindet sich im zwischen [Downtown](../../pages/gebiete/downtown.md) und [Gangviertel](../../pages/gebiete/gangviertel.md), dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) Uniklinik ist und ihr [Navipunkt](../../pages/allgemein/navigation.md) ist **/navi Bergwerk**.
+Im Bergwerk kann als Minenarbeiter gearbeitet werden. Diese Arbeit gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [BergbauXP](../../pages/skills/bergbau.md) und [SozialXP](../../pages/skills/social.md). 
 
 ## Ablauf
 
@@ -26,7 +26,7 @@ Diese Items werden unterschiedlich verwertet:
 
 * Kieselsteine: Die Kieselsteine können mit Rechtsklick auf einen Mülleimer entsorgt werden. Dies bringt SocialXP.
 * Eisenerz: Das Eisenerz kann beim Entschlacker entschlackert werden. Dies generiert Erfahrungspunkte und BergbauXP.
-* Rodes Eisen: Diese können beim Entschlacker zu ? verarbeitet oder direkt verkauft werden. Die ? werden dann im Möbelhaus verkauft (**/navi Möbelhaus**). Dies generiert Erfahrungspunkte, BergbauXP und Geld.
+* Rohes Eisen: Diese können beim Entschlacker zu poliertes Eisen verarbeitet oder direkt verkauft werden. Das polierte Eisen wird dann im Möbelhaus verkauft (**/navi Möbelhaus**). Dies generiert [Erfahrungspunkte](../../pages/allgemein/level.md), BergbauXP und Geld.
 
 ## Spitzhacke
 
