@@ -1,7 +1,7 @@
 # Aktivitäten
 
 Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionkasse geben, aber auch zu einem Verlust von Geld führen.
-DIe [Polizei](../../pages/fraktionen/polizei.md) und der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](../../pages/fraktionen/allgemein.md), die die Aktivitäten auslösen oder vom System.
+Die [Polizei](../../pages/fraktionen/polizei.md) und der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](../../pages/fraktionen/allgemein.md), die die Aktivitäten auslösen oder vom System.
 
 
 ## Polizei
