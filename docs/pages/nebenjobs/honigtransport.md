@@ -1,20 +1,20 @@
 # Honigtransport (Nebenjob)
-Der Honigransport ist ein Nebenjob, welcher beim Imker NPC angenommen wird. Am Truck draußen stehen Honigkisten, welche in die [Supermärkte](../../pages/biz/supermarkt.md) geliefert werden müssen. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
+Der Honigtransport ist ein Nebenjob, welcher beim Imker NPC angenommen wird. Am Truck draußen stehen Honigkisten, welche in die [Supermärkte](../../pages/biz/supermarkt.md) geliefert werden müssen. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Imker.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | [County](../../pages/gebiete/county.md) |
-| Navi | /navi Imker |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Imker |
 | Dauer | ca. 5 Minuten |
 | Cooldown | 8 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
+| Gewinn | Geld, [Erfahnrungspunkte](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
 
 ## Aufgabe
 1. Im Haus den Imker mit Rechtsklick anklicken. Nun öffnet sich ein Menü, wo dann die Nebenjobs Imker und der Honigtransport stehen.
 2. Nach Annehmen des Honigtransportes, die Lieferung beim Truck neben dem Haus mit **/gethoney** nehmen.
-3. Nun wird einem der Supermarkt (Siehe Tabelle) angezeigt.
+3. Jetzt wird einem der Supermarkt (Siehe Tabelle) angezeigt.
 4. Im Supermarkt angekommen, wird die Lieferung mit **/drophoney** beim Kassierer abgegeben.
-5. Wiederhole die Abgabe bis der Nebenjob beendet ist.
+5. Wiederhole die Abgabe, bis der Nebenjob beendet ist.
    
 <table>
   <thead>
