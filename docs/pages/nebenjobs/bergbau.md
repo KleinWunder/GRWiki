@@ -49,7 +49,6 @@ Diese Items werden unterschiedlich verwertet:
 | Poliertes Eisen | 0.66€ |
 | Bernstein | 125.0€ |
 
-
 ## Hilfreiche Tipps
 
 * Je höher der Bergbau Skill Level ist, desto bessere Items und Spitzhacken erhält man.
