@@ -5,13 +5,13 @@ Eine Übersicht der Skills befindet sich im [Spielmenü](../../pages/allgemein/s
 
 ## Alle Skills
 
-* [Combat-Skill](../../pages/skills/combat.md)
-* [Farming-Skill](../../pages/skills/farming.md)
-* [Gärtner-Skill](../../pages/skills/gärtner.md)
-* [Sozial-Skill](../../pages/skills/social.md)
-* [Fischer-Skill](../../pages/skills/fischer.md)
-* [Bergbau-Skill](../../pages/skills/bergbau.md)
-* [Kochen-Skill](../../pages/skills/kochen.md)
+* [Bergbau-Skill](bergbau.md)
+* [Combat-Skill](combat.md)
+* [Farming-Skill](farming.md)
+* [Fischer-Skill](fischer.md)
+* [Gärtner-Skill](gärtner.md)
+* [Kochen-Skill](kochen.md)
+* [Sozial-Skill](social.md)
 
 ## Skill-Level 
 
