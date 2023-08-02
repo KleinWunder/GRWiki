@@ -1,13 +1,13 @@
 # Zeitungsjunge (Nebenjob)
-Der Zeitungjunge ist ein Nebenjob, welcher oben im [Rathaus](../../pages/orte/rathaus.md) angenommen werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Rathaus.png">
+Der Zeitungsjunge ist ein Nebenjob, welcher oben im [Rathaus](../../pages/orte/rathaus.md) angenommen werden kann. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Rathaus.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | Postzentrale |
-| Navi | /navi Rathaus |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Rathaus |
 | Dauer | ca. 7 Minuten |
 | Cooldown | 6 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
 
 
 ## Aufgabe
@@ -15,4 +15,4 @@ Der Zeitungjunge ist ein Nebenjob, welcher oben im [Rathaus](../../pages/orte/ra
 2. Zu Wohnhäusern und Wohnungen hingehen.
 3. Rechtsklick auf das Hausschild.
 4. Die Zeitung abgeben.
-5. Vorgang an anderen Hausschildern wiederholen bis der Nebenjob beendet ist.
+5. Vorgang an anderen Hausschildern wiederholen, bis der Nebenjob beendet ist.
