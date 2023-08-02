@@ -3,17 +3,17 @@ Der Munitionstransport ist ein Nebenjob, welcher bei der Lagerhalle in der Nähe
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| [Bushaltestelle](../../pages/öpnv/bus.md) | JVA |
-| Navi | /navi Geldwäsche |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | [JVA](../../pages/orte/jva.md) |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Geldwäsche |
 | Dauer | ca. 7 Minuten |
 | Cooldown | 6 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Sozial-XP](../../pages/skills/social.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Sozial-XP](../../pages/skills/social.md) |
 
 # Aufgabe
 1. In der Lagerhalle 1, vorne, die Munitionskisten **/munitionstransport** annehmen.
 2. Liefere den Transport zum Waffenladen (Siehe Tabelle).
 3. Liefere den Transport mit **/droptransport** beim Kassierer ab.
-4. Wiederhole den Vorgang bis der Nebenjob beendet ist.
+4. Wiederhole den Vorgang, bis der Nebenjob beendet ist.
 
 <table>
   <thead>
