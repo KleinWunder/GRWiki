@@ -1,6 +1,6 @@
 # Bergbau-Skill 
 
-Der Bergbau-Skill hilft seltenere Mineralien oder wertvolle Gegenstände beim Abbauen von Eisen im [Bergwerk](../../pages/gebäude/bergwerk.md) zu finden.
+Der Bergbau-Skill hilft seltenere Mineralien oder wertvolle Gegenstände beim Abbauen von Eisen im [Bergwerk](../../pages/nebenjobs/bergwerk.md) zu finden.
 
 ## Erhalten der Skill-XP 
 Den Bergbau-Skill kann durch folgende Aktivitäten gelevelt werden:
