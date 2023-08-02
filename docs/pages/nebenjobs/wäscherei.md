@@ -1,13 +1,13 @@
 # Wäscherei (Nebenjob)
-Der Wäscherei-Job ist ein Nebenjob, welcher in der Wäscherei angenommen werden kann. Viele Bürger der Stadt bringen hier ihre Kleidung zur Wäsche hin, daher ist jede helfende Hand wichtig und bringt natürlich ein kleiens Gehalt mit sich. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Wäscherrei.png">
+Der Wäscherei Job ist ein Nebenjob, welcher in der Wäscherei angenommen werden kann. Viele Bürger der Stadt bringen hier ihre Kleidung zur Wäsche hin, daher ist jede helfende Hand wichtig und bringt natürlich ein kleines [Gehalt](../../pages/allgemein/payday.md) mit sich. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Wäscherrei.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | Polizeipräsidium |
-| Navi | /navi Wäscherei |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Wäscherei |
 | Dauer | ca. 1 Minuten |
 | Cooldown | 6 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
 
 
 ## Aufgaben
