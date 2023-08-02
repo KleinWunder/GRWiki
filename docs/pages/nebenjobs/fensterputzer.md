@@ -4,13 +4,13 @@ Der Fensterputzer ist ein Nebenjob, welcher bei der JVA ausgeführt wird. In der
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | [Justizvollzugsanstalt](../../pages/orte/jva.md) |
-| Navi | /navi [JVA](../../pages/orte/jva.md) |
+| [Navi](../../pages/allgemein/navigation.md) | /navi JVA |
 | Dauer | ca. 1 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Social-XP](../../pages/skills/social.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Social-XP](../../pages/skills/social.md) |
 
 ## Aufgabe
 1. Der Nebenjob wird mit **/fensterputzer** gestartet.
 2. An der Fensterfront erscheint nun eine braune Glasscheibe.
 3. Diese Glasscheibe muss abgebaut werden, dann erscheint die nächste braune Glasscheibe.
-4. Baue die braunen Glasscheiben solange ab, bis der Nebenjob beendet ist.
+4. Baue die braunen Glasscheiben so lange ab, bis der Nebenjob beendet ist.
