@@ -17,16 +17,17 @@ Die Arbeit im Bergwerk funktioniert mit den folgenden Punkten.
 - Es können drei verschiedene Items im Inventar landen: 
       - Kieselsteine 
       - Eisenerz
-      - Rohes Eisenerz
-- Am Ende die Eisenerze am Eingang beim Entschlacker? entschlacken und verkaufen
+      - Rohes Eisen
+      - Bernstein
+- Am Ende die Eisenerze am Eingang beim Ofen entschlacken und verkaufen
 - Kieselsteine im Mülleimer entsorgen
 
 
 Diese Items werden unterschiedlich verwertet: 
 
 * Kieselsteine: Die Kieselsteine können mit Rechtsklick auf einen Mülleimer entsorgt werden. Dies bringt Social-XP.
-* Eisenerz: Das Eisenerz kann beim Entschlacker entschlackert werden. Dies generiert Erfahrungspunkte und Bergbau-XP.
-* Rohes Eisen: Diese können beim Entschlacker zu poliertes Eisen verarbeitet oder direkt verkauft werden. Das polierte Eisen wird dann im Möbelhaus verkauft (**/navi Möbelhaus**). Dies generiert [Erfahrungspunkte](../../pages/allgemein/level.md), Bergbau-XP und Geld.
+* Eisenerz: Das Eisenerz kann beim Ofen entschlackert werden. Dies generiert Erfahrungspunkte und Bergbau-XP.
+* Rohes Eisen: Diese können beim Ofen zu poliertes Eisen verarbeitet oder direkt verkauft werden. Das polierte Eisen wird dann im Möbelhaus verkauft (**/navi Möbelhaus**). Dies generiert [Erfahrungspunkte](../../pages/allgemein/level.md), Bergbau-XP und Geld.
 
 ## Spitzhacke
 
@@ -37,6 +38,14 @@ Diese Items werden unterschiedlich verwertet:
 | Spitzhacke für Experten | 75€ | Effizienz 2 | Level 3 |
 | Spitzhacke für Profis | 115€ | Effizienz 3 | Level 10 |
 | Spitzhacke für Meister | 175€ | Effizienz 4 | Level 15 |
+
+### Verkauf von Bergbauitems
+
+| Item | Verkaufspreis pro Stück |
+|:-:|:-:|
+| Rohes Eisen | 4.05€ |
+| Poliiertem Eisen | 0.66€ |
+| Bernstein | 125.0€ |
 
 
 ## Hilfreiche Tipps
