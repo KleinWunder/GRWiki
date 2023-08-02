@@ -1,13 +1,13 @@
 # Pizzabäcker (Nebenjob)
-Der Pizzabäcker ist ein Nebenjob, welcher in der Pizzera erledigt wird. Hier wird jegliche Unterstützung zur Zubereitung der Pizzen benötigt. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Pizzabäcker.png">
+DDer Pizzabäcker ist ein Nebenjob, welcher in der Pizzeria erledigt wird. Hier wird jegliche Unterstützung zur Zubereitung der Pizzen benötigt. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Pizzabäcker.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | [Reichenviertel](../../pages/gebiete/reichenviertel.md) |
-| Navi | /navi Pizzeria |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Pizzeria |
 | Dauer | ca. 2 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Koch-XP](../../pages/skills/kochen.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Koch-XP](../../pages/skills/kochen.md) |
 
 ## Aufgaben
 1. Nehme Teig vom Tresen, sowie Käse und ein Topping aus der Kühlkammer.
