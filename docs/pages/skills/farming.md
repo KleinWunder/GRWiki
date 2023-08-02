@@ -1,5 +1,5 @@
 # Farming
-Der Farming-Skill erhöht die Chance bei alltäglichen Erledigungen seltene & wertvolle Items zu finden.
+Der Farming-Skill erhöht die Chance, bei alltäglichen Erledigungen seltene & wertvolle Items zu finden.
 
 ## Erhalten der Skill-XP 
 Der Farming-Skill kann durch folgende Aktivitäten gelevelt werden:
