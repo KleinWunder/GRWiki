@@ -5,13 +5,13 @@ Auf dem Server gibt es aktuell drei Mafias und ein Kartell.
 Jede Fraktion besitzt ein Hauptquartier (HQ) auf der Karte mit einem zugehörigen und der Herkunft passenden Viertel. Die Staatsfraktionen haben auf der Karte verteilt mehrere Standorte, welche jeweils unterschiedliche Funktionen haben.
 
 !!! info "Fraktions HQs"
-    Nur weil man weiß, dass das Gebäude der Camorra gehört ohne dies im Roleplay erfahren zu haben, heißt dies nicht, dass man dies im Roleplay werten darf. 
+    Nur weil man weiß, dass das Gebäude der Camorra gehört, ohne dies im Roleplay erfahren zu haben, heißt dies nicht, dass man dies im Roleplay werten darf. 
     Dies gilt für alle Hauptquartiere der anderen Crimefraktionen.
 
 ## Mafia
 
-Sie handeln bedeckt und geschäftsorientiert. Ihre Machenschaften tragen sie ungern in aller Öffentlichkeit aus. Die Mafiosis pflegen ihre Beziehungen sehr gut und treten nobel und ehrhaftig auf.
-Auf dem Server gibt es insgesamt 3 Mafias unterschiedlicher Herkunften und Konzepten:
+Sie handeln bedeckt und geschäftsorientiert. Ihre Machenschaften tragen sie ungern in aller Öffentlichkeit aus. Die Mafiosis pflegen ihre Beziehungen sehr gut und treten nobel und ehrbar auf.
+Auf dem Server gibt es insgesamt 3 Mafias unterschiedlicher Herkünfte und Konzepten:
 
 * Die italienische Mafia ([Camorra](camorra.md))
 * Die japanische Mafia ([Yakuza](yakuza.md))
