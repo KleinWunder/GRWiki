@@ -39,11 +39,18 @@ Diese Items werden unterschiedlich verwertet:
 | Axt für Profis | 115€ | Effizienz 3 | Level 10 |
 | Axt für Meister | 175€ | Effizienz 4 | Level 15 |
 
+### Verkauf von Sägewerkitems
+
+| Item | Verkaufspreis pro Stück |
+|:-:|:-:|
+| Entrindeter Holzstamm | 4.05€ |
+| Holzbrettern | 0.66€ |
+| Baumharz | 125.0€ |
 
 ## Hilfreiche Tipps
 
 * Je höher das Farming Skill Level ist, desto bessere Items und Äxte erhält man.
 * Die Pets [Affe](../../pages/pets/affe.md) und [Biene](../../pages/pets/biene.md) unterstützen die Arbeit am Sägewerk.
-* Abgebaute Holzblöcke färben sich braun und regenerieren sich nach kurz Zeit von selbst.
-* Für Neulinge ist die Axt für Anfänger am Effizientesten.
+* Abgebaute Holzblöcke färben sich braun und regenerieren sich nach kurzer Zeit von selbst.
+* Für Neulinge ist die Axt für Anfänger am effizientesten.
 
