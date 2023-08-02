@@ -21,7 +21,7 @@ Das jeweilige Skill-Level und den Fortschritt bis zum nächsten Level ist auch i
 
 ## Skills in Verbindung mit Pets 
 
-Jedes Pets ist einen bestimmten Skill zugeordnet. Die Pets helfen dabei, schneller und einfacher Skill-XP zu farmen.
+Jedes Pets ist einem bestimmten Skill zugeordnet. Die Pets helfen dabei, schneller und einfacher Skill-XP zu farmen.
 
 ## Booster 
 
