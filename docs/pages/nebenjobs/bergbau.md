@@ -14,11 +14,13 @@ Die Arbeit im Bergwerk funktioniert mit den folgenden Punkten.
 
 - Gehe zum NPC Tashi und kaufe eine Spitzhacke. 
 - Nun müssen die Eisenerze in der Mine gefällt werden.
-- Es können drei verschiedene Items im Inventar landen: 
-      - Kieselsteine 
-      - Eisenerz
-      - Rohes Eisen
-      - Bernstein
+- Es können drei verschiedene Items im Inventar landen:
+
+  - Kieselsteine 
+  - Eisenerz
+  - Rohes Eisen
+  - Bernstein
+  
 - Am Ende die Eisenerze am Eingang beim Ofen entschlacken und verkaufen
 - Kieselsteine im Mülleimer entsorgen
 
