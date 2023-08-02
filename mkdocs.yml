@@ -167,6 +167,7 @@ nav:
         - Steenfield/RTB-X: pages/items/weapons/sniper.md
         - Waffenaddons: pages/items/weapons/waffenaddons.md
     - Skills:
+      - Allgemein: pages/skills/allgemein.md
       - Bergbau: pages/skills/bergbau.md
       - Combat: pages/skills/combat.md
       - Farming: pages/skills/farming.md
