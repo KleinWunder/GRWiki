@@ -1,24 +1,23 @@
 # Aktivitäten
 
-Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionkasse geben, aber auch zu einem Verlust von Geld führen.
-Die [Polizei](../../pages/fraktionen/polizei.md) und der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](../../pages/fraktionen/allgemein.md), die die Aktivitäten auslösen oder vom System.
-
+Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionskasse geben, aber auch zu einem Verlust von Geld führen. Die [Polizei](polizei.md) und der [Rettungsdienst](.rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](allgemein.md), die die Aktivitäten auslösen oder vom System.
 
 ## Polizei
 Die Polizei kann folgende Aktivitäten machen:
 
-* [Apothekeraub](../../pages/fraktionen/apothekenraub.md) verhindern
-* [Bombe](../../pages/fraktionen/bomben.md) neutralisieren
+* [Apothekeraub](apothekenraub.md) verhindern
+* [Bombe](bomben.md) neutralisieren
 * Bußgelder verteilen
 * Gewerberaub verhindern
-* [Hausaktion](../../pages/fraktionen/hausaktionen.md) durchführen
+* [Hausaktion](hausaktionen.md) durchführen
 * Illegale Pflanzen verbrennen
-* [Juwelierraub](../../pages/fraktionen/juwelierraub.md) verhindern
+* [Juwelierraub](juwelierraub.md) verhindern
 * Notrufe nachgehen
 * Personen durchsuchen
-* Personen mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) elemieren
+* Personen mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) eliminieren
 * Radarkontrollen durchführen
-* [Razzias](../../pages/fraktionen/hqraids.md) durchführen
+* [Razzias](hqraids.md) durchführen
+* [Substanzen Dealer](substanzendealer.md) abfangen
 * Strafzettel verteilen
 * Verbrennen von Betäubungsmittel
 * Verhaftungen durchführen
@@ -39,7 +38,7 @@ Der Rettungsdienst kann folgende Aktivitäten machen:
     - Gesundheitscheck
     - [Impfung](../../pages/krankheiten/impfung.md)
     - [Lebenmittelvergiftung](../../pages/krankheiten/lebensmittelvergiftung.md)
-- [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
+- [Hausaktionen](hausaktionen.md) durchführen
 - Krankentransporte durchführen
 - Notrufe bearbeiten
 
@@ -55,31 +54,33 @@ Die Feuerwehr kann folgende Aktivitäten machen:
 
 Die Kartellfraktionen können folgende Aktivitäten machen:
 
-* [Apothekeraub](../../pages/fraktionen/apothekenraub.md) starten
-* ATM's aufbrechen
-* [Bombe](../../pages/fraktionen/bomben.md) legen
+* [Apothekeraub](apothekenraub.md) starten
+* [ATM’s](../../pages/orte/zentralbank.md) aufbrechen
+* [Bombe](bomben.md) legen
 * Brandstiftung durchführen
 * Gewerberäube starten
-* [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
+* [Hausaktionen](hausaktionen.md) durchführen
 * [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) legen
-* [HQ Raids](../../pages/fraktionen/hqraids.md) durchführen
-* [Kopfgelder](../../pages/fraktionen/kopfgeld.md) erledigen
+* [HQ Raids](hqraids.md) durchführen
+* [Kopfgelder](kopfgeld.md) erledigen
+* [Substanzen Dealer](substanzendealer.md) abfangen
 
 
 ## Mafia
 
 Die Mafiafraktionen können folgende Aktivitäten machen:
 
-* [Apothekeraub](../../pages/fraktionen/apothekenraub.md) starten
-* ATM's aufbrechen
+* [Apothekeraub](apothekenraub.md) starten
+* [ATM’s](../../pages/orte/zentralbank.md) aufbrechen
 * Brandstiftung durchführen
 * Gewerberäube starten
-* [Hausaktionen](../../pages/fraktionen/hausaktionen.md) durchführen
+* [Hausaktionen](hausaktionen.md) durchführen
 * [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) legen
-* [HQ Raids](../../pages/fraktionen/hqraids.md) durchführen
-* [Juwelierraub](../../pages/fraktionen/juwelierraub.md) starten
-* [Kopfgelder](../../pages/fraktionen/kopfgeld.md) erledigen
+* [HQ Raids](hqraids.md) durchführen
+* [Juwelierraub](juwelierraub.md) starten
+* [Kopfgelder](kopfgeld.md) erledigen
 * Mohnkapseln herstellen
+* [Substanzen Dealer](substanzendealer.md) abfangen
 
 
 # Rufpunkte
@@ -113,7 +114,7 @@ Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie
     </tr>
     <tr>
       <td align="center">2</td>
-      <td align="center">Erntnen einer Heilkrautpflanze</td>
+      <td align="center">Ernten einer Heilkrautpflanze</td>
     </tr>
     <tr>
       <td align="center">1</td>
