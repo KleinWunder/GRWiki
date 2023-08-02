@@ -4,13 +4,13 @@ Der Blumentransport ist ein Nebenjob, welcher in der Gärtnerei beim NPC gestart
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | Farm |
-| Navi | /navi Gärtnerei |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Gärtnerei |
 | Dauer | ca. 4 Minuten |
 | Cooldown | 6 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Gärtner-XP](../../pages/skills/gärtner.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Gärtner-XP](../../pages/skills/gärtner.md) |
 
 ## Aufgabe
 1. Nehme den Nebenjob per Rechtsklick auf die Gärtnerin an und wähle die Mohnblume.
 2. Liefere die Blumen in den Blumenladen.
 3. Im Blumenladen **/droptransport** eingeben
-4. Schritt 3 wiederholen bis der Nebenjob abgeschlossen ist.
+4. Wiederhole dies, bis der Nebenjob abgeschlossen ist.
