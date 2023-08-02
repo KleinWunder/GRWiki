@@ -4,13 +4,13 @@ Der Reifentransport ist ein Nebenjob, welcher in der Lagerhalle in der Nähe des
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | Postzentrale |
-| Navi | /navi Lagerhalle |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Lagerhalle |
 | Dauer | ca. 3 Minuten |
 | Cooldown | 5 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Social-XP](../../pages/skills/social.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Social-XP](../../pages/skills/social.md) |
 
 ## Aufgabe
 1. Durchsuche die Kisten mit Rechtsklick nach den Reifen.
 2. Bringe die Reifen zum Mechaniker in [Downtown](../../pages/gebiete/downtown.md) oder [County](../../pages/gebiete/county.md).
 3. Lege die Reifen beim Mechaniker mit **/droptransport** ab
-4. Wiederhole diesen Vorgang bis der Nebenjob beendet ist.
+4. Wiederhole diesen Vorgang, bis der Nebenjob beendet ist.
