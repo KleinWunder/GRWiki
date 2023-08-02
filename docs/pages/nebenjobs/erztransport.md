@@ -7,7 +7,7 @@ Der Erztransport ist ein Nebenjob, welcher beim Salzbergwerk gestartet wird. Ein
 | [Navi](../../pages/allgemein/navigation.md) | /navi Salzbergwerk |
 | Dauer | ca. 5 Minuten |
 | Cooldown | 10 Minuten |
-| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Bergbau-XP](../..//pages/Skills/bergbau.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Bergbau-XP](../../pages/Skills/bergbau.md) |
 
 ## Aufgabe
 1. Im Eingang des Salzbergwerkes **/erztransport** eingeben.
