@@ -46,7 +46,7 @@ Diese Items werden unterschiedlich verwertet:
 | Item | Verkaufspreis pro Stück |
 |:-:|:-:|
 | Rohes Eisen | 4.05€ |
-| Poliiertem Eisen | 0.66€ |
+| Poliertes Eisen | 0.66€ |
 | Bernstein | 125.0€ |
 
 
