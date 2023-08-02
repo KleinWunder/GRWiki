@@ -4,7 +4,7 @@
 <img align="right" width="290" eight="200" src="../../../assets/image/Öpnv/UBahn.png">
 
 
-Die U-Bahn ist einer der Verkehrsmittel, welches einen schnell von A nach B bringen kann. Die Fahrtzeit kann durch Drücken der ++f++ + ++shift++ Taste eingesehen werden. Um mit der U-Bahn zu fahren, geht man in die Bahn und drückt Rechtsklick den Kopf an der Wand, welches einen Fahrkartenautomat darstellt. Dann kann das gewünschte Reiseziel ausgewählt werden. 
+Die U-Bahn ist einer der Verkehrsmittel, welches einen schnell von A nach B bringen kann. Die Fahrtzeit kann durch Drücken der ++shift++ + ++f++ Taste eingesehen werden. Um mit der U-Bahn zu fahren, geht man in die Bahn und drückt Rechtsklick den Kopf an der Wand, welches einen Fahrkartenautomaten darstellt. Dann kann das gewünschte Reiseziel ausgewählt werden.
 
 !!! info Während der Bahnfahrt
     In einer Bahn wird kein RP gemacht, auch kann in der Bahn kein Spieler Schaden erhalten und verteilen.
@@ -34,4 +34,4 @@ U-Bahnstationen sind an einem Eingang, welcher mit "U-Bahn" beschriftet ist, zu 
 | [Oststadt](../../pages/gebiete/oststadt.md) | Supermarkt-1 <br> Waffenladen-1 |  Gärtner <br> Blumentransport <br> Winzer <br> Getränketransport | Farm <br> [Jagdgebiet](../../pages/nebenjobs/jagd.md) <br> [Schwarzmarkt](../../pages/orte/schwarzmarkt.md) <br> Gärtnerei |
 | Hallenbad | | Bademeister | Schwimmbad |
 | [Westside](../../pages/gebiete/westside.md) | Supermarkt-7 <br> Tankstelle-5 <br> Apotheke-5 |  | Polizeirevier West <br> Krankenhaus West |
-| Fightclub | | | [Fightclub](../../pages/gebäude/flightclub.md) <br> Eventgebäude |
+| Fightclub | | | [Fightclub](../../pages/gebäude/fightclub.md) <br> Eventgebäude |
