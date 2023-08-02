@@ -3,8 +3,8 @@
 <img align="right" width="360" eight="340" src="../../../assets/image/nebenjobs/anglerdowntown.png">
 <img align="right" width="360" eight="340" src="../../../assets/image/nebenjobs/anglerreichenviertel.png">
 
-Der erste Anglerteich (**/navi Angler**) befindet sich in [Downtown](../../pages/gebiete/downtown.md), nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parkes befindet sich der NPC 
-Walter. Der zweite Anglerteich befindet sich im [Reichenviertel](../../pages/gebiete/reichenviertel.md) beim Campingplatz (**/navi Campingplatz**). Waltraud, der NPC, ist auf dem Steg zu finden. Angeln darf man überall und ist nicht gezwungen an einem Ort zu bleiben. Das Angeln von Fischen gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [FischerXP](../../pages/skills/fischer.md) und [SozialXP](../../pages/skills/social.md). 
+Der erste Anglerteich (**/navi Angler**) befindet sich in [Downtown](../../pages/gebiete/downtown.md), nahe der Uniklinik und der gleichnamigen [Haltestelle](../../pages/öpnv/bus.md). In der kleinen Hütte in der Mitte des Parks befindet sich der NPC 
+Walter. Der zweite Anglerteich befindet sich im [Reichenviertel](../../pages/gebiete/reichenviertel.md) beim Campingplatz (**/navi Campingplatz**). Waltraud, der NPC, ist auf dem Steg zu finden. Angeln darf man überall und ist nicht gezwungen, an einem Ort zu bleiben. Das Angeln von Fischen gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [Fischer-XP](../../pages/skills/fischer.md) und [Sozial-XP](../../pages/skills/social.md). 
 
 ## Ablauf
 Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
@@ -24,13 +24,13 @@ Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
 
 Diese Items werden unterschiedlich verwertet: 
 
-* Glasscherben: Die Glasscherben können mit Rechtsklick auf einen Mülleimer entsorgt werden. Dies bringt SocialXP.
-* Fische: Die Fische können beim NPC verkauft werden. Dies generiert Erfahrungspunkte und FischerXP.
+* Glasscherben: Die Glasscherben können mit Rechtsklick auf einen Mülleimer entsorgt werden. Dies bringt Social-XP.
+* Fische: Die Fische können beim NPC verkauft werden. Dies generiert Erfahrungspunkte und Fischer-XP.
 * Haltbarkeitsverbesserung: Kann verkauft werden oder auf eine neue Angel angebracht werden.
 * XP-Verbesserung: Kann verkauft werden oder auf eine neue Angel angebracht werden.
 
 ## Angel
-| Angel | Preis | Verzauberung | Benötígtes Skill Level |
+| Angel | Preis | Verzauberung | Benötigtes Skill Level |
 | :-: | :-: | :-: | :-: |
 | Angel für Anfänger | 20.0€ | Keine | Level 0 |
 | Angel für Fortgeschrittene | 100.0€ | Geschwindigkeit +20% | Level 1 |
@@ -59,5 +59,5 @@ Diese Items werden unterschiedlich verwertet:
 
 * Je höher der Fischer Skill Level ist, desto bessere Fische und Angeln erhält man.
 * Der [Papagei](../../pages/pets/fledermaus.md) und [Capybara](../../pages/pets/capybara.md) Pet unterstützt die Arbeit beim Fischen.
-* Für Neulinge ist die Angel für Anfänger am Effizientesten.
+* Für Neulinge ist die Angel für Anfänger am effizientesten.
 
