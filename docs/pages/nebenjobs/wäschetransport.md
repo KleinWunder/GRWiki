@@ -1,13 +1,13 @@
 # Wäschetransport (Nebenjob)
-Der Wäschetransport ist ein Nebenjob, welcher im Uniklinikum angenommen wird. Die Wäsche des Krankenhauses muss zur Wäscherei transpotiert werden. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Wäschetransport.png">
+Der Wäschetransport ist ein Nebenjob, welcher im Uniklinikum angenommen wird. Die Wäsche des Krankenhauses muss zur Wäscherei transportiert werden. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Wäschetransport.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | Uniklinik |
-| Navi | /navi Uniklinik |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Uniklinik |
 | Dauer | ca. 5 Minuten |
 | Cooldown | 6 Minuten |
-| Gewinn | Geld, [XP](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
 
 
 ## Aufgabe
