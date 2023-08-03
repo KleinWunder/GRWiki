@@ -1,6 +1,6 @@
 # Yakuza
 !!! info "Status" 
-    Die Fraktion Yakuza ist zur Zeit deaktiviert und gilt als Leerfraktion. Besteht ein Interesse, kann sich im Forum an das Fraktionsmanagement gewendet werden.
+    Die Fraktion Yakuza ist zurzeit deaktiviert und gilt als Leerfraktion. Besteht ein Interesse, kann sich im Forum an das Fraktionsmanagement gewendet werden.
  <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/YakuzaHQ.png">
 
 
@@ -8,7 +8,7 @@ Die Yakuza ist eine Mafia japanischer Herkunft. Sie agieren verdeckt in einer Ka
 
 ## Hintergrundgeschichte 
 
-Die Yakuza ist eine geheime Organisation aus dem Untergrund Japans. Sie orientiert sich zum Großteil an damaligen Ninja-Gruppen. Der Fokus der Gruppierung bezieht sich nicht auf Gewalt, sondern auf einen ausreichenden Lebenstil der Mitglieder der Kampfschule.
+Die Yakuza ist eine geheime Organisation aus dem Untergrund Japans. Sie orientiert sich zum Großteil an damaligen Ninja-Gruppen. Der Fokus der Gruppierung bezieht sich nicht auf Gewalt, sondern auf einen ausreichenden Lebensstil der Mitglieder der Kampfschule.
 
 ## Auftreten 
 
@@ -18,12 +18,12 @@ Die Yakuza tritt vor allem in höheren Positionen in seriösen dunkelroten Anzü
 Die Fraktion geht folgenden Aktivitäten nach:
 
 * Herstellung und Verkauf von illegalen Betäubungsmitteln
-* Apothekenräuben
-* Bearbeitung von Darklists
-* Bearbeitung von Kopfgeldern
-* Juwelenräuben
-* Mohnfelder abbauen
+* [Apothekenräuben](apothekenraub.md)
+* Bearbeitung von [Darklists](darklist.md)
+* Bearbeitung von [Kopfgeldern](kopfgeld.md)
+* [Juwelenräuben](juwelenraub.md)
+* [Mohnfelder](../../pages/pflanzen/mohnfeld.md) abbauen
 
 
 ## Lage des Hauptquartiers
-Die Yakuza hat ihren Standort als Kampfschule im Asiaviertel.
+Die Yakuza hat ihren Standort als Kampfschule im [Asiaviertel](../../pages/gebiete/asiaviertel.md) und ist mit der gleichnamigen [Bushaltestelle](../../pages/öpnv/bus.md) zu erreichen.
