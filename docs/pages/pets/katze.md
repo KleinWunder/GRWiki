@@ -12,6 +12,6 @@ Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man 
 | Gewöhnlich | Erhalte 20% mehr Social-XP. |
 | Ungewöhnlich | Erhalte 40% mehr Social-XP. |
 | Selten | Erhalte 50% mehr Social-XP. |
-| Episch | Erhalte 60% mehr Social-XP. | Regeneration durch Social-Skill bringt 4HP (2:heart:). |
-| Legendär | Erhalte 70% mehr Social-XP. | Regeneration durch Social-Skill bringt 6HP (3:heart:). |
-| Ultralegendär | Erhalte 80% mehr Social-XP. | Regeneration durch Social-Skill bringt 8HP (4:heart:). | Lande mit einer 20% Chance nach einem Sturz ohne eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md). |
+| Episch | Erhalte 60% mehr Social-XP. | Regeneration durch Social-Skill bringt 4HP (2❤️). |
+| Legendär | Erhalte 70% mehr Social-XP. | Regeneration durch Social-Skill bringt 6HP (3❤️). |
+| Ultralegendär | Erhalte 80% mehr Social-XP. | Regeneration durch Social-Skill bringt 8HP (4❤️). | Lande mit einer 20% Chance nach einem Sturz ohne eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md). |
