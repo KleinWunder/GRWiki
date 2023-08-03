@@ -7,7 +7,7 @@ Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefrakt
     + Nach 10min --> Wasser 
     + Nach 15min --> Ernten 
     
-    (Mit Dünger, Wasser oder zum Ernten Rechtsklick auf die Pflanze machen.)
+    (Mit Dünger, Wasser oder zum Ernten Rechtsklick auf die Pflanze machen. Bei Regen, wird automatisch gewässert.)
 
 ## Materialien
 - Heilkrautsamen (von der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt,md) oder NPC Simon)
