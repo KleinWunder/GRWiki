@@ -101,7 +101,7 @@ nav:
       - Labor: pages/gebäude/labor.md
       - Syndikat: pages/gebäude/syndikat.md
       - Tierheim: pages/gebäude/tierheim.md
-      - Fightclub: pages/gebäude/fightclub.md
+      - Fight Club: pages/gebäude/fightclub.md
     - Jobs/Nebenjobs:
       - Allgemein: pages/nebenjobs/nebenjobs.md  
       - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
@@ -148,6 +148,7 @@ nav:
         - Hausaktionen: pages/fraktionen/hausaktionen.md
         - HQ Raids/Razzia: pages/fraktionen/hqraids.md
         - Juwelenraub: pages/fraktionen/juwelenraub.md
+        - Kopfgeld: pages/fraktionen/kopfgeld.md
         - Spezialtransport: pages/fraktionen/spezialtransport.md
         - Streetrace: pages/fraktionen/streetrace.md
         - Substanzen-Dealer: pages/fraktionen/substanzendealer.md
