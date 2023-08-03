@@ -17,13 +17,13 @@ Aktuell nicht verfügbar.
 Die Fraktion geht folgenden Aktivitäten nach:
 
 * Herstellung und Verkauf von illegalen Betäubungsmitteln
-* Apothekenräuben
-* Bearbeitung von Darklists
-* Bearbeitung von Kopfgeldern
-* Juwelenräuben
-* Mohnfelder abbauen
-
+* [Apothekenräuben](apothekenraub.md)
+* Bearbeitung von [Darklists](darklist.md)
+* Bearbeitung von [Kopfgeldern](kopfgeld.md)
+* [Juwelenräuben](juwelenraub.md)
+* [Mohnfelder](../../pages/pflanzen/mohnfeld.md) abbauen
+* [Substanzen Dealer](substanzendealer.md) abfangen
 
 ## Lage des Hauptquartiers
+Um zum Hauptquartier des Establishments zu gelangen, kann der [Bus](../../pages/öpnv/bus.md) zur [JVA](../../pages/orte/jva.md) oder [Westside](../../pages/gebiete/westside.md) genutzt werden. Ihr Anwesen liegt nördlich des Gebietes.
 
-Zum Establishment gelangt man, indem man den Bus zur Justizvollzugsanstalt verwendet.
