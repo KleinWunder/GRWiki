@@ -9,15 +9,15 @@ Im Ganggebiet herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Geglied
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Ganggebiet, Ganggebiet Nord</td>
+      <td align="center">Ganggebiet <br> Ganggebiet Nord</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">Apotheke-2, Supermarkt-5, Waffenladen-3</td>
+      <td align="center">Apotheke-2 <br> Supermarkt-5 <br> Waffenladen-3</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Tierheim, Raven Familia HQ</td>
+      <td align="center">Tierheim <br> Raven Familia HQ</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
