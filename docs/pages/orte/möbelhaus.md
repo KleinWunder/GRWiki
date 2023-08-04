@@ -10,7 +10,8 @@ Es gibt verschiedene Upgrades die man bei sein Haus tätigen kann. Hier sind ein
 | Hauskasse | 3.000,00€ |
 | Waffenschrank | 2,800,00€ |
 | Mieterslots | Variiert mit Grundpreis |
-| Hauslager | (1.) 4.500,00€ |
+| Hauslager kaufen | 4.500,00€ |
+| Hauslager upgraden | Varriiert mit Kapazität |
 
 ## Eisen verkaufen
 Sollte man Poliertes Eisen verkaufen wollen, so geht man beim Möbelhaus ins Lager, nimmt dort das Polierte Eisen in die Hand und gibt dort /dropiron ein.
