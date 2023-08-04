@@ -15,14 +15,14 @@ Die Oststadt ist ein kleines, ruhiges Wohnviertel, welches überwiegend aus farb
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">Supermarkt-1&4, Bar-1, Waffenladen-1, Gärternei</td>
+      <td align="center">Supermarkt-1&4 <br> Bar-1 <br> Waffenladen-1 <br> Gärternei</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Rettungswache, Spielplatz, Restaurant</td>
+      <td align="center">Rettungswache <br> Spielplatz <br> Restaurant</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center">Lieferant, Gärtner</td>
+      <td align="center">Lieferant <br> Gärtner</td>
   </tbody>
 </table>
