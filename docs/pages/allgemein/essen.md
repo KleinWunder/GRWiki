@@ -21,7 +21,7 @@ Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheit
 | Verschimmelte Kartoffel |    Mülleimer   |                +1,5:poultry_leg:               |                                Führt zu einer Lebensmittelvergiftung.                               |
 |          Hotdog         | Fastfood-Truck |                 +2:poultry_leg:                |          
 |         Limolade        |      [Bar](../../pages/biz/bars.md)     |               +5%:droplet:               |
-|           Cola          |       Bar      |               +2,5%:droplet:                |   
+|           Cola          |       Bar      |               +5%:droplet:                |   
 |     Roher Clownfisch    |  [Anglerteich](../../pages/nebenjobs/angler.md) |                +5:poultry_leg:               |                                Führt zu einer Lebensmittelvergiftung.                               |
 |       Roher Fisch       |   Anglerteich  |                 +1:poultry_leg:                |                                Führt zu einer Lebensmittelvergiftung.                               |
 |       Roher Lachs       |   Anglerteich  |                 +1:poultry_leg:                |                                Führt zu einer Lebensmittelvergiftung.                               |
