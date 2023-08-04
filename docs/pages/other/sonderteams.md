@@ -4,7 +4,7 @@ Die Sonderteams gliedern sich in 5 Aufgabenbereiche, neben diesen 5 Sonderteams 
 
 ## Bauteam
 
-Bauteammitglieder können in den sogenannten Baumodus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Bauteamler ausführen. Im besagten Modus können die Bauteamitglieder Bauaufträge erledigen, welche das Erscheinungdsbild der Stadt bedeutsam verändern kann. Eine Person, die im Baumodus ist, erkennt man daran, dass sie hinter ihren Namen ein <a style="font-weight: bold; color: cyan;">Ⓑ</a>**-Symbol** stehen hat. Beispiel: **[GR]KleinWunder**<a style="font-weight: bold; color: cyan;">Ⓑ</a>
+Bauteammitglieder können in den sogenannten Baumodus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Bauteamler ausführen. Im besagten Modus können die Bauteamitglieder Bauaufträge erledigen, welche das Erscheinungdsbild der Stadt bedeutsam verändern kann. Eine Person, die im Baumodus ist, erkennt man daran, dass sie hinter ihren Namen ein <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>**-Symbol** stehen hat. Beispiel: **[GR]KleinWunder** <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>
 
 Derzeitige Bereichsleitung: **[Nandi124](https://germanrp.eu/index.php?user/431-nandi124/)**<br>
 Derzeitige Co-Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0uth/)**
