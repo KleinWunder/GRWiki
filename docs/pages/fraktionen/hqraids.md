@@ -1,9 +1,4 @@
 # HQ Raids und Razzia
 
-balabalhh
-
-## Ablauf HQ Raid
-bainjpaijfbpi
-
-## Ablauf Razzia
-fAGasg
+!!! info "Seiteninfo" 
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
