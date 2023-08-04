@@ -2,7 +2,7 @@
 !!! info "Seiteninfo" 
       Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
       
-Diese befehlsliste wird laufend erweitert. Es kann vorkommen, dass ein Befehl nicht aufgeführt ist oder Ingame vorrübergehend nicht funktionsfährig ist.
+<p style="color:red">Diese Befehlsliste wird laufend erweitert. Es kann vorkommen, dass ein Befehl nicht aufgeführt ist oder Ingame vorrübergehend nicht funktionsfährig ist.</p>
 
 ## Eigener Charakter und andere Spieler 
 | Befehl | Erklärung | Beispiel |
