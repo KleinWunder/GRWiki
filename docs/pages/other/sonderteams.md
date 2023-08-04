@@ -6,7 +6,7 @@ Die Sonderteams gliedern sich in 5 Aufgabenbereiche, neben diesen 5 Sonderteams 
 
 Bauteammitglieder können in den sogenannten Baumodus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Bauteamler ausführen. Im besagten Modus können die Bauteamitglieder Bauaufträge erledigen, welche das Erscheinungdsbild der Stadt bedeutsam verändern kann. Eine Person, die im Baumodus ist, erkennt man daran, dass sie hinter ihren Namen ein <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>**-Symbol** stehen hat. Beispiel: **[GR]KleinWunder** <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>
 
-Derzeitige Bereichsleitung: **[Nandi124](https://germanrp.eu/index.php?user/431-nandi124/)**<br>
+Derzeitige Leitung: **[Nandi124](https://germanrp.eu/index.php?user/431-nandi124/)**<br>
 Derzeitige Co-Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0uth/)**
 
 
@@ -14,7 +14,7 @@ Derzeitige Co-Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0u
 
 Wikiteammitglieder sind verantwortlich für das gesamte Wiki. Eine der Aufgaben ist Aktualisierung des Wikis. Im Wiki selbst stehen viele Informationen bereit, die viele Fragen rund um den Server beantworten.
 
-Derzeitige Bereichsleitung: **[Piewn](https://germanrp.eu/index.php?user/120-piewn/)**<br>
+Derzeitige Leitung: **[Piewn](https://germanrp.eu/index.php?user/120-piewn/)**<br>
 Derzeitige Co-Leitung: **[Hoschiii](https://germanrp.eu/index.php?user/56-hoschiii/)**
 
 
@@ -22,7 +22,7 @@ Derzeitige Co-Leitung: **[Hoschiii](https://germanrp.eu/index.php?user/56-hoschi
 
 Entertainmentteamitglieder veranstalten regelmäßige Serverevents. Sie organisieren und planen unter anderem zum Beispiel das Osterevent, das Weihnachtsevent und Spiele, wie "Wer wird GR".
 
-Derzeitige Bereichsleitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-masterhero/)**<br>
+Derzeitige Leitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-masterhero/)**<br>
 Derzeitige Co-Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0uth/)**
 
 
@@ -30,7 +30,7 @@ Derzeitige Co-Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0u
 
 Entwicklerteammitglieder sind verantwortlich für Updates und Konzepte. Sie verwalten die Bugreports und Vorschläge der Community.
 
-Derzeitige Bereichsleitung: **[KleinWunder](https://germanrp.eu/index.php?user/2-gr-kleinwunder/)**<br>
+Derzeitige Leitung: **[KleinWunder](https://germanrp.eu/index.php?user/2-gr-kleinwunder/)**<br>
 Derzeitige Co-Leitung: **[ImGxrke](https://germanrp.eu/index.php?user/901-gr-imgxrke/)**
 
 
@@ -38,7 +38,7 @@ Derzeitige Co-Leitung: **[ImGxrke](https://germanrp.eu/index.php?user/901-gr-img
 
 PR-Teammitglieder sind verantwortlich für die Socialmediapräsenz. Sie betreiben und verwalten die Socialmedia Kanäle auf [Instagram](https://www.instagram.com/germanrp.pr/), [YouTube](https://www.youtube.com/@germanrpreallifeeconomyrol4257), [Twitter](https://twitter.com/GermanRP3) und [TikTok](https://www.tiktok.com/@germanrp.pr?is_from_webapp=1&sender_device=pc).
 
-Derzeitige Bereichsleitung: **[Ajael](https://germanrp.eu/index.php?user/3-gr-ajael/)**<br>
+Derzeitige Leitung: **[Ajael](https://germanrp.eu/index.php?user/3-gr-ajael/)**<br>
 Derzeitige Co-Leitung: **/**
 
 ## Fraktionsmanagement
