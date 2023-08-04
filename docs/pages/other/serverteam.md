@@ -1,6 +1,6 @@
 # Serverteam
 
-Mit dem Befehl **/team** sieht man alle derzeit anwesenden Teammitglieder.
+Alle Teammitglieder können mit dem Befehl /team eingesehen werden.
 
 ## Erkennung
 
