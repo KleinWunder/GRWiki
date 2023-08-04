@@ -23,7 +23,7 @@ Die Stunden werden nur dann gezählt, wenn der Spieler anwesend ist. Im AFK-Modu
 
 Schaut man sich auf dem Server die Spielerliste an, stehen hinter den Namen einiger Spieler kleine verschiedenfarbige Vierecke. Diese zeigen den VIP Rang eines Spielers.
 
-* <a style="font-weight: bold; color: gray;"> ◊ </a> Graues Raute: VIP
-* <a style="font-weight: bold; color: aqua;"> ◊</a> Blaues Raute: VIP+
-* <a style="font-weight: bold; color: blueviolet;"> ◊</a> Violettes Viereck: Content Creator
+* <a style="font-weight: bold; color: gray;"> ◊ </a> Graue Raute: VIP
+* <a style="font-weight: bold; color: aqua;"> ◊</a> Blaue Raute: VIP+
+* <a style="font-weight: bold; color: blueviolet;"> ◊</a> Violette Raute: Content Creator
 * <a style="font-weight: bold; color: lightcoral;"> ◊ </a>Rote Raute: Lifetime VIP+ (nur für [Adminstratoren](../../pages/other/serverteam.md))
