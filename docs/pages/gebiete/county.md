@@ -22,7 +22,7 @@ Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten 
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">Supermarkt-3, Bar-2, Waffenladen-2, Tankstelle-2</td>
+      <td align="center">Supermarkt-3 <br> Bar-2 <br> Waffenladen-2 <br> Tankstelle-2</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
