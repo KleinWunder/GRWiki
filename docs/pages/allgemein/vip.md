@@ -21,7 +21,7 @@ Die Stunden werden nur dann gezählt, wenn der Spieler anwesend ist. Im AFK-Modu
 
 ## Erkennung 
 
-Schaut man sich auf dem Server die Spielerliste an, stehen hinter den Namen einiger Spieler kleine verschiedenfarbige Vierecke. Diese zeigen den VIP Rang eines Spielers.
+Schaut man sich auf dem Server die Spielerliste an, stehen hinter den Namen einiger Spieler kleine verschiedenfarbige Rauten. Diese zeigen den VIP Rang eines Spielers.
 
 * <a style="font-weight: bold; color: gray;"> ◊ </a> Graue Raute: VIP
 * <a style="font-weight: bold; color: aqua;"> ◊</a> Blaue Raute: VIP+
