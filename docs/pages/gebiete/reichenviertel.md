@@ -13,11 +13,11 @@ Die markanten Backsteinhäuser im Reichenviertel stechen jedem sofort ins Auge. 
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">Supermarkt-2, Apotheke-3</td>
+      <td align="center">Supermarkt-2 <br> Apotheke-3</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Camorra HQ, Pizzeria, Bank</td>
+      <td align="center">Camorra HQ <br> Pizzeria <br> Bank</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
