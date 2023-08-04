@@ -1,5 +1,12 @@
 # County / Plaza
 
+<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/County1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/County2.png">
+
+
+
+
+
+
 Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten Sandsteingebäude aus. Hier herrscht das kolumbianische Medellin Kartell. Umgeben von Agaven-Feldern und einer sehr mediterranen Bepflanzung liegt das County im westlichen Teil der Karte.
 
 <table>
