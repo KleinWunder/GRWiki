@@ -1,4 +1,8 @@
 # Rettungsdienst
+
+!!! info "Seiteninfo" 
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
+      
 Der Rettungsdienst betreut und behandelt alle Spieler auf dem Server und trägt die Verantwortung einer stabilen mediznischen Versorgung und Gesundheitssystem. Sie führen Behandlungen durch, stellen Diagnosen, verschreiben Rezepte und retten auf der Straße jeden Tag die bewusstlosen Personen. Die Feuerwehr löscht Gewerbebrände und retten Personen aus dem Feuer. 
 
 ## Aufgaben
