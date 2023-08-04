@@ -19,7 +19,7 @@ Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten 
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Yakuza HQ, Freizeitpark</td>
+      <td align="center">Handelshaus</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
