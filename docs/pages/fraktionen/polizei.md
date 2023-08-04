@@ -1,4 +1,8 @@
 # Polizei
+
+!!! info "Seiteninfo" 
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
+      
 Die Polizei sorgt für die Sicherheit aller Spieler auf dem Server. Sie gehen Notrufen nach, suchen Verbrecher und sind täglich in große Schießerein verwickelt. Neben der Polizei gibt es das Sondereinsatzkommando (SEK), welche andere Polizeiausstattung hat, als die Polizei und unterstützen diese in Schießerein.
 Die Kriminalpolizei (Kripo) ist für die Ermittlung von Straftaten zuständig. Sie untersuchen gelöschte Gewerbe, verhören Personen und nehmen Anzeigen auf.
 
