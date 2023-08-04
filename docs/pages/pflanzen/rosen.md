@@ -1,15 +1,12 @@
-# Rose
+# Rosen
 
-## Rosensamen
-Die Gärtnerei, welche sich in der Oststadt befindet, ist dazu da, um sich Rosensamen zu kaufen. Ebenso, um Nebenjobs anzunehmen. Die Rosensamen kosten 25€ und die Zeit bis zum Pflücken einer Rose beträgt 8 Minuten. Um die Rose auszulegen, muss man die Rosensamen in der Hand halten und Rechtsklick auf einen Grasblock machen.
+Die Gärtnerei, welche sich in der Oststadt befindet, ist dazu da, um sich Rosensamen für 25€ zu kaufen. Ebenso, um Nebenjobs anzunehmen. In der Gärtnerei ist es möglich auch die Rosen und Wildblumen zu verkaufen, wofür auch Gärtner-XP erhalten werden.
 
-So sieht das Menü des NPC's bei der Gärtnerei aus:
 
-Diese Nachricht kriegt man, wenn man eine Rose angepflanzt hat:
+## Anbau
+Um die Rose zu pflanzen, muss mit Rechtsklick, mit den Rosensamen, auf den Grasboden geschaut werden. Generelles Rechtsklicken auf die Rose öffnet ein Menü mit einigen Infos über die Rose. So kann die benötigte Zeit, sowie Produktion ansehen. Die Beschreibung der Rose zeigt einen, wieviele Missachtungen erhalten worden sind.
 
-Wenn man Rechtsklick auf die Rose macht, dann öffnet sich dieses Menü:
-
-Dabei sieht man die Missachtungen, Zeitinfos und die Produktion.
 
 ## Ernte
-Mit Rechtsklick auf die Rose, kann man oben, im Menü, die Rose ernten. Man bekommt Gärtner-XP und Rosenblüten. Es erscheint auch eine Nachricht im Chat, falls man vergisst die Rose zu ernten. Die Rosenblüten können in der Gärtnerei verkauft werden. Hat man einen Schmetterling aktiviert, bekommt man mehr Skill-XP.
+Nach 8 Minuten, ohne Missachtungen, kann die Rose mit Rechtsklick gepflückt werden. Es erscheint eine Nachricht, wenn die Rose fertig ist im Chat, welches allerdings als Missachtung gilt. Für die erfolgreiche Ertne einer Rose, bekommt man 8 Rosen. Dieser Ertrag kann mit einem höheren Gärtner-Skilllevel und Schmetterling erhöht werden.
+
