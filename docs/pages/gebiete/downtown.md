@@ -1,4 +1,4 @@
 # Downtown
 
-!!! info "Seiteninfo" 
-      Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
+Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus Hochhäusern, in welchen sich unzählige Büros und Apartments befinden sowie auch die meisten spielrelevanten Gebäude.
+
