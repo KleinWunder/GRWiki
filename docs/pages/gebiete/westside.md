@@ -20,11 +20,11 @@ An das Land England angelehnt gestaltet, bringt das Viertel drei Gewerbe mit sic
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">Apotheke-5, Tankstelle-5, Supermarkt-7</td>
+      <td align="center">Apotheke-5 <br> Tankstelle-5 <br> Supermarkt-7</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Marktplatz, Luxusfahrzeughändler</td>
+      <td align="center">Marktplatz <br> Luxusfahrzeughändler</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
