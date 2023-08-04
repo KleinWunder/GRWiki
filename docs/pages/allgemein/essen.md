@@ -1,5 +1,5 @@
 # Essen
-Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheiten/gesundheit.md) beeinflussen. Die Lebensmittel haben Nährwerte:poultry_leg:, Hydrierungswerte💧 und Zuckergehalt. 💧
+Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheiten/gesundheit.md) beeinflussen. Die Lebensmittel haben Nährwerte🍗, Hydrierungswerte💧 und Zuckergehalt.
 
 
 ## Nährwerte und Hydrierung
