@@ -5,7 +5,7 @@ Die KFZ-Werkstatt (**/navi KFZ-Werkstatt**) und County Garage (**/navi Countygar
 
 ### Reperatur
 
-Hier unterscheiden sich die Arbeiten unter einer normalen Reparatur, <img align="right" width="100" eight="50" src="../../../assets/image/NPCs/mechaniker-npc.png"> wenn das Fahrzeug eine Beschädigung unter seiner maximalen Schadenspunkteanzahl ist. Bei der maximalen Schadenspunkteanzahl erleidet das Fahrzeug einen Totalschaden, welcher für eine große Summe repariert werden kann.
+Hier unterscheiden sich die Arbeiten unter einer normalen Reparatur, <img align="right" width="100" eight="50" src="../../../assets/image/NPCs/mechaniker-npc.png"> wenn das Fahrzeug eine Beschädigung unter seiner maximalen Schadenspunkteanzahl ist. Bei der maximalen Schadenspunkteanzahl erleidet das Fahrzeug einen Totalschaden.
 
 
 ### Lackierung
