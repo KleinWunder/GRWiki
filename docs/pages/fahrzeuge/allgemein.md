@@ -34,7 +34,7 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Nissan Skyline R34 Cabrio | 135 km/h | 100.0 | 25.0 Liter | 2 | 1 | 25g | 50.0€ | 18000.0€ |
 | Dodge Challenger | 135 km/h | 120.0 | 25.0 Liter | 2 | 1 | 25g | 50.0€ | 18500.0€ |
 | Mercedes G-Klasse | 140.0 km/h | 175.0 | 25.0 Liter | 4 | 3 | 60g | 75.0€ | 20000.0€ |
-| Pickup | 115.0 km/h | 125.0 | 30.0 Liter | 2 | - | - | 35.0€ | 7500.0€ |
+| Pickup | 115.0 km/h | 125.0 | 30.0 Liter | 2 | 5 | 125g | 35.0€ | 7500.0€ |
 
 ### Folgende Fahrzeuge sind für das [VCPD](../../pages/fraktionen/polizei.md) erhältlich.
 
