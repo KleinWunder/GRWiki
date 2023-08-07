@@ -38,7 +38,7 @@ Derzeitige Co-Leitung: **[ImGxrke](https://germanrp.eu/index.php?user/901-gr-img
 
 PR-Teammitglieder sind verantwortlich für die Socialmediapräsenz. Sie betreiben und verwalten die Socialmedia Kanäle auf [Instagram](https://www.instagram.com/germanrp.pr/), [YouTube](https://www.youtube.com/@germanrpreallifeeconomyrol4257), [Twitter](https://twitter.com/GermanRP3) und [TikTok](https://www.tiktok.com/@germanrp.pr?is_from_webapp=1&sender_device=pc).
 
-Derzeitige Leitung: **[Ajael](https://germanrp.eu/index.php?user/3-gr-ajael/)**<br>
+Derzeitige Leitung: **[Brate47](https://germanrp.eu/index.php?user/249-gr-brate47/)**<br>
 Derzeitige Co-Leitung: **/**
 
 ## Fraktionsmanagement
