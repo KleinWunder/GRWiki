@@ -20,7 +20,7 @@ Das Essen hat unterscheidliche Werte, die die [Gesundheit](../../pages/krankheit
 |        Kartoffel        |    Mülleimer   |               Roh +1🍗             |                            Roher Konsum führt zur Lebensmittelvergiftung.                           |
 | Verschimmelte Kartoffel |    Mülleimer   |                +1,5🍗              |                                Führt zu einer Lebensmittelvergiftung.                               |
 |          Hotdog         | Fastfood-Truck |                 +2🍗                |          
-|         Limolade        |      [Bar](../../pages/biz/bars.md)     |               +5%💧               |
+|         Limolade        |      [Bar](../../pages/biz/bar.md)     |               +5%💧               |
 |           Cola          |       Bar      |               +5%💧                |   
 |     Roher Clownfisch    |  [Anglerteich](../../pages/nebenjobs/angler.md) |                +5🍗             |                                Führt zu einer Lebensmittelvergiftung.                               |
 |       Roher Fisch       |   Anglerteich  |                 +1🍗               |                                Führt zu einer Lebensmittelvergiftung.                               |

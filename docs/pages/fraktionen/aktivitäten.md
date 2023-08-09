@@ -1,6 +1,6 @@
 # Aktivitäten
 
-Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionskasse geben, aber auch zu einem Verlust von Geld führen. Die [Polizei](polizei.md) und der [Rettungsdienst](.rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](allgemein.md), die die Aktivitäten auslösen oder vom System.
+Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionskasse geben, aber auch zu einem Verlust von Geld führen. Die [Polizei](polizei.md) und der [Rettungsdienst](rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](allgemein.md), die die Aktivitäten auslösen oder vom System.
 
 ## Polizei
 Die Polizei kann folgende Aktivitäten machen:
@@ -11,7 +11,7 @@ Die Polizei kann folgende Aktivitäten machen:
 * Gewerberaub verhindern
 * [Hausaktion](hausaktionen.md) durchführen
 * Illegale Pflanzen verbrennen
-* [Juwelierraub](juwelierraub.md) verhindern
+* [Juwelierraub](juwelenraub.md) verhindern
 * Notrufe nachgehen
 * Personen durchsuchen
 * Personen mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) eliminieren
@@ -77,7 +77,7 @@ Die Mafiafraktionen können folgende Aktivitäten machen:
 * [Hausaktionen](hausaktionen.md) durchführen
 * [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) legen
 * [HQ Raids](hqraids.md) durchführen
-* [Juwelierraub](juwelierraub.md) starten
+* [Juwelierraub](juwelenraub.md) starten
 * [Kopfgelder](kopfgeld.md) erledigen
 * Mohnkapseln herstellen
 * [Substanzen Dealer](substanzendealer.md) abfangen

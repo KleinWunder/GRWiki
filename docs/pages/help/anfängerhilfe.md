@@ -7,7 +7,7 @@ Das Tutorial gibt dir alles, was nötigt ist, um auf dem Server Fuß zu fassen.
 
 ## Die richtige Ausrüstung
 Im Tutorial erhältst du grundlegende Ausrüstungselemente. Mit diesen Items kommst du die erste
-Zeit auf dem Server zurecht. Du bist ebenfalls für zwei Wochen gegen die [Grippe](../../pages/krankeiten/grippe.md) geschützt.
+Zeit auf dem Server zurecht. Du bist ebenfalls für zwei Wochen gegen die [Grippe](../../pages/krankheiten/grippe.md) geschützt.
 Nach diesen zwei Wochen solltest du dich beim [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erneut impfen lassen.
 Wenn dir das Essen ausgeht, solltest du in den [Supermärkten](../../pages/biz/supermarkt.md) neues Essen kaufen. 
 

@@ -102,7 +102,7 @@ nav:
     - Labor: pages/gebäude/labor.md
     - Syndikat: pages/gebäude/syndikat.md
     - Tierheim: pages/gebäude/tierheim.md
-    - Fight Club: pages/gebäude/fightclub.md
+    - FightClub: pages/gebäude/fightclub.md
   - Jobs/Nebenjobs:
     - Allgemein: pages/nebenjobs/nebenjobs.md  
     - Agavenfarmer: pages/nebenjobs/agavenfarmer.md

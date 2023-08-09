@@ -2,7 +2,7 @@
 
 Bürgermeister sind die Regenten der Stadt. Jeder von Ihnen bietet den Spielern einen gewissen Vorteil. 
 Welcher Bürgermeister gerade im Amt ist, wird von den Spielern gewählt. 
-Im [Rathaus](../../pages/gebäude/rathaus.md) kann man mit **/wahl** für den nächsten Bürgermeister seine Stimme abgeben. 
+Im [Rathaus](../../pages/orte/rathaus.md) kann man mit **/wahl** für den nächsten Bürgermeister seine Stimme abgeben. 
 Der Gewinner der Wahl tritt dann jeweils am Samstag um 16 Uhr für eine Woche sein Amt an und gewährt allen Spielern auf dem Server seinen Bonus.
 
 ## Bürgermeisterkandidaten

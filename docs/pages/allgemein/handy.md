@@ -4,7 +4,7 @@
 <img align="right" width="360" eight="300" src="../../../assets/image/allgemein/Handyladen.png">
 
 
-Das Handy hat verschiedene Funktionen wie zum Beispiel Telefonieren, SMS schreiben und Kontakte einspeichern. Zusätzliche Apps kann man sich im App Store herunterladen. Darunter befinden sich das Telefonbuch und die Handelshaus App. Ebenso kann bei einem vorhandenen [Anwalt](../../pages/gebäude/anwaltskanzlei.md), dieser anrufen werden, wenn man in der [Justizvollzugsanstalt](../../pages/gebäude/jva.md) sitzt.
+Das Handy hat verschiedene Funktionen wie zum Beispiel Telefonieren, SMS schreiben und Kontakte einspeichern. Zusätzliche Apps kann man sich im App Store herunterladen. Darunter befinden sich das Telefonbuch und die Handelshaus App. Ebenso kann bei einem vorhandenen [Anwalt](../../pages/gebäude/anwaltskanzlei.md), dieser anrufen werden, wenn man in der [Justizvollzugsanstalt](../../pages/orte/jva.md) sitzt.
 
 | App | Kosten |
 |:-:|:-:|

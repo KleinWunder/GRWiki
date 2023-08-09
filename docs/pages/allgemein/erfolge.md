@@ -21,7 +21,7 @@ Auf dem Server gibt es verschiedene Erfolge, welche die verschiedene Wege auf Ge
 |           Ja, ich will           |          Gehe den Bund der Ehe ein          |    Heirate im [Rathaus](../../pages/orte/rathaus.md) einen Spieler.   |
 |    Stirb Kartoffel!   |   Setze [Kopfgeld](../../pages/fraktionen/kopfgeld.md) auf einen Spieler aus   |   Erreiche [Spielerlevel](../../pages/allgemein/level.md) 5. Setze mit /kopfgeld [Name] ein Kopfgeld auf einen Spieler aus. |
 |            Heute nicht           |    Kaufe dich von [Kopfgeld](../../pages/fraktionen/kopfgeld.md) frei             |  Bezahle dein Kopfgeld, wenn ein Crimefrakler auf eine Summe auf deinen Kopf anspricht.  |
-| Zu Risiken und Nebenwirkungen... |       Lasse dir ein [Rezept](../../pages/krankheiten/rezepte.md) ausstellen       |  Spreche einen [Medic](../../pages/fraktionen/rettunsgdienst.md) auf Schmerzmittelrezepte an.  |
+| Zu Risiken und Nebenwirkungen... |       Lasse dir ein [Rezept](../../pages/krankheiten/rezepte.md) ausstellen       |  Spreche einen [Medic](../../pages/fraktionen/rettungsdienst.md) auf Schmerzmittelrezepte an.  |
 |            Findet Nemo           |      Finde beim [Angeln](../../pages/nebenjobs/angler.md) einen Clownfisch     |   Angel an allen Gewässern.  |
 |   My Money don't jiggle jiggle   |  Breche einen [ATM](../../pages/orte/zentralbank.md) mit einer [Brechstange](../../pages/items/brechstange.md) auf |   Erwerbe eine Brechstange in der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) und schlage damit auf einen ATM ein.  |
 |         The Dark Business        |       Betrete die [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md)       |                         Betrete die Schwarzmarktauktion in der Mühle auf der Farm.  |
@@ -34,8 +34,8 @@ Auf dem Server gibt es verschiedene Erfolge, welche die verschiedene Wege auf Ge
 |           Tierflüsterer          |     Verbessere die Seltenheit eines [Pets](../../pages/pets/allgemein.md)    | Erwerbe ein Petupgrade im [Schwarzmarkt](../../pages/orte/schwarzmarkt.md) oder [Handelshaus](../../pages/gebäude/handelshaus.md) und gehe zur [Tierhandlung](../../pages/gebäude/tierheim.md).  |
 |        Versteckter Erfolg        |                     ???                     |   Erkunde den Server.   |
 |        Versteckter Erfolg        |                     ???                     |   Erkunde den Server.   |
-|             Kriminell            |       Werde von der [Polizei](../../pages/fraktionen/polizei.md) verhaftet       |                            Werde mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) in die [JVA](../../pages/gebäude/jva.md) transportiert.     |
-|       Rehabiliert, oder so       |    Werde per Kaution aus der Haft befreit   |           Jemand kauft einen per **/kaution** in der Eingangshalle der [JVA](../../pages/gebäude/jva.md) frei.  |
+|             Kriminell            |       Werde von der [Polizei](../../pages/fraktionen/polizei.md) verhaftet       |                            Werde mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) in die [JVA](../../pages/orte/jva.md) transportiert.     |
+|       Rehabiliert, oder so       |    Werde per Kaution aus der Haft befreit   |           Jemand kauft einen per **/kaution** in der Eingangshalle der [JVA](../../pages/orte/jva.md) frei.  |
 |        Wer bist duuu denn?       |            Entdecke den Jerry-NPC           |                                     Erforsche alle Berge von GermanRP.            |
 |         I Love Democracy         |      Nimm an der [Bürgermeisterwahl](../../pages/allgemein/bürgermeister.md) teil     |           Ab [Spielerlevel](../../pages/allgemein/level.md) 3 kann an der Wahl im Rathaus teilgenommen werden.   |
 |           Klopf, klopf!          |              Klopfe an eine Tür             |                Betätige die Offhandtaste (Standartmäßig ++f++) und schaue eine Tür an. |

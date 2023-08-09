@@ -1,5 +1,5 @@
 # Munitionstransport (Nebenjob)
-Der Munitionstransport ist ein Nebenjob, welcher bei der Lagerhalle in der Nähe von der Geldwäsche angenommen werden kann. Hier befinden sich viele Munitionskisten, die zu den [Waffenläden](../../pages/biz/waffendladen.md) beliefert werden müssen. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Munitionstransport.png">
+Der Munitionstransport ist ein Nebenjob, welcher bei der Lagerhalle in der Nähe von der Geldwäsche angenommen werden kann. Hier befinden sich viele Munitionskisten, die zu den [Waffenläden](../../pages/biz/waffenladen.md) beliefert werden müssen. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Munitionstransport.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |

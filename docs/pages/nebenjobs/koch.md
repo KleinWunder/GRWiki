@@ -10,10 +10,10 @@ Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann. Für die 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | [Polizeipräsidium](../../pages/fraktionen/polizei.md) |
-| [Navi](../../allgmein/navigation.md) | /navi Restaurant |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Restaurant |
 | Dauer | ca. 3 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, [Erfahrungspunkte](../../allgmein/level.md), [Koch-XP](../../pages/skills/kochen.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Koch-XP](../../pages/skills/kochen.md) |
 
 ## Aufgaben
 1. Sammle alle Zutaten auf mit Rechtsklick.

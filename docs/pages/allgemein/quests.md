@@ -13,4 +13,4 @@ Besuche Markus hinter der [Jagdhütte](../../pages/nebenjobs/jagd.md) und sprech
 Finde die geheime Sekte östlich von [Ganggebiet](../../pages/gebiete/ganggebiet.md). Gehe danach zur Jagdhütte und kaufe Wolfsköder.
 
 ## Der Goldgroschen
-Finde den Straßenmusiker in [Downtown](../../pages/gebiete/downtown.md). Gehe dann zum [Bergwerk](../../pages/nebenjobs/bergwerk.md) und kaufe eine Spitzhacke.
+Finde den Straßenmusiker in [Downtown](../../pages/gebiete/downtown.md). Gehe dann zum [Bergwerk](../../pages/nebenjobs/bergbau.md) und kaufe eine Spitzhacke.

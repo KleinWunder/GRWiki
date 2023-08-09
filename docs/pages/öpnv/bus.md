@@ -24,7 +24,7 @@ Der Bus hat eine weiß-hellblaue Lackierung. Er steht meistens in einer Haltebuc
 | [Reichenviertel](../../pages/gebiete/reichenviertel.md) | Supermarkt-2 <br> Apotheke-3 | Pizzabäcker | [Sägewerk](../../pages/nebenjobs/sägewerk.md) <br> [Camorra HQ](../../pages/fraktionen/camorra.md) <br> Mohnfeld <br> [Polizei Süd](../../pages/fraktionen/polizei.md) |
 | [County](../../pages/gebiete/county.md) | Waffenladen-2 <br> Bar-2 | | Tacoladen |
 | Plaza | Supermarkt-3 <br> Tankstelle-2 | Agavenfarmer | [Kartell HQ](../../pages/fraktionen/kartell.md) |
-| Justizvollzugsanstalt | Tankstelle-3 | JVA-Transport <br> Fensterputzer | [Gefängnis](../../pages/gebäude/jva.md) <br> Papierfabrik <br> [Labor](../../pages/gebäude/labor.md) <br> Geldwäsche <br> Möbelhaus |
+| Justizvollzugsanstalt | Tankstelle-3 | JVA-Transport <br> Fensterputzer | [Gefängnis](../../pages/orte/jva.md) <br> Papierfabrik <br> [Labor](../../pages/gebäude/labor.md) <br> Geldwäsche <br> Möbelhaus |
 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Supermarkt-6 <br> Waffenladen-4 <br> Tankstelle-4 <br> Apotheke-4 |  | [Yakuza HQ](../../pages/fraktionen/yakuza.md) <br> Freizeitpark <br> Mohnfeld <br> Meditationstempel |
 | [Oststadt](../../pages/gebiete/oststadt.md) | Supermarkt-1 <br> Waffenladen-1 |  | [Jagdgebiet](../../pages/nebenjobs/jagd.md) |
 | Polizeipräsidium |  | Wäscherei <br> Koch | [Zentralbank](../../pages/orte/zentralbank.md) <br> Makler <br> Polizei HQ |

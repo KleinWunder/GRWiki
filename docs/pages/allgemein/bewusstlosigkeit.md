@@ -4,7 +4,7 @@
 <img align="right" width="260" eight="200" src="../../../assets/image/allgemein/Todenraum.png">
 
 
-Sobald der Zustand der Bewusstlosigkeit erreicht ist, erfolgt eine Teleportation in den Todenraum des Krankenhauses. Für **8 Minuten** ist man in diesem Raum, mit [VIP](../../pages/vip.md) nur **5 Minuten**. In der Zeit hat ein [Rettungsdienstler](../../pages/rettungsdienst.md) die Möglichkeit, die Person wiederzubeleben.
+Sobald der Zustand der Bewusstlosigkeit erreicht ist, erfolgt eine Teleportation in den Todenraum des Krankenhauses. Für **8 Minuten** ist man in diesem Raum, mit [VIP](../../pages/allgemein/vip.md) nur **5 Minuten**. In der Zeit hat ein [Rettungsdienstler](../../pages/fraktionen/rettungsdienst.md) die Möglichkeit, die Person wiederzubeleben.
 
 ## Wiederbelebung durch einen Medic
 
