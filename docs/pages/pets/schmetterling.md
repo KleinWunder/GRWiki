@@ -6,6 +6,7 @@ Einst sind Schmetterlinge kleine Raupen, welche sich nach ausreichender Nahrung 
 
 ## Die verschiedenen Stufen des Schmetterlings
 
+
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
 | Gewöhnlich | Erhalte 20% mehr Gärtner-XP. |
