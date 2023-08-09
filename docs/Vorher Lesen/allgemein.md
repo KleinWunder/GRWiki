@@ -10,9 +10,12 @@
 ''' # Titel
 
 Text
-
 ## Wirkung
 Was bewirkt '''
+
+
+
+Mieterslotpreise: /15; /7,5; /5; /3,75
 
 ## Bilder
 
