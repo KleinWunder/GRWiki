@@ -1,4 +1,6 @@
 # Justizvollzugsanstalt
+!!! info "Seiteninfo"
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch nicht vollständig!
 
 Die Justizvollzugsanstalt, oder auch kurz JVA, ist der Aufenthaltsort von Straftätern. Nach einer Verhaftung oder nachdem man von einem Polizisten mit Fahndungspunkten neutralisiert wurde, gelangt derjenige automatisch in die JVA. Die JVA ist ein großflächiges, eingezäuntes Gebäude mit mehreren Zellentrakten. Sie kann am einfachsten mit dem Bus Justizvollzugsanstalt erreicht werden oder mit dem Navi **/navi JVA**.
 
@@ -6,8 +8,6 @@ Die Justizvollzugsanstalt, oder auch kurz JVA, ist der Aufenthaltsort von Straft
 Während dem Aufenthalt in der JVA hat man die Möglichkeit sich mit den anderen Häftlingen zu unterhalten.
 
 ### Ausbruchmöglichkeiten
-
-Bla bla
 
 ## Entlassung
 
