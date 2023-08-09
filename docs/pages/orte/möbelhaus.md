@@ -1,5 +1,6 @@
 # Möbelhaus
-
+!!! info "Seiteninfo" 
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
 Das Möbelhaus ist da um verbesserungen für sein Haus zu kaufen. Ebenso kann man dort Poliertes Eisen und Holzbretter verkaufen.
 
 ## Haus verbesserungen
