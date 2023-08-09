@@ -1,6 +1,5 @@
 # Labor
 
-## Allgemeines
 Das Labor bietet die Möglichkeit für Crimefraktionen das, durch den [Apothekenraub](../,./pages/fraktionen/apothekenraub.md) erhaltene, Tablettenschachteln zu Novapulver zu verarbeiten. Daher ist das Labor ein beliebter Ort für Crimefraktionen.
 
 ## Lage
@@ -10,11 +9,6 @@ Das Labor ist ein dunkles Ziegelsteingebäude und befindet sich am Rand des [Gan
 Für das Herstellen von Novapulver werden Tablettenschachteln benötigt. Um den Prozess zu starten, muss der Braustand im hinteren Teil des Labors angeklickt und die Eingabe bestätigt werden. <img align="right" width="350" height="200" src="../../../assets/image/gebaeude/labor/BraustandLabor.png">
 
 Die Verarbeitung der Tablettenschachteln dauert zwei Minuten. Nach Ablauf der Wartezeit wird das Novapulver in die Tasche des Herstellers, ungeachtet der freien Slots, hinzugefügt.
-
-!!! info "Achtung!" 
-        Zu beachten ist, dass für die Herstellung 2g notwendig sind. Eine Zahl, die nicht gerade durch 2 geteilt werden kann, sorgt also für einen Verlust von 0,5g Novapulver.
-
-        
 
 ## Mohnkapseln herstellen
 Für das Herstellen von Mohnkapseln wird 64x Mohnextrakt benötigt. Um den Prozess zu starten, muss der Braustand im hinteren Teil des Labors angeklickt und die Eingabe bestätigt werden. Nach erfolgreicher Verarbeitung wird das Opium in die Tasche des Herstellers, ungeachtet der freien Slots, hinzugefügt.
