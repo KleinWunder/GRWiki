@@ -1,5 +1,7 @@
 # Syndikat 
-
+!!! info "Seiteninfo" 
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
+      
 Das Syndikat ist eine verborgene Untergrundorganisation, welche die Crimefraktionen mit finanzieller Entlohnung unterstützt. Zu finden ist das Syndikat im Tunnel, nahe des [Supermarkt]-1. Das Syndikat wird von Mr. Petrinow geleitet, welcher diverse Angestellte beschäftigt. Diese Angestellten bringen den Mitgliedern der Crimefraktionen gewisse Vorteile. Um mit dem Syndikat ein Bündnis für eine Woche einzugehen, muss man dafür bezahlen.
 
 ## Die Mitarbeiter
