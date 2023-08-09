@@ -1,8 +1,6 @@
 # Möbelhaus
-!!! info "Seiteninfo" 
-      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
-      
-Das Möbelhaus ist da, um Verbesserungen für sein Haus zu kaufen. Ebenso kann dort Endprodukte des Bergwerks und Sägewerk verkaufen werden.
+     
+Das Möbelhaus ist da, um Verbesserungen für sein Haus zu kaufen. Ebenso kann dort Endprodukte des [Bergwerks](../../pages/nebenjobs/bergbau.md) und [Sägewerk](../../pages/nebenjobs/sägewerk.md) verkauft werden.
 
 ## Hausverbesserungen
 Es ist möglich, verschiedene Upgrades an seinem Haus vorzunehmen.
@@ -15,8 +13,5 @@ Es ist möglich, verschiedene Upgrades an seinem Haus vorzunehmen.
 | Hauslager | 4.500,00€ |
 | Hauslager upgraden | Varriiert mit steigender Kapazität |
 
-## Eisen verkaufen
-Sollte man Poliertes Eisen verkaufen wollen, so geht man beim Möbelhaus ins Lager, nimmt dort das Polierte Eisen in die Hand und gibt dort /dropiron ein.
-
-## Holzbretter verkaufen
-Sollte man Holzbretter verkaufen wollen, so geht man beim Möbelhaus ins Lager, nimmt dort das Holzbrett in die Hand und gibt dort /dropholz ein.
+## Endprodukte verkaufen
+Im Lager des Möbelhauses ist es möglich, sein poliertes Eisen und Holzbretter zu verkaufen. (**/dropiron** **/dropholz**)
