@@ -1,18 +1,19 @@
 # Möbelhaus
 !!! info "Seiteninfo" 
       Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
-Das Möbelhaus ist da um verbesserungen für sein Haus zu kaufen. Ebenso kann man dort Poliertes Eisen und Holzbretter verkaufen.
+      
+Das Möbelhaus ist da, um Verbesserungen für sein Haus zu kaufen. Ebenso kann dort Endprodukte des Bergwerks und Sägewerk verkaufen werden.
 
-## Haus verbesserungen
-Es gibt verschiedene Upgrades die man bei sein Haus tätigen kann. Hier sind einmal alle aufgelistet und wie viel sie kosten.
+## Hausverbesserungen
+Es ist möglich, verschiedene Upgrades an seinem Haus vorzunehmen.
 
 | Verbesserung | Kosten |
 |:-:|:-:|
 | Hauskasse | 3.000,00€ |
 | Waffenschrank | 2,800,00€ |
-| Mieterslots | Variiert mit Grundpreis |
-| Hauslager kaufen | 4.500,00€ |
-| Hauslager upgraden | Varriiert mit Kapazität |
+| Mieterslots | Grundpreis und Mieter abhängig |
+| Hauslager | 4.500,00€ |
+| Hauslager upgraden | Varriiert mit steigender Kapazität |
 
 ## Eisen verkaufen
 Sollte man Poliertes Eisen verkaufen wollen, so geht man beim Möbelhaus ins Lager, nimmt dort das Polierte Eisen in die Hand und gibt dort /dropiron ein.
