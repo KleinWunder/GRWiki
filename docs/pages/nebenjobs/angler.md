@@ -58,6 +58,6 @@ Diese Items werden unterschiedlich verwertet:
 ## Hilfreiche Tipps
 
 * Je höher der Fischer Skill Level ist, desto bessere Fische und Angeln erhält man.
-* Der [Papagei](../../pages/pets/fledermaus.md) und [Capybara](../../pages/pets/capybara.md) Pet unterstützt die Arbeit beim Fischen.
+* Der [Papagei](../../pages/pets/papagei.md) und das [Capybara](../../pages/pets/capybara.md) Pet unterstützt die Arbeit beim Fischen.
 * Für Neulinge ist die Angel für Anfänger am effizientesten.
 
