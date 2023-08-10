@@ -16,7 +16,7 @@ Als Hausbesitzer können Mietverträge mit anderen Spielern erstellt werden, wel
 * Hausbesitzer und zukünftiger Mieter müssen sich im Hauseingang befinden.
 * Der Hausbesitzer gibt den Befehl **/rent [Name] [Hausnummer][Betrag]** ein.
 * Der zukünftige Mieter erhält nun eine Anfrage, welche er bestätigen oder ablehnen kann.
-* Nimmt er das Angebot an, wird der festgelegte Betrag nun an jedem Payday in die Hauskasse gezahlt.
+* Nimmt er das Angebot an, wird der festgelegte Betrag nun an jedem [Payday](../../pages/allgemeines/payday) in die Hauskasse gezahlt.
 * Mit **/unrent** kann das Mietverhältnis aufgelöst werden.
 
 !!! warning "Haftpflichtversicherung"
