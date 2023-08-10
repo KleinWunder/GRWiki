@@ -2,7 +2,7 @@
 Rezepte können von Mitgliedern des Rettungsdienstes im Krankenhaus für unterschiedlichste Krankheitsbilder und Diagnosen ausgestellt werden.
 
 ## Verwendung 
-Ein Rezept kann in einer der [Apotheke] gegen eine je nach Medikament variierende Zuzahlung eingelöst werden.
+Ein Rezept kann in einer der [Apotheke](../../../pages/biz/apotheke.md) gegen eine je nach Medikament variierende Zuzahlung eingelöst werden.
 
 ## Ausgabemengen
 Die aktuellen Ausgabemengen betragen:
@@ -10,7 +10,7 @@ Die aktuellen Ausgabemengen betragen:
 <table>
   <thead>
     <tr>
-      <th colspan=4 align="center">Rezeptausgabegrenzen des Rettungsdienst</th>
+      <th colspan=4 align="center">Rezeptausgabegrenzen des [Rettungsdienst](../../../pages/fraktionen/rettungsdienst.md) </th>
     </tr>
   </thead>
   <tbody>
