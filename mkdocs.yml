@@ -74,6 +74,7 @@ nav:
       - Dehydration: pages/krankheiten/dehydration.md
       - Grippe: pages/krankheiten/grippe.md
       - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
+    - Impfung: pages/krankheiten/impfung.md
   - Substanzen:
     - Antibiotika: pages/bmt/antibiotika.md
     - Betablocker: pages/bmt/betablocker.md
@@ -97,6 +98,7 @@ nav:
     - Fahrschule: pages/orte/fahrschule.md
     - Fahrzeughändler: pages/orte/fahrzeughändler.md
     - Justizvollzugsanstalt: pages/orte/jva.md
+    - Möbelhaus: pages/orte/möbelhaus.md
     - Anwaltskanzlei: pages/gebäude/anwaltskanzlei.md
     - Labor: pages/gebäude/labor.md
     - Syndikat: pages/gebäude/syndikat.md
