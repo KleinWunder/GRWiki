@@ -1,5 +1,5 @@
 # Tickets
-Tickets helfen den Spielern sich mit dem Team in Verbindung zu setzen. Dies geschieht über den Ingame-Chat. Mit **/ticket** kann zwischen vier Kategorien gwählt werden. Dies ist dafür gedacht, damit das Ticket an die zuständige Stelle gelangt.
+Tickets helfen den Spielern sich mit dem Supportteam in Verbindung zu setzen. Dies geschieht über den Ingame-Chat. Mit **/ticket** kann zwischen vier Kategorien gwählt werden. Dies ist dafür gedacht, damit das Ticket an die zuständige Stelle gelangt.
 
 ## Ticket-Kategorien
 
