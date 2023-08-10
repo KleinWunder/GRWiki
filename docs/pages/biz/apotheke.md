@@ -1,4 +1,4 @@
-In der Apotheke findest du alles für deine [Gesundheit](../../pages/krankheiten/gesundheit.md). Ebenfalls können hier Rezepte gegen Medikamente eingetauscht werden.
+In der Apotheke findest du alles für deine [Gesundheit](../../pages/krankheiten/gesundheit.md). Ebenfalls können hier [Rezepte](../../pages/krankheiten/rezepte.md) gegen Medikamente eingetauscht werden.
 
 ## Sortiment 
 In der Apotheke werden folgende Artikel verkauft: <img align="right" width="300" eight="150" src="../../../assets/image/biz/apotheke/Apotheke-Kaufmenü.png">
