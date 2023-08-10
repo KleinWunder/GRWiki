@@ -21,7 +21,7 @@ Crimefraktionen können eine Kriegserklärung bekommen oder stellen im Freedback
 | Agavenfarm | [County](../../pages/gebiete/county.md) | [The Establishment](establishment.md) |
 | Farm | Farm | [The Establishment](establishment.md) |
 | Freizeitpark | [Asiaviertel](../../pages/gebiete/asiaviertel.md) | [The Establishment](establishment.md)  |
-| Raffinerie | [Downtown](../../pages/gebiete/downtown.md) | [Medellín Kartell](kartell,md) |
-| Schmelzwerk | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | [Medellín Kartell](kartell,md) |
+| Raffinerie | [Downtown](../../pages/gebiete/downtown.md) | [Medellín Kartell](kartell.md) |
+| Schmelzwerk | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | [Medellín Kartell](kartell.md) |
 | Yachthafen | [Strandpassage](../../pages/gebiete/strandpassage.md) | [The Establishment](establishment.md) |
 

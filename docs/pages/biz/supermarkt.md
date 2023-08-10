@@ -21,7 +21,7 @@ Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" e
 | Supermarkt | Ort | Nächste [Bushaltestelle] |
 |:-:|:-:|:-:|
 | Supermarkt-1 | [Oststadt](../../pages/gebiete/oststadt.md) | Oststadt |
-| Supermarkt-2 | [Reichenviertel](../../pages/gebiete/reichenviertel,md) | Reichenviertel |
+| Supermarkt-2 | [Reichenviertel](../../pages/gebiete/reichenviertel.md) | Reichenviertel |
 | Supermarkt-3 | [County](../../pages/gebiete/county.md) | Plaza |
 | Supermarkt-4 | [Downtown](../../pages/gebiete/downtown.md) | Polizeipräsidium |
 | Supermarkt-5 | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | Gangviertel (Nord) |

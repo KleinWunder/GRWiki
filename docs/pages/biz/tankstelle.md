@@ -11,7 +11,7 @@ Nach dem Bezahlen ist der Tank im Fahrzeug. (**/navi Tankstelle-1/2/3/4/5/6**)
 | Tankstelle | Ort | Nächste [Bushaltestelle](../../pages/öpnv/bus.md) |
 |:-:|:-:|:-:|
 | Tanstelle-1 | [Downtown](../../pages/gebiete/downtown.md) | Uniklinik |
-| Tankstelle-2 | [County](../../pages/gebiete/county,md) | Plaza |
+| Tankstelle-2 | [County](../../pages/gebiete/county.md) | Plaza |
 | Tankstelle-3 | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | [Justizvollzugsanstalt](../../pages/orte/jva.md) |
 | Tankstelle-4 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Asia-Viertel |
 | Tankstelle-5 | [Westside](../../pages/gebiete/westside.md) | Westside |
