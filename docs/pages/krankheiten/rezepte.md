@@ -10,7 +10,7 @@ Die aktuellen Ausgabemengen betragen:
 <table>
   <thead>
     <tr>
-      <th colspan=4 align="center">Rezeptausgabegrenzen des [Rettungsdienst](../../../pages/fraktionen/rettungsdienst.md) </th>
+      <th colspan=4 align="center"> Rezeptausgabegrenzen des [Rettungsdienst](../../../pages/fraktionen/rettungsdienst.md)  </th>
     </tr>
   </thead>
   <tbody>
