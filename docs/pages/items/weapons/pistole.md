@@ -6,4 +6,4 @@ Die P-51 ist eine Handschusswaffe, für die das kleine Magazin benötigt wird. I
 Die P-51 kann in [Waffenläden](../../biz/waffenladen.md) gekauft werden. Der Preis hängt von dem jeweiligen Waffenladen ab. Voraussetzung hierfür ist eine Waffenlizenz, welche in der [Stadthalle](../../orte/stadthalle.md) beantragt wird. Die Munition wird ebenfalls in den Waffenläden verkauft.
 
 ## Verwendung
-Die P-51 wird gebraucht um sich selbst zu verteidigen. Die Waffe veruarscht an Spielern einen Schaden von 2 ❤️.
+Die P-51 wird gebraucht um sich selbst zu verteidigen. Die Waffe verursacht an Spielern einen Schaden von 2 ❤️.
