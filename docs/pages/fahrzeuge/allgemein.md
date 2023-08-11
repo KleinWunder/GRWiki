@@ -1,12 +1,15 @@
-Mit einem Fahrzeug kommt man schneller von A nach B, ohne lästigen Busfahren. Regelmäßiges Tanken an den [Tankstellen](../../pages/biz/tankstelle.md) sollte hierbei auch berücksichtigt werden.
+Ein Fahrzeug ermöglicht es einem, ohne das lästige Busfahren schneller von A nach B zu gelangen. Regelmäßiges Tanken an den [Tankstellen](../../pages/biz/tankstelle.md) sollte hierbei auch berücksichtigt werden.
 
-Sollte man in einem Fahrzeug sitzen, kann man mit der Offhand-Taste (standartmäßig ++f++ ), die Fahrzeugsteuerung aufrufen. Ist der Motor aus, so ist die einzige Option, den Motor zu starten. Sollte der Motor an sein, sieht man die erweiterte Fahrzeugsteuerung. Unter anderem kann man hier die Fahrzeuginformationen einsehen, einen Tempomat einstellen, Fraktionstore öffnen und den Gang wechseln. Im Menü kann der Warnblicker angeschaltet werden, mit den Maustasten jeweils blinken. Bei Dienstwägen kann man hier auch das Sondersignal einstellen. Mit einem Druck auf die Sprungtaste (standartmäßig die ++spc++ -Taste) betätigt man die Hupe. 
-In der <a href="https://imgxrke.github.io/GRWiki/pages/fahrzeuge/kfz-werkstatt" title="KFZ-Werkstatt">KFZ-Werkstatt</a> können Autos repariert, lakiert und modifiziert werden. Mit **/kofferraum** kann auf den Kofferraum des Fahrzeug zugegriffen werden. Der Platz für Items und Substanzen variiert je nach Fahrzeugtyp.
+Im Fahrzeug kann die Fahrzeugsteuerung mit der Offhand-Taste (standardmäßig ++f++) aufgerufen werden. Ist der Motor aus, so ist es die einzige Option, den Motor zu starten. 
+Bei angeschalteten Motor ist die Fahrzeugsteuerung sichtbar.
+In der Fahrzeugsteuerung sind einige Funktionen, wie Fahrzeuginformationen einsehen, Tempomat einstellen, Fraktionstore öffnen, Warnblinker aktivieren, erweiterte Fahrzeugsteuerung öffnen, Gang wechseln und bei einem Dienstwagen, das Sondersignal anstellen. Der Warnblinker wird mit Mittelklick auf das Fahrzeug **in** der Fahrzeugsteuerung angeschaltet. Während der Fahrt kann mit Links- oder Rechtsklick die jeweiligen Blinker aktiviert werden. Mit Rechtsklick kann die erweiterte Fahrzeugsteuerung aufgerufen werden. Hier ist es möglich, die Tankanzeige anzupassen, wer in das Fahrzeug einsteigen kann und der erweiterte Tempomat kann aktiviert werden. Mit einem Druck auf die Sprungtaste (standardmäßig die ++spc++ -Taste) ertönt die Hupe. 
+Die Fahrzeuge besitzen einen Kofferraum (**/kofferraum**), welcher sich je nach Fahrzeugtyp variiert in der Größe. 
+In der <a href="https://imgxrke.github.io/GRWiki/pages/fahrzeuge/kfz-werkstatt" title="KFZ-Werkstatt">KFZ-Werkstatt</a> können Autos repariert, lackiert und modifiziert werden.
 
 ## Erwerben von Fahrzeugen
-Erwerblich sind die Fahrzeuge beim Fahrzeughändler (/navi Fahrzeughändler) oder beim Luxusfahrzeughändler (/navi Luxusfahrzeughändler).
+Erwerblich sind die Fahrzeuge beim Fahrzeughändler (**/navi Fahrzeughändler**) oder beim Luxusfahrzeughändler (**/navi Luxusfahrzeughändler**).
 
-Fahrzeuge unterscheiden sich in den Werten:
+Die Fahrzeuge unterscheiden sich in diesen Werten:
 
 + Aussehen
 + Sitzplätze
@@ -20,9 +23,9 @@ Fahrzeuge unterscheiden sich in den Werten:
 ## Arten
 ### Folgende Fahrzeuge sind für Zivilisten erhältlich.
 
-| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen | Steuern (pro Abrechnung) | Preis |
+| Modell | Max. Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Roller| 50 km/h | 50.0 | 15.0 Liter | 2 | - | 5g | 5.0€ | 1500.0€ |
+| Roller | 50 km/h | 50.0 | 15.0 Liter | 2 | - | 5g | 5.0€ | 1500.0€ |
 | Motorrad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | - | 45.0€ | 11000.0€ |
 | Fiat Punto | 90 km/h | 75.0 | 20.0 Liter | 4 | 1 | 10g | 7.5€ | 2000.0€ |
 | Alfa Romeo 159 | 100 km/h | 100.0 | 25.0 Liter | 4 | 1 | 15g | 10.0€ | 3500.0€ |
@@ -36,9 +39,9 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Mercedes G-Klasse | 140.0 km/h | 175.0 | 25.0 Liter | 4 | 3 | 60g | 75.0€ | 20000.0€ |
 | Pickup | 115.0 km/h | 125.0 | 30.0 Liter | 2 | 5 | 125g | 35.0€ | 7500.0€ |
 
-### Folgende Fahrzeuge sind für das [VCPD](../../pages/fraktionen/polizei.md) erhältlich.
+### Folgende Fahrzeuge sind für die [Polizei](../../pages/fraktionen/polizei.md) erhältlich.
 
-| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen  | Steuern (pro Abrechnung) | Preis |
+| Modell | Max. Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen  | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Ziviltransporter | 100 km/h |175.0 | 30.0 Liter | 8 | - | - | - | 6500.0€ |
 | Polizeitransporter | 100 km/h | 125.0 | 30.0 Liter | 8 | 5 | 100g | - | 5500€ |
@@ -50,9 +53,9 @@ Fahrzeuge unterscheiden sich in den Werten:
 | Polizei Motorad | 135 km/h | 60.0 | 15.0 Liter | 1 | - | - | - | 11000.0€ |
 | Polizei Helikopter | 200 km/h | 200.0 | 50.0 Liter | 5 | - | - | - | unknown |
 
-### Folgende Fahrzeuge sind für das [VCMD](../../pages/fraktionen/rettungsdienst.md) erhältlich.
+### Folgende Fahrzeuge sind für den [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhältlich.
 
-| Modell | Maximale Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen | Steuern (pro Abrechnung) | Preis |
+| Modell | Max. Geschwindigkeit | Schaden | Tank | Sitze | Kofferraumslots | Substanzen | Steuern (pro Abrechnung) | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Krankentransportwagen | 100 km/h | 125.0 | 30 Liter | 4 | 5 | 100g | - | 5500€ |
 | RTW | 100 km/h | 100.0 | 25.0 Liter | 4 | 5 | 25g | - | 4650.0€ |
