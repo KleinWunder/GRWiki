@@ -9,6 +9,8 @@ Während dem Aufenthalt in der JVA hat man die Möglichkeit sich mit den anderen
 
 ### Ausbruchmöglichkeiten
 
+Es existieren einige Möglichkeiten um in die Justizvollzugsanstalt einzubrechen oder auch auszubrechen. Dafür benötigt man mindestens eine Brechstange. (Vorsicht! Die kann jederzeit kaputt gehen)
+
 ## Entlassung
 
 In der JVA sitzt man seine Straftat in Form einer Zeitstrafe ab. Je nachdem welches Verbrechen man begangen und wie viele Fahndungspunkte man erhalten hat, dauert diese Zeitstrafe unterschiedlich lang an. Mit dem Befehl /jailtime wird dem Spieler angezeigt, wie lange dieser noch in der JVA sitzt.
