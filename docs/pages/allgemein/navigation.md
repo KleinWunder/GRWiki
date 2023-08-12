@@ -4,15 +4,16 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 
 <img align="center"  src="../../../assets/image/allgemein/navigation/NavigationChat.png">
 
-## Öffentliche Punkte
+## Wichtige Orte
 <img align="right" src="../../../assets/image/allgemein/navigation/Navigation.png">
 
 | Navipunkt | Orte in der Nähe |
 |:-:|:-:|
 | Stadthalle | - Apotheke-1 <br> - Starblocks-1 <br> - Postzentrale  |
 | Zentralbank | - Apotheke-1 <br> - Bar-3 <br> - Rathaus <br> -Starblocks-1 <br> - Postzentrale |
-| Maklerbüro | - Polizeipräsidium |
-| Gärtnerei | - Bar-1 <br> - Restaurant <br> - Farm |
-| Justizvollzugsanstalt | - Labor |
 | Rathaus | - Stadthalle <br> - Postzentrale <br> - Standesamt <br> - Bürgermeisterwahl |
-| Jagdhütte | - Farm <br> - Schwarzmarktauktion <br> - Weinberg |
+| Fahrzeughändler |- Postzentrale |
+| Luxusfahrzeughändler | - Supermarkt-7 |
+| Helikopterflugplatz | - Bar-2 |
+
+
