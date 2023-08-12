@@ -9,10 +9,10 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 
 | Navipunkt | Orte in der Nähe |
 |:-:|:-:|
-| Stadthalle | - Apotheke-1 <br> - Starblocks-1 <br> - Postzentrale  |
-| Zentralbank | - Apotheke-1 <br> - Bar-3 <br> - Rathaus <br> -Starblocks-1 <br> - Postzentrale |
-| Rathaus | - Stadthalle <br> - Postzentrale <br> - Standesamt <br> - Bürgermeisterwahl |
-| Fahrzeughändler |- Postzentrale |
+| [Stadthalle](../../pages/orte/stadthalle.md) | - Apotheke-1 <br> - Starblocks-1 <br> - Postzentrale  |
+| [Zentralbank](../../pages/orte/zentralbank.md) | - Apotheke-1 <br> - Bar-3 <br> - Rathaus <br> -Starblocks-1 <br> - Postzentrale |
+| [Rathaus](../../pages/orte/rathaus.md) | - Stadthalle <br> - Postzentrale <br> - Standesamt <br> - Bürgermeisterwahl |
+| [Fahrzeughändler](../../pages/orte/fahrzeughändler.md) |- Postzentrale |
 | Luxusfahrzeughändler | - Supermarkt-7 |
 | Helikopterflugplatz | - Bar-2 |
 
@@ -21,41 +21,41 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 
 | Navipunkt | Konsumgüter |
 |:-:|:-:|
-| Waffenladen | - Waffen <br> - Munition  |
-| Supermarkt | - Apäfel <br> - Fleisch <br> - Wasser  |
-| Bar | - Cola <br> - Limonade  |
-| Starblocks | - Kaffe <br> - Donuts  |
-| Apotheke | - Bandagen <br> - Nasensalbe <br> - Hustenbonbons  |
-| Tankstelle | - Sandwich <br> - Kanister   |
+| [Waffenladen](../../pages/biz/waffenladen.md) | - Waffen <br> - Munition  |
+| [Supermarkt](../../pages/biz/supermarkt.md) | - Apäfel <br> - Fleisch <br> - Wasser  |
+| [Bar](../../pages/biz/bar.md) | - Cola <br> - Limonade  |
+| [Starblocks](../../pages/biz/starblocks.md) | - Kaffe <br> - Donuts  |
+| [Apotheke](../../pages/biz/apotheke.md) | - Bandagen <br> - Nasensalbe <br> - Hustenbonbons  |
+| [Tankstelle](../../pages/biz/tankstelle.md) | - Sandwich <br> - Kanister   |
 
 ## Fraktionsbasen
 <img align="right" src="../../../assets/image/allgemein/navigation/NavigationFrakbasen.png">
 
 | Navipunkt |
 |:-:|
-| Polizeipräsidium |
-| Polizeirevier-West |
-| Polizeirevier-Süd |
-| Uniklinik |
-| Krankenhaus-West |
-| Krankenhaus-Süd |
-| Feuerwehr |
-| Medellín Kartell |
-| Sinaloa Kartell |
-| Yakuza  |
-| Establishment |
-| Camorra |
+| [Polizeipräsidium](../../pages/fraktionen/polizei.md) |
+| [Polizeirevier-West](../../pages/fraktionen/polizei.md) |
+| [Polizeirevier-Süd](../../pages/fraktionen/polizei.md) |
+| [Uniklinik](../../pages/fraktionen/rettungsdienst.md) |
+| [Krankenhaus-West](../../pages/fraktionen/rettungsdienst.md) |
+| [Krankenhaus-Süd](../../pages/fraktionen/rettungsdienst.md) |
+| [Feuerwehr](../../pages/fraktionen/rettungsdienst.md) |
+| [Medellín Kartell](../../pages/fraktionen/kartell.md) |
+| [Sinaloa Kartell](../../pages/fraktionen/sinaloa.md) |
+| [Yakuza](../../pages/fraktionen/yakuza.md) |
+| [Establishment](../../pages/fraktionen/establishment.md) |
+| [Camorra](../../pages/fraktionen/camorra.md) |
 
 ## Nebenjobs
 <img align="right" src="../../../assets/image/allgemein/navigation/NavigationNebenjobs.png">
 
 | Navipunkt | Nebenjob |
 |:-:|:-:|
-| Weinberg | - Winzer |
-| Farm | - Farmer |
-| Gärtnerei | - Gärtner |
-| Wäscherei | - Wäscherei |
-| Blumenladen | - Blumentransport |
+| Weinberg | - [Winzer](../../pages/nebenjobs/winzer.md) |
+| Farm | - [Farmer](../../pages/nebenjobs/farmer.md) |
+| Gärtnerei | - [Gärtner](../../pages/nebenjobs/gärtner.md) |
+| Wäscherei | - [Wäscherei](../../pages/nebenjobs/wäscherei.md) |
+| Blumenladen | - [Blumentransport](../../pages/nebenjobs/blumentransport.md) |
 
 ## Orte in der Nähe
 <img align="right" src="../../../assets/image/allgemein/navigation/NavigationOrteInDerNähe.png">
