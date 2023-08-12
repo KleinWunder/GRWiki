@@ -4,8 +4,9 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 
 <img align="center"  src="../../../assets/image/allgemein/navigation/NavigationChat.png">
 
-## Öffenntliche Punkte
+## Öffentliche Punkte
 <img align="right" src="../../../assets/image/allgemein/navigation/Navigation.png">
+
 | Navipunkt | Orte in der Nähe |
 |:-:|:-:|
 | Stadthalle | - Apotheke-1 <br> - Starblocks-1 <br> - Postzentrale  |
