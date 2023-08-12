@@ -8,4 +8,4 @@ Die Impfung wird in der Uniklinik von einem Mitglied des Rettungsdienstes verabr
 Die Impfung kostet ohne eine Krankenversicherung ???€. Ist der Patient versichert, werden die Kosten von der Versicherung übernommen.
 
 ## Gut zu wissen!
-Ist der Spieler bereits an der Grippe erkrankt, muss er zwingend Grippostat und Nasensalbe verwenden. Die Impfung bietet Schutz vor erneuten Ansteckungen, kann aber bestehende [Krankheiten] nicht heilen.
+Ist der Spieler bereits an der Grippe erkrankt, muss er zwingend Grippostat und Nasensalbe verwenden. Die Impfung bietet Schutz vor erneuten Ansteckungen, kann aber bestehende [Krankheiten](pages/krankheiten) nicht heilen.
