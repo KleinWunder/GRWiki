@@ -1,9 +1,9 @@
 # Abstimmungen
 
-Eine Abstimmung kann durchs Team erstellt werden, an dem unterschiedliche Spieler(gruppe) teilnehmen können. Es können im System auch Teaminterne Abstimmungen stattfinden.
+Das Team kann eine Abstimmung erstellen, an der verschiedene Spieler(gruppen) teilnehmen können. Im System besteht auch die Möglichkeit, Abstimmungen innerhalb des Teams abzuhalten.
 
 ## Wie kann man Abstimmen
-Abgestimmt werden kann durch den Befehl /abstimmen, sobald dieser Befehl ausgeführt wurde sieht man alle Aktiven bzw. Beendeten Abstimmungen ein. Eine Offene Abstimmung erkennt man an dem Buch mit Feder. Eine Geschlossene Abstimmung erkennt man am Buch. Um dann bei der Abstimmung teilzunehmen klickt man auf die jeweilige (geöffnete) Abstimmung und klickt auf Ja oder Nein. Sobald einer der beiden Knöpfe gewählt wurde hat man erfolgreich abgestimmt.
+Die Möglichkeit zur Abstimmung besteht, indem der Befehl /abstimmen verwendet wird. Nach Ausführung dieses Befehls werden alle laufenden oder abgeschlossenen Abstimmungen angezeigt. Eine offene Abstimmung ist erkennbar an einem Buch mit Feder, während eine geschlossene Abstimmung durch ein Buch gekennzeichnet ist. An einer Abstimmung kann man teilnehmen, in dem man auf die jeweilige Abstimmung klickt und auf Ja oder auf Nein klickt. Nachdem einer der beiden Knöpfe ausgewählt wurde, gilt die Abstimmung als erfolgreich abgeschlossen.
 
 ## Auswertung der Abstimmung
-Sobald eine Abstimmung beendet wurde sieht man das finale Ergebnis. Wenn man sich die Abstimmung jetzt anschaut sieht man wie viel Prozent Ja und wie viel Prozent Nein erreicht hat. Sollte die Abstimmung positiv ausgegangen sein so wird sich überlegt dies so schnell wie möglich um zu setzen. Sollte die Abstimmung negativ ausgefallen sein so wird sich dies notiert und das jeweilige Thema nicht mehr bearbeitet.
+Nach Abschluss der Abstimmung wird das endgültige Ergebnis sichtbar. Aus den aktuellen Abstimmungsergebnissen geht hervor, wie hoch der Anteil der Stimmen für Ja und wie hoch der Anteil der Stimmen für Nein ist. Wenn die Abstimmung positiv ausfällt, wird in Erwägung gezogen, dies so schnell wie möglich umzusetzen. Wenn die Abstimmung ein negatives Ergebnis ergibt, wird dies vermerkt und das betreffende Thema nicht mehr behandelt.
