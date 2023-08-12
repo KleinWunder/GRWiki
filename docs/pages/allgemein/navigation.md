@@ -6,8 +6,7 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 
 ## Öffenntliche Punkte
 | Navipunkt | Orte in der Nähe |
-|:-:|:-:| <img align="right" 
- src="../../../assets/image/allgemein/navigation/Navigation.png">
+|:-:|:-:| <img align="right" src="../../../assets/image/allgemein/navigation/Navigation.png">
 | Stadthalle | - Apotheke-1 <br> - Starblocks-1 <br> - Postzentrale  |
 | Zentralbank | - Apotheke-1 <br> - Bar-3 <br> - Rathaus <br> -Starblocks-1 <br> - Postzentrale |
 | Maklerbüro | - Polizeipräsidium |
