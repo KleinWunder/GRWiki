@@ -6,6 +6,8 @@ HQ Raids sind eine fraktionstätigkeit aller Crimefraktionen. Zusammen mit ander
 Die Fraktionsweise unterscheidet sich bei der Polizei und bei den Crimefraktionen.
 
 HQ-Raids (Crimefraktionen)
+
+
 - Ein Fraktionsmitglied gibt den Befehl /raid ein, sobald dieser befehl am Equippunkt eingegeben wurde muss die Person 30 sekunden die Position halten damit der Raid nicht fehlschlägt.
 
 - Sobald die Angreifende Fraktion im Chat eine Nachricht erhält dass sie den Transport gestohlen hat, so muss die Fraktion den Transport zu ihrer Fraktionsbasis bringen.
@@ -19,6 +21,8 @@ HQ-Raids (Crimefraktionen)
 - Sollte die Angegriffene Fraktion ihre gestohlenen Gegenstände zurück erbeutet haben, so müssen sie zu ihren Equippunkt rennen und /droptransport eingeben. Sobald die Passiert ist, ist der Raid erfolgreich Verteidigt wurden.
 
 HQ-Razzien (Polizei)
+
+
 - Ein Fraktionsmitglied welches mindestens Rang 5 ist, gibt den Befehl /razzia ein, sobald dieser befehl am Equippunkt eingegeben wurde muss die Person 30 sekunden die Position halten damit die Razzia nicht fehlschlägt.
 
 - Sobald die Polizei im Chat eine Nachricht erhält dass sie den Transport Beschlagnahmt hat, so muss die Polizei den Transport zu ihrer Fraktionsbasis bringen.
