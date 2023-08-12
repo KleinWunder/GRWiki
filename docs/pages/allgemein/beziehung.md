@@ -1,28 +1,18 @@
 # Beziehung
 
-Auf dem Server können Partnerschaften mit Spielern eingegagen werden, sich verloben und auch heiraten. Natürlich kann man sich auch scheiden lassen beziehungsweise sich wieder trennen.
+Auf dem Server können Partnerschaften mit Spielern eingegangen werden, sich verloben und auch heiraten. Natürlich kann man sich auch scheiden lassen beziehungsweise sich wieder trennen. Die einzigen Kosten enstehen bei der Heirat.
 
 ## Eine Beziehung eingehen
-Möchte jemanden eine Beziehung eingehen, wird der Befehl **/beziehung [Name]** eingegeben. Der Gegenüber erhält nun eine Beziehungsanfrage, welche er oder sie annehmen oder ablehnen kann. Es entstehen keine zusätzlichen Kosten, wenn eine Beziehungung eingegangen wird.
-
-<img align="right" width="440" eight="440" src="../../../assets/image/allgemein/beziehung/Beziehungsanfrage.png">
+Möchte jemand eine Beziehung eingehen, wird der Befehl **/beziehung [Name]** eingegeben. Der Gegenüber erhält nun eine Beziehungsanfrage, welche er oder sie annehmen oder ablehnen kann.
 
 ## Verloben
-Möchte man einen Schritt weitergehen, kann sich verloben werden. Hierfür wird der Befehl **/antrag [NAME]** genutzt. Der Gegenüber erhält nun einen Heiratsantrag, welche er oder sie annehmen oder ablehnen kann. Es entstehen keine zusätzlichen Kosten, wenn sich verlobt wird.
-
-<img align="right" width="440" eight="440" src="../../../assets/image/allgemein/beziehung/Heiratsantrag.png">
+Möchte man einen Schritt weitergehen, kann sich verloben werden. Hierfür wird der Befehl **/antrag [Name]** genutzt. Der Gegenüber erhält nun einen Heiratsantrag, welche er oder sie annehmen oder ablehnen kann.
 
 ## Heiraten
-Nun kann die höchste Beziehungsstufe eingegangen werden. Hierfür geht man gemeinsam mit seinem Partner oder seiner Partnerin in das Standesamt. Diese findet man mit im Rathaus. Dort wartet bereits eine Standesbeamte auf das zukünftige Ehepaar. Einer der Partner muss Rechtsklick auf die Standesbeamte machen, um zu heiraten. Das kostet einmalig 1200€ und wird von der Person bezahlt, welche als erstes einwilligt. Ansonsten entstehen keine zusätzlichen Kosten.
-
-Über die Heirat wird im Chat eine Meldung gegeben, welche jeder Spieler auf dem Server sehen kann
-
-Verheiratete Personen haben nun Zugriff auf die [Häuser/Wohnungen](../../pages/houses/allgemein.md) des jeweils anderen.
-
-<img align="right" width="440" eight="440" src="../../../assets/image/allgemein/beziehung/Heiraten.png">
+Nun kann die höchste Beziehungsstufe eingegangen werden. Das Heiraten ist im Rathaus beim Standesamt möglich. Einer der Partner muss Rechtsklick auf die Standesbeamten machen, um zu heiraten. Das kostet einmalig 1.200€ und wird von der Person bezahlt, welche als Erstes einwilligt. Über die Heirat wird im Chat eine Meldung gegeben, welche jeder Spieler auf dem Server sehen kann. Verheiratete Personen haben jetzt Zugriff auf die [Häuser und Wohnungen](../../pages/houses/allgemein.md) des jeweils anderen.
 
 ## Scheidung
-Möchte die Ehe beenden, geht das ganz einfach indem man im [Rathaus](../../pages/orte/rathaus.md) beim Standesamt sich scheiden lässt. Das ganze ist komplett kostenlos. Man ist jedoch danach immer noch in einer Beziehung mit der Person.
+Um die Ehe zu beenden, kann man einfach zum Standesamt im [Rathaus](../../pages/orte/rathaus.md) gehen und sich scheiden lassen. Nach wie vor besteht eine Beziehung mit der Person.
 
 ## Trennung
-Möchte sich vollständig von seinem Gegenüber lösen, gibt man den Befehl **/trennen [Name]** ein und die Beziehung ist beendet.
+Um eine vollständige Trennung von der anderen Person zu erreichen, kann der Befehl **/trennen [Name]** verwendet werden, um die Beziehung zu beenden.
