@@ -6,4 +6,4 @@ Eine Stündliche Abrechnung sorgt dafür, dass man seine Fraktionsprovision, sei
 Eine Stündliche Abrechnung bekommt man alle 60 Minuten bei denen man aktiv ist. Im Spielermenü unter Timer & Events kann man einsehen wie lange es dauert bis die nächste Stündliche Abrechnung kommt.
 
 ## Geld verdienen
-Geld kann verdient werden wenn man in einer Fraktions ist oder nebenjobs macht. Nebenjobs sind eine gute Möglichkeit als Neuling sein Geld zu verdienen, sobald man sich auf den Server besser zurecht findet, kann man sich in einer Fraktion bewerben, sobald man in einer Fraktion ist, generiert man durch das Mitglied sein pro Stündliche Abrechnung eine Fraktionsprovision. 
+Geld kann verdient werden wenn man in einer Fraktion ist oder nebenjobs macht. Nebenjobs sind eine gute Möglichkeit als Neuling sein Geld zu verdienen, sobald man sich auf den Server besser zurecht findet, kann man sich in einer Fraktion bewerben, sobald man in einer Fraktion ist, generiert man durch das Mitglied sein pro Stündliche Abrechnung eine Fraktionsprovision. 
