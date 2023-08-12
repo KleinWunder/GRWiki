@@ -41,7 +41,7 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 | [Krankenhaus-Süd](../../pages/fraktionen/rettungsdienst.md) |
 | [Feuerwehr](../../pages/fraktionen/rettungsdienst.md) |
 | [Medellín Kartell](../../pages/fraktionen/kartell.md) |
-| [Sinaloa Kartell](../../pages/fraktionen/sinaloa.md) |
+| [Sinaloa Kartell](../../pages/fraktionen/cds.md) |
 | [Yakuza](../../pages/fraktionen/yakuza.md) |
 | [Establishment](../../pages/fraktionen/establishment.md) |
 | [Camorra](../../pages/fraktionen/camorra.md) |
