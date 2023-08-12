@@ -5,7 +5,7 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 <img align="center"  src="../../../assets/image/allgemein/navigation/NavigationChat.png">
 
 ## Wichtige Orte
-<img align="right" src="../../../assets/image/allgemein/navigation/Navigation.png">
+<img align="right" src="../../../assets/image/allgemein/navigation/NavigationWichtigeOrte.png">
 
 | Navipunkt | Orte in der Nähe |
 |:-:|:-:|
@@ -16,4 +16,55 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 | Luxusfahrzeughändler | - Supermarkt-7 |
 | Helikopterflugplatz | - Bar-2 |
 
+## Gewerbe
+<img align="right" src="../../../assets/image/allgemein/navigation/NavigationGewerbe.png">
 
+| Navipunkt | Konsumgüter |
+|:-:|:-:|
+| Waffenladen | - Waffen <br> - Munition  |
+| Supermarkt | - Apäfel <br> - Fleisch <br> - Wasser  |
+| Bar | - Cola <br> - Limonade  |
+| Starblocks | - Kaffe <br> - Donuts  |
+| Apotheke | - Bandagen <br> - Nasensalbe <br> - Hustenbonbons  |
+| Tankstelle | - Sandwich <br> - Kanister   |
+
+## Fraktionsbasen
+<img align="right" src="../../../assets/image/allgemein/navigation/NavigationFrakbasen.png">
+
+| Navipunkt |
+|:-:|
+| Polizeipräsidium |
+| Polizeirevier-West |
+| Polizeirevier-Süd |
+| Uniklinik |
+| Krankenhaus-West |
+| Krankenhaus-Süd |
+| Feuerwehr |
+| Medellín Kartell |
+| Sinaloa Kartell |
+| Yakuza  |
+| Establishment |
+| Camorra |
+
+## Nebenjobs
+<img align="right" src="../../../assets/image/allgemein/navigation/NavigationNebenjobs.png">
+
+| Navipunkt | Nebenjob |
+|:-:|:-:|
+| Weinberg | - Winzer |
+| Farm | - Farmer |
+| Gärtnerei | - Gärtner |
+| Wäscherei | - Wäscherei |
+| Blumenladen | - Blumentransport |
+
+## Orte in der Nähe
+<img align="right" src="../../../assets/image/allgemein/navigation/NavigationOrteInDerNähe.png">
+
+| Navipunkt |
+|:-:|
+| Bushaltestelle |
+
+## Sonstige Orte
+<img align="right" src="../../../assets/image/allgemein/navigation/NavigationSonstigeOrte.png">
+
+Hier werden alle Orte aufgeführt die nicht unter einen der anderen Punkte zählt
