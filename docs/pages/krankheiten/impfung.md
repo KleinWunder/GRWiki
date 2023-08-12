@@ -1,5 +1,5 @@
 # Impfung 
-Die Impfung, auch Grippeschutzimpfung genannt, schützt für 15 Tage vor der [Erkältung] und somit auch vor Nasenbluten. Ebenfalls erhältst du durch das Impfen Sozial-Skill.
+Die Impfung, auch Grippeschutzimpfung genannt, schützt für 15 Tage vor der [Erkältung](pages/grippe.md) und somit auch vor Nasenbluten. Ebenfalls erhältst du durch das Impfen Sozial-Skill.
 
 ## Erhalten einer Impfung 
 Die Impfung wird in der Uniklinik von einem Mitglied des Rettungsdienstes verabreicht. Die Behandlung wird in einem Behandlungszimmer durchgeführt. Ob die Grippeschutzimpfung noch aktiv ist, kann ebenfalls von einem Arzt in der Uniklinik festgestellt werden.
