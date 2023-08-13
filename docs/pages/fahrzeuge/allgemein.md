@@ -6,6 +6,10 @@ In der Fahrzeugsteuerung sind einige Funktionen, wie Fahrzeuginformationen einse
 Die Fahrzeuge besitzen einen Kofferraum (**/kofferraum**), welcher sich je nach Fahrzeugtyp variiert in der Größe. 
 In der <a href="https://imgxrke.github.io/GRWiki/pages/fahrzeuge/kfz-werkstatt" title="KFZ-Werkstatt">KFZ-Werkstatt</a> können Autos repariert, lackiert und modifiziert werden.
 
+## Autounfälle
+Bei einem Autounfall erhält jeder, der im Auto mitfährt, Schaden und die Chance, eine Verletzung zu erleiden, wie eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md) oder Nasenbluten. 
+
+ 
 ## Erwerben von Fahrzeugen
 Erwerblich sind die Fahrzeuge beim Fahrzeughändler (**/navi Fahrzeughändler**) oder beim Luxusfahrzeughändler (**/navi Luxusfahrzeughändler**).
 
