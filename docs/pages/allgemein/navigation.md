@@ -1,35 +1,32 @@
 # Navigation
 
-Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wichtigsten Punkten der Stadt startet. Wählt man in dem Menü ein Ziel aus, wird einem ein Kompass <img width="25" height="25" src="../../../assets/image/allgemein/navigation/Compass.png"> in das Inventar gelegt, welchem man folgen kann.
+Mit dem Befehl **/navi** öffnet sich ein Menü, welches Routenführungen zu den wichtigsten Punkten der Stadt startet. Wählt man in dem Menü ein Ziel aus, wird einem ein Kompass <img width="25" height="25" src="../../../assets/image/allgemein/navigation/Compass.png"> in das Inventar gelegt, welchem man folgen kann. Zudem ist im **/navi** Menü möglich anch orten oder die aktuelle Position auf der [Livemap](https://map.germanrp.eu) anzusehen.
 
-<img align="center"  src="../../../assets/image/allgemein/navigation/NavigationChat.png">
+
 
 ## Wichtige Orte
-<img align="right" src="../../../assets/image/allgemein/navigation/NavigationWichtigeOrte.png">
 
 | Navipunkt | Orte in der Nähe |
 |:-:|:-:|
-| [Stadthalle](../../pages/orte/stadthalle.md) | - Apotheke-1 <br> - Starblocks-1 <br> - Postzentrale  |
-| [Zentralbank](../../pages/orte/zentralbank.md) | - Apotheke-1 <br> - Bar-3 <br> - Rathaus <br> -Starblocks-1 <br> - Postzentrale |
-| [Rathaus](../../pages/orte/rathaus.md) | - Stadthalle <br> - Postzentrale <br> - Standesamt <br> - Bürgermeisterwahl |
-| [Fahrzeughändler](../../pages/orte/fahrzeughändler.md) |- Postzentrale |
-| Luxusfahrzeughändler | - Supermarkt-7 |
-| Helikopterflugplatz | - Bar-2 |
+| [Stadthalle](../../pages/orte/stadthalle.md) |  Apotheke-1 <br>  Starblocks-1 <br> Postzentrale  |
+| [Zentralbank](../../pages/orte/zentralbank.md) | Apotheke-1 <br>  Bar-3 <br>  Rathaus <br> Starblocks-1 <br>  Postzentrale |
+| [Rathaus](../../pages/orte/rathaus.md) |  Stadthalle <br> Postzentrale <br>  Standesamt <br>  Bürgermeisterwahl |
+| [Fahrzeughändler](../../pages/orte/fahrzeughändler.md) | Postzentrale |
+| Luxusfahrzeughändler |  Supermarkt-7 |
+| Helikopterflugplatz |  Bar-2 |
 
 ## Gewerbe
-<img align="right" src="../../../assets/image/allgemein/navigation/NavigationGewerbe.png">
 
-| Navipunkt | Konsumgüter |
+| Navipunkt | Ware |
 |:-:|:-:|
-| [Waffenladen](../../pages/biz/waffenladen.md) | - Waffen <br> - Munition  |
-| [Supermarkt](../../pages/biz/supermarkt.md) | - Apäfel <br> - Fleisch <br> - Wasser  |
-| [Bar](../../pages/biz/bar.md) | - Cola <br> - Limonade  |
-| [Starblocks](../../pages/biz/starblocks.md) | - Kaffe <br> - Donuts  |
-| [Apotheke](../../pages/biz/apotheke.md) | - Bandagen <br> - Nasensalbe <br> - Hustenbonbons  |
-| [Tankstelle](../../pages/biz/tankstelle.md) | - Sandwich <br> - Kanister   |
+| [Waffenladen](../../pages/biz/waffenladen.md) | Waffen <br>  Munition  |
+| [Supermarkt](../../pages/biz/supermarkt.md) | Äpfel <br> Fleisch <br> Wasser  |
+| [Bar](../../pages/biz/bar.md) |  Cola <br>  Limonade  |
+| [Starblocks](../../pages/biz/starblocks.md) |  Kaffe <br>  Donuts  |
+| [Apotheke](../../pages/biz/apotheke.md) |  Bandagen <br>  Nasensalbe <br>  Hustenbonbons  |
+| [Tankstelle](../../pages/biz/tankstelle.md) |  Sandwich <br>  Kanister   |
 
 ## Fraktionsbasen
-<img align="right" src="../../../assets/image/allgemein/navigation/NavigationFrakbasen.png">
 
 | Navipunkt |
 |:-:|
@@ -47,24 +44,17 @@ Mit dem Befehl /navi öffnet sich ein Menü, welches Routenführungen zu den wic
 | [Camorra](../../pages/fraktionen/camorra.md) |
 
 ## Nebenjobs
-<img align="right" src="../../../assets/image/allgemein/navigation/NavigationNebenjobs.png">
 
 | Navipunkt | Nebenjob |
 |:-:|:-:|
-| Weinberg | - [Winzer](../../pages/nebenjobs/winzer.md) |
-| Farm | - [Farmer](../../pages/nebenjobs/farmer.md) |
-| Gärtnerei | - [Gärtner](../../pages/nebenjobs/gärtner.md) |
-| Wäscherei | - [Wäscherei](../../pages/nebenjobs/wäscherei.md) |
-| Blumenladen | - [Blumentransport](../../pages/nebenjobs/blumentransport.md) |
+| Weinberg | [Winzer](../../pages/nebenjobs/winzer.md) |
+| Farm | [Farmer](../../pages/nebenjobs/farmer.md) |
+| Gärtnerei | [Gärtner](../../pages/nebenjobs/gärtner.md) |
+| Wäscherei | [Wäscherei](../../pages/nebenjobs/wäscherei.md) |
+| Blumenladen | [Blumentransport](../../pages/nebenjobs/blumentransport.md) |
 
 ## Orte in der Nähe
-<img align="right" src="../../../assets/image/allgemein/navigation/NavigationOrteInDerNähe.png">
-
-| Navipunkt |
-|:-:|
-| Bushaltestelle |
+Hier werden Orte in unmittelbarer Nähe gezeigt.
 
 ## Sonstige Orte
-<img align="right" src="../../../assets/image/allgemein/navigation/NavigationSonstigeOrte.png">
-
-Hier werden alle Orte aufgeführt die nicht unter einen der anderen Punkte zählt
+Hier werden alle Orte aufgeführt, die nicht unter einen der anderen Punkte zählt
