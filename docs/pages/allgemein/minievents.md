@@ -11,7 +11,7 @@ Zur jeder Stunde um Viertel nach beginnt ein Minievent. Innerhalb von 10 Minuten
 | Arbeit, Arbeit, Arbeit! | Erledige soviele Nebenjobs wie möglich. | **/jobs** | [Unterschiedliche Skills](../../pages/skills/allgemein.md) |
 | Ausgeknurrt | Erledige soviele Wölfe wie möglich. | **/navi Jagdhütte**<br> **/jagdgebiet** | [Combat-Skill](../../pages/skills/combat.md) |
 | XP-Wahnsinn | Sammel soviele Erfahrungspunkte wie möglich. | | [Normales Level](../../pages/allgemein/level.md) |
-| Schwimm, schwimm, schwimm |
-| |
-| |
-| |
+| Schwimm, schwimm, schwimm | Lege die weiteste Distanz im Wasser zurück | | [Normales Level](../../pages/allgemein/level.md) |
+| Zeit zu Laufen! | Lege die weiteste Distanz zu Fuß zurück | | [Normales Level](../../pages/allgemein/level.md) |
+| Schildkröten Modus | Lege die weiteste Distanz während du sneakst zurück | | [Normales Level](../../pages/allgemein/level.md) |
+| Vollgas! | Lege die weiteste Distanz mit einem Fahrzeug zurück | | [Normales Level](../../pages/allgemein/level.md) |
