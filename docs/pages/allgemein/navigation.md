@@ -3,7 +3,7 @@
 Mit dem Befehl **/navi** öffnet sich ein Menü, welches Routenführungen zu den wichtigsten Punkten der Stadt startet. Wählt man in dem Menü ein Ziel aus, wird einem ein Kompass <img width="25" height="25" src="../../../assets/image/allgemein/navigation/Compass.png"> in das Inventar gelegt, welchem man folgen kann. Zudem ist im **/navi** Menü möglich nach Orten zu suchen oder die aktuelle Position auf der [Livemap](https://map.germanrp.eu) anzusehen.
 
 
-<img align="left" width="180" eight="100" src="../../../assets/image/allgemein/Navigation.png">
+<img align="right" width="280" eight="200" src="../../../assets/image/allgemein/Navigation.png">
 
 ## Wichtige Orte
 
