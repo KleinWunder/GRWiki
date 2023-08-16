@@ -78,13 +78,13 @@ Viele der Befehle haben einen oder mehr weiteren Befehle, die den selben Zweck e
 |:-:|:-:|
 | /members
 | /fraktionen
-/fraks
-/fraktionsgarage; /fgarage
-/fraktionshangar; /fhangar
-/fraktionskasse; /fkasse
-/fraktionslager; /flager
-/fraktionsleader, /fleader
-/fraktionsmenü, /fmenü
+| /fraks
+| /fraktionsgarage <br> /fgarage
+| /fraktionshangar <br> /fhangar
+| /fraktionskasse <br> /fkasse
+/fraktionslager <br> /flager
+/fraktionsleader <br> /fleader
+/fraktionsmenü <br> /fmenü
 
 
 ## Teambezogene Befehle
