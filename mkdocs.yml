@@ -216,7 +216,7 @@ markdown_extensions:
 theme:
   name: material
   logo: 'assets/theme/images/icon.png'
-  favicon: 'assets/theme/images/icon.png'
+  favicon: 'assets/theme/images/favicon.ico'
   language: de
   palette:
     scheme: slate
