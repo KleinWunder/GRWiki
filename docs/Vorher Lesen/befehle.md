@@ -1,15 +1,5 @@
 
-Fraktionsbezogenes
-/memberinfo
-/members
-/fraktionen
-/fraks
-/fraktionsgarage; /fgarage
-/fraktionshangar; /fhangar
-/fraktionskasse; /fkasse
-/fraktionslager; /flager
-/fraktionsleader, /fleader
-/fraktionsmenü, /fmenü
+
 
 Viele der Befehle haben einen oder mehr weiteren Befehle, die den selben Zweck erfüllen.
 
@@ -17,8 +7,6 @@ Viele der Befehle haben einen oder mehr weiteren Befehle, die den selben Zweck e
 
 | Befehl | Funktion |
 |:-:|:-:|
-/sit
-/lay
 | /memberinfo [Name/Fraktion]| Zugehörigkeit einer Fraktion abfragen. |
 | /profil [Name] | Anzeigen von Spielerdaten. (Ab Social Level 5) |
 | /health | Zeigt den eigenen Gesundheitzustand an. |
@@ -31,13 +19,13 @@ Viele der Befehle haben einen oder mehr weiteren Befehle, die den selben Zweck e
 | /menü | Das Spielmenü aufrufen. | 
 | /jobs | Öffnet eine Übersicht aller Nebenjobs. |
 | /skills | Übersicht der eigenen Skill-Level. |
-| /boosters | Abfrage eines momentan aktiven Boosters. (können im Shop gekauft werden)|
+| /boosters | Abfrage eines momentan aktiven Boosters. (Im Shop erwerbbar.)|
 | /texture | Lädt das aktuelle Texturepack für GermanRP runter. |
 | /regeln | Öffnet das Regelwerk von GermanRP. |
-| /settings | Nimmt Einstellungen an deinem Spiel vor. |
+| /settings | Einstellungen für das Spielerlebnis auf GermanRP. |
 | /shop | Öffnet den Webshop von GermanRP. |
-| /teamspeak | Ruft den Teamspeak Server ab. |
-| /forum | Erhalte den Link zum Forum. |
+| /teamspeak | Ruft die IP des Teamspeak Servers ab. |
+| /forum | Ruft den Link des Forums ab.|
 | /discord | Erhalte den Link zum Discord. |
 | /vote | Vote für den Server. |
 | /werbung | Schalte eine Werbung auf dem Server frei. |
@@ -76,15 +64,19 @@ Viele der Befehle haben einen oder mehr weiteren Befehle, die den selben Zweck e
 
 | Befehl | Erklärung | 
 |:-:|:-:|
-| /members
-| /fraktionen
-| /fraks
-| /fraktionsgarage <br> /fgarage
-| /fraktionshangar <br> /fhangar
-| /fraktionskasse <br> /fkasse
-/fraktionslager <br> /flager
-/fraktionsleader <br> /fleader
-/fraktionsmenü <br> /fmenü
+| /memberinfo [Name/Fraktion]| Zugehörigkeit einer Fraktion abfragen. |
+| /members | Listet die Memberliste deiner Fraktion auf. |
+| /fraktionen <br> /fraks | Öffnet ein menü mit allen Fraktionen. |
+| /fraktionsgarage <br> /fgarage | Greife auf die Fraktionsgarage zu. | 
+| /fraktionshangar <br> /fhangar | Greife auf das Fraktionshangar zu. |
+| /fraktionskasse <br> /fkasse | Sehe die Fraktionskasse ein. |
+| /fkasse einzahlen [Summe] | Zahle eine Geldsumme in die Fraktionskasse ein. |
+| /fkasse auszahlen [Summe] | Nehme eine Geldsumme aus der Fraktionskasse raus. (Nur Fraktionsleader.) |
+| /fraktionslager <br> /flager | Sehe das Fraktionslager ein. |
+| /flager einlagern [Substanz] [Summe] | Lager eine Substanz in das Fraktionslager ein. |
+| /flager auslagern [Substanz] [Summe] | Lager eine Substanz aus dem Fraktionslager aus. |
+| /fraktionsleader <br> /fleader | Zeigt alle anwesenden Leader an. |
+| /fraktionsmenü <br> /fmenü | Öffnet für die Fraktionsleader ein Verwaltungsmenü. |
 
 
 ## Teambezogene Befehle
@@ -100,5 +92,6 @@ Viele der Befehle haben einen oder mehr weiteren Befehle, die den selben Zweck e
 
 | Befehl | Erklärung | 
 |:-:|:-:|
-| /superdrops | Anzeige der möglichen & erreichten Superdrops |
-| /quitjob | Den aktuellen Nebenjob beenden |
+| /jobs | Öffnet eine Übersicht aller Nebenjobs. |
+| /superdrops | Anzeige der möglichen & erreichten Superdrops. |
+| /quitjob | Den aktuellen Nebenjob beenden. |
