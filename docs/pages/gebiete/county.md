@@ -22,11 +22,11 @@ Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten 
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">[Supermarkt](../../pages/biz/supermarkt.md)-3 <br> [Bar](../../pages/biz/bar.md)-2 <br> [Waffenladen](../../pages/biz/waffenladen.md)-2 <br> [Tankstelle](../../pages/biz/tankstelle.md)-2</td>
+      <td align="center"> <a href="../../pages/biz/supermarkt.md">Supermarkt</a>-3 <br> <a href="../../pages/biz/bar.md">Bar</a>-2 <br> <a href="../../pages/biz/waffenladen.md">Waffenladen</a>-2 <br> <a href="../../pages/biz/tankstelle.md">Tankstelle</a>-2 </td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">[Handelshaus](../../pages/gebäude/handelshaus.md)</td>
+      <td align="center"><a href="../../pages/gebäude/handelshaus.md">Handelshaus</a></td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
