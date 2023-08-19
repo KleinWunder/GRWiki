@@ -16,7 +16,7 @@ Eine kleine unscheinbare, ruhige Gegend. In den modernen Villen in dieser Straß
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/starblocks.md">Starblocks</a>-2</td>
+      <td align="center"><a href="../../biz/starblocks/">Starblocks</a>-2</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
@@ -24,7 +24,7 @@ Eine kleine unscheinbare, ruhige Gegend. In den modernen Villen in dieser Straß
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/bademeister.md">Bademeister</a></td>
+      <td align="center"><a href="../../nebenjobs/bademeister/">Bademeister</a></td>
     </tr>
   </tbody>
 </table>
