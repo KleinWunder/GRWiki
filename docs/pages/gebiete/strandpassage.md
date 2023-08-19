@@ -16,7 +16,7 @@ Eine kleine unscheinbare, ruhige Gegend. In den modernen Villen in dieser Straß
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">Starblocks-2</td>
+      <td align="center"><a href="../../biz/starblocks.md">Starblocks</a>-2</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
