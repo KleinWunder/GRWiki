@@ -30,6 +30,6 @@ Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten 
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center">/</td>
+      <td align="center"><a href="../../nebenjobs/imker.md">Imker</a> <br> <a href="../../nebenjobs/honigtransport.md">Honigtransport</a> <br> <a href="../../nebenjobs/agavenfarmer.md">Agavenfarmer</a></td>
   </tbody>
 </table>
