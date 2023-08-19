@@ -25,7 +25,7 @@ Im Ganggebiet herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Geglied
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/jvatransport.md">JVA-Transport</a> <br> <a href="../../nebenjobs/fensterputzer.md">Fensterputzer</a> <br> <a href="../../nebenjobs/munitionstransport.md">Munitionstransport</a></td>
+      <td align="center"><a href="../../nebenjobs/jvatransport.md">JVA-Transport</a> <br> <a href="../../nebenjobs/fensterputzer.md">Fensterputzer</a> <br> <a href="../../nebenjobs/munitionstransport.md">Munitionstransport</a> <br> <a href="../../nebenjobs/erztransport.md">Erztransport</a></td>
     </tr>
   </tbody>
 </table> 
