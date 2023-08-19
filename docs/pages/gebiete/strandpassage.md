@@ -24,7 +24,7 @@ Eine kleine unscheinbare, ruhige Gegend. In den modernen Villen in dieser Straß
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center">/</td>
+      <td align="center"><a href="../../nebenjobs/bademeister.md">Bademeister</a></td>
     </tr>
   </tbody>
 </table>
