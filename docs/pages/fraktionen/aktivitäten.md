@@ -6,6 +6,7 @@ Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslö
 Die Polizei kann folgende Aktivitäten machen:
 
 * [Apothekeraub](apothekenraub.md) verhindern
+* [Banküberfall](banküberfall.md) verhindern
 * [Bombe](bomben.md) neutralisieren
 * Bußgelder verteilen
 * Gewerberaub verhindern
@@ -56,6 +57,7 @@ Die Kartellfraktionen können folgende Aktivitäten machen:
 
 * [Apothekeraub](apothekenraub.md) starten
 * [ATM’s](../../pages/orte/zentralbank.md) aufbrechen
+* [Banküberfall](banküberfall.md) durchführen
 * [Bombe](bomben.md) legen
 * Brandstiftung durchführen
 * Gewerberäube starten
@@ -72,6 +74,7 @@ Die Mafiafraktionen können folgende Aktivitäten machen:
 
 * [Apothekeraub](apothekenraub.md) starten
 * [ATM’s](../../pages/orte/zentralbank.md) aufbrechen
+* [Banküberfall](banküberfall.md) durchführen
 * Brandstiftung durchführen
 * Gewerberäube starten
 * [Hausaktionen](hausaktionen.md) durchführen
