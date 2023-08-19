@@ -145,6 +145,7 @@ nav:
     - Aktivitäten: 
       - Allgemein: pages/fraktionen/aktivitäten.md
       - Apothekenräube: pages/fraktionen/apothekenraub.md
+      - Banküberfall: banküberfall.md
       - Bombe: pages/fraktionen/bomben.md
       - Darklist: pages/fraktionen/darklist.md
       - Hausaktionen: pages/fraktionen/hausaktionen.md
