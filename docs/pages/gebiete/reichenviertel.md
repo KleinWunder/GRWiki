@@ -24,7 +24,7 @@ Die markanten Backsteinhäuser im Reichenviertel stechen jedem sofort ins Auge. 
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center">/</td>
+      <td align="center"><a href="../../nebenjobs/sägewerk.md">Sägewerk</a></td>
     </tr>
   </tbody>
 </table>
