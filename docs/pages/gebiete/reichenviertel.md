@@ -1,3 +1,6 @@
+<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Reichenviertel1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Reichenviertel2.png">
+
+
 Die markanten Backsteinhäuser im Reichenviertel stechen jedem sofort ins Auge. Hier herrschen die Camorra. Es ist normalerweise eine ruhige Gegend, doch im verborgenen geschehen die haarsträubendsten Dinge.
 
 <table>
