@@ -14,19 +14,19 @@ Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center"><a href="../../fraktionen/rettungsdienst.md">Uniklinik</a> <br> Postzentrale </td>
+      <td align="center"><a href="../../fraktionen/rettungsdienst/">Uniklinik</a> <br> Postzentrale </td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/apotheke.md">Apotheke</a>-1 <br> <a href="../../biz/starblocks.md">Starblocks</a>-1 <br> <a href="../../biz/bar.md">Bar</a>-3</td>
+      <td align="center"><a href="../../biz/apotheke/">Apotheke</a>-1 <br> <a href="../../biz/starblocks/">Starblocks</a>-1 <br> <a href="../../biz/bar/">Bar</a>-3</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Makler <br> <a href="../../orte/stadthalle.md">Stadthalle</a> <br> <a href="../../fraktionen/rettungsdienst.md">Uniklinik</a> <br> <a href="../../orte/zentralbank.md">Zentralbank</a> <br> <a href="../../fraktionen/polizei.md">Polizei</a> HQ <br> <a href="../../orte/rathaus.md">Rathaus</a></td>
+      <td align="center">Makler <br> <a href="../../orte/stadthalle/">Stadthalle</a> <br> <a href="../../fraktionen/rettungsdienst/">Uniklinik</a> <br> <a href="../../orte/zentralbank/">Zentralbank</a> <br> <a href="../../fraktionen/polizei/">Polizei</a> HQ <br> <a href="../../orte/rathaus/">Rathaus</a></td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/paketsortierer.md">Paketsortierer</a> <br> <a href="../../nebenjobs/wäscherei.md">Wäscherei</a> <br> <a href="../../nebenjobs/zeitungsjunge.md">Zeitungsjunge</a> <br> <a href="../../nebenjobs/koch.md">Koch</a> <br> <a href="../../nebenjobs/wäschetransport.md">Wäschetransport</a> <br> <a href="../../nebenjobs/straßenreiniger.md">Straßenreiniger</a> <br> <a href="../../nebenjobs/tellerwäscher.md">Tellerwäscher</a> <br> <a href="../../nebenjobs/geldtransport.md">Geldtransport</a> <br> <a href="../../nebenjobs/bergbau.md">Bergbau</a> <br> <a href="../../nebenjobs/angler.md">Angler</a> <br> <a href="../../nebenjobs/reifentransport.md">Reifentransport</a></td>
+      <td align="center"><a href="../../nebenjobs/paketsortierer/">Paketsortierer</a> <br> <a href="../../nebenjobs/wäscherei/">Wäscherei</a> <br> <a href="../../nebenjobs/zeitungsjunge/">Zeitungsjunge</a> <br> <a href="../../nebenjobs/koch/">Koch</a> <br> <a href="../../nebenjobs/wäschetransport/">Wäschetransport</a> <br> <a href="../../nebenjobs/straßenreiniger/">Straßenreiniger</a> <br> <a href="../../nebenjobs/tellerwäscher/">Tellerwäscher</a> <br> <a href="../../nebenjobs/geldtransport/">Geldtransport</a> <br> <a href="../../nebenjobs/bergbau/">Bergbau</a> <br> <a href="../../nebenjobs/angler/">Angler</a> <br> <a href="../../nebenjobs/reifentransport/">Reifentransport</a></td>
     </tr>
   </tbody>
 </table> 
