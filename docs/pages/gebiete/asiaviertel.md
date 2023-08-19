@@ -17,11 +17,11 @@ In Mitten blühender Sakura-Bäume liegt das Asiaviertel. Die charakteristischen
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/supermarkt.md">Supermarkt</a>-6 <br> <a href="../../biz/waffenladen.md">Waffenladen</a>-4 <br> <a href="../../biz/tankstelle.md">Tankstelle</a>-4 <br> <a href="../../biz/apotheke.md">Apotheke</a>-4</td>
+      <td align="center"><a href="../../biz/supermarkt/">Supermarkt</a>-6 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-4 <br> <a href="../../biz/tankstelle/">Tankstelle</a>-4 <br> <a href="../../biz/apotheke/">Apotheke</a>-4</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center"><a href="../../fraktionen/yakuza.md">Yakuza</a> HQ <br> Freizeitpark</td>
+      <td align="center"><a href="../../fraktionen/yakuza/">Yakuza</a> HQ <br> Freizeitpark</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
