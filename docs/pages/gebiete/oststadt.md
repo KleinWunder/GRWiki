@@ -27,6 +27,6 @@ Die Oststadt ist ein kleines, ruhiges Wohnviertel, welches überwiegend aus farb
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/winzer.md">Winzer</a> <br> <a href="../../nebenjobs/farmer.md">Farmer</a> <br> <a href="../../nebenjobs/blumentransport.md">Blumentransport</a> <br> <a href="../../nebenjobs/getränketransport.md">Getränketransport</a> <br> <a href="../../nebenjobs/gärtner.md">Gärtner</a></td>
+      <td align="center"><a href="../../nebenjobs/winzer.md">Winzer</a> <br> <a href="../../nebenjobs/farmer.md">Farmer</a> <br> <a href="../../nebenjobs/blumentransport.md">Blumentransport</a> <br> <a href="../../nebenjobs/getränketransport.md">Getränketransport</a> <br> <a href="../../nebenjobs/gärtner.md">Gärtner</a> <br> <a href="../../nebenjobs/jagd.md">Jagd</a></td>
   </tbody>
 </table>
