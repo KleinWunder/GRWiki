@@ -26,7 +26,7 @@ Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/paketsortierer.md">Paketsortierer</a> <br> <a href="../../nebenjobs/wäscherei.md">Wäscherei</a> <br> <a href="../../nebenjobs/zeitungsjunge.md">Zeitungsjunge</a> <br> <a href="../../nebenjobs/koch.md">Koch</a> <br> <a href="../../nebenjobs/wäschetransport.md">Wäschetransport</a> <br> <a href="../../nebenjobs/straßenreiniger.md">Straßenreiniger</a> <br> <a href="../../nebenjobs/tellerwäscher.md">Tellerwäscher</a> <br> <a href="../../nebenjobs/geldtransport.md">Geldtransport</a> <br> </td>
+      <td align="center"><a href="../../nebenjobs/paketsortierer.md">Paketsortierer</a> <br> <a href="../../nebenjobs/wäscherei.md">Wäscherei</a> <br> <a href="../../nebenjobs/zeitungsjunge.md">Zeitungsjunge</a> <br> <a href="../../nebenjobs/koch.md">Koch</a> <br> <a href="../../nebenjobs/wäschetransport.md">Wäschetransport</a> <br> <a href="../../nebenjobs/straßenreiniger.md">Straßenreiniger</a> <br> <a href="../../nebenjobs/tellerwäscher.md">Tellerwäscher</a> <br> <a href="../../nebenjobs/geldtransport.md">Geldtransport</a> <br> <a href="../../nebenjobs/bergbau.md">Bergbau</a> <br> <a href="../../nebenjobs/angler.md">Angler</a></td>
     </tr>
   </tbody>
 </table> 
