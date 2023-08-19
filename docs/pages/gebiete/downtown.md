@@ -1,5 +1,8 @@
 # Downtown
 
+<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Downtown1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Downtown2.png">
+
+
 Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus Hochhäusern, in welchen sich unzählige Büros und Apartments befinden sowie auch die meisten spielrelevanten Gebäude.
 
 <table>
