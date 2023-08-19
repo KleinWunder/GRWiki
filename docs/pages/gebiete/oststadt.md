@@ -18,15 +18,15 @@ Die Oststadt ist ein kleines, ruhiges Wohnviertel, welches überwiegend aus farb
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/supermarkt.md">Supermarkt</a>-1&4 <br> <a href="../../biz/bar.md">Bar</a>
--1 <br> <a href="../../biz/waffenladen.md">Waffenladen</a>-1 <br> Gärternei</td>
+      <td align="center"><a href="../../biz/supermarkt/">Supermarkt</a>-1&4 <br> <a href="../../biz/bar/">Bar</a>
+-1 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-1 <br> Gärternei</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center"><a href="../../fraktionen/rettungsdienst.md">Rettungswache</a> <br> Spielplatz <br> Restaurant</td>
+      <td align="center"><a href="../../fraktionen/rettungsdienst/">Rettungswache</a> <br> Spielplatz <br> Restaurant</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/winzer.md">Winzer</a> <br> <a href="../../nebenjobs/farmer.md">Farmer</a> <br> <a href="../../nebenjobs/blumentransport.md">Blumentransport</a> <br> <a href="../../nebenjobs/getränketransport.md">Getränketransport</a> <br> <a href="../../nebenjobs/gärtner.md">Gärtner</a> <br> <a href="../../nebenjobs/jagd.md">Jagd</a></td>
+      <td align="center"><a href="../../nebenjobs/winzer/">Winzer</a> <br> <a href="../../nebenjobs/farmer/">Farmer</a> <br> <a href="../../nebenjobs/blumentransport/">Blumentransport</a> <br> <a href="../../nebenjobs/getränketransport/">Getränketransport</a> <br> <a href="../../nebenjobs/gärtner/">Gärtner</a> <br> <a href="../../nebenjobs/jagd/">Jagd</a></td>
   </tbody>
 </table>
