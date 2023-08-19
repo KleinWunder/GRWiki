@@ -10,7 +10,7 @@ Finde den NPC Albertus östlich von [Oststadt](../../pages/gebiete/oststadt.md) 
 Besuche Markus hinter der [Jagdhütte](../../pages/nebenjobs/jagd.md) und spreche ihn mit Rechtsklick an. Besuche dann die [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md).
 
 ## Im Untergrund
-Finde die geheime Sekte östlich von [Ganggebiet](../../pages/gebiete/ganggebiet.md). Gehe danach zur Jagdhütte und kaufe Wolfsköder.
+Finde die geheime Sekte im Alten Friedhof von [Ganggebiet](../../pages/gebiete/ganggebiet.md). Gehe danach zur Jagdhütte und kaufe Wolfsköder.
 
 ## Der Goldgroschen
 Finde den Straßenmusiker in [Downtown](../../pages/gebiete/downtown.md). Gehe dann zum [Bergwerk](../../pages/nebenjobs/bergbau.md) und kaufe eine Spitzhacke.
