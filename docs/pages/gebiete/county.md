@@ -22,14 +22,14 @@ Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten 
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"> <a href="../../biz/supermarkt/">Supermarkt</a>-3 <br> <a href="../../biz/bar.md">Bar</a>-2 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-2 <br> <a href="../../biz/tankstelle/">Tankstelle</a>-2 </td>
+      <td align="center"> <a href="../../biz/supermarkt/">Supermarkt</a>-3 <br> <a href="../../biz/bar/">Bar</a>-2 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-2 <br> <a href="../../biz/tankstelle/">Tankstelle</a>-2 </td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center"><a href="../../gebäude/handelshaus.md">Handelshaus</a></td>
+      <td align="center"><a href="../../gebäude/handelshaus/">Handelshaus</a></td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/imker.md">Imker</a> <br> <a href="../../nebenjobs/honigtransport.md">Honigtransport</a> <br> <a href="../../nebenjobs/agavenfarmer.md">Agavenfarmer</a></td>
+      <td align="center"><a href="../../nebenjobs/imker/">Imker</a> <br> <a href="../../nebenjobs/honigtransport/">Honigtransport</a> <br> <a href="../../nebenjobs/agavenfarmer/">Agavenfarmer</a></td>
   </tbody>
 </table>
