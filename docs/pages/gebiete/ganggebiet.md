@@ -17,15 +17,15 @@ Im Ganggebiet herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Geglied
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/apotheke.md">Apotheke</a>-2 <br> <a href="../../biz/supermarkt.md">Supermarkt</a>-5 <br> <a href="../../biz/waffenladen.md">Waffenladen</a>-3</td>
+      <td align="center"><a href="../../biz/apotheke/">Apotheke</a>-2 <br> <a href="../../biz/supermarkt/">Supermarkt</a>-5 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-3</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center"><a href="../../gebäude/tierheim.md">Tierheim</a> <br> Raven Familia HQ</td>
+      <td align="center"><a href="../../gebäude/tierheim/">Tierheim</a> <br> Raven Familia HQ</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/jvatransport.md">JVA-Transport</a> <br> <a href="../../nebenjobs/fensterputzer.md">Fensterputzer</a> <br> <a href="../../nebenjobs/munitionstransport.md">Munitionstransport</a> <br> <a href="../../nebenjobs/erztransport.md">Erztransport</a></td>
+      <td align="center"><a href="../../nebenjobs/jvatransport/">JVA-Transport</a> <br> <a href="../../nebenjobs/fensterputzer/">Fensterputzer</a> <br> <a href="../../nebenjobs/munitionstransport/">Munitionstransport</a> <br> <a href="../../nebenjobs/erztransport/">Erztransport</a></td>
     </tr>
   </tbody>
 </table> 
