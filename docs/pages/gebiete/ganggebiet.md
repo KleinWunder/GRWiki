@@ -17,11 +17,11 @@ Im Ganggebiet herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Geglied
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center">Apotheke-2 <br> Supermarkt-5 <br> Waffenladen-3</td>
+      <td align="center"><a href="../../biz/apotheke.md">Apotheke</a>-2 <br> <a href="../../biz/supermarkt.md">Supermarkt</a>-5 <br> <a href="../../biz/waffenladen.md">Waffenladen</a>-3</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Tierheim <br> Raven Familia HQ</td>
+      <td align="center"><a href="../../gebäude/tierheim.md">Tierheim</a> <br> Raven Familia HQ</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
