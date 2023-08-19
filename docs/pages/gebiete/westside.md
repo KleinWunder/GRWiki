@@ -20,7 +20,7 @@ An das Land England angelehnt gestaltet, bringt das Viertel drei Gewerbe mit sic
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/apotheke.md">Apotheke</a>-5 <br> <a href="../../biz/tankstelle.md">Tankstelle</a>-5 <br> <a href="../../biz/supermarkt.md">Supermarkt</a>-7</td>
+      <td align="center"><a href="../../biz/apotheke/">Apotheke</a>-5 <br> <a href="../../biz/tankstelle/">Tankstelle</a>-5 <br> <a href="../../biz/supermarkt/">Supermarkt</a>-7</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
