@@ -7,7 +7,7 @@
 
 
 
-Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten Sandsteingebäude aus. Hier herrscht das kolumbianische <a href="../../fraktionen/kartell.md">Medellín kartell</a>. Umgeben von Agaven-Feldern und einer sehr mediterranen Bepflanzung liegt das County im westlichen Teil der Karte.
+Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten Sandsteingebäude aus. Hier herrscht das kolumbianische <a href="../../fraktionen/kartell/">Medellín kartell</a>. Umgeben von Agaven-Feldern und einer sehr mediterranen Bepflanzung liegt das County im westlichen Teil der Karte.
 
 <table>
   <thead>
