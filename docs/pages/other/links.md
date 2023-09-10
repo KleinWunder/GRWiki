@@ -1,9 +1,5 @@
-<p align="center" style="font-size: 25px;">                                                      
-<img src="../../../assets/images/icon.png"/>
-<br>
-
-</p>
-Willkommen im offiziellen Linktree von GermanRP. In diesem Beitrag findest du alle nützlichen Links.
+''' Willkommen im offiziellen Linktree von GermanRP"
+    In diesem Beitrag findest du alle nützlichen Links!
 
 + [Forum](https://germanrp.eu/forum/)
 + [Store](https://germanrpofficial.tebex.io/)
