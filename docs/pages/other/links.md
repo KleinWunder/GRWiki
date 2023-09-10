@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 25px;">                                                      
-<img src="assets/theme/images/icon.png"/>
+<img src="../../../assets/images/icon.png"/>
 <br>
 
 </p>
