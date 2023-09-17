@@ -1,6 +1,6 @@
 # Heilkraut
 
-Heilkraut wird aus ihrer gleichnamigen [Heilkrautpflanze](../../../pages/pflanzen/heilkraut.md) gewonnen. Ihr Besitz ist, über 4 Gram, **illegal**.
+Heilkraut wird aus ihrer gleichnamigen [Heilkrautpflanze](../../pages/pflanzen/heilkraut.md) gewonnen. Ihr Besitz ist, über 4 Gram, **illegal**.
 
 ## Wirkung
 Wird Heilkraut eingenommen, erhält man folgende Wirkung:
