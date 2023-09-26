@@ -62,6 +62,7 @@ nav:
     - Waffenläden: pages/biz/waffenladen.md
   - Fahrzeuge:
     - Allgemein: pages/fahrzeuge/allgemein.md
+    - Kofferraum: pages/fahrzeuge/kofferaum.md
     - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
     - Schrottpresse: pages/fahrzeuge/schrottpresse.md
     - Blitzer: pages/fahrzeuge/blitzer.md
