@@ -146,6 +146,7 @@ nav:
     - The Establishment: pages/fraktionen/establishment.md
     - Aktivitäten: 
       - Allgemein: pages/fraktionen/aktivitäten.md
+      - Reputationpunkte: pages/fraktionen/reputationpunkte.md
       - Apothekenräube: pages/fraktionen/apothekenraub.md
       - Banküberfall: banküberfall.md
       - Bombe: pages/fraktionen/bomben.md
