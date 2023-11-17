@@ -45,4 +45,4 @@ Derzeitige Co-Leitung: **/**
 
 Fraktionsmanager ist ein Sonderposten, auf den sich nicht beworben werden kann. Der Fraktionsmanager ist Ansprechpartner und Verantwortlicher für die Fraktionsleader. Er verwaltet das Leaderregelwerk, prüft Beschwerden gegen Leader und ist dafür zuständig, dass die Fraktionen gut laufen.
 
-Derzeitiger Fraktionsmanager: **[Alle Administatoren]**
+Derzeitiger Fraktionsmanager: **Alle Administatoren**
