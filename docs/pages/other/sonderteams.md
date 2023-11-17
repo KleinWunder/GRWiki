@@ -6,8 +6,8 @@ Die Sonderteams gliedern sich in 5 Aufgabenbereiche, neben diesen 5 Sonderteams 
 
 Bauteammitglieder können in den sogenannten Baumodus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Bauteamler ausführen. Im besagten Modus können die Bauteamitglieder Bauaufträge erledigen, welche das Erscheinungdsbild der Stadt bedeutsam verändern kann. Eine Person, die im Baumodus ist, erkennt man daran, dass sie hinter ihren Namen ein <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>**-Symbol** stehen hat. Beispiel: **[GR]KleinWunder** <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>
 
-Derzeitige Leitung: **[Nandi124](https://germanrp.eu/index.php?user/431-nandi124/)**<br>
-Derzeitige Co-Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0uth/)**
+Derzeitige Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0uth/)**<br>
+Derzeitige Co-Leitung: **[Nandi124](https://germanrp.eu/index.php?user/431-nandi124/)**
 
 
 ## Wikiteam
@@ -23,7 +23,7 @@ Derzeitige Co-Leitung: **[Hoschiii](https://germanrp.eu/index.php?user/56-hoschi
 Entertainmentteamitglieder veranstalten regelmäßige Serverevents. Sie organisieren und planen unter anderem zum Beispiel das Osterevent, das Weihnachtsevent und Spiele, wie "Wer wird GR".
 
 Derzeitige Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**<br>
-Derzeitige Co-Leitung: **[zS0uth](https://germanrp.eu/index.php?user/903-gr-zs0uth/)**
+Derzeitige Co-Leitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-masterhero/)**
 
 
 ## Entwicklerteam
@@ -38,17 +38,11 @@ Derzeitige Co-Leitung: **[ImGxrke](https://germanrp.eu/index.php?user/901-gr-img
 
 PR-Teammitglieder sind verantwortlich für die Socialmediapräsenz. Sie betreiben und verwalten die Socialmedia Kanäle auf [Instagram](https://www.instagram.com/germanrp.pr/), [YouTube](https://www.youtube.com/@germanrpreallifeeconomyrol4257), [Twitter](https://twitter.com/GermanRP3) und [TikTok](https://www.tiktok.com/@germanrp.pr?is_from_webapp=1&sender_device=pc).
 
-Derzeitige Leitung: **[Brate47](https://germanrp.eu/index.php?user/249-gr-brate47/)**<br>
+Derzeitige Leitung: **[Ajael](https://germanrp.eu/index.php?user/3-gr-ajael/)**<br>
 Derzeitige Co-Leitung: **/**
 
 ## Fraktionsmanagement
 
 Fraktionsmanager ist ein Sonderposten, auf den sich nicht beworben werden kann. Der Fraktionsmanager ist Ansprechpartner und Verantwortlicher für die Fraktionsleader. Er verwaltet das Leaderregelwerk, prüft Beschwerden gegen Leader und ist dafür zuständig, dass die Fraktionen gut laufen.
 
-Derzeitiger Fraktionsmanager: **[BRATE47](https://germanrp.eu/index.php?user/249-gr-brate47/)**
-
-## Teamleitung
-
-Die Teamleitung, ein Sonderposten innerhalb des Serverteams. Die Teamleitung ist Ansprechpartner und Aufsicht der Sonderteams und Guideteam passiert. Sie sorgt dafür, dass alles gut vonstattengeht.
-
-Derzeitige Teamleitung: **[Paulphobie](https://germanrp.eu/index.php?user/40-gr-paulphobie/)**
+Derzeitiger Fraktionsmanager: **[Alle Administatoren]**
