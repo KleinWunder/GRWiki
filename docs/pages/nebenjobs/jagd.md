@@ -42,6 +42,13 @@ Diese Items werden unterschiedlich verwertet:
 * Wolfszähne: Kann beim NPC verkauft oder in der Sekte, als Bezahlung eingesetzt werden.
 * Wolfpet: Kann im [Tierheim](../../pages/gebäude/tierheim.md) verkauft oder ins [Handelshaus](../../pages/gebäude/handelshaus.md) gestellt werden.
 
+### Dropchance beim Töten eines Wolfes
+
+| Item | Dropchance |
+|:-:|:-:|
+| Knochen | 25% |
+| Vergammeltes Fleisch | 50% |
+
 ### Verkauf von Jagditems
 
 | Item | Verkaufspreis pro Stück |
