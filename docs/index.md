@@ -16,9 +16,9 @@ Wir wünschen dir viel Spaß auf deiner Entdeckungstour!
 
 ## Nützliche Links
 
-* [Anfängerhilfe](https://kleinwunder.github.io/GRWiki/pages/help/anfängerhilfe/)
-* [Nebenjobs](https://kleinwunder.github.io/GRWiki/pages/nebenjobs/nebenjobs/)
-* [Nahrung](https://kleinwunder.github.io/GRWiki/pages/allgemein/essen/)
+* [Anfängerhilfe](https://KleinWunder.github.io/GRWiki/pages/help/anfängerhilfe/)
+* [Nebenjobs](https://KleinWunder.github.io/GRWiki/pages/nebenjobs/nebenjobs/)
+* [Nahrung](https://KleinWunder.github.io/GRWiki/pages/allgemein/essen/)
 
 
 
