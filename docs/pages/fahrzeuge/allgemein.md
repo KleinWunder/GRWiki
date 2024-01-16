@@ -54,10 +54,12 @@ Die Fahrzeuge unterscheiden sich in diesen Werten:
 | Polizei SUV | 140 km/h | 200.0 | 30.0  | 4 | 3 | 30g | - | 14500.0€ |
 | Polizeidienstwagen | 120 km/h | 100.0 | 25.0  | 4 | 5 | 25g | - | 3250.0€ |
 | Zivilstreifenwagen | 115 km/h | 120.0 | 30.0  | 4 | 1 | 25g | - | 13500.0€ |
-| Zilvilsteifenwagen 2 | 135 km/h | 120.0 | 25.0 | 2 | 1 | 25g | - | 18500.0€ |
+| Ziviltransporter | 100 km/h | 175.0 | 30.0 | 8 | 5 | 100g | - | 6500.0€ |
 | Polizei Limousine | 145 km/h | 150.0 | 30.0 | 4 | 3 | 30g | - | 10000.0€ |
 | Polizei Motorad | 135 km/h | 60.0 | 15.0 | 1 | - | - | - | 11000.0€ |
 | Polizei Helikopter | 200 km/h | 200.0 | 50.0  | 5 | - | - | - | unknown |
+| Zolltransporter | 100 km/h | 125.0 | 30.0 | 8 | - | - | - | 5500.0€ |
+| Polizei G-Klasse | 140 km/h | 175.0 | 25.0 | 1 | 3 | 60g | - | 45.000€ |
 
 ### Folgende Fahrzeuge sind für den [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhältlich.
 
