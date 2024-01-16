@@ -18,3 +18,5 @@ Im Starblocks werden folgende Artikel verkauft: <img align="right" width="300" e
 |:-:|:-:|:-:|   
 | Starblocks-1 | Stadtpark | Postzentrale |
 | Starblocks-2 | [Strandpasage](../../pages/gebiete/strandpassage.md) | Strandpasage |
+| Starblocks-3 | [County](../../pages/gebiete/county.md) | County |
+| Starblocks-4 | Mall | Uniklinik
