@@ -16,3 +16,4 @@ Nach dem Bezahlen ist der Tank im Fahrzeug. (**/navi Tankstelle-1/2/3/4/5/6**)
 | Tankstelle-4 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Asia-Viertel |
 | Tankstelle-5 | [Westside](../../pages/gebiete/westside.md) | Westside |
 | Tankstelle-6 | Autobahn ([Ganggebiet-Nord](../../pages/gebiete/ganggebiet.md)) | Ganggebiet-Nord | 
+| Tankstelle-7 | ([Reichenviertel](../../pages/gebiete/reichenviertel.md)) | Reichenviertel |
