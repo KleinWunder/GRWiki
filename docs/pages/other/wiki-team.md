@@ -25,7 +25,7 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/pxscal361-skin.png" alt="pxscal361" title="pxscal361" /> <img src="../../../assets/image/Wiki Team/Frage-skin.png" alt="???" title="???" /> 
+<img src="../../../assets/image/Wiki Team/pxscal_361-skin.png" alt="pxscal_361" title="pxscal361" /> <img src="../../../assets/image/Wiki Team/Frage-skin.png" alt="???" title="???" /> 
 
 </center>
 
