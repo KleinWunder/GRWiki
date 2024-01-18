@@ -24,6 +24,12 @@
 
 </center>
 
+<center>
+
+<img src="../../../assets/image/Wiki Team/pxscal361-skin.png" alt="pxscal361" title="pxscal361" /> <img src="../../../assets/image/Wiki Team/Frage-skin.png" alt="???" title="???" /> 
+
+</center>
+
 ### Informationen 
   
  Mehr Informationen über uns, findest du im Forum. ([Klicke hier](https://germanrp.eu/forum/index.php?thread/12284-vorstellung-des-wiki-teams/))
