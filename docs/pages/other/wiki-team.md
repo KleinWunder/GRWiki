@@ -1,4 +1,3 @@
-## Wiki-Team
 
 <center>  
 
