@@ -14,6 +14,7 @@ Auf dem Server gibt es zwei mögliche Notrufe, welche abgesetzt werden können. 
 * 112 oder 110 eingeben.
 * Die Nummer wird gewählt.
 * Ein Fraktionsmitglied von Polizei oder Rettungsdienst kann den Notruf entgegennehmen und bearbeiten.
+<img align="right" width="100" eight="50" src="../../../assets/image/fraktionen/aktivitäten/Notruf_Eingang1.png">
 * Der Notruf wird bei Nichtbeantwortung nach 20 Sekunden automatsich per Notrufzentrale fortgeführt. Nun muss man einen Grund angeben.
     * Der Grund sollte möglichst klar definiert sein. Bsp.: "Ich bin im Haus 12-4 eingesperrt", "Hier liegt eine bewusstlose Person".
 * Wenn Hilfe unterwegs ist wird dies im Chat mitgeteilt.
