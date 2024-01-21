@@ -1,5 +1,5 @@
 # Notruf
-Auf dem Server gibt es zwei mögliche Notrufe, welche abgesetzt werden können. Zum Einen der Notruf bei der [Polizei](../../pages/fraktionen/polizei.md) und zum Anderen der Notruf bei des [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md). Das Wählen des Notrufes ist kostenlos, aber nur solange möglich, wie man Kommunikationsmittel besitzt. Für das Absetzen eines Notrufes ist ein [Handyvertrag](../../pages/allgemein/handy.md) erforderlich.
+Auf dem Server gibt es zwei mögliche Notrufe, welche abgesetzt werden können. Zum Einen der Notruf bei der [Polizei](../../pages/fraktionen/polizei.md) und zum Anderen der Notruf bei dem [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md). Das Wählen des Notrufes ist kostenlos, aber nur solange möglich, wie man Kommunikationsmittel besitzt. Für das Absetzen eines Notrufes ist ein [Handyvertrag](../../pages/allgemein/handy.md) erforderlich.
 
 ## Notrufnummern
 | Nummer | Fraktion | Beispielgründe |
