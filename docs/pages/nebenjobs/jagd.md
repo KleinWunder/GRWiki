@@ -54,6 +54,8 @@ Diese Items werden unterschiedlich verwertet:
 | Item | Verkaufspreis pro Stück |
 |:-:|:-:|
 | Wolfszahn | 50.0€ |
+| Knochen | 8.0€ |
+| Vergammeltes Fleisch | 1.80€ |
 | Wolfspelz | 1.20€ |
 
 ## Tipps & Tricks
