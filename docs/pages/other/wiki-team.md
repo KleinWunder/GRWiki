@@ -7,7 +7,7 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/Wiki Team/36Flo_skin.png" alt="[GR]36Flo" title="36Flo" />
+<img src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/Wiki Team/36Flo_skin.png" alt="[GR]36Flo" title="[GR]36Flo" />
 
 </center>
 
