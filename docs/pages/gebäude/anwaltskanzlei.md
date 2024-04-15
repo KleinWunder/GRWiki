@@ -1,6 +1,6 @@
 # Anwalt 
 
-Anwälte können in der [Justizvollzugsanstalt](../../pages/orte/jva.md) angerufen werden. Je nach angeheuerten Anwalt kann dieser einen eine Kaution hinterlegen, die Haftzeit vermindern oder gar nichts erreichen.
+Anwälte können in der [Justizvollzugsanstalt](../../pages/orte/jva.md) angerufen werden. Je nach angeheuerten Anwalt kann dieser einen eine Kaution hinterlegen, die Haftzeit vermindern oder aber auch gar nichts erreichen.
 
 ## Lage der Kanzlei
 
