@@ -1,11 +1,11 @@
-Trainingssystem
+# Trainingssystem
 
 
 Das Trainingssystem wird verwendet, um zwischen zwei Fraktionen eine Schussübung zu machen, um sich beispielsweise auf einen vorstehenden Gangwar vorzubereiten. Das Training kann aber auch als normale Übung für das schießen benutzt werden.
 
 
 
-Trainingsbefehle
+## Trainingsbefehle
 Beim Trainingssytem gibt es vier Trainingsbefehle:
 
 -/training create
@@ -34,10 +34,10 @@ Mit dem abschließendem Befehl /training leave kannst du dein aktives Training v
 
 
 
-Trainingsablauf
+## Trainingsablauf
 Die Fraktionsleader können sich mit anderen Fraktionsleadern aus anderen Fraktionen besprechen, ob diese Zeit hätten für ein Training haben. Falls diese zustimmen, wird eine Discord Ankündigung in den jeweiligen Fraktionsdiscords erstellt, dass jeder Member bescheid weiß. An dem Tag an dem das vorgegebene Training stattfindet, wird sich ein guter Bereich ausgesucht, bei dem das Training startet.
 
 
 
-Trainingsabmeldungen
+## Trainingsabmeldungen
 Falls für die Member keine Zeit besteht, bei dem Training teilzunehmen, müssen diese sich in ihren Abmeldungsbereichen Abmelden, solange es ein Pflichttraining ist.
