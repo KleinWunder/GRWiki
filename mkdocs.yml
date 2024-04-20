@@ -78,11 +78,8 @@ nav:
       - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
     - Impfung: pages/krankheiten/impfung.md
   - Substanzen:
-    - Antibiotika: pages/bmt/antibiotika.md
-    - Betablocker: pages/bmt/betablocker.md
-    - Paracetamol: pages/bmt/paracetamol.md
-    - Grippostat: pages/bmt/grippostat.md
     - Heilkraut: pages/bmt/heilkraut.md
+    - Medikamente: pages/bmt/medikamente.md
     - Mohnkapseln: pages/bmt/mohnkapseln.md
     - Novapulver: pages/bmt/novapulver.md
     - Schmerzmittel: pages/bmt/schmerzmittel.md
