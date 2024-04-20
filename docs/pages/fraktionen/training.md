@@ -8,13 +8,13 @@ Das Trainingssystem wird verwendet, um zwischen zwei Fraktionen eine Schussübun
 ## Trainingsbefehle
 Beim Trainingssytem gibt es vier Trainingsbefehle:
 
--/training create
+* /training create
 
--/training info
+* /training info
 
--/training list
+* /training list
 
--/training leave
+* /training leave
 
 
 
