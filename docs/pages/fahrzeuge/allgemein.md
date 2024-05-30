@@ -44,6 +44,9 @@ Die Fahrzeuge unterscheiden sich in diesen Werten:
 | Dodge Challenger | 135 km/h | 120.0 | 25.0 | 2 | 1 | 25g | 50.0€ | 18500.0€ |
 | Mercedes G-Klasse | 140.0 km/h | 175.0 | 25.0  | 4 | 3 | 60g | 75.0€ | 20000.0€ |
 | Pickup | 115.0 km/h | 125.0 | 30.0 | 2 | 5 | 125g | 35.0€ | 7500.0€ |
+| Asterion | 140.0 km/h | 100.0 | 15.0 | 2 | 0 | 0g | 130.0€ | 145000.0€ |
+| Supersport | 145.0 km/h | 120.0 | 20.0 | 2 | 0 | 0g | 150.0€ | 185000.0€ |
+| Mercedes C-Klasse | 115.0 km/h | 100.0 | 25.0 | 2 | 5 | 25g | 40.0€ | 5250.0€ |
 
 ### Folgende Fahrzeuge sind für die [Polizei](../../pages/fraktionen/polizei.md) erhältlich.
 
