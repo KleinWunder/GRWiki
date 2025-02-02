@@ -7,7 +7,7 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/Wiki Team/36Flo-skin.png" alt="36Flo" title="36Flo" />
+<img width="276" eight="368" src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" /> <img width="276" eight="368" src="../../../assets/image/Wiki Team/36Flo-skin.png" alt="36Flo" title="36Flo" />
 
 </center>
 
@@ -19,7 +19,7 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/Frage-skin.png" alt="???" title="???" /> 
+<img width="276" eight="368" src="../../../assets/image/Wiki Team/Frage-skin.png" alt="???" title="???" /> 
 
 
 </center>
