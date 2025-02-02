@@ -7,7 +7,7 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/Wiki Team/36Flo_skin.png" alt="[GR]36Flo" title="[GR]36Flo" />
+<img src="../../../assets/image/Wiki Team/piewn skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/Wiki Team/36Flo-skin.png" alt="36Flo" title="36Flo" />
 
 </center>
 
@@ -19,7 +19,8 @@
 
 <center>
 
-<img src="../../../assets/image/Wiki Team/EtwasAngelndes-skin.png" alt="Evoli_" title="Evoli_" /> 
+<img src="../../../assets/image/Wiki Team/Frage-skin.png" alt="???" title="???" /> 
+
 
 </center>
 

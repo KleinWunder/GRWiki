@@ -3,9 +3,9 @@ site_name: GermanRP Wiki
 nav:
   - Startseite: index.md
   - Teams:
-    - Wiki-Team: pages/other/wiki-team.md
     - Serverteam: pages/other/serverteam.md
     - Sonderteams: pages/other/sonderteams.md
+    - Wiki-Team: pages/other/wiki-team.md
   - Anfängerhilfe: pages/help/anfängerhilfe.md
   - Allgemeines:
     - Befehlsliste: pages/allgemein/befehle.md
