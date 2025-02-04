@@ -2,7 +2,7 @@
 <img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Ganggebiet1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Ganggebiet2.png">
 
 
-Im Ganggebiet herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Gegliedert ist das Gebiet in das Ganggebiet und das Ganggebiet Nord. Im Ganggebiet Nord sind die Häuser sehr zerfallen. Sie sind undicht, kalt und in manchen Ecken schimmelt es schon. Aber immerhin sind die Häuser günstig. Das Ganggebiet gehört der Raven Familia, mit der man sich besser nicht anlegen sollte.
+In Auheim herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Gegliedert ist das Gebiet in Auheim und Auheim Süd. In Auheim Süd sind die Häuser sehr zerfallen. Sie sind undicht, kalt und in manchen Ecken schimmelt es schon. Aber immerhin sind die Häuser günstig. Auheim gehört der Volkov Familie, mit der man sich besser nicht anlegen sollte.
 
 <table>
   <thead>
@@ -13,19 +13,19 @@ Im Ganggebiet herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Geglied
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Ganggebiet <br> Ganggebiet Nord</td>
+      <td align="center">Auheim <br> Auheim Süd</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/apotheke/">Apotheke</a>-2 <br> <a href="../../biz/supermarkt/">Supermarkt</a>-5 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-3</td>
+      <td align="center"><a href="../../biz/apotheke/">Apotheke</a>-6 <br> <a href="../../biz/supermarkt/">Supermarkt</a>-8 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-5</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center"><a href="../../gebäude/tierheim/">Tierheim</a> <br> Raven Familia HQ</td>
+      <td align="center"><a href="../../gebäude/tierheim/">Tierheim</a> <br> Volkov Familie HQ</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/jvatransport/">JVA-Transport</a> <br> <a href="../../nebenjobs/fensterputzer/">Fensterputzer</a> <br> <a href="../../nebenjobs/munitionstransport/">Munitionstransport</a> <br> <a href="../../nebenjobs/erztransport/">Erztransport</a></td>
+      <td align="center"><a href="../../nebenjobs/munitionstransport/"> Munitionstransport </a></td>
     </tr>
   </tbody>
 </table> 
