@@ -1,3 +1,7 @@
+!!! info "Status"
+    Die Fraktion The Establishment ist zurzeit deaktiviert und gilt als Leerfraktion.
+    Besteht ein Interesse, kann sich im [Forum](https://germanrp.eu/forum/index.php?board/188-fraktion-vorschlagen/) an das Fraktionsmanagement gewendet werden.
+
 # The Establishment
 
 <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/EstablishmentHQ.png">

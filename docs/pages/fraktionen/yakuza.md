@@ -1,7 +1,10 @@
+!!! info "Status"
+    Die Fraktion Yakuza ist zurzeit deaktiviert und gilt als Leerfraktion.
+    Besteht ein Interesse, kann sich im [Forum](https://germanrp.eu/forum/index.php?board/188-fraktion-vorschlagen/) an das Fraktionsmanagement gewendet werden.
+
 # Yakuza
-!!! info "Status" 
-    Die Fraktion Yakuza ist zurzeit deaktiviert und gilt als Leerfraktion. Besteht ein Interesse, kann sich im Forum an das Fraktionsmanagement gewendet werden.
- <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/YakuzaHQ.png">
+
+<img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/YakuzaHQ.png">
 
 
 Die Yakuza ist eine Mafia japanischer Herkunft. Sie agieren verdeckt in einer Kampfschule, welche sehr spirituell aufgebaut ist. Ihre Reinheit der Seele und die Harmonie mit den Geistern ist das höchste Gebot der Kampfschule. Kommt man ihnen zu nahe, werden sie gefährlich und schützen sich mit allen Mitteln.
