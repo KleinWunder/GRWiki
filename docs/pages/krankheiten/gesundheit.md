@@ -30,7 +30,7 @@ Der Geisteszustand zeigt in Prozent an, wieviel man noch von 100% besitzt. Bei z
 |:-:|:-:|:-:|
 | < 50% | Lebensmüde | +10% Chance ein Charakterleben zu verlieren |
 | < 20% | Mental instabil | 15% weniger EXP für 10 Minuten nach jedem Tod |
-| < 10% | Psychopath | Kommt noch |
+| < 10% | Psychopath | Möglichkeit in die Psychiatrie eingewiesen zu werden |
 
 
 ## Hydrierung
