@@ -2,7 +2,7 @@
 Rezepte können von Mitgliedern des [Rettungsdienstes](../../pages/fraktionen/rettungsdienst.md) im Krankenhaus für unterschiedlichste Krankheitsbilder und Diagnosen ausgestellt werden.
 
 ## Verwendung 
-Ein Rezept kann in einer der [Apotheke](../../pages/biz/apotheke.md) gegen eine je nach Medikament variierende Zuzahlung eingelöst werden.
+Ein Rezept kann in einer der [Apotheke](../../pages/biz/apotheke.md) gegen eine, je nach Medikament variierende, Zuzahlung eingelöst werden.
 
 ## Ausgabemengen
 Die aktuellen Ausgabemengen betragen:
@@ -40,9 +40,9 @@ Die aktuellen Ausgabemengen betragen:
     </tr>
      <tr>
       <td align="center">Schmerzmittel</td>
+      <td align="center">1-10</td>
+      <td align="center">1-8</td>
       <td align="center">1-5</td>
-      <td align="center">1-3</td>
-      <td align="center">1-2</td>
     </tr>
   </tbody>
 </table>
