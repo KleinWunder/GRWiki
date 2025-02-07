@@ -40,10 +40,10 @@ nav:
     - Perks: pages/allgemein/perks.md
     - Sperrgebiete: pages/allgemein/sperrgebiete.md
   - Stadtteile:
+    - Auheim: pages/gebiete/auheim.md
     - Asiaviertel: pages/gebiete/asiaviertel.md
     - County/Plaza: pages/gebiete/county.md
     - Downtown: pages/gebiete/downtown.md
-    - Ganggebiet: pages/gebiete/ganggebiet.md
     - Oststadt: pages/gebiete/oststadt.md
     - Reichenviertel: pages/gebiete/reichenviertel.md
     - Strandpassage: pages/gebiete/strandpassage.md
