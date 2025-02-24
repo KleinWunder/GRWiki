@@ -18,7 +18,8 @@ In Waffenläden werden folgende Artikel verkauft:  <img align="right" width="300
 |:-:|:-:|:-:|
 | Waffenladen-1 | [Oststadt](../../pages/gebiete/oststadt.md) | Oststadt |
 | Waffenladen-2 | [County](../../pages/gebiete/county.md) | County |
-| Waffenladen-3 | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | Gangviertel (Nord) |
+| Waffenladen-3 | [Altstadt](../../pages/gebiete/altstadt.md) | Altstadt |
 | Waffenladen-4 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Asia-Viertel |
+| Waffenladen-5 | [Auheim](../../pages/gebiete/auheim.md) | Auheim (Süd) |
 
 
