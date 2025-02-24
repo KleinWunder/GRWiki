@@ -24,8 +24,8 @@ Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" e
 | Supermarkt-2 | [Reichenviertel](../../pages/gebiete/reichenviertel.md) | Reichenviertel |
 | Supermarkt-3 | [County](../../pages/gebiete/county.md) | Plaza |
 | Supermarkt-4 | [Downtown](../../pages/gebiete/downtown.md) | Polizeipräsidium |
-| Supermarkt-5 | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | Gangviertel (Nord) |
+| Supermarkt-5 | [Altstadt](../../pages/gebiete/altstadt.md) | Altstadt |
 | Supermarkt-6 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Asia-Viertel |
 | Supermarkt-7 | [Westside](../../pages/gebiete/westside.md) | Westside |
-
+| Supermarkt-8 | [Auheim](../../pages/gebiete/auheim.md) | Auheim |
 
