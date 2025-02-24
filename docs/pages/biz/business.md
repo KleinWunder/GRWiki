@@ -19,7 +19,7 @@ Jeder Händler hat verschiedene Lagerkisten im Angebot. <img align="right" width
 |:-:|:-:|:-:|
 | Apfel, Kaffee, Kakao, Sandwich, Wasser | Postzentrale | Lagerhalle Nord |
 | Sprit | Uniklinik | Raffinerie |
-| Kleinkalibrige Munition, Normale Munition | Justizvollzugsanstalt | Lagerhalle West |
+| Kleinkalibrige Munition, Normale Munition | Auheim | Lagerhalle West |
 | Bandage, Nasensalbe, Hustenbonbon | Postzentrale | Labor |
 | Limonade, Cola | Plaza | Agavenhaus |
 | Schweinefleisch, Rindfleisch, Hähnchenfleisch | Asia-Viertel | Asia-Markt |
