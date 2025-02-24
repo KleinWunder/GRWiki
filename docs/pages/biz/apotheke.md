@@ -14,7 +14,8 @@ In der Apotheke werden folgende Artikel verkauft: <img align="right" width="300"
 | Apotheke | Ort | Nächste [Bushaltestelle](../../pages/öpnv/bus.md) |
 |:-:|:-:|:-:|
 | Apotheke-1 | [Downtown](../../pages/gebiete/downtown.md) | Postzentrale |
-| Apotheke-2 | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | Ganggebiet |
+| Apotheke-2 | [Altstadt](../../pages/gebiete/altstadt.md) | Altstadt |
 | Apotheke-3 | [Reichenviertel](../../pages/gebiete/reichenviertel.md) | Reichenviertel |
 | Apotheke-4 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) | Asia-Viertel |
 | Apotheke-5 | [Westside](../../pages/gebiete/westside.md) | Westside |
+| Apotheke-6 | [Auheim](../../pages/gebiete/auheim.md) | Auheim |
