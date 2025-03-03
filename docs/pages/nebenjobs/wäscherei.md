@@ -3,8 +3,8 @@ Der Wäscherei Job ist ein Nebenjob, welcher in der Wäscherei angenommen werden
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| [Bushaltestelle](../../pages/öpnv/bus.md) | Polizeipräsidium |
-| [Navi](../../pages/allgemein/navigation.md) | /navi Wäscherei |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | Altenheim |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Waescherei |
 | Dauer | ca. 1 Minuten |
 | Cooldown | 6 Minuten |
 | Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
