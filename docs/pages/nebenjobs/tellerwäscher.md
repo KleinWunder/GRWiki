@@ -11,5 +11,5 @@ Der Tellerwäscher ist ein Nebenjob, welcher am [Starblocks](../../pages/biz/sta
 
 ## Aufgabe
 1. Nehme den Job im Laden mit **/tellerwäscher** an
-2. Reinige verdreckte Tische mit Rechtsklick.
+2. Reinige verdreckte (braun) Tische mit Rechtsklick.
 3. Wiederhole diesen Vorgang, bis der Nebenjob beendet ist.
