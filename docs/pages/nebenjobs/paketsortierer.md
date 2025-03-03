@@ -15,3 +15,6 @@ Der Paketsortierer ist ein Nebenjob, welcher bei der Post angenommen wird. Viele
 2. Im Lagerraum das kleine Paket aufnehmen.
 3. Im Inventar hat man nun ein Paket. Dies auf das Fließband platzieren und den Zielort auswählen, der auf dem Paket beschriftet ist.
 4. Dieser Ablauf muss bis zum Ende des Nebenjobs wiederholt werden.
+
+>[!TIP]
+>Mit [VIP+](../../pages/​allgemein/​vip.md) wird dir der richtige Zielort farblich markiert.
