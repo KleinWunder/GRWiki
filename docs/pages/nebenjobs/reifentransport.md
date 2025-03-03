@@ -7,7 +7,7 @@ Der Reifentransport ist ein Nebenjob, welcher in der Lagerhalle in der Nähe des
 | [Navi](../../pages/allgemein/navigation.md) | /navi Lagerhalle |
 | Dauer | ca. 3 Minuten |
 | Cooldown | 5 Minuten |
-| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Social-XP](../../pages/skills/social.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Sozial-XP](../../pages/skills/social.md) |
 
 ## Aufgabe
 1. Durchsuche die Kisten mit Rechtsklick nach den Reifen.
