@@ -1,4 +1,4 @@
-
+#Koch
 Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann. Für die Kundschaft müssen Sandwiches zubereitet werden.
 
 
@@ -9,7 +9,7 @@ Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann. Für die 
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| [Bushaltestelle](../../pages/öpnv/bus.md) | [Polizeipräsidium](../../pages/fraktionen/polizei.md) |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | Altersheim |
 | [Navi](../../pages/allgemein/navigation.md) | /navi Restaurant |
 | Dauer | ca. 3 Minuten |
 | Cooldown | 7 Minuten |
