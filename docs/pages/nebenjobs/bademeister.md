@@ -3,11 +3,11 @@ Der Bademeister ist ein Nebenjob, welcher im Hallenbad ausgeführt werden kann. 
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| [Bushaltestelle](../../pages/öpnv/bus.md) | Hallenbad |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | Altersheim |
 | [Navi](../../pages/allgemein/navigation.md) | /navi Schwimmbad |
 | Dauer | ca. 5 Minuten |
 | Cooldown | 7 Minuten |
-| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Social-XP](../../pages/skills/social.md) |
+| Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Sozial-XP](../../pages/skills/social.md) |
 
 ## Aufgabe
 1. Der Nebenjob wird im Schwimmbad gestartet mit **/bademeister**.
