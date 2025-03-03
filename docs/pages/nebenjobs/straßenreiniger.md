@@ -1,5 +1,5 @@
 # Straßenreiniger (Nebenjob)
-Der Straßenreiniger ist ein Nebenjob, welcher bei der [Stadthalle](../../pages/orte/stadthalle.md) gestartet wird. Durch die vielen Besucher verdreckt sich die Straße vor der Stadthalle schneller. Für eine kleine Belohnung kann hier die Straße sauber gemacht werden.<img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Straßenreinigung.png">
+Der Straßenreiniger ist ein Nebenjob, welcher beim [Rathaus](../../pages/​orte/​rathaus.md) gestartet wird. Durch die vielen Besucher verdreckt sich die Straße vor der Stadthalle schneller. Für eine kleine Belohnung kann hier die Straße sauber gemacht werden.<img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Straßenreinigung.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
@@ -11,5 +11,5 @@ Der Straßenreiniger ist ein Nebenjob, welcher bei der [Stadthalle](../../pages/
 
 ## Aufgabe
 1. Nehme den Job und Besen mit **/straßenreiniger** an im Hauswerksraum der Stadthalle.
-2. Putze mit dem Besen die vermoosten Gehwege vor der Stadthalle.
+2. Putze mit dem Besen die bemoosten Gehwege vor der Stadthalle.
 3. Wiederhole diesen Vorgang, bis der Nebenjob beendet ist.
