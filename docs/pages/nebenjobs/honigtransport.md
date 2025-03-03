@@ -35,17 +35,17 @@ Der Honigtransport ist ein Nebenjob, welcher beim Imker NPC angenommen wird. Am 
     </tr>
      <tr>
       <td align="center"> Supermarkt-3 </td>
-      <td align="center"> County </td>
+      <td align="center"> Plaza </td>
         <td align="center"> /navi Supermarkt-3 </td>
     </tr>
      <tr>
       <td align="center"> Supermarkt-4 </td>
-      <td align="center"> Downtown </td>
+      <td align="center"> Altersheim </td>
         <td align="center"> /navi Supermarkt-4 </td>
     </tr>
      <tr>
       <td align="center"> Supermarkt-5 </td>
-      <td align="center"> Ganggebiet (Nord) </td>
+      <td align="center"> Altstadt </td>
         <td align="center"> /navi Supermarkt-5 </td>
     </tr>
      <tr>
@@ -58,5 +58,9 @@ Der Honigtransport ist ein Nebenjob, welcher beim Imker NPC angenommen wird. Am 
       <td align="center"> Westside </td>
         <td align="center"> /navi Supermarkt-7 </td>
     </tr>
+       <tr>
+      <td align="center"> Supermarkt-8 </td>
+      <td align="center"> Auheim </td>
+        <td align="center"> /navi Supermarkt-7 </td>
   </tbody>
 </table>
