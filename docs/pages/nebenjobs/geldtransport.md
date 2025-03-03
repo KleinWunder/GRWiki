@@ -3,13 +3,13 @@ Der Geldtransport ist ein Nebenjob, welcher in der [Zentralbank](../../pages/ort
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| [Bushaltestelle](../../pages/öpnv/bus.md) | [Polizeipräsidium](../../pages/fraktionen/polizei.md) |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | Altenheim |
 | [Navi](../../pages/allgemein/navigation.md) | /navi Zentralbank |
-| Dauer | ca. 10 Minuten |
+| Dauer | ca. 5 Minuten |
 | Cooldown | 7 Minuten |
 | Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Farming-XP](../../pages/skills/farming.md) |
 
 ## Aufgabe
-1. Der Nebenjob startet in der Zentralbank bei den Tresen mit **/geldtransport**.
+1. Der Nebenjob startet in der Zentralbank im Keller mit **/geldtransport**.
 2. Befülle nun die ATM’s in Vance City mit **/fillatm**
 3. Wiederhole diesen Vorgang, bis der Nebenjob beendet ist.
