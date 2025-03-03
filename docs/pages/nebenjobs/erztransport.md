@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > Aktuell ist der Job nicht ausführbar. (Stand 3.03.2025)
 
-Der Erztransport ist ein Nebenjob, welcher beim Salzbergwerk gestartet wird. Einem werden mehrere Erzkisten gegeben, welche zum Schmelzwerk gebracht werden müssen.  <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Erztransport.png">
+Der Erztransport ist ein Nebenjob, welcher beim Salzbergwerk gestartet wird. Einem werden mehrere Erzkisten gegeben, welche zum Schmelzwerk gebracht werden müssen.  <img align="right" width="300" eight="150" src="../../../assets/image//nebenjobs/bergwerk.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
