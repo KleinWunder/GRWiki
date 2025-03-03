@@ -1,7 +1,6 @@
 # Winzer (Nebenjob)
 
-Der Winzer ist ein Nebenjob, welcher sich am Weinberg befindet. Die Weinreben wachsen sehr gut an in Vance City. Etwas Geld kann sich hier mit Weintrauben pflücken erarbeitet werden.
-(**/navi Winzer**) <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Winzer.png">
+Der Winzer ist ein Nebenjob, welcher sich am Weinberg befindet. Etwas Geld kann sich hier mit Weintrauben pflücken erarbeitet werden. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Winzer.png">
 
 
 | [Bushaltestelle](../../pages/öpnv/bus.md) | Farm |
