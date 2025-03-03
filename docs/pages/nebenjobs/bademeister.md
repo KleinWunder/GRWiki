@@ -1,5 +1,5 @@
 # Bademeister (Nebenjob)
-Der Bademeister ist ein Nebenjob, welcher im Hallenbad ausgeführt werden kann. Im großen Schwimmbecken sind mehrere Senioren am Ertrinken. Diese müssen dann aus dem Schwimmbecken gerettet werden. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Schwimmbad.png">
+Der Bademeister ist ein Nebenjob, welcher im Hallenbad ausgeführt werden kann. Im großen Schwimmbecken sind mehrere Senioren am Ertrinken. Diese müssen dann aus dem Schwimmbecken gerettet werden. <img align="right" width="300" eight="150" src="../../../assets/image/orte/schwimmbad.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
