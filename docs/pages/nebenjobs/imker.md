@@ -12,6 +12,6 @@ Der Imker ist ein Nebenjob, welcher beim Imker NPC gestartet wird. Helfe dem Imk
 ## Aufgabe
 1. Im Haus den Imker NPC mit Rechtsklick anklicken und die Biene auswählen.
 2. Das Inventar wird um einen Honigglaskopf bereichert.
-3. Entnehme draußen aus dem Bienenstock Honig. Rechts klicke mit dem Glas die Falltür.
+3. Entnehme draußen aus dem Bienenstock Honig per Rechtsklick mit dem Glas an der Falltür.
 4. Danach das volle Glas zum Transporter und mit **/drophoney** beladen.
-5. Wiederhole diesen Vorgang so lange, bis der Nebenjob abgeschlossen ist.
+5. Wiederhole Vorgang 3 und 4 so lange, bis der Nebenjob abgeschlossen ist.
