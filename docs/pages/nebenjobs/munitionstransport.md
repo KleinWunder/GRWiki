@@ -3,8 +3,8 @@ Der Munitionstransport ist ein Nebenjob, welcher bei der Lagerhalle in der Nähe
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
-| [Bushaltestelle](../../pages/öpnv/bus.md) | [JVA](../../pages/orte/jva.md) |
-| [Navi](../../pages/allgemein/navigation.md) | /navi Geldwäsche |
+| [Bushaltestelle](../../pages/öpnv/bus.md) | Auheim (Süd) |
+| [Navi](../../pages/allgemein/navigation.md) | /navi Geldwaesche |
 | Dauer | ca. 7 Minuten |
 | Cooldown | 6 Minuten |
 | Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Sozial-XP](../../pages/skills/social.md) |
@@ -34,12 +34,17 @@ Der Munitionstransport ist ein Nebenjob, welcher bei der Lagerhalle in der Nähe
     </tr>
      <tr>
       <td align="center"> Waffenladen-3 </td>
-      <td align="center"> Ganggebiet (Nord) </td>
+      <td align="center"> Altstadt </td>
         <td align="center"> /navi Waffenladen-3 </td>
     </tr>
      <tr>
       <td align="center"> Waffenladen-4 </td>
       <td align="center"> Asiaviertel </td>
+        <td align="center"> /navi Waffenladen-4 </td>
+    </tr>
+     <tr>
+      <td align="center"> Waffenladen-5 </td>
+      <td align="center"> Auheim (Süd) </td>
         <td align="center"> /navi Waffenladen-4 </td>
     </tr>
   </tbody>
