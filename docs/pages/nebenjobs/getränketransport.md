@@ -1,5 +1,5 @@
 # Getränketransport (Nebenjob)
-Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges befindet. Hier werden die Getränke der Bars zubereitet und vorbereitet. Eine ganze Getränkekiste muss zu einer Bar. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Winzer.png">
+Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges befindet. Eine ganze Getränkekisteladung muss zu einer Bar. <img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Winzer.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
@@ -11,9 +11,10 @@ Der Getränketransport ist ein Nebenjob, welcher sich im Keller des Weinberges b
 
 ## Aufgabe
 
-1. Im Keller der Winzerhütte **/weintransport** eingeben.
+1. Im Keller der Winzerhütte **/getränketransport** eingeben.
 2. Ein Navi zeigt nun den Weg zu einer [Bar](../../pages/biz/bar.md) (Siehe Tabelle). Folge dem Navi.
-3. Bei der Bar angekommen, muss man alle Weinkisten mit **/dropwein** abgeben. Dieser Befehl muss so lange eingegeben werden, bis alle Weinkisten abgeliefert sind.
+3. Bei der Bar angekommen, muss man alle Weinkisten mit **/droptransport** abgeben.
+4. Vorgang 3 so oft wiederholen bis alle Kisten abgeben sind.
 
 <table>
   <thead>
