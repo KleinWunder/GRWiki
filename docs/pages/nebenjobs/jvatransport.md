@@ -13,5 +13,5 @@ Der JVA-Transport ist ein Nebenjob, welcher bei der JVA gestartet wird. Viele H�
 ## Aufgabe
 1. Im Eingangsbereich die Häftlingsakten mit **/jvatransport** aufnehmen.
 2. Die Häftlingsakten zum Rathaus transportieren.
-3. Die Akten mit **/droptransport** im Eingangsbereich des Rathauses abgeben.
-4. Vorgang wiederholen, bis alle Akten abgelegt sind.
+3. Die Akten mit **/droptransport** an der Rezeption des Rathauses abgeben.
+4. Vorgang 3 wiederholen, bis alle Akten abgelegt sind.
