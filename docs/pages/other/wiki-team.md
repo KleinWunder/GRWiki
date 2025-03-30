@@ -18,7 +18,7 @@
 </center>
 
 <center>
-Lxlxndrxg
+ 
 <img src="../../../assets/image/wikiteam/evoli-skin.png" alt="Evoli_" title="Evoli_" />
 <img src="../../../assets/image/wikiteam/lxlxndrxg-skin.png" alt="Lxlxndrxg" title="Lxlxndrxg" />
 <img src="../../../assets/image/wikiteam/fragezeichen-skin.png" alt="???" title="???" /> 
