@@ -22,6 +22,7 @@ Die Presseagentur sorgt für Reinheit und Klartext in jedem Teil der Stadt Vance
 Die Presseagentur verfügt über kein Equip
 
 ## Lage der Presseagentur
+
 <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/presseagenturHQ.png">
 
 Zur Presseagentur gelangt man, indem man den Bus zum Altersheim verwendet. In der Nähe nefindet sich die [Zentralbank](../../pages/orte/zentralbank.md)
