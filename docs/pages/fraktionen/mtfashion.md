@@ -8,13 +8,13 @@ Durch die Beratung der Fraktionsmitglieder bleiben die Spieler im Trend, währen
 
 ## Aufgaben
 
-Die MT-Fashion versorgt Klientel mit modischer Kleidung. Dabei hat die Presseagentur verschiedene Aufgabenbereiche:
+Die MT-Fashion versorgt Klientel mit modischer Kleidung. Dabei hat die MT-Fashion auch verschiedene Aufgabenbereiche:
 
-* XXX
-* XXX
-* XXX
-* XXX
-* XXX
+* 
+* 
+* 
+* 
+* 
 
 
 ## MT-Fashion-Equip
