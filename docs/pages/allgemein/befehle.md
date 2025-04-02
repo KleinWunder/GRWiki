@@ -2,8 +2,8 @@
 !!! info "Seiteninfo" 
       Diese Seite befindet sich dauerhaft im Aufbau. Der Beitrag ist daher nicht immer **nicht vollständig!**
       
-Diese Befehlsliste wird laufend erweitert. Es kann vorkommen, dass ein Befehl nicht aufgeführt ist oder Ingame vorrübergehend nicht funktionsfähig ist.
-Viele der Befehle haben einen oder mehr weitere Befehle, die den selben Zweck erfüllen.
+Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befehle wird kontinuierlich erweitert. Es kann vorkommen, dass bestimmte Befehle nicht aufgeführt sind oder vorübergehend im Spiel nicht funktionieren. Viele Befehle haben zudem alternative Varianten mit derselben Funktion.
+
 
 ## Allgemeine Befehle
 
