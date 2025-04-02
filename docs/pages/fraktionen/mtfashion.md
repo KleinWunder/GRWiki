@@ -23,6 +23,6 @@ Die MT-Fashion verfügt über kein Equip
 
 ## Lage der MT-Fashion
 
-<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/mtfashionHQ.png"> (Bild muss ergänzt werden!)
+<img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/mtfashionHQ.png">
 
-Zum MT-Fashion gelangt man, indem man den Bus zum XXX verwendet. In der Nähe befindet sich die [Wäscherei](../../pages/nebenjobs/wäscherei.md)
+Zum MT-Fashion gelangt man, indem man den Bus zum Altersheim verwendet. In der Nähe befindet sich die [Wäscherei](../../pages/nebenjobs/wäscherei.md)
