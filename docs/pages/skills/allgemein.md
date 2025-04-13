@@ -10,6 +10,7 @@ Eine Übersicht der Skills befindet sich im [Spielmenü](../../pages/allgemein/s
 * [Farming-Skill](farming.md)
 * [Fischer-Skill](fischer.md)
 * [Gärtner-Skill](gärtner.md)
+* [Handwerk-Skill](handwerk.md)
 * [Kochen-Skill](kochen.md)
 * [Sozial-Skill](social.md)
 
