@@ -1,12 +1,12 @@
 # Sägewerk 
 
 
-<img align="right" width="290" eight="290" src="../../../assets/image/nebenjobs/sägewerk.png">
+<img align="right" width="290" eight="290" src="../../../assets/image/nebenjobs/Sägewerk.png">
 
 
 
-Das Sägewerk (**/navi Sägewerk**) befindet sich im Reichenviertel, dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) [Reichenviertel](../../pages/gebiete/reichenviertel.md) ist.
-Am Sägewerk kann als Holzfäller gearbeitet werden. Diese Arbeit gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [Farming-XP](../../pages/skills/farming.md) und [Sozial-XP](../../pages/skills/social.md). 
+Das Sägewerk (**/navi Saegewerk**) befindet sich nord-östlich von [Downtown](../../pages/gebiete/downtown.md), dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) Altersheim ist.
+Am Sägewerk kann als Holzfäller gearbeitet werden. Diese Arbeit gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [Handwerk-XP](../../pages/skills/handwerk.md) und [Sozial-XP](../../pages/skills/social.md). 
 
 ## Ablauf
 
@@ -22,35 +22,24 @@ Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten:
 *  Am Ende die Holzstämme in der Halle bei der Säge verarbeiten und verkaufen
 *  Stöcke im Mülleimer entsorgen
 
-Diese Items werden unterschiedlich verwertet: 
-
-*  Stock: Die Stöcker können mit Rechtsklick auf einen Mülleimer entsorgt werden. Dies bringt SozialXP.
-*  Baumharz: Kann bei der Säge verkauft werden.
-*  Holzstamm: Holzstämme können an der Säge entrindet werden. Dies generiert Erfahrungspunkte und FarmingXP.
-*  Entrindeter Holzstamm: Diese können bei der Säge zu Holzbrettern verarbeitet oder direkt verkauft werden. Die Holzbretter werden dann im Möbelhaus verkauft (**/navi Möbelhaus**). Dies generiert Erfahrungspunkte, Farming-XP und Geld.
-
 ## Äxte
 
-| Axt | Preis | Verzauberung | Benötígtes Skill Level |
+| Axt | Preis | Verzauberung | Mindest Skill Level |
 | :-: | :-: | :-: | :-: |
-| Axt für Anfänger | 20€ | Keine | Level 0 |
-| Axt für Fortgeschrittene | 50€ | Effizienz 1 | Level 1 |
-| Axt für Experten | 75€ | Effizienz 2 | Level 3 |
-| Axt für Profis | 115€ | Effizienz 3 | Level 10 |
-| Axt für Meister | 175€ | Effizienz 4 | Level 15 |
+| Einfache Eichenaxt | 30€ | Keine | Level 0 |
+| Widerstandsfähige Eichenaxt | 40€ | Effizienz 1 | Level 4 |
+| Verstärkte Eichenaxt | 50€ | Effizienz 2 | Level 7 |
 
 ### Verkauf von Sägewerkitems
 
 | Item | Verkaufspreis pro Stück |
 |:-:|:-:|
-| Entrindeter Holzstamm | 4.05€ |
-| Holzbrettern | 0.66€ |
-| Baumharz | 125.0€ |
+| Eichenholz | 0.50€ |
+| Entrindetes Eichenholz| 2.00€ |
 
 ## Hilfreiche Tipps
 
-* Je höher das Farming Skill Level ist, desto bessere Items und Äxte erhält man.
+* Je höher das Handwerk Skill Level ist, desto bessere Fähigkeiten und Chancen können freigeschaltet werden.
 * Die Pets [Affe](../../pages/pets/affe.md) und [Biene](../../pages/pets/biene.md) unterstützen die Arbeit am Sägewerk.
 * Abgebaute Holzblöcke färben sich braun und regenerieren sich nach kurzer Zeit von selbst.
-* Für Neulinge ist die Axt für Anfänger am effizientesten.
 
