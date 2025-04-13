@@ -14,13 +14,12 @@ Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten:
 
 *  Gehe zum NPC Jack und kaufe eine Axt. 
 *  Nun müssen Bäume in der Umgebung gefällt werden.
-*  Es können vier verschiedene Items im Inventar landen: 
-      *  Stock 
-      *  Holzstamm 
-      *  Entrindeter Holzstamm
-      *  Baumharz
-*  Am Ende die Holzstämme in der Halle bei der Säge verarbeiten und verkaufen
-*  Stöcke im Mülleimer entsorgen
+*  Am Ende die Holzstämme bei Jack verkaufen.
+*  Stöcke im Mülleimer entsorgen.
+
+## Skilltree
+
+Beim NPC Jens hinter dem Sägewerkgebäude können die Fähigkeiten mit Skillpunkten freigeschaltet werden.
 
 ## Äxte
 
@@ -30,7 +29,7 @@ Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten:
 | Widerstandsfähige Eichenaxt | 40€ | Effizienz 1 | Level 4 |
 | Verstärkte Eichenaxt | 50€ | Effizienz 2 | Level 7 |
 
-### Verkauf von Sägewerkitems
+## Verkauf von Sägewerkitems
 
 | Item | Verkaufspreis pro Stück |
 |:-:|:-:|
@@ -39,7 +38,7 @@ Die Arbeit am Sägewerk funktioniert mit den folgenden Punkten:
 
 ## Hilfreiche Tipps
 
-* Je höher das Handwerk Skill Level ist, desto bessere Fähigkeiten und Chancen können freigeschaltet werden.
+* Je höher das Handwerk Skill Level ist, desto bessere Fähigkeiten, Äxte und Chancen können freigeschaltet werden.
 * Die Pets [Affe](../../pages/pets/affe.md) und [Biene](../../pages/pets/biene.md) unterstützen die Arbeit am Sägewerk.
 * Abgebaute Holzblöcke färben sich braun und regenerieren sich nach kurzer Zeit von selbst.
 
