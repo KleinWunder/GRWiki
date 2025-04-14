@@ -6,7 +6,7 @@
 
 
 Das Sägewerk (**/navi Saegewerk**) befindet sich nord-östlich von [Downtown](../../pages/gebiete/downtown.md), dessen nächstgelegene [Bushaltestelle](../../pages/öpnv/bus.md) Altersheim ist.
-Am Sägewerk kann als Holzfäller gearbeitet werden. Diese Arbeit gewährt einem [Erfahrungspunkte](../../pages/allgemein/level.md), Geld, [Handwerk-XP](../../pages/skills/handwerk.md) und [Sozial-XP](../../pages/skills/social.md). 
+Am Sägewerk kann als Holzfäller gearbeitet werden. Diese Arbeit gewährt einem Geld, [Handwerk-XP](../../pages/skills/handwerk.md) und [Sozial-XP](../../pages/skills/social.md). 
 
 ## Ablauf
 
