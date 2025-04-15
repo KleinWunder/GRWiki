@@ -1,4 +1,4 @@
-In Supermärkten können Lebensmittel gekauft werden. Leere Flaschen können an den Pfandflaschenautomaten entsorgt werden. (**/navi Supermarkt-1/2/3/4/5/6/7**)
+In Supermärkten können Lebensmittel gekauft werden. Leere Flaschen können an den Pfandflaschenautomaten entsorgt werden. (**/navi Supermarkt-1/2/3/4/5/6/7/8**)
 
 Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" eight="150" src="../../../assets/image/biz/supermarkt/Supermarkt-Kaufmenü.png"> 
 
@@ -9,7 +9,7 @@ Im Supermarkt werden folgende Artikel verkauft: <img align="right" width="300" e
 + Wasser
 
 !!! info "Essen zubereiten" 
-        Das Fleisch muss vor dem Verzehr in einem Ofen eines [Hauses](../../pages/houses/allgemein.md) zubereitet werden.
+    Das Fleisch muss vor dem Verzehr in einem Ofen eines Hauses zubereitet werden.
   
 
 

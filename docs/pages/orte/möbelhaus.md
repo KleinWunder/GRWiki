@@ -8,7 +8,7 @@ Es ist möglich, verschiedene Upgrades an seinem Haus vorzunehmen.
 | Verbesserung | Kosten |
 |:-:|:-:|
 | Hauskasse | 3.000,00€ |
-| Waffenschrank | 2,800,00€ |
+| Waffenschrank | 2.800,00€ |
 | Mieterslots | Grundpreis und Mieter abhängig |
 | Hauslager | 4.500,00€ |
 | Hauslager upgraden | Varriiert mit steigender Kapazität |

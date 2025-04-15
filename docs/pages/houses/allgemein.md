@@ -21,7 +21,7 @@ Als Hausbesitzer können Mietverträge mit anderen Spielern erstellt werden, wel
 * Mit **/unrent** kann das Mietverhältnis aufgelöst werden.
 
 !!! warning "Haftpflichtversicherung"
-      Die Kosten für die Haftpflichtversicherung steigen bei jedem neuen Mieter!
+    Die Kosten für die Haftpflichtversicherung steigen bei jedem neuen Mieter!
   
 Mieterslots: Jedes Haus hat nur eine bestimmte Anzahl Mieterslots. Um diese zu erhöhen, können im Möbelhaus weitere Mieterplätze erworben werden.
 
@@ -35,7 +35,7 @@ Dabei hat man zwei Möglichkeiten:
 * An das Maklerbro verkaufen
 
 !!! warning "Haus verkaufen"
-        Ist das Haus einmal verkauft, kann dieses nur durch einen Neukauf zurück erworben werden.
+    Ist das Haus einmal verkauft, kann dieses nur durch einen Neukauf zurück erworben werden.
 
 ### Immobilien an Spieler verkaufen
 

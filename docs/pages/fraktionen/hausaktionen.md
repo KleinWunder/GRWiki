@@ -38,4 +38,4 @@ Beim NPC der Fraktion können für die Hausaktionen zwei verschiedene Sachen gek
     * 50 automatische Abgaben einer gelungender Hausaktion für 200€
 
 !!! info "Transporterperk"
-        Das Transporterperk kann gestackt werden.
+    Das Transporterperk kann gestackt werden.

@@ -1,1 +1,3 @@
-!!! info "Status" Die Fraktion O'Gallaghan ist zurzeit deaktiviert und gilt als Leerfraktion. Besteht ein Interesse, kann sich im Forum an das Fraktionsmanagement gewendet werden.
+!!! info "Status"
+    Die Fraktion Sinaloa Kartell ist zurzeit deaktiviert und gilt als Leerfraktion.
+    Besteht ein Interesse, kann sich im [Forum](https://germanrp.eu/forum/index.php?board/188-fraktion-vorschlagen/) an das Fraktionsmanagement gewendet werden.

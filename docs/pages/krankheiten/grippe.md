@@ -1,5 +1,6 @@
 # Grippe
-
+!!! info "Seiteninfo"
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
 Durch das Fahren mit den öffentlichen Verkehrsmitteln oder auch auf der Straße kann eine Grippe entstehen. Aufgrund der Grippe entstehen Symptome, welche einen etwas beeinträchtigen. 
 Neue Spieler erhalten die Grippe erst nach 14 Tagen, wenn diese das Tutorial erfolgreich abgeschlossen haben.
 
