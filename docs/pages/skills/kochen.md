@@ -1,6 +1,6 @@
 # Kochen 
 
-Der Kochen-Skill hilft dabei, rohe Gegenstände im Haus schneller zuzubereiten.
+Mit dem Kochen-Skill können rohe Zutaten im eigenen Zuhause schneller zubereiten werden.
 
 ## Erhalten der Skill-XP 
 Der Kochen-Skill kann durch folgende Aktivitäten gelevelt werden:
