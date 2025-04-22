@@ -1,5 +1,8 @@
 # Medellín Kartell
-
+!!! info "Status"
+    Die Fraktion Medellín Kartell ist zurzeit deaktiviert und gilt als Leerfraktion.
+    Besteht ein Interesse, kann sich im [Forum](https://germanrp.eu/forum/index.php?board/188-fraktion-vorschlagen/) an das Fraktionsmanagement gewendet werden.
+    
 <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/KartellHQ.png">
 
 Das Medellín Kartell ist ein kolumbianisches Kartell, welche unter einem verdeckten Agaven-Verarbeitungsgeschäft agieren. Ihre Geheimhaltung der Identität ist die oberste Priorität und nutzen jedes Mittel zur Geheimhaltung des Geschäftes. Sie planen große Bombenanschläge gegen den [Staat](allgemein.md) und überfallen [Apotheken](../../pages/biz/apotheke.md), damit sie der größte Export von [Novapulver](../../pages/bmt/novapulver.md) sind.
