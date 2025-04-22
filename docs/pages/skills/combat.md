@@ -11,6 +11,19 @@ Der Combat-Skill kann durch folgende Aktivitäten gelevelt werden:
 * Jagen von [Wölfen](../../pages/nebenjobs/jagd.md)
 * Schießen im [Fight Club](../../pages/gebäude/fightclub.md)
 
+## Funktionen
+| Level | Funktion |
+|:-:|:-:|
+| Immer | 1 Taschenslot |
+| 4 | Robustes Gehäuse |
+| 5 | Provisorische Peitsche |
+| 6 | Kill-Info |
+| 8 | Magazinerweiterung |
+| 10 | Taktische Peitsche <br> Verlägerter Lauf |
+| 15 | Profi Peitsche |
+| 20 | Dornenbesetzte Peitsche |
+| 25 | Killjoy |
+
 ## Pets
 
 Folgende Pets wirken sich ebenfalls positiv auf den Combat-Skill aus:

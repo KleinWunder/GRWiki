@@ -9,6 +9,11 @@ Der Handwerk-Skill kann durch folgende Aktivitäten gelevelt werden:
 * [Nebenjobs](../../pages/nebenjobs/nebenjobs.md)
 * [Sägewerk](../../pages/nebenjobs/sägewerk.md)
 
+## Funktionen
+| Level | Funktion |
+|:-:|:-:|
+| Immer | 1 Taschenslot <br> +1 Skillpunkt |
+
 ## Pets
 
 Folgende Pets wirken sich positiv auf den Fischer-Skill aus:

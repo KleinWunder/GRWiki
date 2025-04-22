@@ -8,6 +8,10 @@ Der Kochen-Skill kann durch folgende Aktivitäten gelevelt werden:
 * [Kochen](../../pages/allgemein/essen.md) im einem [Haus](../../pages/houses/allgemein.md) oder einer Wohnung
 * Nebenjob [Koch](../../pages/nebenjobs/koch.md) und [Pizzabäcker](../../pages/nebenjobs/pizzabäcker.md)
 
+## Funktionen
+| Level | Funktion |
+|:-:|:-:|
+| Immer | 1 Taschenslot |
 
 ## Pets
 Folgende Pets wirken sich ebenfalls positiv auf den Kochen-Skill aus:

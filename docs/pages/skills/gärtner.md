@@ -9,6 +9,11 @@ Der Gärtner-Skill kann durch folgende Aktivitäten gelevelt werden:
 * Pflanzen von [Rosen](../../pages/pflanzen/rosen.md)
 * Pflanzen von [Heilkräutern](../../pages/pflanzen/heilkraut.md) (nur [Crimefraktionen](../../pages/fraktionen/allgemein.md))
 
+## Funktionen
+| Level | Funktion |
+|:-:|:-:|
+| Immer | 1 Taschenslot <br> +1% Chance auf Drops |
+
 ## Pets
 Folgende Pets wirken sich ebenfalls positiv auf den Gärtner-Skill aus:
 

@@ -7,6 +7,11 @@ Der Farming-Skill kann durch folgende Aktivitäten gelevelt werden:
 * [Nebenjobs](../../pages/nebenjobs/nebenjobs.md)
 * [Sägewerk](../../pages/nebenjobs/sägewerk.md)
 
+## Funktionen
+| Level | Funktion |
+|:-:|:-:|
+| Immer | 1 Taschenslot <br> +0,25% Chance auf Drops |
+
 ## Pets
 Folgende Pets wirken sich ebenfalls positiv auf den Farming-Skill aus:
 
