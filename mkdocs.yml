@@ -52,7 +52,7 @@ nav:
     - Bus: pages/öpnv/bus.md
     - U-Bahn: pages/öpnv/ubahn.md
   - Businesse (BIZ):
-    - BIZ-Management: pages/biz/biz-managment.md
+  #  - BIZ-Management: pages/biz/biz-managment.md #
     - Gewerbe: pages/biz/business.md
     - Apotheken: pages/biz/apotheke.md
     - Bars: pages/biz/bar.md
