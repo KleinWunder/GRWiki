@@ -16,7 +16,7 @@ Wir wünschen dir viel Spaß auf deiner Entdeckungstour!
 
 ## Nützliche Links
 
-* [Anfängerhilfe](https://wiki.germanrp.eu/help/anf%c3%a4ngerhilfe/)
+* [Anfängerhilfe](https://wiki.germanrp.eu/pages/help/anfängerhilfe/)
 * [Nebenjobs](https://wiki.germanrp.eu/nebenjobs/nebenjobs/)
 * [Nahrung](https://wiki.germanrp.eu/allgemein/essen/)
 
