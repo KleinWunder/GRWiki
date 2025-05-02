@@ -1,57 +1,44 @@
-# Bank
+# Banken
 
 
 <img align="right" width="290" eight="290" src="../../../assets/image/orte/Bank.png"> 
 
-Die Bank befindet sich in [Downtown](../../pages/gebiete/downtown.md) und ist über die [Bushaltestelle](../../pages/öpnv/bus.md) Polizeipräsidium einfach zu erreichen. In der Bank werden die Spieler mit den nötigen Items ausgerüstet, um die persönliche finanzielle Lage auf dem Server zu verwalten.
+Neben der Zentralbank, die sich in [Downtown](../../pages/gebiete/downtown.md) befindet und gut über die [Bushaltestelle](../../pages/öpnv/bus.md) Altersheim erreichbar ist, gibt es zahlreiche kleinere Bankfilialen im gesamten Stadtgebiet. In den Banken werden die Spieler mit den nötigen Items ausgerüstet, um die persönliche finanzielle Lage auf dem Server zu verwalten.
 
 ## Bankkarte 
 
-Am Schalter der Bank kann mit Rechtsklick auf den NPC Bianca eine Bankkarte ausstellet werden, welche später für das Abheben und Einzahlen von Geld benötigt wird. Hat man seine Bankkarte verloren, kann diese bei einer Bank gesperrt werden und neu beantragt werden.
+Am Schalter der Bank kann mit Rechtsklick auf den NPC Bianca das Konto verwaltet werden. Dort bekommt man auch seine Bankkarte, welche später für das Abheben und Einzahlen von Bargeld benötigt wird. Hat man seine Bankkarte verloren, kann diese bei einer Bank gesperrt werden und neu beantragt werden.
 
 !!! warning "Bankkarte"
     Bankkarten können fallen gelassen werden und von anderen Spielern aufgesammelt werden, welche dann auf das Konto zugreifen können.
 
 
-## Sparkonto 
-NPC Bianca
-Am Schalter kann mit Rechtsklick auf den NPC Bianca in der Menüauswahl ein Sparkonto eröffnen. Dies ist sinnvoll, wenn man auf ein bestimmtes Ziel sparen möchte, wie beispielsweise ein Haus oder ein [Pet](../../pages/pets/allgemein.md).
+## Kontenverwaltung 
 
-* Rechtsklick auf NPC Bianca
-* Auf "Sparkonto verwalten" klicken.
-* Auf "Sparkonto einrichten" klicken. 
-* Sparziel im Chat eingeben.
-* Betrag eingeben, welcher jeden Payday abgezogen werden soll.
-* Ist das Sparziel erreicht, kann das Konto auflösen werden und erhält den Betrag auf die Hand.
-          * Das Sparkonto kann jederzeit aufgelöst werden.
-
-Nun wird zu jedem [PayDay](../../pages/allgemein/payday.md) der ausgewählte Betrag aufs Sparkonto überwiesen.
+Es können neben dem eigenen Standardkonto weitere Konten wie z.B. Gewerbekonten, Fraktionskonten und Zusatzkonten erstellt bzw. verwaltet werden.
+Zu jedem [PayDay](../../pages/allgemein/payday.md) werden Einkünfte, Steuern, Abgaben, etc. mit dem Standardkonto verrechnet.
 
 ## Geldautomaten (ATM)
 
-Geldautomaten sind auf der ganzen Map verteilt. Besonders oft zu finden sind diese bei Bushaltestellen und öffentlichen Gebäuden. Sie erlauben es dem Spieler seinen Kontostand einzusehen und Geld von diesem abzuheben oder einzuzahlen.
+Geldautomaten sind auf der ganzen Map verteilt. Besonders oft zu finden sind diese bei Bushaltestellen und öffentlichen Gebäuden. Sie erlauben es beispielsweise dem Spieler seinen Kontostand einzusehen und Geld von diesem abzuheben oder einzuzahlen.
 
 ### Geld abheben 
 
 * Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
 * Das Feld "Geld abheben" auswählen.
-* Den gewünschten Betrag im Chat eingeben.
-
-Es besteht auch die Möglichkeit 50% des Kontostandes abzuheben.
+* Den gewünschten Betrag eingeben.
 
 ### Geld einzahlen
 
 * Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
 * Das Feld "Geld einzahlen" auswählen.
-* Den gewünschten Betrag im Chat eingeben.
-
-Es besteht ebenfalls auch die Möglichkeit 50% des Bargeldes einzuzahlen.
+* Den gewünschten Betrag eingeben.
 
 ### Kontoauszug 
 
 * Bankkarte in die Hand nehmen und Rechtsklick auf einen Geldautomaten machen.
 * Das Feld "Kontoauszug" auswählen. 
-* Es erscheint eine Übersicht der letzten Transaktionen im Chat. 
+* Es erscheint eine Übersicht der letzten Transaktionen (gewöhnlich seit dem letzten Server-Neustart) im Chat. 
 
 ### Geld überweisen
 
@@ -61,4 +48,4 @@ Es besteht ebenfalls auch die Möglichkeit 50% des Bargeldes einzuzahlen.
       * Beispiel: /überweisen KleinWunder 1720 Rückzahlung
   
 ### ATM aufbrechen
-Bankautomaten können mit einer [Brechstange](../../pages/items/brechstange.md) aufgebrochen werden und Schwarzgeld erlangen. Brechstangen sind in [Schwarzmarktauktionen](../../pages/orte/schwarzmarkt.md) oder als Mitglied einer [Crimefraktion](../../pages/fraktionen/allgemein.md) erhältlich.
+Bankautomaten können mit einer [Brechstange](../../pages/items/brechstange.md) aufgebrochen werden um Schwarzgeld erlangen.
