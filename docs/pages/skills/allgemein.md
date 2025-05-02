@@ -37,10 +37,10 @@ Das jeweilige Skill-Level und den Fortschritt bis zum nächsten Level ist in der
 
 ## Skills in Verbindung mit Pets 
 
-Jedes Pets ist einem bestimmten Skill zugeordnet. Die Pets helfen dabei, schneller und einfacher Skill-XP zu farmen.
+Jedes Pet ist einem bestimmten Skill zugeordnet. Die Pets helfen dabei, schneller und einfacher Skill-XP zu farmen.
 
 ## Booster 
 
-Im offiziellen [Shop](https://germanrpeu.tebex.io) von GermanRP bietet die Möglichkeit Skill-XP-Booster zu erwerben, die unter **/booster** aktiviert werden. Der Booster wird für den gesamten Server aktiviert und vereinfacht das Leveln.
+Der offizielle [Shop](https://germanrpeu.tebex.io) von GermanRP bietet die Möglichkeit Skill-XP-Booster zu erwerben, die unter **/booster** aktiviert werden. Der Booster wird für den gesamten Server aktiviert und vereinfacht das Leveln.
 
 
