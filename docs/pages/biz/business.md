@@ -1,6 +1,6 @@
 # Gewerbe
 
-Jedes Gewerbe gehört einer Person oder dem [Gewerbemanagement](biz-managment.md). Der Lagervorrat ist nicht unendlich groß und muss regelmäßig von den Besitzern mit Lagerkisten aufgefüllt werden. Ist der Lagervorrat leer, kann dennoch die Ware gekauft werden, allerdings erhält der Gewerbebesitzer kein Geld mehr dafür. <img align="right" width="200" height="170" src="../../../assets/image/biz/ownerview.png"> Die Preise jedes einzelnen Gewerbes können vom jeweiligen BIZ-Besitzer geändert werden.
+Jedes Gewerbe gehört einer Person oder sind freistehend und können von jedem beliebigen Spieler gekauft werden. Der Lagervorrat ist nicht unendlich groß und muss regelmäßig von den Besitzern mit Lagerkisten aufgefüllt werden. Ist der Lagervorrat leer, kann dennoch die Ware gekauft werden, allerdings erhält der Gewerbebesitzer kein Geld mehr dafür und ddie Preise für Käufer steigen auf das servergesetzte Maximum. <img align="right" width="200" height="170" src="../../../assets/image/biz/ownerview.png"> Die Preise jedes einzelnen Gewerbes können vom jeweiligen BIZ-Besitzer geändert werden.
 Jeder Gewerbebesitzer kann Mitarbeiter über das BIZ-Menü einstellen. 
 
 ### Auffüllen des Gewerbe-Lagers 
