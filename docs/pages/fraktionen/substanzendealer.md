@@ -1,7 +1,7 @@
 # Substanzendealer
 
 
-Dieser Artikel behandelt den Substanzenhändler, für den Substanzhandel (eine Aktivität für Polizei und Crime-Fraktionen) siehe diesen [Verlinkung Artikel].
+Dieser Artikel behandelt den Substanzenhändler, für den Substanzhandel (eine Aktivität für Polizei und Crime-Fraktionen) siehe [Substanzhandel](.../../pages/biz/substanzhandel.md).
 
 Der Substanzenhändler, aufgrund seines Ingame-Namens auch einfach „Dealer“ genannt, ist ein NPC bei dem Spieler bestimmte Substanzen verkaufen können. Die vom Substanzenhändler gebotenen Preise pro Gramm sind dabei allerdings geringer als die Preise, die ein Member einer Crime-Fraktion im Handel mit anderen Spielern ansetzen kann und liegen unter dem eigentlichen Wert. Vom Dealer Substanzen zu kaufen ist nicht möglich.
 
