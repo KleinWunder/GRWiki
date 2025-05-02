@@ -2,7 +2,7 @@
 
 !!! info "Seiteninfo" Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
 
-Dieser Artikel behandelt die Aktivität des Substanzhandels, für den Substanzenhändler (Dealer) siehe [Substanzendealer](.../../pages/fraktionen/substanzendealer.md).
+Dieser Artikel behandelt die Aktivität des Substanzhandels, für den Substanzenhändler (Dealer) siehe [Substanzendealer](substanzendealer.md).
 
 Der Substanzhandel ist eine Aktivität für die Polizei und die Crime-Fraktionen, von den Membern von Crime-Fraktionen wird diese auch oft umgangssprachlich als "Johnny Event" bezeichnet.
 Dabei erscheint an einem von sechs möglichen, meistens etwas versteckten Orten eine Gruppe von **bewaffneten** NPCs. Dabei gibt es ein bis zwei "Boss"-NPCs und vier bis sechs "Wache"-NPCs. Diese schießen auf jeden Spieler der in ihre Nähe kommt, besonders neuere Spieler oder Spieler mit wenigen Herzen sollten hier sehr vorsichtig sein!
