@@ -17,5 +17,6 @@ Der Handwerk-Skill kann durch folgende Aktivitäten gelevelt werden:
 ## Pets
 
 Folgende Pets wirken sich positiv auf den Fischer-Skill aus:
+
 * [Biene](../../pages/pets/biene.md)
 * [Affe](../../pages/pets/affe.md)
