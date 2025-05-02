@@ -64,7 +64,7 @@ nav:
     - Allgemein: pages/fahrzeuge/allgemein.md
     - Kofferraum: pages/fahrzeuge/kofferaum.md
     - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
-    - Schrottpresse: pages/fahrzeuge/schrottpresse.md
+  # - Schrottpresse: pages/fahrzeuge/schrottpresse.md #
     - Blitzer: pages/fahrzeuge/blitzer.md
   - Gesundheit:
     - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
@@ -88,7 +88,6 @@ nav:
     - Allgemein: pages/houses/allgemein.md
     - Hausaddons: pages/houses/hausaddons.md
   - Orte:
-    - Stadthalle: pages/orte/stadthalle.md
     - Handelshaus: pages/gebäude/handelshaus.md
     - Schwarzmarkt: pages/orte/schwarzmarkt.md
     - Rathaus: pages/orte/rathaus.md
@@ -181,6 +180,7 @@ nav:
     - Farming: pages/skills/farming.md
     - Fischer: pages/skills/fischer.md
     - Gärtner: pages/skills/gärtner.md
+    - Handwerk: pages/skills/handwerk.md
     - Kochen: pages/skills/kochen.md
     - Sozial: pages/skills/social.md
   - Pets:
