@@ -12,19 +12,17 @@ Im Bergwerk kann als Minenarbeiter gearbeitet werden. Diese Arbeit gewährt eine
 
 Die Arbeit im Bergwerk funktioniert mit den folgenden Punkten.
 
-<ul>- Gehe zum NPC Tashi und kaufe eine Spitzhacke. 
+- Gehe zum NPC Tashi und kaufe eine Spitzhacke. 
 - Nun müssen die Eisenerze in der Mine abgebaut werden.
 - Es können vier verschiedene Items im Inventar landen:
-
-  <li>- Kieselsteine 
+  - Kieselsteine 
   - Eisenerz
   - Rohes Eisen
   - Bernstein
   - Tashi's Gunst
-  - [Fledermaus-Pet](../../pages/pets/fledermaus.md)</li>
-  
+  - [Fledermaus-Pet](../../pages/skills/social.md)
 - Am Ende die Eisenerze am Eingang beim Ofen entschlacken oder zu poliertem Eisen weiterverarbeiten
-- Kieselsteine im Mülleimer entsorgen</ul>
+- Kieselsteine im Mülleimer entsorgen
 
 
 Diese Items werden unterschiedlich verwertet: 
