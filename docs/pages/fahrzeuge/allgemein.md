@@ -93,5 +93,5 @@ Die Fahrzeuge unterscheiden sich in diesen Werten:
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Rolls Royce | 120 km/h | 115 | 30L | 4 | - | - | 180€ | 160.000€ |
 | Viper STR | 140 km/h | 115 | 25L | 2 | - | - | 80€ | 112.000€ |
-| WRX STI 2020 | 135 km/h | 100 | 25L | 4 | - | - | 80€ | 1000.000€ |
+| WRX STI 2020 | 135 km/h | 100 | 25L | 4 | - | - | 80€ | 100.000€ |
 | Zentorno | 145 km/h | 150 | 35L | 2 | - | - | 200€ | 210.000€ |
