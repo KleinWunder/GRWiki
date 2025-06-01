@@ -1,6 +1,6 @@
 # Interaktionsmenü
 
-Das Interaktionsmenü liefert eine Vielzahl an Möglichkeiten, um mit Spielern zu interagieren. Man öffnet es, indem man Rechtsklick auf einen anderen Spieler macht.
+Das Interaktionsmenü bietet eine Vielzahl an Möglichkeiten, um mit Spielern zu interagieren. Man öffnet es, indem man mit Rechtsklick auf einen anderen Spieler klickt.
 
 ## Inhalte des Interaktionsmenüs
 
@@ -18,15 +18,13 @@ Das Interaktionsmenü liefert eine Vielzahl an Möglichkeiten, um mit Spielern z
 
 ## Fraktionsspezifische Interaktionsmenüs
 
-Für die Fraktionsmitglieder gibt es noch zusätzliche Interaktionen:
+Für Fraktionsmitglieder gibt es zusätzliche Interaktionen:
 
-
-
-<img align="left" width="240" eight="200" src="../../../assets/image/allgemein/Medicmenü.png"> <img align="center" width="240" eight="200" src="../../../assets/image/allgemein/Copmenü.png"> <img align="right" width="240" eight="200" src="../../../assets/image/allgemein/Crimemenü.png">
+<img align="left" width="240" height="200" src="../../../assets/image/allgemein/Medicmenü.png"> <img align="center" width="240" height="200" src="../../../assets/image/allgemein/Copmenü.png"> <img align="right" width="240" height="200" src="../../../assets/image/allgemein/Crimemenü.png">
 
 
 | Fraktion | Funktionen |
 |:-:|:-:|
-| [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) | Allgemeinzustand überprüfen; Arztbericht anfertigen; Erste Hilfe Kurs attestieren; Gesundheitscheck attestieren |
+| [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) | Allgemeinzustand überprüfen; Arztbericht anfertigen; Erste-Hilfe-Kurs attestieren; Gesundheitscheck attestieren |
 | [Polizei](../../pages/fraktionen/polizei.md) | Bußgeld ausstellen; Durchsuchen; Transport anfordern; Fahndungsinfo abrufen; Dienstmarke zeigen; Zu Boden drücken |
 | [Crimefraktionen](../../pages/fraktionen/allgemein.md) | Packen; Fesseln; Knebeln; Kommunikationsmittel abnehmen |

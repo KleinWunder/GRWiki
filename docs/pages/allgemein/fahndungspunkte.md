@@ -10,7 +10,7 @@ Die Polizei hat die Möglichkeit, alle aktiven Fahndungen mit dem Befehl **/want
 <img align="right" width="440" height="440" src="../../../assets/image/allgemein/fahndungspunkte/FahndungspunkteStats.png">
 
 ## Möglichkeiten der Strafverfolgung
-Wird nach einem Spieler gefahndet, gibt es mehrere Möglichkeiten der Strafverfolgung. Zum einen kann sich der Spieler selbst bei einem Beamten stellen, indem er einen [Notruf](../../pages/allgemein/notrufe.md) absetzt. Für eine Stellung wird eine Strafminderung erteilt. Sollte kein Polizist anwesend sein, kann man sich an der [JVA](../elbst stellen. Allerdings ist dies erst ab 75 WPS möglich.
+Wird nach einem Spieler gefahndet, gibt es mehrere Möglichkeiten der Strafverfolgung. Zum einen kann sich der Spieler selbst bei einem Beamten stellen, indem er einen [Notruf](../../pages/allgemein/notrufe.md) absetzt. Für eine Stellung wird eine Strafminderung erteilt. Sollte kein Polizist anwesend sein, kann man sich an der [JVA](../../pages/orte/jva.md) selbst stellen. Allerdings ist dies erst ab 75 WPS möglich.
 
 Möchte man sich als Verbrecher nicht stellen, sollte man sich stets bedeckt und versteckt vor Polizisten halten. Mit der Zeit wird es aber immer schwerer, der Polizei zu entkommen und einer Verhaftung aus dem Weg zu gehen, sodass man um diese nicht herumkommt.
 
