@@ -13,6 +13,7 @@ Es besteht die Option, Häuser und Wohnungen zu erwerben oder von anderen Spiele
 ## Vermieten / Mieten
 
 Als Hausbesitzer kannst du Mietverträge mit anderen Spielern abschließen, die dann in dieser Immobilie wohnen. Diese Spieler zahlen pro Payday einen vordefinierten Betrag in die Hauskasse, auf die nur der Hausbesitzer Zugriff hat.
+Im Makler (**/navi Makler**) kannst du Häuser zum Vermieten anbieten.
 
 * Hausbesitzer und zukünftiger Mieter müssen sich im Hauseingang befinden.
 * Der Hausbesitzer gibt den Befehl **/rent [Name] [Hausnummer] [Betrag]** ein.

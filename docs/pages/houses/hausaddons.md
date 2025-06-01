@@ -15,7 +15,7 @@ Hausaddons sind nützliche, kaufbare Zusatzoptionen für ein Haus, die man im M�
 Die Hauskasse muss einmalig für das jeweilige Haus gekauft werden. Es können bis zu 5.000€ eingelagert werden.
 
 ## Waffenschrank
-In einem Waffenschrank können bis zu 10 Waffen gelagert werden. Es können alle Waffen eingelagert werden, die in Waffenläden kaufbar sind oder im Equip einer Fraktion enthalten sind.
+In einem Waffenschrank können bis zu 10 Waffen gelagert werden. Es können alle Waffen eingelagert werden, die in Waffenläden kaufbar sind oder im Equip einer [Fraktion](../../pages/fraktionen/allgemein.md) enthalten sind.
 Das Einlagern funktioniert ganz einfach, indem du mit Rechtsklick auf dein Hausschild klickst und dann auf "Waffenschrank" gehst.
 Nun kannst du deine Waffen aus deinem Inventar dort hineinlegen.
 
