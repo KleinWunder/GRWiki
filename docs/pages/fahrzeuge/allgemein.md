@@ -54,7 +54,7 @@ Die Fahrzeuge unterscheiden sich in diesen Werten:
 | Roller | 50 km/h | 50 | 15L | 2 | - | 5g | 5€ | 1.500€ |
 | Smart |  80 km/h | 80 | 15L | 2 | - | - | 10€ | 2.250€ |
 | Subaru Impreza | 135 km/h | 120 | 25L | 4 | - | - | 80€ | 116.000€ |
-| Supersport | 145 km/h | 120 | 20L | 2 | - | - | 150€ | 18.5000€ |
+| Supersport | 145 km/h | 120 | 20L | 2 | - | - | 150€ | 18.500€ |
 | VW T6 | 100 km/h | 125 | 30L | 8 | 5 | 100g | 20€ | 5.500€ |
 | ZUK Camper | 70 km/h | 100 | 30L | 6 | - | - | 25€ | 15.000€ |
 
