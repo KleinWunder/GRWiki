@@ -63,14 +63,14 @@ Jedes Haus hat 2 Nummern, die sich aus der Straßen-ID und der eigentlichen Haus
 
 | Nummer        | Gebiet                                         |
 |:-------------:|:----------------------------------------------:|
-| 1-9; 52; 64-74; 80-82; 85-86 | Downtown |
+| 1-9; 52; 64-74; 80-82; 85-86 | [Downtown](../../pages/gebiete/downtown.md) |
 | 10-15, 84; 88 | [Oststadt](../../pages/gebiete/oststadt.md)    |
 | 16-25; 49 | [Reichenviertel](../../pages/gebiete/reichenviertel.md) |
 | 26-27; 37 | [Strandpassage](../../pages/gebiete/strandpassage.md) |
 | 28-32; 51 | [Asia-Viertel](../../pages/gebiete/asiaviertel.md) |
 | 33-36; 50; 54 | [County](../../pages/gebiete/county.md)|
 | 38-42; 53; 75-78 | [Westside](../../pages/gebiete/westside.md) |
-| 43-48; 83 | [Ganggebiet](../../pages/gebiete/ganggebiet.md) |
+| 43-48; 83 | [Auheim](../../pages/gebiete/auheim.md) |
 | 55-63; 79; 87 | [Altstadt](../../pages/gebiete/altstadt.md) |
 
 ## Nice to Know
