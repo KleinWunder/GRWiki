@@ -59,5 +59,5 @@ Derzeitige Guideaufsicht:
 
 Mehr Infos zu diesem Posten kommt bald!
 
-Derzeitige Subteam-Aufsciht:
+Derzeitige Subteam-Aufsicht:
 **[RettichLP](https://germanrp.eu/index.php?user/1854-gr-rettichlp/)**<br>
