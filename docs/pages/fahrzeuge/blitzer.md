@@ -1,5 +1,5 @@
 Die Blitzer sind in ganz Vance City verteilt um Geschwindigkeitsüberschreitungen zu erfassen. <img align="right" width="150" eight="100" src="../../../assets/image/Öpnv/Straßenmaterial/Blitzer.png">
-Das errechnete Bussgeld hägnt von der Geschwindigkeit ab, welche überschritten worden ist.
+Das errechnete Bußgeld hägnt von der Geschwindigkeit ab, welche überschritten worden ist.
 
 ### Mobile Blitzer <img align="right" width="130" eight="185" src="../../../assets/image/Öpnv/Straßenmaterial/Mobiler-Blitzer.png">
 
@@ -10,7 +10,7 @@ Die Polizei verfügt über Mobile Blitzer, welche sie überall in Vance City auf
 Ebenfalls besitzt der Staat Radarpistolen, <img align="right" width="200" eight="100" src="../../../assets/image/Öpnv/Straßenmaterial/Radarpistole.png">
 welche das gleiche Ziel wie Blitzer verfolgen. Radarpistolen sind wie mobile Blitzer, welche der Staat in der Hand hält um Fahrzeuge zu blitzen, welche zu schnell sind.
 
-## Blitzer Bussgeld
+## Blitzer Bußgeld
 
 | Geschwindigkeitsüberschreitung | Bussgeld | [Fahndungspunkte](../../pages/allgemein/fahndungspunkte.md) |
 |:-:|:-:|:-:|
