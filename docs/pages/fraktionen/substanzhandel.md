@@ -1,6 +1,7 @@
 # Substanzhandel
 
-!!! info "Seiteninfo" Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
+!!! info "Seiteninfo" 
+    Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
 
 Dieser Artikel behandelt die Aktivität des Substanzhandels, für den Substanzenhändler (Dealer) siehe [Substanzendealer](substanzendealer.md).
 
