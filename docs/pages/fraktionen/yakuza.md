@@ -1,6 +1,6 @@
 !!! info "Status"
     Die Fraktion Yakuza ist zurzeit deaktiviert und gilt als Leerfraktion.
-    Bei Interesse wenden Sie sich an das Fraktionsmanagement oder schreiben sie einen Antrag in unserem **[Forum](https://germanrp.eu/forum/index.php?board/188-fraktion-vorschlagen/)
+    Bei Interesse wenden Sie sich an das Fraktionsmanagement oder schreiben sie einen Antrag in unserem **[Forum](https://germanrp.eu/forum/index.php?board/188-fraktion-vorschlagen/)**
 # Yakuza
 
 <img align="right" width="340" eight="340" src="../../../assets/image/fraktionen/YakuzaHQ.png">
