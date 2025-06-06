@@ -1,7 +1,4 @@
 # Presseagentur
-
-!!! info "Seiteninfo" 
-      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
       
 Die Presseagentur Vance City dient als zentrale Informationsquelle für die Spieler. Durch gezielte Werbung und aktuelle Ereignismeldungen hält sie die Spieler stets auf dem Laufenden.
 Zusätzlich können Spieler hier den [Nebenjob](../../pages/nebenjobs/nebenjobs.md) **"[Zeitungsjunge](../../pages/nebenjobs/zeitungsjunge.md)"** erledigen.
