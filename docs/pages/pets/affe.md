@@ -2,7 +2,7 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Affe.png">
 
-Wie auch nicht anders zu erwarten, hängt so ein Affe gerne in den Bäumen herum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der [Biene](biene.md) als effektivster Booster des [Farming Skill-XP](../../pages/skills/handwerk.md).  
+Wie auch nicht anders zu erwarten, hängt so ein Affe gerne in den Bäumen herum. Von dort kannst du ihn nämlich auch erhalten: durch das Fällen von Bäumen beim Sägewerk. Er gilt neben der [Biene](biene.md) als effektivster Booster des [Handwerk Skill-XP](../../pages/skills/handwerk.md).  
 
 ## Die verschiedenen Stufen des Affen
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
