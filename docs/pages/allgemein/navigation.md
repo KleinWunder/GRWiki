@@ -9,9 +9,9 @@ Mit dem Befehl **/navi** öffnet sich ein Menü, welches Routenführungen zu den
 
 | Navipunkt | Orte in der Nähe |
 |:-:|:-:|
-| [Stadthalle](../../pages/orte/stadthalle.md) |  Apotheke-1 <br>  Starblocks-1 <br> Postzentrale  |
+| [Rathaus](../../pages/orte/rathaus.md) | Apotheke-1 <br>  Starblocks-1 <br> Postzentrale  |
 | [Zentralbank](../../pages/orte/zentralbank.md) | Apotheke-1 <br>  Bar-3 <br>  Rathaus <br> Starblocks-1 <br>  Postzentrale |
-| [Rathaus](../../pages/orte/rathaus.md) |  Stadthalle <br> Postzentrale <br>  Standesamt <br>  Bürgermeisterwahl |
+| [Rathaus](../../pages/orte/rathaus.md) | Postzentrale <br>  Standesamt <br>  Bürgermeisterwahl |
 | [Fahrzeughändler](../../pages/orte/fahrzeughändler.md) | Postzentrale |
 | Luxusfahrzeughändler |  Supermarkt-7 |
 | Helikopterflugplatz |  Bar-2 |

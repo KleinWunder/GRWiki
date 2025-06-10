@@ -4,7 +4,7 @@ Die Steenfield ist eine von fünf Schusswaffen, welche es auf dem Server gibt. D
 
 ## Erhalten einer Shotgun
 
-Die Steenfield kann an Equippunkten der Crimefraktionen abgeholt werden. Die Waffe kostet 1250€. Vorausetzung hierfür ist eine Waffenlizenz, welche in der [Stadthalle](../../orte/stadthalle.md) beantragt wird. Die Munition wird in den Waffenläden verkauft.
+Die Steenfield kann an Equippunkten der Crimefraktionen abgeholt werden. Die Waffe kostet 1250€. Vorausetzung hierfür ist eine Waffenlizenz, welche im [Rathaus](../../orte/rathaus.md) beantragt wird. Die Munition wird in den Waffenläden verkauft.
 
 ## Verwendung
 
@@ -19,7 +19,7 @@ Die RTB-X ist eine Sniper die ein Cooldown von ca. 4 Sekunden hat, für die das 
 
 ## Erhalten einer Sniper
 
-Die RTB-X kann an Equippunkten der [Polizei](../../fraktionen/polizei.md) abgeholt werden. Die Waffe kostet 1250€. Voraussetzung hierfür ist eine Waffenlizenz, welche in der [Stadthalle](../../orte/stadthalle.md) beantragt wird.
+Die RTB-X kann an Equippunkten der [Polizei](../../fraktionen/polizei.md) abgeholt werden. Die Waffe kostet 1250€. Voraussetzung hierfür ist eine Waffenlizenz, welche im [Rathaus](../../orte/rathaus.md) beantragt wird.
 Die Munition wird in den Waffenläden verkauft.
 
 ## Verwendung

@@ -14,7 +14,7 @@ Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center"><a href="../../fraktionen/rettungsdienst/">Uniklinik</a> <br> Postzentrale </td>
+      <td align="center"><a href="../../fraktionen/rettungsdienst/">Uniklinik</a> <br> Postzentrale <br> Altersheim </td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
@@ -22,7 +22,7 @@ Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center">Makler <br> <a href="../../orte/stadthalle/">Stadthalle</a> <br> <a href="../../fraktionen/rettungsdienst/">Uniklinik</a> <br> <a href="../../orte/zentralbank/">Zentralbank</a> <br> <a href="../../fraktionen/polizei/">Polizei</a> HQ <br> <a href="../../orte/rathaus/">Rathaus</a></td>
+      <td align="center">Makler <br> <a href="../../orte/rathaus/">Rathaus</a> <br> <a href="../../fraktionen/rettungsdienst/">Uniklinik</a> <br> <a href="../../orte/zentralbank/">Zentralbank</a> <br> <a href="../../fraktionen/polizei/">Polizei</a> HQ</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>

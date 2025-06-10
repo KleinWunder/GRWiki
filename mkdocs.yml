@@ -143,6 +143,8 @@ nav:
     - Yakuza: pages/fraktionen/yakuza.md
     - The Establishment: pages/fraktionen/establishment.md
     - O' Callaghan: pages/fraktionen/ocallaghan.md
+    - Rousseau-Familie: pages/fraktionen/rousseaufamilie.md
+    - Volkov-Familie: pages/fraktionen/volkovfamilie.md
     - Aktivitäten: 
       - Allgemein: pages/fraktionen/aktivitäten.md
       - Reputationpunkte: pages/fraktionen/reputationpunkte.md
@@ -167,7 +169,7 @@ nav:
   - Items:
     - Brechstange: pages/items/brechstange.md
     - Dietrich: pages/items/dietrich.md
-    - Weapons:
+    - Waffen:
       - P-51: pages/items/weapons/pistole.md
       - MX8: pages/items/weapons/maschinenpistole.md
       - Havok-47: pages/items/weapons/sturmgewehre.md
