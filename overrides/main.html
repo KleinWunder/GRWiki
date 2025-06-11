@@ -2,6 +2,53 @@
 
 {% block announce %}
 
+<script>
+    window.onload = function() {
+        if (document.title === "GermanRP Wiki") {
+            const bannerElements = document.getElementsByClassName("md-banner");
+            for (let i = 0; i < bannerElements.length; i++) {
+                bannerElements[i].remove();
+            }
+
+            const headerElements = document.getElementsByTagName("header");
+            for (let i = 0; i < headerElements.length; i++) {
+                headerElements[i].style.backgroundColor = "transparent";
+                headerElements[i].style.backgroundImage = "none";
+            }
+
+            const headerInnerElements = document.getElementsByClassName("md-header__inner");
+            for (let i = 0; i < headerInnerElements.length; i++) {
+                headerInnerElements[i].remove();
+            }
+
+            const sidebarPrimaryElements = document.getElementsByClassName("md-sidebar md-sidebar--primary");
+            for (let i = 0; i < sidebarPrimaryElements.length; i++) {
+                sidebarPrimaryElements[i].remove();
+            }
+
+            const sidebarSecondaryElements = document.getElementsByClassName("md-sidebar md-sidebar--secondary");
+            for (let i = 0; i < sidebarSecondaryElements.length; i++) {
+                sidebarSecondaryElements[i].remove();
+            }
+
+            const h1Elements = document.getElementsByTagName("h1");
+            for (let i = 0; i < h1Elements.length; i++) {
+                h1Elements[i].remove();
+            }
+
+            const footerElements = document.getElementsByClassName("md-footer__inner");
+            for (let i = 0; i < footerElements.length; i++) {
+                footerElements[i].remove();
+            }
+
+            const mainElements = document.getElementsByClassName("md-main");
+            if (mainElements.length > 0) {
+                mainElements[0].style.backgroundImage = "url('https://germanrp.eu/images/style-29/custom/background.jpg')";
+            }
+        }
+    }
+</script>
+
 Wenn du Hilfe brauchst oder Ideen hast, schau auch gern auf unserem
 <a href="https://discord.gg/Vd75V3H3fs" rel="me">
             <span class="twemoji discord">
