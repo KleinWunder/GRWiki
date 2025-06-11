@@ -53,7 +53,6 @@ nav:
     - Bus: pages/öpnv/bus.md
     - U-Bahn: pages/öpnv/ubahn.md
   - Businesse (BIZ):
-  #  - BIZ-Management: pages/biz/biz-managment.md #
     - Gewerbe: pages/biz/business.md
     - Apotheken: pages/biz/apotheke.md
     - Bars: pages/biz/bar.md
@@ -65,7 +64,6 @@ nav:
     - Allgemein: pages/fahrzeuge/allgemein.md
     - Kofferraum: pages/fahrzeuge/kofferaum.md
     - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
-  # - Schrottpresse: pages/fahrzeuge/schrottpresse.md #
     - Blitzer: pages/fahrzeuge/blitzer.md
   - Gesundheit:
     - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
@@ -153,6 +151,7 @@ nav:
       - Banküberfall: pages/fraktionen/banküberfall.md
       - Bombe: pages/fraktionen/bomben.md
       - Darklist: pages/fraktionen/darklist.md
+      - Graffiti: pages/fraktionen/graffiti.md
       - Hausaktionen: pages/fraktionen/hausaktionen.md
       - HQ Raids/Razzia: pages/fraktionen/hqraids.md
       - Juwelenraub: pages/fraktionen/juwelenraub.md
@@ -160,6 +159,7 @@ nav:
       - Spezialtransport: pages/fraktionen/spezialtransport.md
       - Streetrace: pages/fraktionen/streetrace.md
       - Substanzen-Dealer: pages/fraktionen/substanzendealer.md
+      - Substanzenhandel: pages/fraktionen/substanzhandel.md
       - Trainings-System: pages/fraktionen/training.md
     - Gangzonen:
       - Gangwar: pages/fraktionen/gangwar.md
@@ -178,6 +178,7 @@ nav:
       - Waffenaddons: pages/items/weapons/waffenaddons.md
   - Skills:
     - Allgemein: pages/skills/allgemein.md
+    - Rucksack: pages/skills/rucksack.md
     - Bergbau: pages/skills/bergbau.md
     - Combat: pages/skills/combat.md
     - Farming: pages/skills/farming.md
