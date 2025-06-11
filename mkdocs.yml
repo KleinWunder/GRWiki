@@ -1,230 +1,39 @@
 site_name: GermanRP Wiki
+site_url: https://wiki.germanrp.eu/
+site_author: GermanRP
+site_description: "Die offizielle Wiki von GermanRP. Hier findest du alle Informationen zu unserem RP-Server, den Fraktionen, Jobs und vieles mehr."
+
+extra:
+  homepage: https://germanrp.eu/
+  social:
+  - icon: material/forum
+    link: https://germanrp.eu/
+    name: Forum
+  - icon: fontawesome/brands/discord
+    link: https://discord.gg/Vd75V3H3fs
+    name: Discord
+  - icon: fontawesome/brands/instagram
+    link: https://instagram.com/germanrp.pr/
+    name: Instagram
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/GermanRP3
+    name: Twitter
+
+copyright: "Copyright &copy; 2025 GermanRP"
+
+plugins:
+- search:
+    lang: de
+- git-revision-date-localized:
+    enable_creation_date: true
+- glightbox
 
 extra_css:
 - stylesheets/extra.css
 
-nav:
-  - Startseite: index.md
-  - Teams:
-    - Serverteam: pages/other/serverteam.md
-    - Sonderteams: pages/other/sonderteams.md
-    - Wiki-Team: pages/other/wiki-team.md
-  - Anfängerhilfe: pages/help/anfängerhilfe.md
-  - Allgemeines:
-    - Befehlsliste: pages/allgemein/befehle.md
-    - Serverstrafen: pages/allgemein/serverstrafe.md
-    - Ticket: pages/allgemein/tickets.md
-    - Essen: pages/allgemein/essen.md
-    - Navi: pages/allgemein/navigation.md
-    - Bewusstlosigkeit: pages/allgemein/bewusstlosigkeit.md
-    - Fahndungspunkte: pages/allgemein/fahndungspunkte.md
-    - Handy: pages/allgemein/handy.md
-    - Notruf: pages/allgemein/notrufe.md
-    - Lizenzen: pages/allgemein/lizenzen.md
-    - Interaktionsmenü: pages/allgemein/interaktionsmenü.md
-    - Spielmenü:
-      - Allgemein: pages/allgemein/spielmenü.md
-      - Quests: pages/allgemein/quests.md
-      - Events & Timer:
-        - Stündliche Abrechnung: pages/allgemein/payday.md
-        - Bürgermeister: pages/allgemein/bürgermeister.md
-        - Minievents: pages/allgemein/minievents.md
-      - Shops & VIP:
-        - Bonus-Shop: pages/allgemein/bonuspunkte.md
-        - VIP-Status: pages/allgemein/vip.md
-      - Fortschritt:
-        - Level: pages/allgemein/level.md
-        - Erfolge: pages/allgemein/erfolge.md
-      - Items & Gegenstände:
-        - Tasche: pages/allgemein/tasche.md
-        - Cosmetics: pages/allgemein/cosmetics.md
-    - Beziehung: pages/allgemein/beziehung.md
-    - Gruppierung: pages/allgemein/gruppierung.md
-    - Perks: pages/allgemein/perks.md
-    - Sperrgebiete: pages/allgemein/sperrgebiete.md
-  - Stadtteile:
-    - Altstadt: pages/gebiete/altstadt.md
-    - Auheim: pages/gebiete/auheim.md
-    - Asiaviertel: pages/gebiete/asiaviertel.md
-    - County/Plaza: pages/gebiete/county.md
-    - Downtown: pages/gebiete/downtown.md
-    - Oststadt: pages/gebiete/oststadt.md
-    - Reichenviertel: pages/gebiete/reichenviertel.md
-    - Strandpassage: pages/gebiete/strandpassage.md
-    - Westside: pages/gebiete/westside.md
-  - Öffentlicher Nahverkehr:
-    - Bus: pages/öpnv/bus.md
-    - U-Bahn: pages/öpnv/ubahn.md
-  - Businesse (BIZ):
-    - Gewerbe: pages/biz/business.md
-    - Apotheken: pages/biz/apotheke.md
-    - Bars: pages/biz/bar.md
-    - Starblocks: pages/biz/starblocks.md
-    - Supermärkte: pages/biz/supermarkt.md
-    - Tankstellen: pages/biz/tankstelle.md
-    - Waffenläden: pages/biz/waffenladen.md
-  - Fahrzeuge:
-    - Allgemein: pages/fahrzeuge/allgemein.md
-    - Kofferraum: pages/fahrzeuge/kofferaum.md
-    - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
-    - Blitzer: pages/fahrzeuge/blitzer.md
-  - Gesundheit:
-    - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
-    - Rezepte: pages/krankheiten/rezepte.md
-    - Heilkrautlizenz: pages/krankheiten/heilkrautlizenz.md
-    - Krankeiten:
-      - Beinverletzungen: pages/krankheiten/beinverletzungen.md
-      - Blutzucker: pages/krankheiten/blutzucker.md
-      - Dehydration: pages/krankheiten/dehydration.md
-      - Grippe: pages/krankheiten/grippe.md
-      - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
-    - Impfung: pages/krankheiten/impfung.md
-  - Substanzen:
-    - Heilkraut: pages/bmt/heilkraut.md
-    - Medikamente: pages/bmt/medikamente.md
-    - Mohnkapseln: pages/bmt/mohnkapseln.md
-    - Novapulver: pages/bmt/novapulver.md
-    - Schmerzmittel: pages/bmt/schmerzmittel.md
-    - Tablettenschachtel: pages/bmt/tablettenschachtel.md
-  - Häuser: 
-    - Allgemein: pages/houses/allgemein.md
-    - Hausaddons: pages/houses/hausaddons.md
-  - Orte:
-    - Handelshaus: pages/gebäude/handelshaus.md
-    - Schwarzmarkt: pages/orte/schwarzmarkt.md
-    - Rathaus: pages/orte/rathaus.md
-    - Arztpraxis: pages/orte/arztpraxis.md
-    - Banken: pages/orte/banken.md
-    - Fahrschule: pages/orte/fahrschule.md
-    - Fahrzeughändler: pages/orte/fahrzeughändler.md
-    - Justizvollzugsanstalt: pages/orte/jva.md
-    - Möbelhaus: pages/orte/möbelhaus.md
-    - Anwaltskanzlei: pages/gebäude/anwaltskanzlei.md
-    - Labor: pages/gebäude/labor.md
-    - Syndikat: pages/gebäude/syndikat.md
-    - Tierheim: pages/gebäude/tierheim.md
-    - FightClub: pages/gebäude/fightclub.md
-  - Jobs/Nebenjobs:
-    - Allgemein: pages/nebenjobs/nebenjobs.md  
-    - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
-    - Bademeister: pages/nebenjobs/bademeister.md
-    - Blumentransport: pages/nebenjobs/blumentransport.md
-    - Erztransport: pages/nebenjobs/erztransport.md
-    - Farmer: pages/nebenjobs/farmer.md
-    - Fensterputzer: pages/nebenjobs/fensterputzer.md
-    - Geldtransport: pages/nebenjobs/geldtransport.md
-    - Getränketransport: pages/nebenjobs/getränketransport.md
-    - Gärtner: pages/nebenjobs/gärtner.md
-    - Honigtransport: pages/nebenjobs/honigtransport.md
-    - Imker: pages/nebenjobs/imker.md
-    - JVA-Transport: pages/nebenjobs/jvatransport.md
-    - Koch: pages/nebenjobs/koch.md
-    - Munitionstransport: pages/nebenjobs/munitionstransport.md
-    - Paketsortierer: pages/nebenjobs/paketsortierer.md
-    - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
-    - Reifentransport: pages/nebenjobs/reifentransport.md
-    - Straßenreiniger: pages/nebenjobs/straßenreiniger.md
-    - Tellerwäscher: pages/nebenjobs/tellerwäscher.md
-    - Winzer: pages/nebenjobs/winzer.md
-    - Wäscherei: pages/nebenjobs/wäscherei.md
-    - Wäschetransport: pages/nebenjobs/wäschetransport.md
-    - Zeitungsjunge: pages/nebenjobs/zeitungsjunge.md
-    - Angler:  pages/nebenjobs/angler.md
-    - Bergwerk: pages/nebenjobs/bergbau.md
-    - Jagd:  pages/nebenjobs/jagd.md
-    - Sägewerk: pages/nebenjobs/sägewerk.md
-  - Fraktionen:
-    - Allgemein: pages/fraktionen/allgemein.md
-    - Polizei: pages/fraktionen/polizei.md
-    - Rettungsdienst: pages/fraktionen/rettungsdienst.md
-    - Presseagentur: pages/fraktionen/presse.md
-    - MT-Fashion: pages/fraktionen/mtfashion.md
-    - Medellín Kartell: pages/fraktionen/kartell.md
-    - Sinaloa Kartell: pages/fraktionen/cds.md
-    - Camorra: pages/fraktionen/camorra.md
-    - Yakuza: pages/fraktionen/yakuza.md
-    - The Establishment: pages/fraktionen/establishment.md
-    - O' Callaghan: pages/fraktionen/ocallaghan.md
-    - Rousseau-Familie: pages/fraktionen/rousseaufamilie.md
-    - Volkov-Familie: pages/fraktionen/volkovfamilie.md
-    - Aktivitäten: 
-      - Allgemein: pages/fraktionen/aktivitäten.md
-      - Reputationpunkte: pages/fraktionen/reputationpunkte.md
-      - Apothekenräube: pages/fraktionen/apothekenraub.md
-      - Banküberfall: pages/fraktionen/banküberfall.md
-      - Bombe: pages/fraktionen/bomben.md
-      - Darklist: pages/fraktionen/darklist.md
-      - Graffiti: pages/fraktionen/graffiti.md
-      - Hausaktionen: pages/fraktionen/hausaktionen.md
-      - HQ Raids/Razzia: pages/fraktionen/hqraids.md
-      - Juwelenraub: pages/fraktionen/juwelenraub.md
-      - Kopfgeld: pages/fraktionen/kopfgeld.md
-      - Spezialtransport: pages/fraktionen/spezialtransport.md
-      - Streetrace: pages/fraktionen/streetrace.md
-      - Substanzen-Dealer: pages/fraktionen/substanzendealer.md
-      - Substanzenhandel: pages/fraktionen/substanzhandel.md
-      - Trainings-System: pages/fraktionen/training.md
-    - Gangzonen:
-      - Gangwar: pages/fraktionen/gangwar.md
-  - Pflanzen:
-    - Heilkraut: pages/pflanzen/heilkraut.md
-    - Mohnfeld: pages/pflanzen/mohnfeld.md
-    - Rosen: pages/pflanzen/rosen.md
-  - Items:
-    - Brechstange: pages/items/brechstange.md
-    - Dietrich: pages/items/dietrich.md
-    - Waffen:
-      - P-51: pages/items/weapons/pistole.md
-      - MX8: pages/items/weapons/maschinenpistole.md
-      - Havok-47: pages/items/weapons/sturmgewehre.md
-      - Steenfield/RTB-X: pages/items/weapons/sniper.md
-      - Waffenaddons: pages/items/weapons/waffenaddons.md
-  - Skills:
-    - Allgemein: pages/skills/allgemein.md
-    - Rucksack: pages/skills/rucksack.md
-    - Bergbau: pages/skills/bergbau.md
-    - Combat: pages/skills/combat.md
-    - Farming: pages/skills/farming.md
-    - Fischer: pages/skills/fischer.md
-    - Gärtner: pages/skills/gärtner.md
-    - Handwerk: pages/skills/handwerk.md
-    - Kochen: pages/skills/kochen.md
-    - Sozial: pages/skills/social.md
-  - Pets:
-    - Allgemein: pages/pets/allgemein.md
-    - Affe: pages/pets/affe.md
-    - Biene: pages/pets/biene.md
-    - Capybara: pages/pets/capybara.md
-    - Fledermaus: pages/pets/fledermaus.md
-    - Hase: pages/pets/hase.md
-    - Hund: pages/pets/hund.md
-    - Katze: pages/pets/katze.md
-    - Papagei: pages/pets/papagei.md
-    - Rentier: pages/pets/rentier.md
-    - Schmetterling: pages/pets/schmetterling.md
-    - Wolf: pages/pets/wolf.md
-  - Sonstiges:
-    - AFK: pages/other/afk.md
-  - Links: pages/other/links.md
+extra_javascript: [ 'assets/theme/js/imprint.js' ]
 
-plugins:
- - search:
-    lang: de
- - git-revision-date-localized:
-      enable_creation_date: true   
- - glightbox
-
-markdown_extensions:
-  - attr_list
-  - tables
-  - md_in_html
-  - admonition
-  - pymdownx.keys
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-
-
+# configuration
 theme:
   name: material
   custom_dir: 'overrides'
@@ -232,37 +41,235 @@ theme:
   favicon: 'assets/theme/images/favicon.ico'
   language: de
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: light-mode
-      toggle:
-        icon: material/brightness-7
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: dark-mode
-      toggle:
-        icon: material/brightness-4
+  # Palette toggle for light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: light-mode
+    toggle:
+      icon: material/brightness-7
+  # Palette toggle for dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: dark-mode
+    toggle:
+      icon: material/brightness-4
   feature:
     tabs: true
   features:
-    - navigation.top
-    - navigation.footer
-    - header.autohide
+  - navigation.top
+  - navigation.footer
+  - header.autohide
 
-extra:
-  homepage: https://germanrp.eu/
-  social:
-    - icon: material/forum
-      link: https://germanrp.eu/
-      name: Forum
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/Vd75V3H3fs
-      name: Discord
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/germanrp.pr/
-      name: Instagram
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/GermanRP3
-      name: Twitter
+# extensions
+markdown_extensions:
+- attr_list
+- tables
+- md_in_html
+- admonition
+- pymdownx.keys
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg
 
-extra_javascript: [ 'assets/theme/js/imprint.js' ]
+# page tree
+nav:
+- Startseite: index.md
+- Teams:
+  - Serverteam: pages/other/serverteam.md
+  - Sonderteams: pages/other/sonderteams.md
+  - Wiki-Team: pages/other/wiki-team.md
+- Anfängerhilfe: pages/help/anfängerhilfe.md
+- Allgemeines:
+  - Befehlsliste: pages/allgemein/befehle.md
+  - Serverstrafen: pages/allgemein/serverstrafe.md
+  - Ticket: pages/allgemein/tickets.md
+  - Essen: pages/allgemein/essen.md
+  - Navi: pages/allgemein/navigation.md
+  - Bewusstlosigkeit: pages/allgemein/bewusstlosigkeit.md
+  - Fahndungspunkte: pages/allgemein/fahndungspunkte.md
+  - Handy: pages/allgemein/handy.md
+  - Notruf: pages/allgemein/notrufe.md
+  - Lizenzen: pages/allgemein/lizenzen.md
+  - Interaktionsmenü: pages/allgemein/interaktionsmenü.md
+  - Spielmenü:
+    - Allgemein: pages/allgemein/spielmenü.md
+    - Quests: pages/allgemein/quests.md
+    - Events & Timer:
+      - Stündliche Abrechnung: pages/allgemein/payday.md
+      - Bürgermeister: pages/allgemein/bürgermeister.md
+      - Minievents: pages/allgemein/minievents.md
+    - Shops & VIP:
+      - Bonus-Shop: pages/allgemein/bonuspunkte.md
+      - VIP-Status: pages/allgemein/vip.md
+    - Fortschritt:
+      - Level: pages/allgemein/level.md
+      - Erfolge: pages/allgemein/erfolge.md
+    - Items & Gegenstände:
+      - Tasche: pages/allgemein/tasche.md
+      - Cosmetics: pages/allgemein/cosmetics.md
+  - Beziehung: pages/allgemein/beziehung.md
+  - Gruppierung: pages/allgemein/gruppierung.md
+  - Perks: pages/allgemein/perks.md
+  - Sperrgebiete: pages/allgemein/sperrgebiete.md
+- Stadtteile:
+  - Altstadt: pages/gebiete/altstadt.md
+  - Auheim: pages/gebiete/auheim.md
+  - Asiaviertel: pages/gebiete/asiaviertel.md
+  - County/Plaza: pages/gebiete/county.md
+  - Downtown: pages/gebiete/downtown.md
+  - Oststadt: pages/gebiete/oststadt.md
+  - Reichenviertel: pages/gebiete/reichenviertel.md
+  - Strandpassage: pages/gebiete/strandpassage.md
+  - Westside: pages/gebiete/westside.md
+- Öffentlicher Nahverkehr:
+  - Bus: pages/öpnv/bus.md
+  - U-Bahn: pages/öpnv/ubahn.md
+- Businesse (BIZ):
+  - Gewerbe: pages/biz/business.md
+  - Apotheken: pages/biz/apotheke.md
+  - Bars: pages/biz/bar.md
+  - Starblocks: pages/biz/starblocks.md
+  - Supermärkte: pages/biz/supermarkt.md
+  - Tankstellen: pages/biz/tankstelle.md
+  - Waffenläden: pages/biz/waffenladen.md
+- Fahrzeuge:
+  - Allgemein: pages/fahrzeuge/allgemein.md
+  - Kofferraum: pages/fahrzeuge/kofferaum.md
+  - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
+  - Blitzer: pages/fahrzeuge/blitzer.md
+- Gesundheit:
+  - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
+  - Rezepte: pages/krankheiten/rezepte.md
+  - Heilkrautlizenz: pages/krankheiten/heilkrautlizenz.md
+  - Krankeiten:
+    - Beinverletzungen: pages/krankheiten/beinverletzungen.md
+    - Blutzucker: pages/krankheiten/blutzucker.md
+    - Dehydration: pages/krankheiten/dehydration.md
+    - Grippe: pages/krankheiten/grippe.md
+    - Lebensmittelvergiftung: pages/krankheiten/lebensmittelvergiftung.md
+  - Impfung: pages/krankheiten/impfung.md
+- Substanzen:
+  - Heilkraut: pages/bmt/heilkraut.md
+  - Medikamente: pages/bmt/medikamente.md
+  - Mohnkapseln: pages/bmt/mohnkapseln.md
+  - Novapulver: pages/bmt/novapulver.md
+  - Schmerzmittel: pages/bmt/schmerzmittel.md
+  - Tablettenschachtel: pages/bmt/tablettenschachtel.md
+- Häuser:
+  - Allgemein: pages/houses/allgemein.md
+  - Hausaddons: pages/houses/hausaddons.md
+- Orte:
+  - Handelshaus: pages/gebäude/handelshaus.md
+  - Schwarzmarkt: pages/orte/schwarzmarkt.md
+  - Rathaus: pages/orte/rathaus.md
+  - Arztpraxis: pages/orte/arztpraxis.md
+  - Banken: pages/orte/banken.md
+  - Fahrschule: pages/orte/fahrschule.md
+  - Fahrzeughändler: pages/orte/fahrzeughändler.md
+  - Justizvollzugsanstalt: pages/orte/jva.md
+  - Möbelhaus: pages/orte/möbelhaus.md
+  - Anwaltskanzlei: pages/gebäude/anwaltskanzlei.md
+  - Labor: pages/gebäude/labor.md
+  - Syndikat: pages/gebäude/syndikat.md
+  - Tierheim: pages/gebäude/tierheim.md
+  - FightClub: pages/gebäude/fightclub.md
+- Jobs/Nebenjobs:
+  - Allgemein: pages/nebenjobs/nebenjobs.md
+  - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
+  - Bademeister: pages/nebenjobs/bademeister.md
+  - Blumentransport: pages/nebenjobs/blumentransport.md
+  - Erztransport: pages/nebenjobs/erztransport.md
+  - Farmer: pages/nebenjobs/farmer.md
+  - Fensterputzer: pages/nebenjobs/fensterputzer.md
+  - Geldtransport: pages/nebenjobs/geldtransport.md
+  - Getränketransport: pages/nebenjobs/getränketransport.md
+  - Gärtner: pages/nebenjobs/gärtner.md
+  - Honigtransport: pages/nebenjobs/honigtransport.md
+  - Imker: pages/nebenjobs/imker.md
+  - JVA-Transport: pages/nebenjobs/jvatransport.md
+  - Koch: pages/nebenjobs/koch.md
+  - Munitionstransport: pages/nebenjobs/munitionstransport.md
+  - Paketsortierer: pages/nebenjobs/paketsortierer.md
+  - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
+  - Reifentransport: pages/nebenjobs/reifentransport.md
+  - Straßenreiniger: pages/nebenjobs/straßenreiniger.md
+  - Tellerwäscher: pages/nebenjobs/tellerwäscher.md
+  - Winzer: pages/nebenjobs/winzer.md
+  - Wäscherei: pages/nebenjobs/wäscherei.md
+  - Wäschetransport: pages/nebenjobs/wäschetransport.md
+  - Zeitungsjunge: pages/nebenjobs/zeitungsjunge.md
+  - Angler: pages/nebenjobs/angler.md
+  - Bergwerk: pages/nebenjobs/bergbau.md
+  - Jagd: pages/nebenjobs/jagd.md
+  - Sägewerk: pages/nebenjobs/sägewerk.md
+- Fraktionen:
+  - Allgemein: pages/fraktionen/allgemein.md
+  - Polizei: pages/fraktionen/polizei.md
+  - Rettungsdienst: pages/fraktionen/rettungsdienst.md
+  - Presseagentur: pages/fraktionen/presse.md
+  - MT-Fashion: pages/fraktionen/mtfashion.md
+  - Medellín Kartell: pages/fraktionen/kartell.md
+  - Sinaloa Kartell: pages/fraktionen/cds.md
+  - Camorra: pages/fraktionen/camorra.md
+  - Yakuza: pages/fraktionen/yakuza.md
+  - The Establishment: pages/fraktionen/establishment.md
+  - O' Callaghan: pages/fraktionen/ocallaghan.md
+  - Rousseau-Familie: pages/fraktionen/rousseaufamilie.md
+  - Volkov-Familie: pages/fraktionen/volkovfamilie.md
+  - Aktivitäten:
+    - Allgemein: pages/fraktionen/aktivitäten.md
+    - Reputationpunkte: pages/fraktionen/reputationpunkte.md
+    - Apothekenräube: pages/fraktionen/apothekenraub.md
+    - Banküberfall: pages/fraktionen/banküberfall.md
+    - Bombe: pages/fraktionen/bomben.md
+    - Darklist: pages/fraktionen/darklist.md
+    - Graffiti: pages/fraktionen/graffiti.md
+    - Hausaktionen: pages/fraktionen/hausaktionen.md
+    - HQ Raids/Razzia: pages/fraktionen/hqraids.md
+    - Juwelenraub: pages/fraktionen/juwelenraub.md
+    - Kopfgeld: pages/fraktionen/kopfgeld.md
+    - Spezialtransport: pages/fraktionen/spezialtransport.md
+    - Streetrace: pages/fraktionen/streetrace.md
+    - Substanzen-Dealer: pages/fraktionen/substanzendealer.md
+    - Substanzenhandel: pages/fraktionen/substanzhandel.md
+    - Trainings-System: pages/fraktionen/training.md
+  - Gangzonen:
+    - Gangwar: pages/fraktionen/gangwar.md
+- Pflanzen:
+  - Heilkraut: pages/pflanzen/heilkraut.md
+  - Mohnfeld: pages/pflanzen/mohnfeld.md
+  - Rosen: pages/pflanzen/rosen.md
+- Items:
+  - Brechstange: pages/items/brechstange.md
+  - Dietrich: pages/items/dietrich.md
+  - Waffen:
+    - P-51: pages/items/weapons/pistole.md
+    - MX8: pages/items/weapons/maschinenpistole.md
+    - Havok-47: pages/items/weapons/sturmgewehre.md
+    - Steenfield/RTB-X: pages/items/weapons/sniper.md
+    - Waffenaddons: pages/items/weapons/waffenaddons.md
+- Skills:
+  - Allgemein: pages/skills/allgemein.md
+  - Rucksack: pages/skills/rucksack.md
+  - Bergbau: pages/skills/bergbau.md
+  - Combat: pages/skills/combat.md
+  - Farming: pages/skills/farming.md
+  - Fischer: pages/skills/fischer.md
+  - Gärtner: pages/skills/gärtner.md
+  - Handwerk: pages/skills/handwerk.md
+  - Kochen: pages/skills/kochen.md
+  - Sozial: pages/skills/social.md
+- Pets:
+  - Allgemein: pages/pets/allgemein.md
+  - Affe: pages/pets/affe.md
+  - Biene: pages/pets/biene.md
+  - Capybara: pages/pets/capybara.md
+  - Fledermaus: pages/pets/fledermaus.md
+  - Hase: pages/pets/hase.md
+  - Hund: pages/pets/hund.md
+  - Katze: pages/pets/katze.md
+  - Papagei: pages/pets/papagei.md
+  - Rentier: pages/pets/rentier.md
+  - Schmetterling: pages/pets/schmetterling.md
+  - Wolf: pages/pets/wolf.md
+- Sonstiges:
+  - AFK: pages/other/afk.md
+- Links: pages/other/links.md
