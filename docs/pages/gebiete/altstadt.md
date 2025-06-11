@@ -22,6 +22,6 @@ Altstadt ist ein historisch geprägtes Viertel, das sich durch seine detailreich
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center">/</td>
+      <td align="center"><a href="../../skills/fischer/">Fischer</a> </td>
   </tbody>
 </table>
