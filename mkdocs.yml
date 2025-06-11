@@ -1,5 +1,8 @@
 site_name: GermanRP Wiki
 
+extra_css:
+- stylesheets/extra.css
+
 nav:
   - Startseite: index.md
   - Teams:
@@ -228,9 +231,16 @@ theme:
   favicon: 'assets/theme/images/favicon.ico'
   language: de
   palette:
-    scheme: slate
-    primary: blue grey
-    accent: teal
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: light-mode
+      toggle:
+        icon: material/brightness-7
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: dark-mode
+      toggle:
+        icon: material/brightness-4
   feature:
     tabs: true
   features:
