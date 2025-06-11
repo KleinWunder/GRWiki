@@ -238,15 +238,19 @@ theme:
     - header.autohide
 
 extra:
+  homepage: https://germanrp.eu/
   social:
     - icon: material/forum
       link: https://germanrp.eu/
       name: Forum
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/Vd75V3H3fs
+      name: Discord
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/germanrp.pr/
       name: Instagram
-    - icon: fontawesome/brands/twitter  
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/GermanRP3
       name: Twitter
 
-extra_javascript: ['assets/theme/js/imprint.js']
+extra_javascript: [ 'assets/theme/js/imprint.js' ]
