@@ -15,7 +15,7 @@ Der Unterpunkt "Leben" zeigt an, wie viele Charakterleben der Spieler noch besit
 
 ### Charaktertod
 
-Bei einem Charaktertod verliert man sein Bargeld, Inventar, [Lizenzen](../../pages/allgemein/lizenzen.md) und Munition. Nachdem 0 von 10 Charakterleben erreicht worden sind oder der Tod von einem Rettungsdienstler beurkundet wird, wird man zur [Stadthalle](../../pages/orte/stadthalle.md) teleportiert, um direkt einen neuen Charakter zu erstellen.
+Bei einem Charaktertod verliert man sein Bargeld, Inventar, [Lizenzen](../../pages/allgemein/lizenzen.md) und Munition. Nachdem 0 von 10 Charakterleben erreicht worden sind oder der Tod von einem Rettungsdienstler beurkundet wird, wird man zur [Rathaus](../../pages/orte/rathaus.md) teleportiert, um direkt einen neuen Charakter zu erstellen.
 
 
 !!! info "Chance erhöhen um kein Charakterleben zu verlieren"

@@ -4,11 +4,11 @@ Auf dem Server gibt es verschiedene Erfolge, welche die unterschiedlichen Wege a
 ## Alle Erfolge
 | Erfolg  |   Beschreibung   |   Erreichen des Erfolges  |
 |:-----:|:--------------:|:-------------------------------:|
-|   Das bin ich!   |  Erstelle einen Charakter in der [Stadthalle](../../pages/orte/stadthalle.md) |  Erstelle mit Rechtsklick auf den NPC Britney.   |
+|   Das bin ich!   |  Erstelle einen Charakter im [Rathaus](../../pages/orte/rathaus.md) |  Erstelle mit Rechtsklick auf den NPC Britney.   |
 |   Eine kleine Reise              |   Benutze ein öffentliches Verkehrsmittel   |  Fahre mit dem [Bus](../../pages/öpnv/bus.md) oder der [U-Bahn](../../pages/öpnv/ubahn.md).  |
 |   Bewaffnet bis unter die Zähne  |   Kaufe eine Waffe                          |    Kaufe eine Waffe in einem [Waffenladen](../../pages/biz/waffenladen.md). |
-|        Ich bin der Jäger!        |          Beantrage einen [Jagdschein](../../pages/allgemein/lizenzen.md)         |   Erwirb den Jagdschein in der [Stadthalle](../../pages/orte/stadthalle.md).   |
-|         Lizenz zum Töten?        |         Beantrage einen [Waffenschein](../../pages/allgemein/lizenzen.md)        |    Erwirb einen Waffenschein in der [Stadthalle](../../pages/orte/stadthalle.md).   |
+|        Ich bin der Jäger!        |          Beantrage einen [Jagdschein](../../pages/allgemein/lizenzen.md)         |   Erwirb den Jagdschein im [Rathaus](../../pages/orte/rathaus.md).   |
+|         Lizenz zum Töten?        |         Beantrage einen [Waffenschein](../../pages/allgemein/lizenzen.md)        |    Erwirb einen Waffenschein in der [Rathaus](../../pages/orte/rathaus.md).   |
 |         Treu bis ans Ende        |           Erhalte einen [Treuebonus](../../pages/allgemein/bonuspunkte.md)          |    Sei 90 Minuten auf dem Server online.     |
 |        Ist da Pfand drin?        |          Durchwühle einen Mülleimer         | 
 |           Ein Streuner!          |     Finde einen [Hund](../../pages/pets/hund.md) in einer Mülltonne     |  Durchsuche Mülltonnen mit Rechtsklick.  |

@@ -6,5 +6,5 @@ Ein Dietrich ist ein Werkzeug, mit dem Türen von Häusern und Fraktionsbasen au
 Ein Dietrich kann in der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) für 350€ gekauft werden.
 
 ## Verwendung
-Mit einem Dietrich kann ein Zugang zu Häusern und Fraktionsbasen geschaffen werden, in denen zum Beispiel eine Person mit [Kopfgeld](../../pages/fraktionen/kopfgeld.md) befindet.
+Mit einem Dietrich kann einem Zugang zu Häusern und Fraktionsbasen geschaffen werden, in denen zum Beispiel eine Person mit [Kopfgeld](../../pages/fraktionen/kopfgeld.md) befindet.
 

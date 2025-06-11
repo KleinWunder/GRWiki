@@ -1,7 +1,7 @@
 # MT-Fashion
 
 !!! info "Seiteninfo" 
-      Die Fraktion MT-Fashion ist zurzeit nicht beitretbar. Weitere Infos findet du **[hier]([https://germanrp.eu/index.php?user/167-36flo/](https://germanrp.eu/forum/index.php?thread/25714-statement-zu-aktuellen-situation-der-fraktion/&postID=125500#post125500))**
+      Die Fraktion MT-Fashion ist zurzeit nicht beitretbar. Weitere Infos findet du **[hier](https://germanrp.eu/forum/index.php?thread/25714-statement-zu-aktuellen-situation-der-fraktion/&postID=125500#post125500)**
       
 MT-Fashion agiert als Textildienstleister für die Spieler und sorgt dafür, dass sie stets modisch gekleidet sind. 
 Durch die Beratung der Fraktionsmitglieder bleiben die Spieler im Trend, während gleichzeitig die individuellen Wünsche des Klientels berücksichtigt werden.
