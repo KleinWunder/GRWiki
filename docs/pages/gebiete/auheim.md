@@ -1,8 +1,6 @@
+<img align="left" width="340" height="340" src="../../../assets/image/gebiete/Auheim-1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Auheim-2.png">
 
-<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Auheim-1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Auheim-2.png">
-
-
-In Auheim herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Gegliedert ist das Gebiet in Auheim und Auheim Süd. In Auheim Süd sind die Häuser sehr zerfallen. Sie sind undicht, kalt und in manchen Ecken schimmelt es schon. Aber immerhin sind die Häuser günstig. Auheim gehört der Volkov Familie, mit der man sich besser nicht anlegen sollte.
+In Auheim herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Gegliedert ist das Gebiet in Auheim und Auheim Süd. In Auheim Süd sind die Häuser sehr zerfallen. Sie sind undicht, kalt und in manchen Ecken schimmelt es schon. Aber immerhin sind die Häuser günstig. Auheim gehört der [Volkov Familie](../../pages/fraktionen/volkovfamilie.md), mit der man sich besser nicht anlegen sollte.
 
 <table>
   <thead>
@@ -25,7 +23,7 @@ In Auheim herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Gegliedert 
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
-      <td align="center"><a href="../../nebenjobs/munitionstransport/"> Munitionstransport </a></td>
+      <td align="center"><a href="../../nebenjobs/munitionstransport/">Munitionstransport</a></td>
     </tr>
   </tbody>
-</table> 
+</table>
