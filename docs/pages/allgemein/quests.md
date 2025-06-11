@@ -24,9 +24,9 @@ Rede mit Rita auf der Obstplantage. Finde ihren Ex-Mann in [Downtown](../../page
 ## Belohnungen
 | Quest         | Belohnung                                             |
 |:-------------:|:-----------------------------------------------------:|
-| Liebesbrief   | Erwerb von Mohntaschen                                |
-| Jagdmonopol   | Erwerb von Jagdpeitschen                              |
-| Untergrund    | Mehr Waffen-Addons                                    |
+| Liebesbrief   | Erwerb von [Mohntaschen](../../pages/pflanzen/mohnfeld.md)|
+| Jagdmonopol   | Erwerb von Jagdpeitschen|
+| Untergrund    | Mehr [Waffen-Addons](../../pages/items/weapons/waffenaddons.md)|
 | Goldgroschen  | Möglichkeit zum Verkaufen von Hundepfeifen vom Jagen  |
 | Reines Herz   | Verkürzung der Geldwäsche                             |
-| Tutti Frutti  | Erwerb von Töpfen                                     |
+| Tutti Frutti  | Erwerb von [Töpfen](https://wiki.germanrp.eu/pages/houses/hausaddons/#garten)|
