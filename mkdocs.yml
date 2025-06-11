@@ -40,6 +40,7 @@ nav:
     - Perks: pages/allgemein/perks.md
     - Sperrgebiete: pages/allgemein/sperrgebiete.md
   - Stadtteile:
+    - Altstadt: pages/gebiete/altstadt.md
     - Auheim: pages/gebiete/auheim.md
     - Asiaviertel: pages/gebiete/asiaviertel.md
     - County/Plaza: pages/gebiete/county.md
