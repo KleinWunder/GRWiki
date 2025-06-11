@@ -1,5 +1,5 @@
 # Straßenreiniger (Nebenjob)
-Der Straßenreiniger ist ein Nebenjob, welcher beim [Rathaus](../../pages/​orte/​rathaus.md) gestartet wird. Durch die vielen Besucher verdreckt sich die Straße vor dem Rathaus schneller. Für eine kleine Belohnung kann hier die Straße sauber gemacht werden.<img align="right" width="300" eight="150" src="../../../assets/image/nebenjobs/Straßenreinigung.png">
+Der Straßenreiniger ist ein Nebenjob, welcher beim [Rathaus](../../pages/orte/rathaus.md) gestartet wird. Durch die vielen Besucher verdreckt sich die Straße vor dem Rathaus schneller. Für eine kleine Belohnung kann hier die Straße sauber gemacht werden.<img align="right" width="300" height="150" src="../../../assets/image/nebenjobs/Straßenreinigung.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |

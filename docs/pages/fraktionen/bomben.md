@@ -26,7 +26,7 @@ Schwarzpulver kann man im Bergwerk (/navi Bergwerk) abbauen. Die Pulverspitzhack
 4. Die [Polizei](polizei.md) rückt inzwischen an und versucht die Bombenleger zu neutralisieren. Sie haben dabei 10–12 Minuten Zeit, bis die Bombe explodiert.
 5. Konnten die Bombenleger erfolgreich neutralisiert werden, erhält die Polizei einen Zettel, auf dem der richtige Bombendraht angegeben wird.
 6. Schafft es die [Polizei](polizei.md) nicht rechtzeitig, die Bombenleger zu neutralisieren, explodiert die Bombe und alle Personen im näheren Umkreis werden getötet und können nicht wiederbelebt werden.
-7. Sterben Personen, während die Bombe noch läuft, können sie, wenn sie zu nah an der platzierten Bombe liegen, nicht durch eine Revivepause vom [Rettungsdienst](Rettungsdienst.md) wiederbelebt werden. Falls Personen 2-3 Minuten vor der Explosion der Bombe sterben, können sie noch wiederbelebt werden, sofern der [Rettungsdienst](Rettungsdienst.md) es rechtzeitig schafft..
+7. Sterben Personen, während die Bombe noch läuft, können sie, wenn sie zu nah an der platzierten Bombe liegen, nicht durch eine Revivepause vom [Rettungsdienst](rettungsdienst.md) wiederbelebt werden. Falls Personen 2-3 Minuten vor der Explosion der Bombe sterben, können sie noch wiederbelebt werden, sofern der [Rettungsdienst](rettungsdienst.md) es rechtzeitig schafft..
 ## Bombendraht
 Eine Bombe besteht aus drei Drähten. Einem roten, grünen und blauen Draht. Die [Polizei](polizei.md) hat zwei Möglichkeiten:
 

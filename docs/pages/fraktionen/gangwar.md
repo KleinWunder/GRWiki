@@ -18,10 +18,11 @@ Crimefraktionen können eine Kriegserklärung bekommen oder stellen im Freedback
 ## Gangzonen
 | Zone | Gebiet | Besetzende Fraktion |
 | :-: | :-: | :-: |
-| Agavenfarm | [County](../../pages/gebiete/county.md) | [The Establishment](establishment.md) |
-| Farm | Farm | [The Establishment](establishment.md) |
-| Freizeitpark | [Asiaviertel](../../pages/gebiete/asiaviertel.md) | [The Establishment](establishment.md)  |
-| Raffinerie | [Downtown](../../pages/gebiete/downtown.md) | [Medellín Kartell](kartell.md) |
-| Schmelzwerk | [Ganggebiet](../../pages/gebiete/ganggebiet.md) | [Medellín Kartell](kartell.md) |
-| Yachthafen | [Strandpassage](../../pages/gebiete/strandpassage.md) | [The Establishment](establishment.md) |
+| Agavenfarm | [County](../../pages/gebiete/county.md) | [Sinaloa Kartell](cds.md) |
+| Farm | Farm | [Sinaloa Kartell](cds.md) |
+| Freizeitpark | [Asiaviertel](../../pages/gebiete/asiaviertel.md) | [Sinaloa Kartell](cds.md)  |
+| Raffinerie | [Downtown](../../pages/gebiete/downtown.md) | [Camorra](camorra.md) |
+| Sägewerk | [Sägewerk](../../pages/nebenjobs/sägewerk.md) | [Sinaloa Kartell](cds.md) |
+| Schmelzwerk | [Auheim](../../pages/gebiete/auheim.md) | [Rousseau Familie](rousseaufamilie.md) |
+| Yachthafen | [Strandpassage](../../pages/gebiete/strandpassage.md) | [Sinaloa Kartell](cds.md) |
 

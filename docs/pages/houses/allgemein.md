@@ -18,7 +18,7 @@ Im Makler (**/navi Makler**) kannst du Häuser zum Vermieten anbieten.
 * Hausbesitzer und zukünftiger Mieter müssen sich im Hauseingang befinden.
 * Der Hausbesitzer gibt den Befehl **/rent [Name] [Hausnummer] [Betrag]** ein.
 * Der zukünftige Mieter erhält nun eine Anfrage, die er bestätigen oder ablehnen kann.
-* Nimmt er das Angebot an, wird der festgelegte Betrag bei jedem [Payday](../../pages/allgemeines/payday) in die Hauskasse gezahlt.
+* Nimmt er das Angebot an, wird der festgelegte Betrag bei jedem [Payday](../../pages/allgemein/payday.md) in die Hauskasse gezahlt.
 * Mit **/unrent** kann das Mietverhältnis aufgelöst werden.
 
 !!! warning "Haftpflichtversicherung"

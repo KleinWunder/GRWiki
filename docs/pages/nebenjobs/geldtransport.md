@@ -1,5 +1,5 @@
 # Geldtransport (Nebenjob)
-Der Geldtransport ist ein Nebenjob, welcher in der [Zentralbank](../../pages/orte/zentralbank.md) angenommen wird. Ziel ist es, die ATM’s in Vance City wieder mit Geld aufzufüllen. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Zentralbank.png">
+Der Geldtransport ist ein Nebenjob, welcher in der [Zentralbank](../../pages/orte/banken.md) angenommen wird. Ziel ist es, die ATM’s in Vance City wieder mit Geld aufzufüllen. <img align="right" width="300" height="150" src="../../../assets/image/orte/Zentralbank.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |

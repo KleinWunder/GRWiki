@@ -30,7 +30,7 @@ Auf dem Server gibt es verschiedene Erfolge, welche die unterschiedlichen Wege a
 |       Das ist Tee, Officer       |         Ernte eine [Heilkrautpflanze](../../pages/pflanzen/heilkraut.md)         |                             Lege mit Heilkrautsamen eine Heilkrautpflanze an.      |
 |           Hobbychemiker          | Wandle [Tablettenschachteln](../../pages/bmt/tablettenschachtel.md) in [Novapulver](../../pages/bmt/novapulver.md) um |  Verarbeite erworbene Tablettenschachteln im [Labor](../../pages/gebäude/labor.md).  |
 |    Das war's?  |   Erleide einen [Charaktertod](../../pages/krankheiten/gesundheit.md)  |    Verliere alle 10 Charakterleben.   |
-|             Sparfuchs            |            Eröffne ein Sparkonto            |  Gehe zur [Bank](../../pages/orte/zentralbank.md) zum NPC Bianca. |
+|             Sparfuchs            |            Eröffne ein Sparkonto            |  Gehe zur [Bank](../../pages/orte/banken.md) zum NPC Bianca. |
 |           Tierflüsterer          |     Verbessere die Seltenheit eines [Pets](../../pages/pets/allgemein.md)    | Erwirb ein Petupgrade im [Schwarzmarkt](../../pages/orte/schwarzmarkt.md) oder [Handelshaus](../../pages/gebäude/handelshaus.md) und gehe zur [Tierhandlung](../../pages/gebäude/tierheim.md).  |
 |        Versteckter Erfolg        |                     ???                     |   Erkunde den Server.   |
 |        Versteckter Erfolg        |                     ???                     |   Erkunde den Server.   |

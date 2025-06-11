@@ -1,5 +1,5 @@
 # Paketsortierer (Nebenjob)
-Der Paketsortierer ist ein Nebenjob, welcher bei der Post angenommen wird. Viele Pakete müssen in die richtigen Fahrbänder zu ihren Transportautos sortiert werden. <img align="right" width="300" eight="150" src="../../../assets/image/orte/Postzentrale.png">
+Der Paketsortierer ist ein Nebenjob, welcher bei der Post angenommen wird. Viele Pakete müssen in die richtigen Fahrbänder zu ihren Transportautos sortiert werden. <img align="right" width="300" height="150" src="../../../assets/image/orte/Postzentrale.png">
 
 | <!-- --> | <!-- --> |
 | :-: | :-: |
@@ -17,4 +17,4 @@ Der Paketsortierer ist ein Nebenjob, welcher bei der Post angenommen wird. Viele
 4. Dieser Ablauf muss bis zum Ende des Nebenjobs wiederholt werden.
 
 >[!TIP]
->Mit [VIP+](../../pages/​allgemein/​vip.md) wird dir der richtige Zielort farblich markiert.
+>Mit [VIP+](../../pages/allgemein/vip.md) wird dir der richtige Zielort farblich markiert.

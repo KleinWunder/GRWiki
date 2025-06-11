@@ -56,7 +56,7 @@ Die Feuerwehr kann folgende Aktivitäten machen:
 Die Kartellfraktionen können folgende Aktivitäten machen:
 
 * [Apothekeraub](apothekenraub.md) starten
-* [ATM’s](../../pages/orte/zentralbank.md) aufbrechen
+* [ATM’s](../../pages/orte/banken.md) aufbrechen
 * [Banküberfall](banküberfall.md) durchführen
 * [Bombe](bomben.md) legen
 * Brandstiftung durchführen
@@ -73,7 +73,7 @@ Die Kartellfraktionen können folgende Aktivitäten machen:
 Die Mafiafraktionen können folgende Aktivitäten machen:
 
 * [Apothekeraub](apothekenraub.md) starten
-* [ATM’s](../../pages/orte/zentralbank.md) aufbrechen
+* [ATM’s](../../pages/orte/banken.md) aufbrechen
 * [Banküberfall](banküberfall.md) durchführen
 * Brandstiftung durchführen
 * Gewerberäube starten
