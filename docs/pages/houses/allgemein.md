@@ -6,7 +6,7 @@ Es besteht die Option, Häuser und Wohnungen zu erwerben oder von anderen Spiele
 
 * Suche nach Häusern/Wohnungen, die mit "Kein Besitzer" beschriftet sind.
 * Mit **/hausinfo [Nummer]** kannst du den Wert des Hauses abfragen.
-  * Das Haus kann auf der [Livemap](map.germanrp.eu) über einen Link angesehen werden.
+  * Das Haus kann auf der <a href="https://map.germanrp.eu/#world:106:0:-306:2202:0:0:0:1:flat" target="_bank">Livemap</a> über einen Link angesehen werden.
 * Möchtest du die Immobilie kaufen, kannst du dies mit **/buyhouse [Nummer]** tun.
 * Die Immobilie gehört nun dir.
 

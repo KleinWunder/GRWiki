@@ -10,7 +10,7 @@ Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefrakt
     (Mit Dünger, Wasser oder zum Ernten Rechtsklick auf die Pflanze machen. Bei Regen, wird automatisch gewässert.)
 
 ## Materialien
-- Heilkrautsamen (von der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt,md) oder NPC Simon)
+- Heilkrautsamen (von der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) oder NPC Simon)
 - Basisdünger (bei dem NPC Simon kaufen)
 - Eine leere Flasche (aus einem Mülleimer oder ein Getränk leer trinken)
  

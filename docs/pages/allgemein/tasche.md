@@ -10,7 +10,7 @@ Taschenslots sind die insgesamte Anzahl an Sachen, die bei sich in der Tasche ge
 ## Aussehen
 Nach dem Befehl **/inv** öffnet sich ein Menü, was wie folgt aussieht:
 
-<img align="left" width="240" eight="200" src="../../../assets/image/allgemein/Tasche.png">
+<img align="left" width="240" height="200" src="../../../assets/image/allgemein/Tasche.png">
 
 
 Durch das drüber halten des Mauszeigers lassen sich mehr Informationen darstellen. Ganz oben beim Trichter kann eingesehen werden, wieviel bereits belegt ist und wieviel Tascheninhalt man ingesamt hat.
@@ -20,12 +20,12 @@ Darunter befinden sich alle Sachen, welche man konsumieren kann oder bei sich f�
 
 * [Heilkraut](../../pages/bmt/heilkraut.md)
 * [Novapulver](../../pages/bmt/novapulver.md)
-* Medikamente
-    * [Grippostat](../../pages/bmt/grippostat.md)
+* [Medikamente](../../pages/bmt/medikamente.md)
+    * Grippostat
     * Parcetamol
-    * [Betablocker](../../pages/bmt/betablocker.md)
+    * Betablocker
     * Nasensalbe
-    * [Antibiotika](../../pages/bmt/antibiotika.md)
+    * Antibiotika
 * [Tablettenschachteln](../../pages/bmt/tablettenschachtel.md)
 * [Mohnkapseln](../../pages/bmt/mohnkapseln.md)
 * Mohnsamen

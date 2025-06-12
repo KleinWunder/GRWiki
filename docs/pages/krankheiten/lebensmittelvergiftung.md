@@ -10,4 +10,4 @@ Dazu wird Schaden von einem halben Herz genommen.
 ## Behandlung
 
 Einmal mit Lebensmittelvergiftung infiziert, wird medizinische Hilfe vom [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) benötigt. Im Krankenhaus wird vom Medic eine Behandlung durchgeführt. Anschließend an die Behandlung, wird dem Patienten ein Antibiotikarezept verschrieben, welches in der [Apotheke](../../pages/biz/apotheke.md) eingelöst werden kann. 
-Nach der Einnahme des [Antibiotikums](../../pages/bmt/antibiotika.md) erscheint im Chat die Meldung "Deine Lebensmittelvergiftung klingt ab".
+Nach der Einnahme des [Antibiotikums](../../pages/bmt/medikamente.md) erscheint im Chat die Meldung "Deine Lebensmittelvergiftung klingt ab".
