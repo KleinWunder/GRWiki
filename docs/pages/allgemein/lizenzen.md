@@ -19,7 +19,7 @@ Eine Lizenz ist die Bescheinigung für eine Genehmigung oder Erlaubnis:
 | Führerschein        | Fahrschule(**/navi Fahrschule**)                              | 750€                               |                                                                                                         |
 | Krankenversicherung | Versicherungsgebäude (**/navi Versicherungen**) | 10€/PayDay;<br> 35€/PayDay;<br> 45€/PayDay | NPC Antonia mit Rechtsklick anklicken.                                                                  |
 | Pilotenschein       | Flugschule (**/navi Helikopterflugplatz**)              | 8.750€                             | Bei Verstoß gegen das Serverregelwerk kann der Schein entzogen werden.                                |
-| Heilkrautlizenz | Beim [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md). | Keine Kosten. | Die Lizenz gilt für 2 Wochen und man darf 10 Gramm Heilkraut bei sich führen. |
+| Heilkrautlizenz | Beim [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md). | Keine Kosten. | Die Lizenz gilt für 2 Wochen und man darf 10 Gramm Heilkraut bei sich führen.<br> Kann jederzeit vom Rettungdienst eingezogen werden. |
 
 ## Einsehen der Lizenzen
 
