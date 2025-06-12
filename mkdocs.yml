@@ -138,7 +138,6 @@ nav:
 - Gesundheit:
   - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
   - Rezepte: pages/krankheiten/rezepte.md
-  - Heilkrautlizenz: pages/krankheiten/heilkrautlizenz.md
   - Krankeiten:
     - Beinverletzungen: pages/krankheiten/beinverletzungen.md
     - Blutzucker: pages/krankheiten/blutzucker.md
