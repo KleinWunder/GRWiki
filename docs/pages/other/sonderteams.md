@@ -1,10 +1,10 @@
 # Sonderteams
 
-Die Sonderteams gliedern sich in 5 Aufgabenbereiche, neben diesen 5 Sonderteams gibt es noch 3 Sonderposten die belegt werden. Auf die 3 Sonderposten kann sich nicht beworben werden und ist nur exklusiv für die Senior Moderatoren vorbehalten.
+Die Sonderteams gliedern sich in 5 Aufgabenbereiche, neben diesen 5 Sonderteams gibt es noch 3 Sonderposten die belegt werden. Für die 3 Sonderposten kann sich nicht beworben werden, sie sind exklusiv für die Senior Moderatoren vorbehalten.
 
 ## Bauteam
 
-Bauteammitglieder können in den sogenannten Baumodus. In diesem Modus sind sie, wenn sie gewisse Arbeiten als Bauteamler ausführen. Im besagten Modus können die Bauteamitglieder Bauaufträge erledigen, welche das Erscheinungdsbild der Stadt bedeutsam verändern kann. Eine Person, die im Baumodus ist, erkennt man daran, dass sie hinter ihren Namen ein <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>**-Symbol** stehen hat. Beispiel: **[GR]KleinWunder** <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>
+Bauteammitglieder können in den sogenannten Baumodus. In diesem befinden sie sich, wenn sie gewisse Arbeiten als Bauteammitglied ausführen. Dazu zählen unter Anderem Bauaufträge, welche das Erscheinungsbild der Stadt bedeutsam verändern können. Eine Person, die im Baumodus ist, erkennt man daran, dass sie hinter ihrem Namen ein <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>**-Symbol** stehen hat. Beispiel: **[GR]KleinWunder** <a style="font-weight: bold; color: darkturquoise;">Ⓑ</a>
 
 Derzeitige Leitung: **[Nandi124](https://germanrp.eu/index.php?user/431-nandi124/)**<br>
 Derzeitige Co-Leitung: **[Annovadiel](https://germanrp.eu/index.php?user/114-annovadiel/)**

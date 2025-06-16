@@ -11,14 +11,14 @@ Die <a style="color: royalblue">Senior-Moderatoren</a> und <a style="color: roya
 
 ## Administratoren 
 
-Administratoren vertreten die gleichen Aufgabenbereiche wie die Moderatoren und Senior Moderatoren. Zu deren Aufgabenbereiche kommen zusätzlich Verwaltungsaufgaben und leitende Positionen im Team dazu. Sie sind außerdem dafür zuständig, Account- und servertechnische Probleme zu bewältigen. 
+Administratoren vertreten die gleichen Aufgabenbereiche wie die Moderatoren und Senior Moderatoren. Zu deren Aufgabenbereiche kommen zusätzlich Verwaltungsaufgaben und leitende Positionen im Team dazu. Sie sind außerdem dafür zuständig, account- und servertechnische Probleme zu bewältigen. 
 
 ### Aufstieg
 Um Administrator zu werden, muss man sich zuerst als Moderator bzw. Senior Moderator beweisen. Ist man eine längere Zeit auf diesem Posten und hat einen guten Eindruck bei der Projektleitung hinterlassen, stehen die Chancen gut Administrator zu werden.
 
 ## Senior Moderatoren 
 
-Senior-Moderatoren (Sr. Mods) unterstützen die Admins bei ihrer täglichen Arbeit. Neben ihren normalen Aufgaben als Moderatoren kümmern sie sich um die Accounts auf dem Forum und um Entbannungsanträge. Ebenfalls sind sie dafür zuständig, Navi-Punkte auf der Map zu setzen.
+Senior-Moderatoren (Sr. Mods) unterstützen die Admins bei ihrer täglichen Arbeit. Neben ihren normalen Aufgaben als Moderatoren kümmern sie sich um die Accounts im Forum und um Entbannungsanträge. Ebenfalls sind sie dafür zuständig, Navi-Punkte auf der Map zu setzen.
 
 ### Aufstieg
 Sr. Mods werden Spieler, welche sich sowohl als Guides und auch als Moderatoren bewiesen haben und das Potenzial aufweisen, um administrativen Aufgaben nachzugehen.
@@ -28,7 +28,7 @@ Sr. Mods werden Spieler, welche sich sowohl als Guides und auch als Moderatoren 
 Moderatoren achten darauf, dass die [Regeln](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) auf dem Server eingehalten werden. Sie helfen bei Bugs und unterstützen die Guides bei ihrer Arbeit. Werden Regeln verletzt, haben die Moderatoren das Recht, angemessene Maßnahmen zu ergreifen. Diese [Maßnahmen](../../pages/allgemein/serverstrafe.md) gehen von persönlichen Gesprächen, über Strafpunkte bis hin zu Serverbans.
 
 ### Aufstieg
-Um Moderator zu werden, musst man sich zuerst als Guide beweisen. Ist man eine längere Zeit Guide und man hat einen guten Eindruck bei der Administration hinterlassen, stehen die Chancen gut Moderator zu werden. 
+Um Moderator zu werden, muss man sich zuerst als Guide beweisen. Ist man eine längere Zeit Guide und hat einen guten Eindruck bei der Administration hinterlassen, stehen die Chancen gut, Moderator zu werden. 
 
 ## Guides 
 
