@@ -1,6 +1,6 @@
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Auheim-1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Auheim-2.png">
 
-In Auheim herrschen noch grausame Sitten. Nur der Stärkste gewinnt. Gegliedert ist das Gebiet in Auheim und Auheim Süd. In Auheim Süd sind die Häuser sehr zerfallen. Sie sind undicht, kalt und in manchen Ecken schimmelt es schon. Aber immerhin sind die Häuser günstig. Auheim gehört der [Volkov Familie](../../pages/fraktionen/volkovfamilie.md), mit der man sich besser nicht anlegen sollte.
+In Auheim herrschen noch raue Sitten. Nur der Stärkste gewinnt. Das Gebiet ist in Auheim und Auheim Süd gegliedert. In Auheim Süd sind die Häuser sehr zerfallen. Sie sind undicht, kalt und in manchen Ecken gibt es bereits Schimmel. Immerhin sind die Häuser jedoch günstig. Auheim gehört der [Volkov Familie](../../pages/fraktionen/volkovfamilie.md), mit der man sich besser nicht anlegen sollte.
 
 <table>
   <thead>

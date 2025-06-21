@@ -1,8 +1,7 @@
+<img align="left" width="340" height="340" src="../../../assets/image/gebiete/Asiaviertel1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Asiaviertel2.png">
 
-<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Asiaviertel1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Asiaviertel2.png">
 
-
-In Mitten blühender Sakura-Bäume liegt das Asiaviertel. Die charakteristischen rot-braunen Häuser und die gepflasterten Straßen laden zum flanieren in diesem Gebiet ein. Viele Geheminsse erwarten einen in den kleinen Seitengassen. Lass dich von den asiatischen Sitten und Gebräuchen verzaubern.
+Inmitten blühender Sakura-Bäume liegt das Asiaviertel. Die charakteristischen rot-braunen Häuser und die gepflasterten Straßen laden zum Flanieren in diesem Gebiet ein. Viele Geheimnisse erwarten einen in den kleinen Seitengassen. Lass dich von den asiatischen Sitten und Gebräuchen verzaubern.
 
 <table>
   <thead>
@@ -26,5 +25,6 @@ In Mitten blühender Sakura-Bäume liegt das Asiaviertel. Die charakteristischen
     <tr>
       <td align="center">Nebenjobs</td>
       <td align="center">/</td>
+    </tr>
   </tbody>
 </table>

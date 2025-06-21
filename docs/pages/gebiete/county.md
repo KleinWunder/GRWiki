@@ -1,13 +1,8 @@
 # County / Plaza
 
-<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/County1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/County2.png">
+<img align="left" width="340" height="340" src="../../../assets/image/gebiete/County1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/County2.png">
 
-
-
-
-
-
-Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten Sandsteingebäude aus. Hier herrscht das kolumbianische <a href="../../fraktionen/kartell/">Medellín kartell</a>. Umgeben von Agaven-Feldern und einer sehr mediterranen Bepflanzung liegt das County im westlichen Teil der Karte.
+Das Gebiet County und der dazugehörige Plaza zeichnen sich durch markante Sandsteingebäude aus. Hier herrscht das kolumbianische <a href="../../fraktionen/kartell/">Medellín-Kartell</a>. Umgeben von Agavenfeldern und einer sehr mediterranen Bepflanzung befindet sich das County im westlichen Teil der Karte.
 
 <table>
   <thead>
@@ -31,5 +26,6 @@ Das Gebiet County und der dazugehörige Plaza zeichnet sich durch die markanten 
     <tr>
       <td align="center">Nebenjobs</td>
       <td align="center"><a href="../../nebenjobs/imker/">Imker</a> <br> <a href="../../nebenjobs/honigtransport/">Honigtransport</a> <br> <a href="../../nebenjobs/agavenfarmer/">Agavenfarmer</a></td>
+    </tr>
   </tbody>
 </table>

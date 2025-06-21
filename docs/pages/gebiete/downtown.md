@@ -1,9 +1,9 @@
 # Downtown
 
-<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Downtown1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Downtown2.png">
+<img align="left" width="340" height="340" src="../../../assets/image/gebiete/Downtown1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Downtown2.png">
 
 
-Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus Hochhäusern, in welchen sich unzählige Büros und Apartments befinden sowie auch die meisten spielrelevanten Gebäude.
+Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus Hochhäusern, in denen sich unzählige Büros und Apartments sowie die meisten spielrelevanten Gebäude befinden.
 
 <table>
   <thead>
@@ -29,4 +29,4 @@ Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus
       <td align="center"><a href="../../nebenjobs/paketsortierer/">Paketsortierer</a> <br> <a href="../../nebenjobs/wäscherei/">Wäscherei</a> <br> <a href="../../nebenjobs/zeitungsjunge/">Zeitungsjunge</a> <br> <a href="../../nebenjobs/koch/">Koch</a> <br> <a href="../../nebenjobs/wäschetransport/">Wäschetransport</a> <br> <a href="../../nebenjobs/straßenreiniger/">Straßenreiniger</a> <br> <a href="../../nebenjobs/tellerwäscher/">Tellerwäscher</a> <br> <a href="../../nebenjobs/geldtransport/">Geldtransport</a> <br> <a href="../../nebenjobs/bergbau/">Bergbau</a> <br> <a href="../../nebenjobs/angler/">Angler</a> <br> <a href="../../nebenjobs/reifentransport/">Reifentransport</a></td>
     </tr>
   </tbody>
-</table> 
+</table>

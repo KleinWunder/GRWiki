@@ -1,9 +1,9 @@
 # Oststadt
 
-<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Oststadt1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Oststadt2.png">
+<img align="left" width="340" height="340" src="../../../assets/image/gebiete/Oststadt1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Oststadt2.png">
 
 
-Die Oststadt ist ein kleines, ruhiges Wohnviertel, welches überwiegend aus farbigen Einfamilienhäusern besteht. Die Oststadt liegt gleich neben Downtown und zählt somit zu den zentralen Gebieten der Stadt. Das Viertel zeichnet sich durch seine gepflegte Art und den schön bepflanzten Gärten aus.
+Die Oststadt ist ein kleines, ruhiges Wohnviertel, das überwiegend aus farbigen Einfamilienhäusern besteht. Die Oststadt liegt gleich neben Downtown und zählt somit zu den zentralen Gebieten der Stadt. Das Viertel zeichnet sich durch seine gepflegte Art und die schön bepflanzten Gärten aus.
 
 <table>
   <thead>
@@ -18,8 +18,7 @@ Die Oststadt ist ein kleines, ruhiges Wohnviertel, welches überwiegend aus farb
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
-      <td align="center"><a href="../../biz/supermarkt/">Supermarkt</a>-1&4 <br> <a href="../../biz/bar/">Bar</a>
--1 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-1 <br> Gärternei</td>
+      <td align="center"><a href="../../biz/supermarkt/">Supermarkt</a> 1 & 4 <br> <a href="../../biz/bar/">Bar</a>-1 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-1 <br> Gärtnerei</td>
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
@@ -28,5 +27,6 @@ Die Oststadt ist ein kleines, ruhiges Wohnviertel, welches überwiegend aus farb
     <tr>
       <td align="center">Nebenjobs</td>
       <td align="center"><a href="../../nebenjobs/winzer/">Winzer</a> <br> <a href="../../nebenjobs/farmer/">Farmer</a> <br> <a href="../../nebenjobs/blumentransport/">Blumentransport</a> <br> <a href="../../nebenjobs/getränketransport/">Getränketransport</a> <br> <a href="../../nebenjobs/gärtner/">Gärtner</a> <br> <a href="../../nebenjobs/jagd/">Jagd</a></td>
+    </tr>
   </tbody>
 </table>

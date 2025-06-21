@@ -1,7 +1,6 @@
-<img align="left" width="340" eight="340" src="../../../assets/image/gebiete/Strandpassage1.png"> <img align="center" width="340" eight="340" src="../../../assets/image/gebiete/Strandpassage2.png">
+<img align="left" width="340" height="340" src="../../../assets/image/gebiete/Strandpassage1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Strandpassage2.png">
 
-
-Eine kleine unscheinbare, ruhige Gegend. In den modernen Villen in dieser Straße wohnen die Reichen und Schönen der Stadt. Hier liegen die größten und teuersten Villen der Stadt mit Direktzugang zum Strand.
+Eine kleine, unscheinbare und ruhige Gegend. In den modernen Villen in dieser Straße wohnen die Reichen und Schönen der Stadt. Hier befinden sich die größten und teuersten Villen der Stadt mit Direktzugang zum Strand.
 
 <table>
   <thead>
