@@ -10,20 +10,20 @@ In Auheim herrschen noch raue Sitten. Nur der Stärkste gewinnt. Das Gebiet ist 
   </thead>
   <tbody>
     <tr>
-      <td align="center" vertical-align="middle">Haltestelle</td>
-      <td align="center" vertical-align="middle">Auheim <br> Auheim Süd</td>
+      <td align="center">Haltestelle</td>
+      <td align="center">Auheim <br> Auheim Süd</td>
     </tr>
     <tr>
-      <td align="center" vertical-align="middle">Gewerbe</td>
-      <td align="center" vertical-align="middle"><a href="../../biz/apotheke/">Apotheke</a>-6 <br> <a href="../../biz/supermarkt/">Supermarkt</a>-8 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-5</td>
+      <td align="center">Gewerbe</td>
+      <td align="center"><a href="../../biz/apotheke/">Apotheke</a>-6 <br> <a href="../../biz/supermarkt/">Supermarkt</a>-8 <br> <a href="../../biz/waffenladen/">Waffenladen</a>-5</td>
     </tr>
     <tr>
-      <td align="center" vertical-align="middle">Öffentliche Orte</td>
-      <td align="center" vertical-align="middle"><a href="../../gebäude/tierheim/">Tierheim</a> <br> Volkov Familie HQ</td>
+      <td align="center">Öffentliche Orte</td>
+      <td align="center"><a href="../../gebäude/tierheim/">Tierheim</a> <br> Volkov Familie HQ</td>
     </tr>
     <tr>
-      <td align="center" vertical-align="middle">Nebenjobs</td>
-      <td align="center" vertical-align="middle"><a href="../../nebenjobs/munitionstransport/">Munitionstransport</a></td>
+      <td align="center">Nebenjobs</td>
+      <td align="center"><a href="../../nebenjobs/munitionstransport/">Munitionstransport</a></td>
     </tr>
   </tbody>
 </table>
