@@ -97,3 +97,11 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /jobs | Öffnet eine Übersicht aller Nebenjobs. |
 | /superdrops | Anzeige der möglichen & erreichten Superdrops. |
 | /quitjob | Den aktuellen Nebenjob beenden. |
+
+## Hausbefehle
+
+| Befehl | Erklärung | 
+|:-:|:-:|
+| /häuser | Zeigt dir alle Häuser die du besitzt an. |
+| /hlager | Alle Unterpunkte rund ums Hauslager |
+| /hauskasse | Alle Unterpunkte rund um die Hauskasse |
