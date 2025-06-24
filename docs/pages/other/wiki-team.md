@@ -3,7 +3,7 @@
 
 **Wiki-Teamleitung**<br>
 
-<img src="../../../assets/image/wikiteam/piewn-skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/wikiteam/36flo-skin.png" alt="36Flo" title="36Flo" />
+<img src="../../../assets/image/wikiteam/piewn-skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/wikiteam/36flo-skin.png" alt="36Flo" title="36Flo" /><br>
 
 **Wiki Team**<br>
  
