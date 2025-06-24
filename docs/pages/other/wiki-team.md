@@ -1,11 +1,11 @@
 
 <center>  
 
-**Wiki-Teamleitung**<br>
+<b> Wiki-Teamleitung </b> <br>
 
 <img src="../../../assets/image/wikiteam/piewn-skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/wikiteam/36flo-skin.png" alt="36Flo" title="36Flo" /><br>
 
-**Wiki Team**<br>
+<b> Wiki Team </b> <br>
  
 <img src="../../../assets/image/wikiteam/evoli-skin.png" alt="Evoli_" title="Evoli_" />
 <img src="../../../assets/image/wikiteam/lxlxndrxg-skin.png" alt="Lxlxndrxg" title="Lxlxndrxg" /><br>
