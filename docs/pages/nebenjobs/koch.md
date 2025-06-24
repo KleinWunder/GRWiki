@@ -1,4 +1,4 @@
-#Koch
+# Koch
 Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann. Für die Kundschaft müssen Sandwiches zubereitet werden.
 
 
@@ -16,6 +16,6 @@ Der Koch ist ein Nebenjob, welcher im Restaurant erledigt werden kann. Für die 
 | Gewinn | Geld, [Erfahrungspunkte](../../pages/allgemein/level.md), [Koch-XP](../../pages/skills/kochen.md) |
 
 ## Aufgaben
-1. Sammle alle Zutaten auf mit Rechtsklick.
-2. Bereite das Gericht an der Arbeitsplatte zu.
+1. Sammle alle Zutaten auf mit Rechtsklick auf die Köpfe.
+2. Bereite das Gericht an der Eisenarbeitsplatte, in der Mitte, zu
 3. Liefere das Gericht mit Rechtsklick an die Theke.
