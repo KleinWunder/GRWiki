@@ -1,6 +1,6 @@
 # Psychiatrie
-
-Die Psychiatrie, die sich in der [Altstadt](../../pages/gebiete/altstadt.md) befindet, ist ein nicht öffentlicher Ort, den Psychopathen besuchen können, wenn sie von einem Mediziner eingewiesen werden.
+<img align="right" width="300" eight="175" src="../../assets/image/orte/Psychiatrie/psychiatrie.png"> 
+Die Psychiatrie, die sich in der [Altstadt](../../pages/gebiete/altstadt.md) befindet, ist ein nicht öffentlicher Ort, den Psychopathen besuchen können, wenn sie von einem Mediziner eingewiesen werden. 
 
 Die Psychiatrie hilft dir, wieder psychisch gesund zu werden.
 
@@ -11,4 +11,4 @@ Um in die Psychiatrie zu gelangen, muss man eine Gefahr für sich selbst oder an
    Man kann nur in die Psychiatrie eingewiesen werden, wenn man den Status "Psychopath" bei **/health** hat.
 
 ### Wie kommt man heraus?
-Die Psychiatrie ist ein gesperrter Bereich, sodass ein Zivilist weder in das Gebäude hinein- noch hinauskommt. Wenn du in die Psychiatrie eingewiesen wurdest, musst du im Hinterhof im Hasengehege 35 Hasen anklicken. Diese Hasen spawnen direkt um das Hasengehege herum. Nachdem du alle 35 Hasen angeklickt hast, wirst du automatisch vor die Psychiatrie teleportiert und kannst wieder frei herumlaufen.
+Die Psychiatrie ist ein gesperrter Bereich, sodass ein Zivilist weder in das Gebäude hinein- noch hinauskommt. Wenn du in die Psychiatrie eingewiesen wurdest, musst du im Hinterhof im Hasengehege 35 Hasen anklicken. <img align="right" width="275" eight="150" src="../../assets/image/orte/Psychiatrie/hasengehege.png"> <br><img align="right" width="100" eight="150" src="../../assets/image/orte/Psychiatrie/hase.png"> <br>Diese Hasen spawnen direkt um das Hasengehege herum. Nachdem du alle 35 Hasen angeklickt hast, wirst du automatisch vor die Psychiatrie teleportiert und kannst wieder frei herumlaufen.
