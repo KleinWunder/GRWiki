@@ -1,15 +1,16 @@
 
 <center>  
 
-**Wiki-Teamleitung**
+**Wiki-Teamleitung**<br>
 
 <img src="../../../assets/image/wikiteam/piewn-skin.png" alt="Piewn" title="Piewn" /> <img src="../../../assets/image/wikiteam/36flo-skin.png" alt="36Flo" title="36Flo" />
 
-**Wiki Team**
+**Wiki Team**<br>
  
 <img src="../../../assets/image/wikiteam/evoli-skin.png" alt="Evoli_" title="Evoli_" />
-<img src="../../../assets/image/wikiteam/lxlxndrxg-skin.png" alt="Lxlxndrxg" title="Lxlxndrxg" />
+<img src="../../../assets/image/wikiteam/lxlxndrxg-skin.png" alt="Lxlxndrxg" title="Lxlxndrxg" /><br>
 <img src="../../../assets/image/wikiteam/jonas-skin.png" alt="EnderJonas1" title="EnderJonas1" />
+<img src="../../../assets/image/wikiteam/34daniel-skin.png" alt="34Daniel" title="34Daniel" /> <br>
 <img src="../../../assets/image/wikiteam/fragezeichen-skin.png" alt="???" title="???" /> 
 
 </center>
