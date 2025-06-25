@@ -24,7 +24,7 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 ## Polizeiequip
 
 | Equipment | Funktion | Subfraktion |
-|:-:|:-:||:-:|
+|:-:|:-:|:-:|
 | Handschellen | Verdächtige Personen fixieren | Alle |
 | Fallschirm | Möglichkeit taktische Orte aufzusuchen | SEK |
 | Tazer | Verdächtige Personen niederstrecken | Alle |
