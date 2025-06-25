@@ -8,7 +8,7 @@ Die Psychiatrie hilft dir dabei, wieder psychisch gesund zu werden.
 ## Wie kommt man in die Psychiatrie?
 Um in die Psychiatrie zu gelangen, muss man eine Gefahr für sich selbst oder andere darstellen. Dazu muss man von einem Mediziner fachgerecht eingewiesen werden. Beispiele für einen Besuch in der Psychiatrie sind manipulatives Verhalten gegenüber anderen Bewohnern, mangelnde Empathie oder Aggressivität.
 
-!!!info Anforderungen
+!!! info Anforderungen
    Man kann nur in die Psychiatrie eingewiesen werden, wenn man den Status "Psychopath" bei [**/health**](../../pages/krankheiten/gesundheit.md) hat.
 
 ### Wie kommt man heraus?

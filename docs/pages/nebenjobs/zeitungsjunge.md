@@ -1,5 +1,5 @@
 # Zeitungsjunge (Nebenjob)
-Der Zeitungsjunge ist ein Nebenjob, welcher bei der [Presseagentur](../../pages/fraktionen/presse.md) angenommen werden kann.
+Der Zeitungsjunge ist ein Nebenjob, der bei der [Presseagentur](../../pages/fraktionen/presse.md) angenommen werden kann.
 
 <img align="right" width="340" height="340" src="../../../assets/image/nebenjobs/Zeitungsjunge.png">
 
@@ -14,7 +14,7 @@ Der Zeitungsjunge ist ein Nebenjob, welcher bei der [Presseagentur](../../pages/
 
 ## Aufgabe
 1. In der 2. Etage der Presseagentur den Nebenjob mit **/zeitungsjunge** annehmen.
-2. Zu Wohnhäusern und Wohnungen hingehen.
+2. Zu Wohnhäusern und Wohnungen gehen.
 3. Rechtsklick auf das Hausschild.
 4. Die Zeitung abgeben.
-5. Vorgang an anderen Hausschildern wiederholen, bis der Nebenjob beendet ist.
+5. Den Vorgang an anderen Hausschildern wiederholen, bis der Nebenjob beendet ist.
