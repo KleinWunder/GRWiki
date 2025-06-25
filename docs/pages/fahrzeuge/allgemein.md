@@ -2,24 +2,26 @@
 
 Ein Fahrzeug ermöglicht es einem, ohne das lästige Busfahren schneller von A nach B zu gelangen. Regelmäßiges Tanken an den [Tankstellen](../../pages/biz/tankstelle.md) sollte hierbei auch berücksichtigt werden.
 
-Im Fahrzeug kann die Fahrzeugsteuerung mit der Offhand-Taste (standardmäßig ++f++) aufgerufen werden. Ist der Motor aus, so ist es die einzige Option, den Motor zu starten. 
-Bei angeschalteten Motor ist die Fahrzeugsteuerung sichtbar.
-In der Fahrzeugsteuerung sind einige Funktionen, wie Fahrzeuginformationen einsehen, Tempomat einstellen, Fraktionstore öffnen, Warnblinker aktivieren, erweiterte Fahrzeugsteuerung öffnen, Gang wechseln und bei einem Dienstwagen, das Sondersignal anstellen. Der Warnblinker wird mit Mittelklick auf das Fahrzeug **in** der Fahrzeugsteuerung angeschaltet. Während der Fahrt kann mit Links- oder Rechtsklick die jeweiligen Blinker aktiviert werden. Mit Rechtsklick kann die erweiterte Fahrzeugsteuerung aufgerufen werden. Hier ist es möglich, die Tankanzeige anzupassen, wer in das Fahrzeug einsteigen kann und der erweiterte Tempomat kann aktiviert werden. Mit einem Druck auf die Sprungtaste (standardmäßig die ++spc++ -Taste) ertönt die Hupe. 
-Die Fahrzeuge besitzen einen Kofferraum (**/kofferraum**), welcher sich je nach Fahrzeugtyp variiert in der Größe. 
+Im Fahrzeug kann die Fahrzeugsteuerung mit der Offhand-Taste (standardmäßig ++f++) aufgerufen werden. Ist der Motor aus, so ist dies die einzige Option, den Motor zu starten. 
+Bei eingeschaltetem Motor ist die Fahrzeugsteuerung sichtbar.
+In der Fahrzeugsteuerung stehen einige Funktionen zur Verfügung, wie Fahrzeuginformationen einsehen, Tempomat einstellen, Fraktionstore öffnen, Warnblinker aktivieren, erweiterte Fahrzeugsteuerung öffnen, Gang wechseln und bei einem Dienstwagen das Sondersignal einschalten. Der Warnblinker wird mit einem Mittelklick auf das Fahrzeug **in** der Fahrzeugsteuerung aktiviert. Während der Fahrt können die jeweiligen Blinker mit Links- oder Rechtsklick aktiviert werden. Mit Rechtsklick kann die erweiterte Fahrzeugsteuerung aufgerufen werden. Hier ist es möglich, die Tankanzeige anzupassen, festzulegen, wer in das Fahrzeug einsteigen kann, und den erweiterten Tempomat zu aktivieren. Mit einem Druck auf die Sprungtaste (standardmäßig die ++spc++-Taste) ertönt die Hupe. 
+Die Fahrzeuge besitzen einen Kofferraum (**/kofferraum**), dessen Größe je nach Fahrzeugtyp variiert. 
 In der [KFZ-Werkstatt](kfz-werkstatt.md) können Autos repariert, lackiert und modifiziert werden.
 
 ## Autounfälle
-Bei einem Autounfall erhält jeder, der im Auto mitfährt, Schaden und die Chance, eine Verletzung zu erleiden, wie eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md) oder Nasenbluten. 
+Bei einem Autounfall erleidet jeder, der im Auto mitfährt, Schaden und hat die Chance, eine Verletzung zu erleiden, wie eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md) oder Nasenbluten. Wenn das Auto beschädigt wird, muss es entweder von Mechanikern repariert werden, die du mit ++shift+rbutton++ rufen kannst, oder du fährst in eine [KFZ-Werkstatt](../fahrzeuge/kfz-werkstatt.md) und lässt es dort reparieren.
 
- 
+!!! tip Mechaniker ist günstiger
+    Es lohnt sich eher, einen Mechaniker zu rufen, da dies günstiger ist, als die Reparatur in der KFZ-Werkstatt durchführen zu lassen.
+
 ## Erwerben von Fahrzeugen
-Erwerblich sind die Fahrzeuge beim Fahrzeughändler (**/navi Fahrzeughändler**) oder beim Luxusfahrzeughändler (**/navi Luxusfahrzeughändler**).
+Fahrzeuge können beim Fahrzeughändler (**/navi Fahrzeughändler**) oder beim Luxusfahrzeughändler (**/navi Luxusfahrzeughändler**) erworben werden.
 
-Die Fahrzeuge unterscheiden sich in diesen Werten:
+Die Fahrzeuge unterscheiden sich in folgenden Werten:
 
 + Aussehen
 + Sitzplätze
-+ Tank
++ Tankkapazität
 + Maximale Geschwindigkeit
 + Schadenstoleranz
 + Steuern
