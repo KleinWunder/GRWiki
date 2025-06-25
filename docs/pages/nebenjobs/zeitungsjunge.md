@@ -1,6 +1,8 @@
 # Zeitungsjunge (Nebenjob)
 Der Zeitungsjunge ist ein Nebenjob, welcher bei der [Presseagentur](../../pages/fraktionen/presse.md) angenommen werden kann.
 
+<img align="right" width="340" height="340" src="../../../assets/image/nebenjobs/Zeitungsjunge.png">
+
 | <!-- --> | <!-- --> |
 | :-: | :-: |
 | [Bushaltestelle](../../pages/öpnv/bus.md) | Altenheim |
