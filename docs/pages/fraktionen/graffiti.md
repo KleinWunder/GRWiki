@@ -1,12 +1,12 @@
-# Graffitis
+# Graffiti
 
-Graffitis sind auf der Map verteilt. Diese Graffitis können ausschließlich von Mitgliedern einer Bad-Fraktion besprüht werden. Dabei kann jeder Spot nur alle 15 Minuten besprüht werden. Das Besprühen bringt den Bad-Fraktionsmitgliedern Erfahrungspunkte sowie fraktionsinterne Aktivität. 
-Das Besprühen eines Graffitis erfolgt durch einen Rechtsklick auf den Block in der Mitte des Bodens.
+Graffiti sind auf der Map verteilt. Diese Graffitis können ausschließlich von Mitgliedern einer [Bad-Fraktion](allgemein.md) besprüht werden. Dabei kann jeder Spot nur alle 15 Minuten besprüht werden. Das Besprühen bringt den Bad-Fraktionsmitgliedern Erfahrungspunkte sowie fraktionsinterne Aktivität. 
+Das Besprühen eines Graffiti erfolgt durch einen Rechtsklick auf den Block in der Mitte des Bodens.
 
 ## Aufgaben der Polizei
 Die Polizei kann mithilfe eines Spurensicherungskits ein Graffiti überprüfen und herausfinden, wer es besprüht hat. Bei einer erfolgreichen Überprüfung kann die Polizei der Person [Fahndungspunkte](../../pages/allgemein/fahndungspunkte.md) zuweisen.
 
-## Koordinaten aller Graffitis
+## Koordinaten aller Graffiti
 Auf der Map sind 12 Graffitis verteilt. Die einzelnen Graffitis sind unter den folgenden Koordinaten zu finden:
 
 | Standort | Gebiet | Koordinaten (x, y) |
@@ -21,5 +21,5 @@ Auf der Map sind 12 Graffitis verteilt. Die einzelnen Graffitis sind unter den f
 | Tram-Unterführung | [Altstadt](../gebiete/altstadt.md) | -474, -88 |
 | U-Bahn | [Altstadt](../gebiete/altstadt.md) | -474, -88 |
 | U-Bahn | [Strandpassage](../gebiete/strandpassage.md) | 552, 795 |
-| U-Bahn | [Asia Viertel](../gebiete/asiaviertel.md) | -464, 935 |
+| U-Bahn | [Asiaviertel](../gebiete/asiaviertel.md) | -464, 935 |
 | JVA | [Altstadt](../gebiete/altstadt.md) | -798, -754 |
