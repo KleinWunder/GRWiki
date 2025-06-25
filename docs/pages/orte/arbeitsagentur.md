@@ -1,18 +1,28 @@
 # Arbeitsagentur
 !!! info "Seiteninfo"
-      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
+    Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
 
-Die Arbeitsagentur kann dir momentan 3 verschiedene Jobs anbieten. Wenn du diese Jobs erledigst, verdienst du pro Auftrag/Tätigkeit.
+Die Arbeitsagentur kann dir momentan drei verschiedene Jobs anbieten. Wenn du diese Jobs erledigst, verdienst du pro Auftrag oder Tätigkeit.
 <img align="right" width="300" height="175" src="../../assets/image/orte/Arbeitsagentur.png">
-Folgende Jobs sind momentan verfügbar:
 
-<h2>Mechaniker</h2>
-Mit dem Mechaniker Beruf kannst du Autos reparieren. Die Autos die repariert werden müssen, müssen vom Spieler als Auftrag angefragt werden. Dies funk
+Bei der Arbeitsagentur angekommen, musst du zum NPC "Arbeitsagentur" hingehen.  
+Das "Büro" der einzelnen Berufe findest du beim Navigieren mit dem Kompass.
 
+# Verfügbare Berufe
+## Mechaniker
+Mit dem Mechaniker-Beruf kannst du Autos reparieren. Um Autos zu reparieren, brauchst du ein Werkzeug, das bei der [KFZ-Werkstatt](../fahrzeuge/kfz-werkstatt.md) beim NPC am Tresen erhältlich ist.  
+Die Autos, die repariert werden müssen, müssen vom Spieler als Auftrag angefragt werden. Um alle Aufträge zu sehen, brauchst du ein Handy und kannst oben auf "Aufträge" klicken, um alle aktiven Aufträge zu sehen.  
+Bei einem Auto angekommen, musst du ++shift+rbutton++ drücken. Dann wird eine Prozentzahl heruntergezählt, bis sie bei 100 angelangt ist.
 
-<h2>Bestatter</h2>
-<li>
-<li>Schlüsseldienst </li><p>
+## Bestatter
 
-Bei der Arbeitsagentur angekommen, musst zum NPC "Arbeitsagentur" hingehen. <p>
-Nachdem du dich für ein Beruf ausgesucht hast, musst du beim Mechaniker und beim Schlüsseldienst dir dein Werkzeug abholen, diesen kannst du dir abholen dort wo deren Büro Ort ist. Diesen Ort findest du nach dem Berufannahme beim Kompass.
+## Schlüsseldienst
+Beim Schlüsseldienst musst du dich auf die Suche nach offenen Haustüren machen. Diese Häuser müssen allerdings einen Besitzer haben. Das Werkzeug bekommst du vom Schlüsseldienst.  
+Die Türen, die geschlossen werden müssen, kannst du mit ++rbutton++ anklicken, sodass sie sich schließen.
+
+!!! info Navi Schlüsseldienst
+    Es gibt keinen direkten Navipunkt zum Schlüsseldienst. Um herauszufinden, wo sich dieser befindet, musst du in die Arbeitsagentur gehen und beim NPC auf "Kompass" klicken.
+
+## Belohnung für das Ausführen eines Berufes
+Sobald du einen Auftrag oder eine Tätigkeit erledigt hast, musst du warten, bis du deinen [Payday](../allgemein/payday.md) erhältst.  
+Nach Erhalt des Paydays wird das Geld von deiner Tätigkeit oder deinem Auftrag auf dein Bankkonto überwiesen.
