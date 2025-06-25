@@ -11,8 +11,8 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 |:-:|:-:|
 | /memberinfo [Name/Fraktion]| Zugehörigkeit einer Fraktion abfragen. |
 | /profil [Name] | Anzeigen von Spielerdaten. (Ab Social Level 5) |
-| /health | Zeigt den eigenen Gesundheitzustand an. |
-| /id [Name] | Abrufen des Spielerlevels, Ping oder Abwesendheitsinfos. |
+| /health | Zeigt den eigenen Gesundheitszustand an. |
+| /id [Name] | Abrufen des Spielerlevels, Ping oder Abwesenheitsinfos. |
 | /showdarklist [Name] | Informationen zu Darklisteinträgen. |
 | /charinfo | Informationen zum eigenen Charakter. |
 | /lizenzen | Übersicht der eigenen Lizenzen. |
@@ -68,15 +68,15 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 |:-:|:-:|
 | /memberinfo [Name/Fraktion]| Zugehörigkeit einer Fraktion abfragen. |
 | /members | Listet die Memberliste deiner Fraktion auf. |
-| /fraktionen <br> /fraks | Öffnet ein menü mit allen Fraktionen. |
+| /fraktionen <br> /fraks | Öffnet ein Menü mit allen Fraktionen. |
 | /fraktionsgarage <br> /fgarage | Greife auf die Fraktionsgarage zu. | 
-| /fraktionshangar <br> /fhangar | Greife auf das Fraktionshangar zu. |
+| /fraktionshangar <br> /fhangar | Greife auf den Fraktionshangar zu. |
 | /fraktionskasse <br> /fkasse | Sehe die Fraktionskasse ein. |
 | /fkasse einzahlen [Summe] | Zahle eine Geldsumme in die Fraktionskasse ein. |
 | /fkasse auszahlen [Summe] | Nehme eine Geldsumme aus der Fraktionskasse raus. (Nur Fraktionsleader.) |
 | /fraktionslager <br> /flager | Sehe das Fraktionslager ein. |
-| /flager einlagern [Substanz] [Summe] | Lager eine Substanz in das Fraktionslager ein. |
-| /flager auslagern [Substanz] [Summe] | Lager eine Substanz aus dem Fraktionslager aus. |
+| /flager einlagern [Substanz] [Summe] | Lagere eine Substanz in das Fraktionslager ein. |
+| /flager auslagern [Substanz] [Summe] | Lagere eine Substanz aus dem Fraktionslager aus. |
 | /fraktionsleader <br> /fleader | Zeigt alle anwesenden Leader an. |
 | /fraktionsmenü <br> /fmenü | Öffnet für die Fraktionsleader ein Verwaltungsmenü. |
 

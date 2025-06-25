@@ -1,6 +1,6 @@
 # Stündliche Abrechnung
 
-Eine stündliche Abrechnung sorgt dafür, dass man seine Fraktionsprovision, sein Firmeneinkommen und das Geld von seinen Nebenjobs ausgezahlt bekommt. Das Ganze wird aber nur ausgezahlt, wenn man ein Haus besitzt oder bei einem anderen Spieler mietet. Ist keines von beidem gegeben, erhält man keine Zahlung.
+Eine stündliche Abrechnung sorgt dafür, dass man seine Fraktionsprovision, sein Firmeneinkommen und das Geld von seinen Nebenjobs ausgezahlt bekommt. Die Auszahlung erfolgt jedoch nur, wenn man ein Haus besitzt oder bei einem anderen Spieler mietet. Ist keines von beidem der Fall, erhält man keine Zahlung.
 
 ## Wann bekommt man die nächste stündliche Abrechnung
 Eine stündliche Abrechnung erhält man alle 60 Minuten, in denen man aktiv ist. Im Spielermenü unter Timer & Events kann man einsehen, wie lange es noch bis zur nächsten stündlichen Abrechnung dauert.
