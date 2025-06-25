@@ -1,3 +1,5 @@
+<img align="left" width="340" height="340" src="../../../assets/image/gebiete/Altstadt1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Altstadt2.png">
+
 Altstadt ist ein historisch geprägtes Viertel, das sich durch seine detailreichen Fachwerkhäuser und kopfsteingepflasterten Straßen auszeichnet. Die Altstadt besticht durch ihren mittelalterlichen Charme, kleine Marktstände, einen zentralen Brunnenplatz sowie eine liebevoll gestaltete Umgebung mit Holzbauten. Das Viertel ist besonders bei Besuchern und Einheimischen beliebt, die das traditionelle Flair und die gemütliche Atmosphäre schätzen.
 
 
