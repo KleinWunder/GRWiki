@@ -156,6 +156,8 @@ nav:
   - Allgemein: pages/houses/allgemein.md
   - Hausaddons: pages/houses/hausaddons.md
 - Orte:
+  - Arbeitsargentur: pages/orte/arbeitsagentur.md
+  - Psychiatrie: pages/orte/psychiatrie.md
   - Handelshaus: pages/gebäude/handelshaus.md
   - Schwarzmarkt: pages/orte/schwarzmarkt.md
   - Rathaus: pages/orte/rathaus.md
@@ -185,6 +187,7 @@ nav:
   - Imker: pages/nebenjobs/imker.md
   - JVA-Transport: pages/nebenjobs/jvatransport.md
   - Koch: pages/nebenjobs/koch.md
+  - Melonenfarmer: pages/nebenjobs/melonenspalter.md
   - Munitionstransport: pages/nebenjobs/munitionstransport.md
   - Paketsortierer: pages/nebenjobs/paketsortierer.md
   - Pizzabäcker: pages/nebenjobs/pizzabäcker.md
