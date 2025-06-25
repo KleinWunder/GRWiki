@@ -15,6 +15,13 @@ Die Autos, die repariert werden müssen, müssen vom Spieler als Auftrag angefra
 Bei einem Auto angekommen, musst du ++shift+rbutton++ drücken. Dann wird eine Prozentzahl heruntergezählt, bis sie bei 100 angelangt ist.
 
 ## Bestatter
+Beim Bestatter bekommst du Aufträge, wenn eine bewusstlose Person verstorben ist. Die Leichen müssen abgeholt und zum Bestatterinstitut (**/navi Bestatter**) gebracht werden. Dort wird die Leiche gereinigt und anschließend auf dem Friedhof in der Nähe bestattet. Es kann nur eine Leiche transportiert werden.
+
+|Befehl|Funktion|
+|:-:|:-:|
+| /pickupbody | Die Leiche aufsammeln. |
+| /cleanbody | Die Leiche reinigen. |
+| /dropbody | Die Leiche bestatten. |
 
 ## Schlüsseldienst
 Beim Schlüsseldienst musst du dich auf die Suche nach offenen Haustüren machen. Diese Häuser müssen allerdings einen Besitzer haben. Das Werkzeug bekommst du vom Schlüsseldienst.  
