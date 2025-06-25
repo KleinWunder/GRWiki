@@ -3,7 +3,7 @@
 Die Nichteinhaltung des [Regelwerks](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) von GermanRP zieht Konsequenzen nach sich, die man tragen muss. Diese setzen sich zusammen aus Warns, Strafpunkten, Banns oder einem Projektausschluss. Diese Strafen werden von [Moderatoren](../../pages/other/serverteam.md) oder Administratoren vergeben.
 
 ## Warns 
-Für kleinere Vergehen werden Warns ausgestellt und dienen als Androhung von Strafpunkten. Sollte derselbe Regelbruch wieder passieren, werden Strafpunkte vergeben. Teilweise sind Warns auch eine Begleitstrafe zu Strafpunkten. 
+Für kleinere Vergehen werden Warns (**/warns**) ausgestellt und dienen als Androhung von Strafpunkten. Sollte derselbe Regelbruch wieder passieren, werden Strafpunkte vergeben. Teilweise sind Warns auch eine Begleitstrafe zu Strafpunkten. 
 
 ## Strafpunkte 
 Bei mittelschweren Vergehen werden Strafpunkte ausgeteilt. Hier gelangt man ins Strafpunktegefängnis.

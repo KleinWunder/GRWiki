@@ -23,15 +23,15 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 
 ## Polizeiequip
 
-| Equipment | Funktion |
-|:-:|:-:|
-| Handschellen | Verdächtige Personen fixieren |
-| Fallschirm | Möglichkeit taktische Orte aufzusuchen |
-| Tazer | Verdächtige Personen niederstrecken |
-| Schild | Abwehren von Schüssen |
-| Rammbock | Aufbrechen von Türen |
-| Blendgranate | Gibt Personen im Umkreis der Explosion einen Blindheitseffekt |
-| [RTB-X ](../../pages/items/weapons/sniper.md) | Fernkampf |
+| Equipment | Funktion | Subfraktion |
+|:-:|:-:|:-:|
+| Handschellen | Verdächtige Personen fixieren | Alle |
+| Fallschirm | Möglichkeit taktische Orte aufzusuchen | SEK |
+| Tazer | Verdächtige Personen niederstrecken | Alle |
+| Schild | Abwehren von Schüssen | Alle (R10+) |
+| Rammbock | Aufbrechen von Türen | Alle |
+| Blendgranate | Gibt Personen im Umkreis der Explosion einen Blindheitseffekt | SEK |
+| [RTB-X ](../../pages/items/weapons/sniper.md) | Fernkampf | SEK |
 
 ## Lage der Polizeistationen
 <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/PolizeiHQ.png">

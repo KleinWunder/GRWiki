@@ -6,8 +6,7 @@ In diesem Beitrag geben wir dir einige hilfreiche Tipps für deinen Start auf Ge
 Das Tutorial vermittelt dir alles, was du benötigst, um auf dem Server Fuß zu fassen.
 
 ## Die richtige Ausrüstung
-Im Tutorial erhältst du grundlegende Ausrüstungselemente. Mit diesen Items kommst du die erste  
-Zeit auf dem Server zurecht. Du bist außerdem für zwei Wochen gegen die [Grippe](../../pages/krankheiten/grippe.md) geschützt.  
+Im Tutorial erhältst du grundlegende Ausrüstungselemente. Mit diesen Items kommst du die erste Zeit auf dem Server zurecht. Du bist außerdem für zwei Wochen gegen die [Grippe](../../pages/krankheiten/grippe.md) geschützt.  
 Nach diesen zwei Wochen solltest du dich beim [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erneut impfen lassen.  
 Wenn dir das Essen ausgeht, solltest du in den [Supermärkten](../../pages/biz/supermarkt.md) neues Essen kaufen.
 
