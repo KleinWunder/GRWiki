@@ -1,6 +1,6 @@
 # Camorra
 
- <img align="right" width="340" eight="340" src="../../assets/image/fraktionen/CamorraHQNeu.png">
+ <img align="right" width="340" height="340" src="../../assets/image/fraktionen/CamorraHQNeu.png">
 
 
 Die Camorra ist eine italienische Mafia, welche unter einem pharmazeutischen Deckgeschäft agieren. Ihre Geheimhaltung der Identität ist oberstes Gut und nutzen jedes Mittel zur Verschleierung. Sie tragen Maskierungen und verfälschen Personalausweise und [Lizenzen](../../pages/allgemein/lizenzen.md), damit ihnen die [Polizei](polizei.md) oder Rivalen nicht auf die Fährte kommen und sind Meister der Intrigenspiele, Manipulationen und Bestechungen.
@@ -26,4 +26,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 ## Lage des Hauptquartiers
 
-Die Camorra besitzt ein Firmengelände, in der Nähe vom [Sägewerk](../../pages/nebenjobs/sägewerk.md), im [Reichenviertel](../../pages/gebiete/reichenviertel.md). An den Toren des Eingangs wird die pharmazeutische Firma mit "Il Fiore Scuro" beschriftet.
+Die Camorra besitzt ein Firmengelände im [Reichenviertel](../../pages/gebiete/reichenviertel.md). An den Toren des Eingangs wird die pharmazeutische Firma mit "Il Fiore Scuro" beschriftet.
