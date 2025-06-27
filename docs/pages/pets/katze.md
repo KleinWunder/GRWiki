@@ -3,7 +3,7 @@
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Katze.png">
 
 
-Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man sie meist aber als eher arrogante, edlere Tiere ansieht, haben sie einen starken Einfluss auf die [Social Skill-XP](../../pages/skills/social.md). Sie können im [Tierheim](../../pages/gebäude/tierheim.md) gekauft werden.
+Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man sie meist aber als eher arrogante, edlere Tiere ansieht, haben sie einen starken Einfluss auf die [Social Skill-XP](../../pages/skills/social.md). Sie können im [Tierheim](../../pages/gebäude/tierheim.md) gekauft werden und durch Pet-Eiern kann man diese auch erhalten.
 
 ## Die verschiedenen Stufen der Katze
 
