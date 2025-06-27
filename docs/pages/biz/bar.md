@@ -5,9 +5,9 @@ In der Bar werden folgende Artikel verkauft:
 
 + Cola
 + Limonade
-+ 
-+ 
-
++ ToxineX
++ Mobster
++ Mentholdrops
 
 ### Standorte der Bars 
 
