@@ -2,7 +2,7 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Hund.png">
 
-Der Hund gilt nicht nur als treuer Gefährte des Menschen, sondern ist auch neben dem [Wolf](wolf.md) der effektivste Booster für die [Combat Skill-XP](../../pages/skills/combat.md). Man erhält ihn entweder im [Tierheim](../../pages/gebäude/tierheim.md) oder durch das Durchwühlen von Mülleimern.
+Der Hund gilt nicht nur als treuer Gefährte des Menschen, sondern ist auch neben dem [Wolf](wolf.md) der effektivste Booster für die [Combat Skill-XP](../../pages/skills/combat.md). Man erhält ihn entweder im [Tierheim](../../pages/gebäude/tierheim.md), durch das Durchwühlen von Mülleimern und durch Pet-Eier.
 
 ## Die verschiedenen Stufen des Hundes
 
