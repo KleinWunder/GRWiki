@@ -11,8 +11,8 @@ Tickets helfen den Spielern, sich mit dem Supportteam in Verbindung zu setzen. D
 | Account-Probleme | Loginschwierigkeiten <br> Probleme mit Forumprofil <br> Berechtigungsfehler | [Administrator](../../pages/other/serverteam.md/#administratoren) |
 | Baufehler melden | Auf Baufehler hinweisen | [Sr. Moderation](../other/serverteam.md/#senior-moderatoren) |
 
-!!! info Baufehler melden
-    Bei einem Baufehler melden Ticket wird man nicht mit einem Teammitglied verbunden, sondern nur nach Koordinaten und nach dem Baufehler gefragt.
+!!! info "Baufehler melden"
+    Bei einem "Baufehler melden"-Ticket wird man nicht mit einem Teammitglied verbunden, sondern nur nach Koordinaten und dem Baufehler gefragt.
 
 ## Ticket-Befehle
 

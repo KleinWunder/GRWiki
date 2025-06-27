@@ -1,11 +1,11 @@
 # Schmerzmittel
 
-Schmerzmittel sind ein fiktiver Gegenstand, der in der Tasche eingesehen werden kann. Ihr Nutzen besteht darin, die Herzen wieder zu regenerieren.  
-Sie sind rezeptpflichtig und bei einem Mediziner erhältlich. Die Anzahl der Rezepte, die ausgegeben werden, ist pro Spieler und Fraktionszugehörigkeit limitiert.
+Schmerzmittel sind fiktive Gegenstände, die in der Tasche eingesehen werden können. Ihr Nutzen besteht darin, die Herzen zu regenerieren.  
+Sie sind rezeptpflichtig und bei einem [Mediziner](../../pages/fraktionen/rettungsdienst.md) erhältlich. Die Anzahl der Rezepte, die ausgegeben werden, ist pro Spieler und Fraktionszugehörigkeit limitiert.
 
 ## Wirkung
 
-Wird Heilkraut eingenommen, erhält man folgende Wirkung:
+Wird ein Schmerzmittel eingenommen, erhält man folgende Wirkung:
 
 * Absorption 3 für 2 Minuten und 30 Sekunden
 * Regeneration 3 für 30 Sekunden
