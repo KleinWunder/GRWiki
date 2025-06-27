@@ -1,9 +1,14 @@
 # Allgemeine Gesundheit
 
-Der Gesundheitszustand des Charakters ist ausschlaggebend für Effekte, die bei einer Mangelerscheinung spürbar werden.<br> Es wird in 4 verschiedene Vitalparameter unterschieden:
+!!! info "Seiteninfo"
+      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
+
+Der Gesundheitszustand des Charakters ist ausschlaggebend für Effekte, die bei einer Mangelerscheinung spürbar werden.<br> Es wird in 6 verschiedene Vitalparameter unterschieden:
 
 - Hydrierung
 - Sättigung
+- Blut
+- Zucker
 - Leben
 - Geisteszustand
 
@@ -15,7 +20,7 @@ Der Unterpunkt "Leben" zeigt an, wie viele Charakterleben der Spieler noch besit
 
 ### Charaktertod
 
-Bei einem Charaktertod verliert man sein Bargeld, Inventar, [Lizenzen](../../pages/allgemein/lizenzen.md) und Munition. Nachdem 0 von 10 Charakterleben erreicht worden sind oder der Tod von einem Rettungsdienstler beurkundet wird, wird man zur [Rathaus](../../pages/orte/rathaus.md) teleportiert, um direkt einen neuen Charakter zu erstellen.
+Bei einem Charaktertod verliert man sein Bargeld, Inventar, [Lizenzen](../../pages/allgemein/lizenzen.md) und Munition. Nachdem 0 von 10 Charakterleben erreicht worden sind oder der Tod von einem Rettungsdienstler beurkundet wird, wird man zur [Rathaus](../../pages/orte/rathaus.md) teleportiert, um direkt einen neuen Charakter zu erstellen. Für ein neues Charakterleben, kann man sich beim [Spielmenü](../allgemein/spielmenü.md) beim Shops und VIP, beim Bonuspunkteshop bedienen. Dafür braucht man 20 [Bonuspunkte](../allgemein/bonuspunkte.md) für ein neues Charakterleben.
 
 
 !!! info "Chance erhöhen um kein Charakterleben zu verlieren"
@@ -40,3 +45,9 @@ Die Hydrierung gibt an, wie hoch der Wassergehalt des Charakters ist. Dabei ist 
 ## Sättigung
 
 Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch das Hungergefühl deines Charakters ist. Ab einer Sättigung von 5.0/20.0 kann dein Charakter nicht mehr sprinten. Ab dem Zeitpunkt sollte schnellstmöglich [Nahrung](../../pages/allgemein/essen.md) zu sich genommen werden, die beispielsweise in einem [Supermarkt](../../pages/biz/supermarkt.md) gekauft werden kann.
+
+## Blut
+
+Blut gibt an wie viel Blut man in seinem Charakter hat. Dabei wird der ml weniger wenn man Blut verliert. Dieses Blut kriegst du durch Bluttransfusion bei einem Mediziner. 
+
+## Zucker
