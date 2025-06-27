@@ -1,5 +1,7 @@
 # Möbelhaus
-     
+
+ <img align="center" width="340" height="340" src="../../../assets/image/orte/Mobelhaus.png"><br>
+
 Das Möbelhaus ist da, um Verbesserungen für sein Haus zu kaufen. Ebenso kann dort Endprodukte des [Bergwerks](../../pages/nebenjobs/bergbau.md) und [Sägewerk](../../pages/nebenjobs/sägewerk.md) verkauft werden.
 
 ## Hausverbesserungen

@@ -1,5 +1,7 @@
 # Tierheim
 
+<img align="center" width="340" height="340" src="../../../assets/image/orte/Tierheim.png"> <br>
+
 Das Tierheim erreichst du über die Bushaltestelle Gangebiet, welche sich in unmittelbarer Nähe befindet. Der Befehl **/navi Tierheim** zeigt die genaue Richtung an.
 Im Tierheim können Pets verbessert werden, verkauft werden oder gekauft werden bei zwei verschiedenen NPC's.
 
