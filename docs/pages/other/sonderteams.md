@@ -23,7 +23,7 @@ Derzeitige Co-Leitung: **[36Flo](https://germanrp.eu/index.php?user/167-36flo/)*
 Entertainmentteamitglieder veranstalten regelmäßige Serverevents. Sie organisieren und planen zum Beispiel das Osterevent, das Weihnachtsevent und Spiele wie "Wer wird GR".
 
 Derzeitige Leitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-masterhero/)**<br>
-Derzeitige Co-Leitung: **[miramausii](https://germanrp.eu/index.php?user/1483-miramausii/)**
+Derzeitige Co-Leitung: **[miramausii](https://germanrp.eu/index.php?user/1483-miramausii/) & [sxllii](https://germanrp.eu/index.php?user/37-sxllii/)**
 
 
 ## Entwicklerteam
@@ -39,7 +39,7 @@ Derzeitige Co-Leitung: **[SweetCraftii](https://germanrp.eu/index.php?user/1571-
 PR-Teammitglieder sind verantwortlich für die Social-Media-Präsenz. Sie betreiben und verwalten die Social-Media Kanäle auf [Instagram](https://www.instagram.com/germanrp.pr/), [YouTube](https://www.youtube.com/@germanrpreallifeeconomyrol4257), [Twitter](https://twitter.com/GermanRP3) und [TikTok](https://www.tiktok.com/@germanrp.pr?is_from_webapp=1&sender_device=pc).
 
 Derzeitige Leitung: **[Efendim](https://germanrp.eu/index.php?user/292-gr-efendim/)**<br>
-Derzeitige Co-Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**
+Derzeitige Co-Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/) & [sxllii](https://germanrp.eu/index.php?user/37-sxllii/)**
 
 ## Fraktionsmanagement
 

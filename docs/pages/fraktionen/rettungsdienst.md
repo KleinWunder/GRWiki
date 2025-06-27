@@ -10,7 +10,7 @@ Der Rettungsdienst verfügt über verschiedene Möglichkeiten den Spielern auf d
 
 * Impfungen verabreichen
 * Verstauchungen und Brüche schienen
-* Röngtnen durchführen
+* Röntgen durchführen
 * Rezepte gegen verschiedene Krankheiten ausstellen
 * Bewusstlose Spieler wiederbeleben
 * Blutanalysen und Operationen durchführen
