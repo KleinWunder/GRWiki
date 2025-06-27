@@ -1,5 +1,7 @@
 # Graffiti
 
+<img align="center" width="340" height="340" src="../../../assets/image/fraktionen/aktivitäten/Graffiti.png"><br>
+
 Graffiti sind auf der Map verteilt. Diese Graffitis können ausschließlich von Mitgliedern einer [Bad-Fraktion](allgemein.md) besprüht werden. Dabei kann jeder Spot nur alle 15 Minuten besprüht werden. Das Besprühen bringt den Bad-Fraktionsmitgliedern Erfahrungspunkte sowie fraktionsinterne Aktivität. 
 Das Besprühen eines Graffiti erfolgt durch einen Rechtsklick auf den Block in der Mitte des Bodens.
 
