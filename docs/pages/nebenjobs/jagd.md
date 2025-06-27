@@ -39,9 +39,10 @@ Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Natu
 |:-:|:-:|
 | Vergammeltes Fleisch | 50% |
 | Knochen des Alphas | 25 % |
-| Wolfspelz | x |
-| Hundepfeife | x |
-| Wolfszahn | x |
+| Wolfspelz | 1-2 (je 50 %) |
+| Hundepfeife | 3,6% |
+| Wolfszahn | 8% bei Alpha-Wölfe |
+| [Pet] [Wolf](../pets/wolf.md) | 0,04 % | 
 
 
 ### Verkauf von Jagditems
