@@ -1,9 +1,8 @@
 # Katze
 
-<img align="right" width="70" eight="75" src="../../../assets/image/pets/Katze.png">
+<img align="right" width="70" height="75" src="../../../assets/image/pets/Katze.png">
 
-
-Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man sie meist aber als eher arrogante, edlere Tiere ansieht, haben sie einen starken Einfluss auf die [Social Skill-XP](../../pages/skills/social.md). Sie können im [Tierheim](../../pages/gebäude/tierheim.md) gekauft werden.
+Bereits im alten Ägypten begleiteten Katzen den Menschen. Obwohl man sie meist als eher arrogante, edle Tiere ansieht, haben sie einen starken Einfluss auf die [Social Skill-XP](../../pages/skills/social.md). Sie können im [Tierheim](../../pages/gebäude/tierheim.md) gekauft oder aus [Pet-Eiern](../../pages/pets/allgemein.md#eier) erhalten werden.
 
 ## Die verschiedenen Stufen der Katze
 
@@ -14,4 +13,4 @@ Bereits im alten Ägypten begleiteten die Katzen schon den Menschen. Obwohl man 
 | Selten | Erhalte 50% mehr Social-XP. |
 | Episch | Erhalte 60% mehr Social-XP. | Regeneration durch Social-Skill bringt 4HP (2❤️). |
 | Legendär | Erhalte 70% mehr Social-XP. | Regeneration durch Social-Skill bringt 6HP (3❤️). |
-| Ultralegendär | Erhalte 80% mehr Social-XP. | Regeneration durch Social-Skill bringt 8HP (4❤️). | Lande mit einer 20% Chance nach einem Sturz ohne eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md). |
+| Ultralegendär | Erhalte 80% mehr Social-XP. | Regeneration durch Social-Skill bringt 8HP (4❤️). | Lande mit einer 20% Chance nach einem Sturz ohne eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md)
