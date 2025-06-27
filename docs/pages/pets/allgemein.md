@@ -21,7 +21,7 @@ Manche Pets teilen sich einen Skill.  <img align="right" width="300" height="200
 - [Schmetterling](schmetterling.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
 - [Wolf](wolf.md) ([Combat-Skill](../../pages/skills/combat.md))
 
-!!! info Auto-Pet
+!!! info "Auto-Pet"
     Mit VIP+ hast du die Möglichkeit, für verschiedene Szenarien, wie zum Beispiel beim Eintritt der Bewusstlosigkeit, einzustellen, welches Pet automatisch ausgewählt wird.
 
 ## Pets verbessern

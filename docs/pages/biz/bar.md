@@ -5,8 +5,8 @@ In der Bar werden folgende Artikel verkauft:
 
 + Cola
 + Limonade
-
-  
++ 
++ 
 
 
 ### Standorte der Bars 
