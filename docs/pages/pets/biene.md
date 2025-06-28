@@ -10,7 +10,6 @@ Die Biene hält sich gerne in der Nähe des [Sägewerks](../../pages/nebenjobs/s
 | Gewöhnlich | Deine Axt verliert mit einer 5% Chance keine Haltbarkeit beim Abbauen. |
 | Ungewöhnlich | Deine Axt verliert mit einer 10% Chance keine Haltbarkeit beim Abbauen. |
 | Selten | Deine Axt verliert mit einer 15% Chance keine Haltbarkeit beim Abbauen. |
-| Episch | Deine Axt verliert mit einer 20% Chance keine Haltbarkeit beim Abbauen. | Erhöht die Chance auf Farmingfunde um 5% bei aktivem Pet. |
-| Legendär | Deine Axt verliert mit einer 25% Chance keine Haltbarkeit beim Abbauen. | Erhöht die Chance auf Farmingfunde um 20% bei aktivem Pet. |
-| Ultralegendär | Deine Axt verliert mit einer 30% Chance keine Haltbarkeit beim Abbauen. | Erhöht die Chance auf Farmingfunde um 25% bei aktivem Pet. | Erhalte 45% mehr [Handwerk-XP](../../pages/skills/handwerk.md). |
-S
+| Episch | Deine Axt verliert mit einer 20% Chance keine Haltbarkeit beim Abbauen. | Erhöht die Chance auf Handwerkfunde um 5% bei aktivem Pet. |
+| Legendär | Deine Axt verliert mit einer 25% Chance keine Haltbarkeit beim Abbauen. | Erhöht die Chance auf Handwerkfunde um 20% bei aktivem Pet. |
+| Ultralegendär | Deine Axt verliert mit einer 30% Chance keine Haltbarkeit beim Abbauen. | Erhöht die Chance auf Handwerkfunde um 25% bei aktivem Pet. | Erhalte 45% mehr [Handwerk-XP](../../pages/skills/handwerk.md). |

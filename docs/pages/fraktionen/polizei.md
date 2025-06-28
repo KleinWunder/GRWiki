@@ -8,16 +8,16 @@ Die Kriminalpolizei (Kripo) ist für die Ermittlung von Straftaten zuständig. S
 
 Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dabei hat die Polizei verschiedene Aufgabenbereiche:
 
-* Fahndungspunkte (WPS) vergeben
+* [Fahndungspunkte](../../pages/allgemein/fahndungspunkte.md) (WPS) vergeben
 * Verbrecher jagen und verhaften
 * Illegale Betäubungsmittel finden und vernichten
 * an öffentlichen Orten Präsenz zeigen
-* Apothekenraub und Bomben verhindern
-* Notrufe bearbeiten
+* [Apothekenraub](apothekenraub.md), [Juwelierraub](juwelenraub.md) und [Bomben](bomben.md) verhindern
+* [Notrufe](../../pages/allgemein/notrufe.md) bearbeiten
 * Für das Wohl jedes Einzelnen Spielers sorgen
 * Gebrauch von exklusiver Polizeiausstattung
 * Staatsmeldungen ausrufen
-* Spieler in der JVA kontrollieren
+* Spieler in der [JVA](../../pages/orte/jva.md) kontrollieren
 
 ## Polizeiequip
 
@@ -34,4 +34,4 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 ## Lage der Polizeistationen
 <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/PolizeiHQ.png">
 
-Zu der Polizeistation gelangt man, indem man den Bus zur Polizeipräsidium verwendet. Zudem gibt es auf der Karte verteilt zwei weitere Nebenstellen der Polizei. Im Reichenviertel ist das Polizeirevier-Süd aufzufinden, dessen Bushaltestation "Reichenviertel" ist. Das Polizeirevier-West ist in Westside zu finden, hier auch mit der gleichnamigen Bushaltestelle.  
+Zu der Polizeistation gelangt man, indem man den Bus zur Polizeipräsidium verwendet. Zudem gibt es auf der Karte verteilt zwei weitere Nebenstellen der Polizei. Im Reichenviertel ist das Polizeirevier-Süd aufzufinden, dessen [Bushaltestation](../../pages/öpnv/bus.md) "Reichenviertel" ist. Das Polizeirevier-West ist in Westside zu finden, hier auch mit der gleichnamigen Bushaltestelle.  

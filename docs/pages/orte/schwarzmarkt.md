@@ -13,7 +13,7 @@ Um dir Eintritt zu verschaffen, musst du zuerst zu Simon gehen, der sich links n
 ## Verkaufte Items
 Hier können verschiedene Items gekauft werden, die zufällig in die Auktion aufgenommen werden.
 
-<img align="right" width="275" height="150" src="../../assets/image/orte/Schwarzmarkt.png">
+<img align="right" width="275" height="150" src="../../../assets/image/orte/Schwarzmarkt.png">
 
 | Gegenstand | Anfangspreis |
 | :-: | :-: |
@@ -31,5 +31,3 @@ Hier können verschiedene Items gekauft werden, die zufällig in die Auktion auf
 | Fischer-Rucksack | 1250 Euro|
 | Jäger-Rucksack | 1250 Euro |
 | Petupgrade Item | 9500 Euro |
-
-

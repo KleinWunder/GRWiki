@@ -1,6 +1,6 @@
 # Rousseau Familie
 
-<img align="right" width="340" height="340" src="../../assets/image/fraktionen/RFHQ.png">
+<img align="right" width="340" height="340" src="../../../assets/image/fraktionen/RFHQ.png">
 
 Die Rousseau Familie ist eine französische Gang, die einen Schmuggelhandel in der Stadt betreibt. Sie agiert und betreibt nebenbei eine Bäckerei in einer Markthalle. Die Gangmitglieder sind sehr territorial und pflegen kein gutes Verhältnis zu anderen Fraktionen. Solange die Polizei sich nicht in ihre Angelegenheiten einmischt, sind sie dieser nicht feindlich gestimmt.
 
