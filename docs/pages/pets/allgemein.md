@@ -36,4 +36,4 @@ Diesen Vorgang kannst du mehrfach wiederholen, bis du ein ultralegendäres Pet h
 
 ## Eier
 
-Von Gewöhnlich bis Legendär hast du die Möglichkeit, durch Jobrotationen oder die Kiste des Capybaras Pet-Eier zu erhalten. Öffnest du diese, hast du die Chance, eines von fünf Pets zu erhalten. ([Papagei](papagei.md), [Katze](katze.md), [Hase](hase.md), [Hund](hund.md) oder [Capybara](capybara.md).
+Von Gewöhnlich bis Legendär hast du die Möglichkeit, durch Jobrotationen oder die Kiste des Capybaras Pet-Eier zu erhalten. Öffnest du diese, hast du die Chance, eines von fünf Pets zu erhalten ([Papagei](papagei.md), [Katze](katze.md), [Hase](hase.md), [Hund](hund.md) oder [Capybara](capybara.md)).

@@ -1,9 +1,7 @@
 # Arbeitsagentur
-!!! info "Seiteninfo"
-    Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
 
 Die Arbeitsagentur kann dir momentan drei verschiedene Jobs anbieten. Wenn du diese Jobs erledigst, verdienst du Geld pro Auftrag oder Tätigkeit.
-<img align="right" width="300" height="175" src="../../assets/image/orte/Arbeitsagentur.png">
+<img align="right" width="300" height="175" src="../../../assets/image/orte/Arbeitsagentur.png">
 
 Bei der Arbeitsagentur angekommen, musst du zum NPC „Arbeitsagentur“ gehen.  
 Das „Büro“ der einzelnen Berufe findest du, indem du mit dem Kompass navigierst.
@@ -30,7 +28,7 @@ Beim Bestatter bekommst du Aufträge, wenn eine bewusstlose Person verstorben is
 Beim Schlüsseldienst musst du dich auf die Suche nach offenen Haustüren machen. Diese Häuser müssen allerdings einen Besitzer haben. Das Werkzeug bekommst du vom Schlüsseldienst.  
 Die Türen, die geschlossen werden müssen, kannst du mit ++rbutton++ anklicken, damit sie sich schließen.
 
-!!! info Navi Schlüsseldienst
+!!! info "Navi Schlüsseldienst"
     Es gibt keinen direkten Navipunkt zum Schlüsseldienst. Um herauszufinden, wo sich dieser befindet, musst du in die Arbeitsagentur gehen und beim NPC auf "Kompass" klicken.
 
 ## Belohnung für das Ausführen eines Berufes
