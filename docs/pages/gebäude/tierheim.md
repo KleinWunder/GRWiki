@@ -28,6 +28,9 @@ Im Tierheim kann man Tierfutter (EG) und drei verschiedene Pets (1.OG) kaufen. D
 
 Im 1. OG kann man beim NPC Kate drei unterschiedliche Pets erwerben. Ebenfalls bietet sich hier die Gelegenheit das Pet zu verbessern auf die Stufen **Ungewöhnlich** und **Selten**. Und so funktioniert es:
 
+!!! info "Kosten"
+    Damit man von Ungewöhnlich bis Selten upzugraden, kostet dies 1500 € pro Upgrade.
+
 1. Das Pet ins Inventar nehmen
 2. Kate anklicken
 3. Den Amboss "Tierseltenheit" auswählen.
