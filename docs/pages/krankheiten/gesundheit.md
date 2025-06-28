@@ -50,3 +50,5 @@ Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch da
 Blut gibt an wie viel Blut man in seinem Charakter hat. Dabei wird der ml weniger wenn man Blut verliert. Dieses Blut kriegst du durch Bluttransfusion bei einem Mediziner. 
 
 ## Zucker
+
+Bei einem niedrigerem 

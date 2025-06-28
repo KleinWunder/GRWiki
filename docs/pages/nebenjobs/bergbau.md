@@ -39,7 +39,7 @@ Diese Items werden unterschiedlich verwertet:
 | Spitzhacke für Fortgeschrittene | 50€ | Effizienz 1 | Level 1 |
 | Spitzhacke für Experten | 75€ | Effizienz 2 | Level 3 |
 | Spitzhacke für Profis | 115€ | Effizienz 3 | Level 10 |
-| Spitzhacke für Meister | 175€ | Effizienz 4 | Level 15 |
+| Spitzhacke für Meister | 175€ | Effizienz 4 | Level 17 |
 
 ### Verkauf von Bergbauitems
 
