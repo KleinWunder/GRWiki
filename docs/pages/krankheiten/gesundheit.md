@@ -1,7 +1,7 @@
 # Allgemeine Gesundheit
 
 !!! info "Seiteninfo"
-      Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
+    Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
 
 Der Gesundheitszustand des Charakters ist ausschlaggebend für Effekte, die bei einer Mangelerscheinung spürbar werden.<br> Es wird in 6 verschiedene Vitalparameter unterschieden:
 
