@@ -24,8 +24,7 @@ Bei einem Charaktertod verliert man sein Bargeld, Inventar, [Lizenzen](../../pag
 
 
 !!! info "Chance erhöhen um kein Charakterleben zu verlieren"
-        Mit einem epischen [Hund](../../pages/pets/hund.md) oder höher wird die Chance erhöht, dass das Charakterleben bei einem Despawn verschont wird.
-        Je höher das eigende [Level](../../pages/allgemein/level.md) ist, desto höher ist die Grundchance kein Charakterleben zu verlieren.
+    Mit einem epischen [Hund](../../pages/pets/hund.md) oder höher wird die Chance erhöht, dass das Charakterleben bei einem Despawn verschont wird. Je höher das eigende [Level](../../pages/allgemein/level.md) ist, desto höher ist die Grundchance kein Charakterleben zu verlieren.
    
 ## Geisteszustand
 
