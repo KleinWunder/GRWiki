@@ -2,7 +2,7 @@
 
 <img align="right" width="360" height="300" src="../../../assets/image/orte/Fightclub.png">
 
-Der Fight Club bietet den Spielern die Möglichkeit, sich mit Waffen zu duellieren. Was hier besonders ist: Nach dem Tod wird man sofort wiederbelebt und verliert kein Charakterleben. Der Fight Club ist mit dem Bus über die [Haltestelle](../../pages/öpnv/bus.md) [Reichenviertel](../../pages/gebiete/reichenviertel.md) zu erreichen. Die Arena hat eine eigene [U-Bahn](../../pages/öpnv/ubahn.md)-Station. Zutritt erlangt man über den Befehl am Eingang der Arena. Der Zutritt ist kostenlos.
+Der Fight Club bietet den Spielern die Möglichkeit, sich mit Waffen zu duellieren. Das Besondere: Nach dem Tod wird man sofort wiederbelebt und verliert kein Charakterleben. Der Fight Club ist mit dem Bus über die [Haltestelle](../../pages/öpnv/bus.md) [Reichenviertel](../../pages/gebiete/reichenviertel.md) zu erreichen. Die Arena hat eine eigene [U-Bahn](../../pages/öpnv/ubahn.md)-Station. Zutritt erhält man über den Befehl am Eingang der Arena. Der Zutritt ist kostenlos.
 
 !!! info "Kein Zutritt bei WPS"
     Wenn man [Fahndungspunkte](../../pages/allgemein/fahndungspunkte.md) hat, kann man den Fight Club nicht betreten.
@@ -25,5 +25,5 @@ Die Arena kann mit dem Befehl **/fightclub leave** verlassen werden.
 | /fightclub | Betritt den Fight Club |
 | /fightclub (in der Arena) | Zeigt deine Statistik an |
 | /fightclub info | Zeigt die Befehlsliste |
-| /fightclub top | Zeigt die Bestenliste der ersten Drei an |
+| /fightclub top | Zeigt die Bestenliste der Top Drei an |
 | /fightclub leave | Verlässt die Arena |
