@@ -12,7 +12,7 @@ Die Jagdhütte befindet sich hinter der Mühle an der Farm (**/navi Jagdhütte**
 
 <img align="right" width="350" height="200" src="../../assets/image/nebenjobs/jagdgebiet.png">
 
-Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Naturschutzgebiet erstreckt (**/navi Jagdgebiet**). Die Jagd funktioniert nach den folgenden Schritten:
+Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Naturschutzgebiet erstreckt (**/navi Jagdgebiet**). Die Arbeit am Jagen läuft folgendermaßen ab:
 
 - Gehe zum NPC Jäger und kaufe Wolfsköder.
 - Im Jagdgebiet den Köder mit Rechtsklick in die Luft auslegen.

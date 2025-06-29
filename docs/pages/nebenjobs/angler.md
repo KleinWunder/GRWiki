@@ -14,7 +14,7 @@ Auf der Karte verteilt gibt es mehrere Anglerteiche mit einem NPC Walter/Waltrau
 | Asiaviertel | [Asiaviertel](../../pages/gebiete/asiaviertel.md) | **/navi -509 74 824** |
 
 ## Ablauf
-Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
+Die Arbeit läuft folgendermaßen ab:
 
 - Gehe zum NPC Walter/Waltraud und kaufe eine Angel. 
 - Mit der Angel die Fische aus dem Wasser angeln.
