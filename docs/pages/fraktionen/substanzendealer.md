@@ -53,7 +53,10 @@ Um dem Substanzenhändler etwas zu verkaufen, muss man diesen mit Rechtsklick an
 
 ![GR-Dealer 1](https://github.com/user-attachments/assets/9b56407f-14f6-40f5-ba09-4575d2303a3b)
 
-Dann bewegt man den Mauszeiger über die Substanz, die man verkaufen möchte, woraufhin die Menge, die man davon im Inventar hat, und der vom Dealer gebotene Preis angezeigt werden. **Wichtig: Man kann nicht nur einen Teil der ausgewählten Substanz verkaufen – es werden immer alle Gramm verkauft, die man gerade im Inventar hat.**
+Dann bewegt man den Mauszeiger über die Substanz, die man verkaufen möchte, woraufhin die Menge, die man davon im Inventar hat, und der vom Dealer gebotene Preis angezeigt werden. 
+
+!!! info 
+    Man kann nicht nur einen Teil der ausgewählten Substanz verkaufen – es werden immer alle Gramm verkauft, die man gerade im Inventar hat.
 
 ![2025-04-12_19 31 33](https://github.com/user-attachments/assets/8f3a91a1-10c2-42fe-8b52-a9ecb59a9ca7)
 
