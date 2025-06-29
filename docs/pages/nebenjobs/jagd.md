@@ -1,6 +1,6 @@
 # Jagd
 
-Im Jagdgebiet gibt es die Möglichkeit, Wölfe zu jagen. Durch spezielle Wolfsköder werden die Wölfe angelockt, die mit [Waffen](../../pages/biz/waffenladen.md) oder mit dem Jagdmesser erledigt werden müssen. Für das Erlegen von Wölfen können Hundepfeifen, Wolfspelz und Wolfszähne erhalten werden, von denen ein kleiner Teil beim Jäger in der Jägerhütte verkauft werden kann. Sie werden auch für die [Quests](../../pages/allgemein/quests.md) benötigt.
+Im Jagdgebiet gibt es die Möglichkeit, Wölfe zu jagen. Durch spezielle Wolfsköder werden die Wölfe angelockt, die mit [Waffen](../../pages/biz/waffenladen.md) oder mit dem Jagdmesser erledigt werden müssen. Für das Erlegen von Wölfen können Hundepfeifen, Wolfspelz und Wolfszähne erhalten werden, von denen ein Teil beim Jäger in der Jägerhütte verkauft werden kann. Sie werden auch für die [Quests](../../pages/allgemein/quests.md) benötigt.
 
 ## Die Jagdhütte
 
@@ -12,7 +12,7 @@ Die Jagdhütte befindet sich hinter der Mühle an der Farm (**/navi Jagdhütte**
 
 <img align="right" width="350" height="200" src="../../assets/image/nebenjobs/jagdgebiet.png">
 
-Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Naturschutzgebiet erstreckt (**/navi Jagdgebiet**). Die Arbeit am Jagen läuft folgendermaßen ab:
+Es kann ausschließlich im Jagdgebiet gejagt werden, das sich über das Naturschutzgebiet erstreckt (**/navi Jagdgebiet**). Die Arbeit am Jagen läuft folgendermaßen ab:
 
 - Gehe zum NPC Jäger und kaufe Wolfsköder.
 - Im Jagdgebiet den Köder mit Rechtsklick in die Luft auslegen.
@@ -20,16 +20,16 @@ Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Natu
 - Hat man alle Wölfe getötet, kann der nächste Köder ausgelegt werden.
 - Es können vier verschiedene Items im Inventar landen:
   - Hundepfeifen
-  - Wolfspelz
+  - Wolfspelze
   - Wolfszähne
   - [Wolfpet](../../pages/pets/wolf.md)
-- Am Ende können Wolfspelz und Wolfszähne beim NPC verkauft werden.
-  - Hundepfeifen, Wolfspelz und Wolfszähne können bei Quests als Zahlung eingesetzt werden.
+- Am Ende können Wolfspelze und Wolfszähne beim NPC verkauft werden.
+  - Hundepfeifen, Wolfspelze und Wolfszähne können bei Quests als Zahlung eingesetzt werden.
 
 ### Verwertung der Items
 
 * **Hundepfeifen**: Können das Wolfsrudel lähmen.
-* **Wolfspelz**: Kann beim NPC verkauft oder in der Sekte als Bezahlung eingesetzt werden.
+* **Wolfspelze**: Kann beim NPC verkauft oder in der Sekte als Bezahlung eingesetzt werden.
 * **Wolfszähne**: Können beim NPC verkauft oder in der Sekte als Bezahlung eingesetzt werden.
 * **Wolfpet**: Kann im [Tierheim](../../pages/gebäude/tierheim.md) verkauft oder ins [Handelshaus](../../pages/gebäude/handelshaus.md) gestellt werden.
 
@@ -41,8 +41,8 @@ Es kann ausschließlich im Jagdgebiet gejagt werden, welches sich über das Natu
 | Knochen des Alphas | 25 % |
 | Wolfspelz | 1-2 (je 50 %) |
 | Hundepfeife | 3,6% |
-| Wolfszahn | 8% bei Alpha-Wölfe |
-| [Pet] [Wolf](../pets/wolf.md) | 0,04 % | 
+| Wolfszahn | 8% bei Alpha-Wölfen |
+| [Wolfpet](../pets/wolf.md) | 0,04 % | 
 
 
 ### Verkauf von Jagditems
