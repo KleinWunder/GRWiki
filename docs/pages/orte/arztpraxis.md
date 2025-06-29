@@ -1,14 +1,16 @@
 # Arztpraxis
 
+<img align="right" width="275" height="150" src="../../../assets/image/orte/Arztpraxis.png"> 
 
-<img align="right" width="275" eight="150" src="../../../assets/image/orte/Arztpraxis.png"> 
-
-Die Arztpraxis von Dr. Fath befindet sich in Downtown. Sie ist mit **/navi Arztpraxis** zu finden. Er, Dr. Fath, kann fast alles behandeln, was der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) kann. 
+Die Arztpraxis von Dr. Fath befindet sich in Downtown und ist mit **/navi Arztpraxis** zu finden. Dr. Fath kann alles behandeln, was auch der [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) behandeln kann. 
 
 ## Verfügbarkeit 
 
-Sabrina am Empfang überprüft, ob der Arzt verfügbar ist. Dies ist er nur, wenn sich kein Mitglied des Rettungsdienstes in einem Status befindet, welches ihn als **verfügbar** kennzeichnet. Ist der Arzt verfügbar, geht man zu ihm und lässt sich von ihm behandeln. Sollte der Arzt nicht verfügbar sein, ist ein Mitglied des Rettungsdientes verfügbar. Hier erfolgt dann die Behandlung gewohnt in der Uniklinik.
+Sabrina am Empfang überprüft, ob Dr. Fath verfügbar ist. Dabei kontrolliert sie, ob ein Mitglied des Rettungsdienstes im Status **verfügbar** ist. Wenn kein Mitglied des Rettungsdienstes **verfügbar** ist oder kein Mitglied des Rettungsdienstes online ist, kann man sich von Dr. Fath behandeln lassen. 
+
+Wenn ein Mitglied des Rettungsdienstes **verfügbar** ist, wird die Behandlung wie gewohnt in der Uniklinik durchgeführt.
 
 ## Ablauf
 
-Steht man vor dem NPC "Dr. Fath" wird dieser mit Rechtsklick aktiviert. Dieser überprüft die [Krankheiten](../../pages/krankheiten/gesundheit.md) und listet nach einer kurzen Zeit alle Krankheiten im Chat auf. Nun kann die Behandlung im Chat bestätigt werden.
+Dr. Fath befindet sich im "Grünen Raum", der sich ein paar Räume weiter befindet.  
+Steht man vor dem NPC "Dr. Fath", wird dieser mit Rechtsklick aktiviert. Er überprüft die [Krankheiten](../../pages/krankheiten/gesundheit.md) und listet nach kurzer Zeit alle Krankheiten im Chat auf. Nun kann die Behandlung im Chat bestätigt werden.
