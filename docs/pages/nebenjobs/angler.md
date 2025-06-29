@@ -11,6 +11,7 @@ Auf der Karte verteilt gibt es mehrere Anglerteiche mit einem NPC Walter/Waltrau
 | Campingplatz | [Reichenviertel](../../pages/gebiete/reichenviertel.md) | **/navi Campingplatz** |
 | JVA | [Justizvollzugsanstalt](../../pages/orte/jva.md)| **/navi JVA** |
 | Altstadt Kirche | [Altstadt](../../pages/gebiete/altstadt.md) | **/navi Altstadt-Angler** |
+| Asiaviertel | [Asiaviertel](../../pages/gebiete/asiaviertel.md) | **/navi -509 74 824** |
 
 ## Ablauf
 Die Arbeit beim Angeln funktioniert mit den folgenden Punkten:
