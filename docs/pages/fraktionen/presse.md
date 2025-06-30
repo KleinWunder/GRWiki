@@ -20,6 +20,6 @@ Die Presseagentur verfügt über kein Equipment.
 
 ## Lage der Presseagentur
 
-<img align="right" width="290" height="290" src="../../../assets/image/fraktionen/presseagenturHQ.png">
+<img align="right" width="290" height="290" src="../../../assets/image/fraktionen/PresseagenturHQ.png">
 
 Zur Presseagentur gelangt man, indem man den Bus zum Altersheim nimmt. In der Nähe befindet sich die [Zentralbank](../../pages/orte/banken.md)
