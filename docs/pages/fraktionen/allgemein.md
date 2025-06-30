@@ -5,16 +5,20 @@
 
 Auf GermanRP gibt es aktuell 7 aktive Fraktionen, welche sich zwischen Staat, Crime und Neutral unterteilen. Die Staatsfraktionen, [Polizei](polizei.md) und [Rettungsdienst](rettungsdienst.md), versuchen kriminelle Handlungen zu verhindern oder den Menschen in der Stadt zu helfen.
 Crimefraktionen hingegen sind der Polizei und Öffentlichkeit feindselig eingestellt. Sie unterscheiden sich in ihrer Herkunft und im Konzept. 
-Auf dem Server gibt es aktuell drei Mafias und ein Kartell.
+Auf dem Server gibt es aktuell eine Mafia, ein Kartell und eine Gang.
 Jede Fraktion besitzt ein Hauptquartier (HQ) auf der Karte mit einem zugehörigen und der Herkunft passenden Viertel. Die Staatsfraktionen haben auf der Karte verteilt mehrere Standorte, welche jeweils unterschiedliche Funktionen haben.
-
-## Neutrale Fraktionen
-
-
 
 !!! info "Fraktions HQs"
     Nur weil man weiß, dass das Gebäude der Camorra gehört, ohne dies im Roleplay erfahren zu haben, heißt dies nicht, dass man dies im Roleplay werten darf. 
-    Dies gilt für alle Hauptquartiere der anderen Crimefraktionen.
+    Dies gilt für alle Hauptquartiere der Crimefraktionen.
+
+## Neutrale Fraktionen
+
+Sie sind neutrale Fraktionen, die Dienstleistungen für alle in Vance City anbieten. Sie pflegen zu allen Fraktionen ein neutrales Verhältnis und gehen Kooperationen in Form von Verträgen ein.  
+Auf dem Server gibt es insgesamt 2 neutrale Fraktionen mit verschiedenen Leistungen:
+
+* Die Presseagentur ([Presse](presse.md))
+* Das Vance City Investment ([VCI](vci.md))
 
 ## Mafia
 
@@ -23,6 +27,7 @@ Auf dem Server gibt es insgesamt 2 Mafias unterschiedlicher Herkünfte und Konze
 
 * Die italienische Mafia ([Camorra](camorra.md))
 * Die britische Mafia ([The Establishment](establishment.md)) | Deaktiviert
+* Die japanische Mafia ([Yakuza](yakuza.md)) | Deaktiviert
 
 ## Kartell
 

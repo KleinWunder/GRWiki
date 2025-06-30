@@ -1,11 +1,11 @@
 # Möbelhaus
 
- <img align="center" width="340" height="340" src="../../../assets/image/orte/Mobelhaus.png"><br>
+<img align="center" width="340" height="340" src="../../../assets/image/orte/Mobelhaus.png"><br>
 
-Das Möbelhaus ist da, um Verbesserungen für sein Haus zu kaufen.
+Das Möbelhaus dient dazu, Verbesserungen für das eigene Haus zu kaufen.
 
 ## Hausverbesserungen
-Es ist möglich, verschiedene Upgrades an seinem Haus vorzunehmen.
+Es ist möglich, verschiedene Upgrades am eigenen Haus vorzunehmen.
 
 | Verbesserung | Kosten |
 |:-:|:-:|
@@ -13,4 +13,4 @@ Es ist möglich, verschiedene Upgrades an seinem Haus vorzunehmen.
 | Waffenschrank | 2.800,00€ |
 | Mieterslots | Grundpreis und Mieter abhängig |
 | Hauslager | 4.500,00€ |
-| Hauslager upgraden | Varriiert mit steigender Kapazität |
+| Hauslager upgraden | Variiert mit steigender Kapazität |
