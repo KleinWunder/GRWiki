@@ -1,5 +1,7 @@
+## Blitzer
+
 Die Blitzer sind in ganz Vance City verteilt um Geschwindigkeitsüberschreitungen zu erfassen. <img align="right" width="150" eight="100" src="../../../assets/image/Öpnv/Straßenmaterial/Blitzer.png">
-Das errechnete Bußgeld hägnt von der Geschwindigkeit ab, welche überschritten worden ist.
+Das errechnete Bußgeld hängt von der Geschwindigkeit ab, welche überschritten worden ist.
 
 ### Mobile Blitzer <img align="right" width="130" eight="185" src="../../../assets/image/Öpnv/Straßenmaterial/Mobiler-Blitzer.png">
 
