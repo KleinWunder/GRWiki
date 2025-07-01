@@ -1,24 +1,23 @@
 ## Blitzer
 
-Die Blitzer sind in ganz Vance City verteilt um Geschwindigkeitsüberschreitungen zu erfassen. <img align="right" width="150" eight="100" src="../../../assets/image/Öpnv/Straßenmaterial/Blitzer.png">
-Das errechnete Bußgeld hängt von der Geschwindigkeit ab, welche überschritten worden ist.
+Die Blitzer sind in ganz Vance City verteilt, um Geschwindigkeitsüberschreitungen zu erfassen. <img align="right" width="150" height="100" src="../../../assets/image/Öpnv/Straßenmaterial/Blitzer.png">
+Das errechnete Bußgeld hängt von der Geschwindigkeit ab, die überschritten wurde.
 
-### Mobile Blitzer <img align="right" width="130" eight="185" src="../../../assets/image/Öpnv/Straßenmaterial/Mobiler-Blitzer.png">
+### Mobile Blitzer <img align="right" width="130" height="185" src="../../../assets/image/Öpnv/Straßenmaterial/Mobiler-Blitzer.png">
 
-Die Polizei verfügt über Mobile Blitzer, welche sie überall in Vance City aufstellen können. Erkennbar sind sie an den kleinen Blitzern und dem Van, der dabei steht.
+Die Polizei verfügt über mobile Blitzer, die sie überall in Vance City aufstellen kann. Erkennbar sind sie an den kleinen Blitzern und dem Van, der dabei steht.
 
 ### Radarpistolen
 
-Ebenfalls besitzt der Staat Radarpistolen, <img align="right" width="200" eight="100" src="../../../assets/image/Öpnv/Straßenmaterial/Radarpistole.png">
-welche das gleiche Ziel wie Blitzer verfolgen. Radarpistolen sind wie mobile Blitzer, welche der Staat in der Hand hält um Fahrzeuge zu blitzen, welche zu schnell sind.
+Ebenfalls besitzt der Staat Radarpistolen, die das gleiche Ziel wie Blitzer verfolgen. Radarpistolen sind wie mobile Blitzer, die der Staat in der Hand hält, um Fahrzeuge zu blitzen, die zu schnell sind. <img align="right" width="200" height="100" src="../../../assets/image/Öpnv/Straßenmaterial/Radarpistole.png">
 
 ## Blitzer Bußgeld
 
-| Geschwindigkeitsüberschreitung | Bussgeld | [Fahndungspunkte](../../pages/allgemein/fahndungspunkte.md) |
+| Geschwindigkeitsüberschreitung | Bußgeld | [Fahndungspunkte](../../pages/allgemein/fahndungspunkte.md) |
 |:-:|:-:|:-:|
 | 3-10 km/h | 25€ | Nein |
 | 11-15 km/h | 50€ | Nein |  
 | 16-20 km/h | 75€ | Nein |
 | >21 km/h | 100€ | Ja |
 
-Wird man ohne Führerschein geblitzt, so bekommt man Fahndungspunkte für **Fahren ohne Führerschein**.
+Wird man ohne Führerschein geblitzt, erhält man Fahndungspunkte für **Fahren ohne Führerschein**.
