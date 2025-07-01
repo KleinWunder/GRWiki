@@ -5,7 +5,7 @@
       
 
       
-Das VanceCity Investment dient als zentrales Unternehmen für die Spieler, welche Interesse haben aus ihrer kleinen Idee eine Art Mini-Fraktion (Depatment) zu erschaffen. Durch gezielte Hilfestellung und Beratung unserer VC Invest kann fast jede Idee umgesetzt werden,
+Das VanceCity Investment dient als zentrales Unternehmen für die Spieler, welche Interesse haben aus ihrer kleinen Idee eine Art Mini-Fraktion (Department) zu erschaffen. Durch gezielte Hilfestellung und Beratung unserer VC Invest kann fast jede Idee umgesetzt werden.
 
 ## Aufgaben
 
