@@ -8,7 +8,7 @@ Der Bus ist einer der Verkehrsmittel, welches einen schnell von A nach B bringen
 Die Busse befinden sich meist an wichtigen Punkten auf der Map (z.B. am Krankenhaus, in der Nähe des Rathauses usw.). Mit **/navi** → Orte in der Nähe sieht man die Bushaltestelle, zu der die geringste Entfernung besteht.
 
 ## Preis und Aussehen
-Der Preis von einer Busfahrt variiert zwischen 2.75€, 4.50€ und 6.75€. Die Kosten werden durch die Distanz zwischen den Bushaltestellen bestimmt.
+Der Preis von einer Busfahrt variiert zwischen 2.75€ - 6.75€. Die Kosten werden durch die Distanz zwischen den Bushaltestellen bestimmt.
 Der Bus hat eine weiß-hellblaue Lackierung. Er steht meistens in einer Haltebucht, wo nebendran ein Haltestellenschild zu sehen ist.
 
 ## Haltestellen
