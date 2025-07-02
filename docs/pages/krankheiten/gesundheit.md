@@ -1,7 +1,5 @@
 # Allgemeine Gesundheit
 
-!!! info "Seiteninfo"
-    Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
 
 Der Gesundheitszustand des Charakters ist ausschlaggebend für Effekte, die bei einer Mangelerscheinung spürbar werden.<br> Es wird in 6 verschiedene Vitalparameter unterschieden:
 
@@ -48,7 +46,4 @@ Die Sättigung, oder auch umgangssprachlich der Hungerbalken, zeigt, wie hoch da
 ## Blut
 
 Blut gibt an wie viel Blut man in seinem Charakter hat. Dabei wird der ml weniger wenn man Blut verliert. Dieses Blut kriegst du durch Bluttransfusion bei einem Mediziner. 
-
-## Zucker
-
-Bei einem niedrigerem 
+ 
