@@ -132,6 +132,7 @@ nav:
   - Waffenläden: pages/biz/waffenladen.md
 - Fahrzeuge:
   - Allgemein: pages/fahrzeuge/allgemein.md
+  - Helikopter: pages/fahrzeuge/helikopter.md
   - Kofferraum: pages/fahrzeuge/kofferaum.md
   - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
   - Blitzer: pages/fahrzeuge/blitzer.md
@@ -155,10 +156,12 @@ nav:
 - Häuser:
   - Allgemein: pages/houses/allgemein.md
   - Hausaddons: pages/houses/hausaddons.md
+  - Grundstücksystem: pages/houses/gssystem.md
 - Orte:
   - Arbeitsargentur: pages/orte/arbeitsagentur.md
   - Psychiatrie: pages/orte/psychiatrie.md
   - Handelshaus: pages/gebäude/handelshaus.md
+  - Fabriken: pages/orte/fabriken.md
   - Schwarzmarkt: pages/orte/schwarzmarkt.md
   - Rathaus: pages/orte/rathaus.md
   - Arztpraxis: pages/orte/arztpraxis.md
