@@ -72,6 +72,8 @@ markdown_extensions:
 # page tree
 nav:
 - Startseite: index.md
+- Neue Inhalte:
+  - Grundstücksystem: pages/new-content/gssystem.md
 - Teams:
   - Serverteam: pages/other/serverteam.md
   - Sonderteams: pages/other/sonderteams.md

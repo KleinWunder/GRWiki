@@ -1,14 +1,11 @@
 # Grundstücksystem
 
-!!! info "Seiteninfo"
-    Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
-
 Das Grundstücksystem bietet die Option, ganze Grundstücke zu kaufen, auf denen man selbst bauen kann. Aktuell ist dies nur in der Oststadt möglich (Stand Juli 2025).
-Die Baublöcke können bei den verschiedenen Jobs abgebaut werden.
+Die Baublöcke können bei den verschiedenen Jobs abgebaut oder im Großhandel gekauft werden.
 
 ## Baublöcke erhalten
 
-Die Baublöcke erhält man bei verschiedenen Jobs wie [Bergbau](../../pages/nebenjobs/bergbau.md), [Sägewerk](../../pages/nebenjobs/sägewerk.md) und [Jäger](../../pages/nebenjobs/jagd.md).
+Die Baublöcke erhält man bei verschiedenen Jobs wie [Bergbau](../../pages/nebenjobs/bergbau.md), [Sägewerk](../../pages/nebenjobs/sägewerk.md) und [Jäger](../../pages/nebenjobs/jagd.md), sowie im Großhandel in Auheim (**/navi Grosshandel**).
 Steinblöcke können im Steinbruch abgebaut und später beim Steinmetz in der Oststadt zu verschiedenen Baublöcken aus Stein verarbeitet werden.
 
 <br>
