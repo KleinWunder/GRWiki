@@ -66,7 +66,7 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 
 ### Folgende Fahrzeuge sind für die [Polizei](../../pages/fraktionen/polizei.md) erhältlich.
 
-| Modell | Max. Geschwindigkeit | Schadenstoleranz | Tankkapazität| Sitze | Kofferraum | Steuern | Preis |
+| Modell |  Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Ziviltransporter | 100 km/h | 175 | 30L  | 8 | Nein | - | 6.500€ |
 | Polizeitransporter | 100 km/h | 125 | 30L | 8 | Ja | - | 5.500 |
@@ -82,7 +82,7 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 
 ### Folgende Fahrzeuge sind für den [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhältlich.
 
-| Modell | Max. Geschwindigkeit | Schadenstoleranz | Tankkapazität| Sitze | Kofferraum | Steuern | Preis |
+| Modell | Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | KTW | 100 km/h | 125 | 30L | 4 | Ja| - | 5.500€ |
 | RTW | 100 km/h | 100 | 25L  | 4 | Ja | - | 4.650€ |
@@ -95,7 +95,7 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 
 ### Folgende Fahrzeuge sind nur für Fraktionen erhältlich.
 
-| Modell | Max. Geschwindigkeit | Schadenstoleranz | Tankkapazität| Sitze | Kofferraum | Steuern | Preis |
+| Modell |  Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Rolls Royce | 120 km/h | 115 | 30L | 4 | Nein | 180€ | 160.000€ |
 | Viper STR | 140 km/h | 115 | 25L | 2 | Nein | 80€ | 112.000€ |
