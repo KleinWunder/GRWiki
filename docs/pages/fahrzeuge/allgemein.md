@@ -30,7 +30,8 @@ Die Fahrzeuge unterscheiden sich in folgenden Werten:
 
 ## Arten
 
-Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. der Substanzen auf der Seite "[Kofferraum](kofferraum.md)" zu finden. Wir möchten euch damit eine einfachere Übersicht über alle Fahrzeuge geben. Ob ein Fahrzeug einen Kofferraum hat und/oder Substanzen eingelagert werden können, wird in der Tabelle mit "Ja" angegeben.
+Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. der Substanzen auf der Seite "[Kofferraum](kofferaum.md
+)" zu finden. Wir möchten euch damit eine einfachere Übersicht über alle Fahrzeuge geben. Ob ein Fahrzeug einen Kofferraum hat und/oder Substanzen eingelagert werden können, wird in der Tabelle mit "Ja" angegeben.
 
 ### Folgende Fahrzeuge sind für Zivilisten erhältlich.
 
