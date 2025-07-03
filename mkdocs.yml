@@ -73,7 +73,7 @@ markdown_extensions:
 nav:
 - Startseite: index.md
 - Neue Inhalte:
-  - Grundstücksystem: pages/new-content/gssystem.md
+  - Grundstücksystem: pages/houses/gssystem.md
 - Teams:
   - Serverteam: pages/other/serverteam.md
   - Sonderteams: pages/other/sonderteams.md
