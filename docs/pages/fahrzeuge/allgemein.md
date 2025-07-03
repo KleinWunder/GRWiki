@@ -35,7 +35,7 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 
 ### Folgende Fahrzeuge sind für Zivilisten erhältlich.
 
-| Modell | Max. Geschwindigkeit | Schadenstoleranz | Tankkapazität| Sitze | Kofferraum | Steuern | Preis |
+| Modell | Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Alfa Romeo 159 | 100 km/h | 100 | 25L | 4 | Ja | 10€ | 3.500€ |
 | Alfa Romeo G | 120 km/h | 150 | 30L  | 4 | Ja| 35€ | 10.000€ |
