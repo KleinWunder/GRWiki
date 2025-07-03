@@ -101,3 +101,277 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 | Viper STR | 140 km/h | 115 | 25L | 2 | Nein | 80€ | 112.000€ |
 | WRX STI 2020 | 135 km/h | 100 | 25L | 4 | Nein| 80€ | 100.000€ |
 | Zentorno | 145 km/h | 150 | 35L | 2 | Nein | 200€ | 210.000€ |
+
+
+<table>
+    <tr:hover {background-color:rgb(209, 88, 66);}>
+        <td>Modell</td>
+        <td>Max. Geschwindigkeit</td>
+        <td>Schadenstoleranz</td>
+        <td>Tankkapazität</td>
+        <td>Sitze</td>
+        <td>Kofferraum</td>
+        <td>Steuern (pro Abrechnung)</td>
+        <td>Preis</td>
+    </tr>
+    <tr>
+        <td>Alfa Romeo 159</td>
+        <td>100 km/h</td>
+        <td>100</td>
+        <td>25L</td>
+        <td>4</td>
+        <td>Ja</td>
+        <td>10€</td>
+        <td>3.500€</td>
+    </tr>
+    <tr>
+        <td>Alfa Romeo G</td>
+        <td>120 km/h</td>
+        <td>150</td>
+        <td>30L</td>
+        <td>4</td>
+        <td>Ja</td>
+        <td>35€</td>
+        <td>10.000€</td>
+    </tr>
+    <tr>
+        <td>Asterion</td>
+        <td>140 km/h</td>
+        <td>100</td>
+        <td>15L</td>
+        <td>2</td>
+        <td>Nein</td>
+        <td>130€</td>
+        <td>145.000€</td>
+    </tr>
+    <tr>
+        <td>Audi A4</td>
+        <td>115 km/h</td>
+        <td>120</td>
+        <td>30L</td>
+        <td>4</td>
+        <td>Ja</td>
+        <td>20€</td>
+        <td>7.950€</td>
+    </tr>
+    <tr>
+        <td>BMW 1</td>
+        <td>110 km/h</td>
+        <td>100</td>
+        <td>25L</td>
+        <td>4</td>
+        <td>Nein</td>
+        <td>35€</td>
+        <td>35.000€</td>
+    </tr>
+    <tr>
+        <td>BMW 3er Touring</td>
+        <td>125 km/h</td>
+        <td>200</td>
+        <td>30L</td>
+        <td>4</td>
+        <td>Nein</td>
+        <td>50€</td>
+        <td>60.000€</td>
+    </tr>
+    <tr>
+        <td>BMW E92</td>
+        <td>120 km/h</td>
+        <td>200</td>
+        <td>30L</td>
+        <td>4</td>
+        <td>Nein</td>
+        <td>50€</td>
+        <td>70.000€</td>
+    </tr>
+    <tr>
+        <td>BMW M4</td>
+        <td>125 km/h</td>
+        <td>225</td>
+        <td>35L</td>
+        <td>4</td>
+        <td>Nein</td>
+        <td>50€</td>
+        <td>80.000€</td>
+    </tr>
+    <tr>
+        <td>BMW X3</td>
+        <td>125 km/h</td>
+        <td>200</td>
+        <td>30L</td>
+        <td>4</td>
+        <td>Ja</td>
+        <td>50€</td>
+        <td>14.500€</td>
+    </tr>
+    <tr>
+        <td>Corvette C1</td>
+        <td>135 km/h</td>
+        <td>75</td>
+        <td>20L</td>
+        <td>2</td>
+        <td>Nein</td>
+        <td>90€</td>
+        <td>120.000€</td>
+    </tr>
+    <tr>
+        <td>Dodge Challenger</td>
+        <td>135 km/h</td>
+        <td>120</td>
+        <td>25L</td>
+        <td>2</td>
+        <td>Ja</td>
+        <td>50.0€</td>
+        <td>18.500€</td>
+    </tr>
+    <tr>
+        <td>Fiat Punto</td>
+        <td>90 km/h</td>
+        <td>75</td>
+        <td>20L</td>
+        <td>4</td>
+        <td>Ja</td>
+        <td>7.5€</td>
+        <td>2.000.0€</td>
+    </tr>
+    <tr>
+        <td>Ford Raptor</td>
+        <td>120 km/h</td>
+        <td>250</td>
+        <td>35L</td>
+        <td>4</td>
+        <td>Nein</td>
+        <td>50€</td>
+        <td>45.000€</td>
+    </tr>
+    <tr>
+        <td>Mercedes C-Klasse</td>
+        <td>115 km/h</td>
+        <td>100</td>
+        <td>25L</td>
+        <td>2</td>
+        <td>Ja</td>
+        <td>40.0€</td>
+        <td>5.250€</td>
+    </tr>
+    <tr>
+        <td>Mercedes G-Klasse</td>
+        <td>140 km/h</td>
+        <td>175</td>
+        <td>25L</td>
+        <td>4</td>
+        <td>Ja</td>
+        <td>75.0€</td>
+        <td>20.000€</td>
+    </tr>
+    <tr>
+        <td>Motorrad</td>
+        <td>135 km/h</td>
+        <td>60</td>
+        <td>15L</td>
+        <td>1</td>
+        <td>Nein</td>
+        <td>45€</td>
+        <td>11.000€</td>
+    </tr>
+    <tr>
+        <td>Nissan Skyline R34</td>
+        <td>135 km/h</td>
+        <td>100</td>
+        <td>25L</td>
+        <td>2</td>
+        <td>Ja</td>
+        <td>50€</td>
+        <td>18.000€</td>
+    </tr>
+    <tr>
+        <td>Nissan Skyline R34 Cabrio</td>
+        <td>135 km/h</td>
+        <td>100</td>
+        <td>25L</td>
+        <td>2</td>
+        <td>Ja</td>
+        <td>50€</td>
+        <td>18.000€</td>
+    </tr>
+    <tr>
+        <td>Opel Astra</td>
+        <td>90 km/h</td>
+        <td>80</td>
+        <td>20L</td>
+        <td>4</td>
+        <td>Nein</td>
+        <td>10€</td>
+        <td>2.500€</td>
+    </tr>
+    <tr>
+        <td>Pickup</td>
+        <td>115.0 km/h</td>
+        <td>125</td>
+        <td>30L</td>
+        <td>2</td>
+        <td>Ja</td>
+        <td>35€</td>
+        <td>7.500€</td>
+    </tr>
+    <tr>
+        <td>Roller</td>
+        <td>50 km/h</td>
+        <td>50</td>
+        <td>15L</td>
+        <td>2</td>
+        <td>Ja</td>
+        <td>5€</td>
+        <td>1.500€</td>
+    </tr>
+    <tr>
+        <td>Smart</td>
+        <td>80 km/h</td>
+        <td>80</td>
+        <td>15L</td>
+        <td>2</td>
+        <td>Nein</td>
+        <td>10€</td>
+        <td>2.250€</td>
+    </tr>
+    <tr>
+        <td>Subaru Impreza</td>
+        <td>135 km/h</td>
+        <td>120</td>
+        <td>25L</td>
+        <td>4</td>
+        <td>Nein</td>
+        <td>80€</td>
+        <td>116.000€</td>
+    </tr>
+    <tr>
+        <td>Supersport</td>
+        <td>145 km/h</td>
+        <td>120</td>
+        <td>20L</td>
+        <td>2</td>
+        <td>Nein</td>
+        <td>150€</td>
+        <td>18.500€</td>
+    </tr>
+    <tr>
+        <td>VW T6</td>
+        <td>100 km/h</td>
+        <td>125</td>
+        <td>30L</td>
+        <td>8</td>
+        <td>Ja</td>
+        <td>20€</td>
+        <td>5.500€</td>
+    </tr>
+    <tr>
+        <td>ZUK Camper</td>
+        <td>70 km/h</td>
+        <td>100</td>
+        <td>30L</td>
+        <td>6</td>
+        <td>Nein</td>
+        <td>25€</td>
+        <td>15.000€</td>
+    </tr>
+</table>
