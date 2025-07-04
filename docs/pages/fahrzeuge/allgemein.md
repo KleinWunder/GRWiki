@@ -1,21 +1,21 @@
 ## Fahrzeuge
 
-Ein Fahrzeug ermöglicht es einem, ohne das lästige Busfahren schneller von A nach B zu gelangen. Regelmäßiges Tanken an den [Tankstellen](../../pages/biz/tankstelle.md) sollte hierbei auch berücksichtigt werden. Die Steuern werden immer pro [Abrechnung](../../pages/allgemein/payday.md) abgerechnet.
+Ein Fahrzeug ermöglicht es, ohne das lästige Busfahren schneller von A nach B zu gelangen. Regelmäßiges Tanken an den [Tankstellen](../../pages/biz/tankstelle.md) sollte hierbei ebenfalls berücksichtigt werden. Die Steuern werden immer pro [Abrechnung](../../pages/allgemein/payday.md) berechnet.
 
-Im Fahrzeug kann die Fahrzeugsteuerung mit der Offhand-Taste (standardmäßig ++f++) aufgerufen werden. Ist der Motor aus, so ist dies die einzige Option, den Motor zu starten. 
+Im Fahrzeug kann die Fahrzeugsteuerung mit der Offhand-Taste (standardmäßig ++f++) aufgerufen werden. Ist der Motor aus, ist dies die einzige Möglichkeit, den Motor zu starten. 
 Bei eingeschaltetem Motor ist die Fahrzeugsteuerung sichtbar.
-In der Fahrzeugsteuerung stehen einige Funktionen zur Verfügung, wie Fahrzeuginformationen einsehen, Tempomat einstellen, Fraktionstore öffnen, Warnblinker aktivieren, erweiterte Fahrzeugsteuerung öffnen, Gang wechseln und bei einem Dienstwagen das Sondersignal einschalten. Der Warnblinker wird mit einem Mittelklick auf das Fahrzeug **in** der Fahrzeugsteuerung aktiviert. Während der Fahrt können die jeweiligen Blinker mit Links- oder Rechtsklick aktiviert werden. Mit Rechtsklick kann die erweiterte Fahrzeugsteuerung aufgerufen werden. Hier ist es möglich, die Tankanzeige anzupassen, festzulegen, wer in das Fahrzeug einsteigen kann, und den erweiterten Tempomat zu aktivieren. Mit einem Druck auf die Sprungtaste (standardmäßig die ++spc++-Taste) ertönt die Hupe. 
+In der Fahrzeugsteuerung stehen einige Funktionen zur Verfügung, wie Fahrzeuginformationen einsehen, Tempomat einstellen, Fraktionstore öffnen, Warnblinker aktivieren, erweiterte Fahrzeugsteuerung öffnen, Gang wechseln und bei einem Dienstwagen das Sondersignal einschalten. Der Warnblinker wird mit einem Mittelklick auf das Fahrzeug in der Fahrzeugsteuerung aktiviert. Während der Fahrt können die jeweiligen Blinker mit Links- oder Rechtsklick aktiviert werden. Mit Rechtsklick kann die erweiterte Fahrzeugsteuerung aufgerufen werden. Hier ist es möglich, die Tankanzeige anzupassen, festzulegen, wer in das Fahrzeug einsteigen kann und den erweiterten Tempomat zu aktivieren. Durch Drücken der Sprungtaste (standardmäßig die ++spc++-Taste) ertönt die Hupe. 
 Die Fahrzeuge besitzen einen Kofferraum (**/kofferraum**), dessen Größe je nach Fahrzeugtyp variiert. 
 In der [KFZ-Werkstatt](kfz-werkstatt.md) können Autos repariert, lackiert und modifiziert werden.
 
 ## Autounfälle
 Bei einem Autounfall erleidet jeder, der im Auto mitfährt, Schaden und hat die Chance, eine Verletzung zu erleiden, wie eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md) oder Nasenbluten. Wenn das Auto beschädigt wird, muss es entweder von Mechanikern (**/mechaniker**) repariert werden, die du mit ++shift+rbutton++ rufen kannst, oder du fährst in eine [KFZ-Werkstatt](../fahrzeuge/kfz-werkstatt.md) und lässt es dort reparieren.
 
-!!! tip Mechaniker ist günstiger
+!!! tip "Mechaniker ist günstiger"
     Es lohnt sich eher, einen Mechaniker zu rufen, da dies günstiger ist, als die Reparatur in der KFZ-Werkstatt durchführen zu lassen.
 
 ## Erwerben von Fahrzeugen
-Fahrzeuge können beim Fahrzeughändler (**/navi Fahrzeughändler**) oder beim Luxusfahrzeughändler (**/navi Luxusfahrzeughändler**) erworben werden.
+Fahrzeuge können beim Fahrzeughändler (**/navi Fahrzeughändler**) oder beim Luxusfahrzeughändler (**/navi Luxusfahrzeughändler**) erworben werden. Die Fahrzeuge unterliegen einer Levelbeschränkung.
 
 Die Fahrzeuge unterscheiden sich in folgenden Werten:
 
@@ -33,71 +33,85 @@ Die Fahrzeuge unterscheiden sich in folgenden Werten:
 Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. der Substanzen auf der Seite "[Kofferraum](kofferaum.md
 )" zu finden. Wir möchten euch damit eine einfachere Übersicht über alle Fahrzeuge geben. Ob ein Fahrzeug einen Kofferraum hat und/oder Substanzen eingelagert werden können, wird in der Tabelle mit "Ja" angegeben.
 
-### Folgende Fahrzeuge sind für Zivilisten erhältlich.
 
-| Modell | Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Alfa Romeo 159 | 100 km/h | 100 | 25L | 4 | Ja | 10€ | 3.500€ |
-| Alfa Romeo G | 120 km/h | 150 | 30L  | 4 | Ja| 35€ | 10.000€ |
-| Asterion | 140 km/h | 100 | 15L | 2 | Nein | 130€ | 145.000€ |
-| Audi A4 | 115 km/h | 120 | 30L  | 4 | Ja | 20€ | 7.950€ |
-| BMW 1 | 110 km/h | 100 | 25L | 4 | Nein | 35€ | 35.000€ |
-| BMW 3er Touring | 125 km/h | 200 | 30L | 4 | Nein | 50€ | 60.000€ |
-| BMW E92 | 120 km/h | 200 | 30L | 4 | Nein | 50€ | 70.000€ |
-| BMW M4 | 125 km/h | 225 | 35L | 4 | Nein | 50€ | 80.000€ |
-| BMW X3 | 125 km/h | 200 | 30L  | 4 | Ja | 50€ | 14.500€ |
-| Corvette C1 | 135 km/h | 75 | 20L | 2 | Nein | 90€ | 120.000€ |
-| Dodge Challenger | 135 km/h | 120 | 25L | 2 | Ja | 50.0€ | 18.500€ |
-| Fiat Punto | 90 km/h | 75 | 20L | 4 | Ja | 7.5€ | 2.000.0€ |
-| Ford Raptor | 120 km/h | 250 | 35L | 4 | Nein | 50€ | 45.000€ |
-| Mercedes C-Klasse | 115 km/h | 100 | 25L | 2 | Ja | 40.0€ | 5.250€ |
-| Mercedes G-Klasse | 140 km/h | 175 | 25L  | 4 | Ja | 75.0€ | 20.000€ |
-| Motorrad | 135 km/h | 60 | 15L | 1 | Nein | 45€ | 11.000€ |
-| Nissan Skyline R34 | 135 km/h | 100 | 25L  | 2 | Ja | 50€ | 18.000€ |
-| Nissan Skyline R34 Cabrio | 135 km/h | 100 | 25L  | 2 | Ja | 50€ | 18.000€ |
-| Opel Astra | 90 km/h | 80 | 20L | 4 | Nein | 10€ | 2.500€ |
-| Pickup | 115.0 km/h | 125 | 30L | 2 | Ja | 35€ | 7.500€ |
-| Roller | 50 km/h | 50 | 15L | 2 | Ja | 5€ | 1.500€ |
-| Smart |  80 km/h | 80 | 15L | 2 | Nein | 10€ | 2.250€ |
-| Subaru Impreza | 135 km/h | 120 | 25L | 4 | Nein | 80€ | 116.000€ |
-| Supersport | 145 km/h | 120 | 20L | 2 | Nein| 150€ | 18.500€ |
-| VW T6 | 100 km/h | 125 | 30L | 8 | Ja | 20€ | 5.500€ |
-| ZUK Camper | 70 km/h | 100 | 30L | 6 | Nein | 25€ | 15.000€ |
+### Anfängerfahrzeuge
+| Modell | Preis | Max. km/h | Sitze | Kofferraum | Steuern | Tank-<br>kapazität | Schadens-<br>toleranz |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alfa Romeo 159 | 3.500€ | 100 km/h | 4 | Ja | 10€ | 25L | 100 |
+| Fiat Punto | 2.000€ | 90 km/h | 4 | Ja | 7,50€ | 20L | 75 |
+| Opel Astra | 2.500€ | 90 km/h | 4 | Nein | 10€ | 20L | 80 |
+| Roller | 1.500€ | 50 km/h | 2 | Ja | 5€ | 15L | 50 |
+| Smart | 2.250€ | 80 km/h | 2 | Nein | 10€ | 15L | 80 |
 
-### Folgende Fahrzeuge sind für die [Polizei](../../pages/fraktionen/polizei.md) erhältlich.
+### Alltagsfahrzeuge
+| Modell | Preis | Max. km/h | Sitze | Kofferraum | Steuern | Tank-<br>kapazität | Schadens-<br>toleranz |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Audi A4 | 7.950€ | 115 km/h | 4 | Ja | 20€ | 30L | 120 |
+| BMW 1 | 35.000€ | 110 km/h | 4 | Nein | 35€ | 25L | 100 |
+| Mercedes C-Klasse | 5.250€ | 115 km/h | 2 | Ja | 40.0€ | 25L | 100 |
+| Pickup | 7.500€ | 115.0 km/h | 2 | Ja | 35€ | 30L | 125 |
+| VW T6 | 5.500€ | 100 km/h | 8 | Ja | 20€ | 30L | 125 |
+| ZUK Camper | 15.000€ | 70 km/h | 6 | Nein | 25€ | 30L | 100 |
 
-| Modell |  Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Ziviltransporter | 100 km/h | 175 | 30L  | 8 | Nein | - | 6.500€ |
-| Polizeitransporter | 100 km/h | 125 | 30L | 8 | Ja | - | 5.500 |
-| Polizei SUV | 140 km/h | 200 | 30L  | 4 | Ja | - | 14.500€ |
-| Polizeidienstwagen | 120 km/h | 100 | 25L  | 4 | Ja | - | 3.250€ |
-| Zivilstreifenwagen | 115 km/h | 120 | 30L  | 4 | Ja | - | 13.500€ |
-| Ziviltransporter | 100 km/h | 175 | 30L | 8 | Ja | - | 6.500€ |
-| Polizei Limousine | 145 km/h | 150 | 30L | 4 | Ja | - | 10.000€ |
-| Polizei Motorad | 135 km/h | 60 | 15L | 1 | Nein | - | 11.000€ |
-| Polizei Helikopter | 200 km/h | 200 | 50L  | 5 | Nein | - | 50.000€ |
-| Zolltransporter | 100 km/h | 125 | 30L | 8 | Nein| - | 5.500€ |
-| Polizei G-Klasse | 140 km/h | 175 | 25L | 1 | Ja | - | 45.000€ |
+### Mittelklassefahrzeuge
+| Modell | Preis | Max. km/h | Sitze | Kofferraum | Steuern | Tank-<br>kapazität | Schadens-<br>toleranz |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Alfa Romeo G | 10.000€ | 120 km/h | 4 | Ja | 35€ | 30L | 150 |
+| BMW 3er Touring | 60.000€ | 125 km/h | 4 | Nein | 50€ | 30L | 200 |
+| BMW E92 | 70.000€ | 120 km/h | 4 | Nein | 50€ | 30L | 200 |
+| BMW M4 | 80.000€ | 125 km/h | 4 | Nein | 50€ | 35L | 225 |
+| BMW X3 | 14.500€ | 125 km/h | 4 | Ja | 50€ | 30L | 200 |
+| Ford Raptor | 45.000€ | 120 km/h | 4 | Nein | 50€ | 35L | 250 |
+| Motorrad | 11.000€ | 135 km/h | 1 | Nein | 45€ | 15L | 60 |
 
-### Folgende Fahrzeuge sind für den [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhältlich.
+### Sportwagen
+| Modell | Preis | Max. km/h | Sitze | Kofferraum | Steuern | Tank-<br>kapazität | Schadens-<br>toleranz |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Corvette C1 | 120.000€ | 135 km/h | 2 | Nein | 90€ | 20L | 75 |
+| Dodge Challenger | 85.000€ | 135 km/h | 2 | Ja | 50.0€ | 25L | 120 |
+| Mercedes G-Klasse | 90.000€ | 140 km/h | 4 | Ja | 75.0€ | 25L | 175 |
+| Nissan Skyline R34 | 95.000€ | 135 km/h | 2 | Ja | 50€ | 25L | 100 |
+| Nissan Skyline R34 Cabrio | 95.500€ | 135 km/h | 2 | Ja | 50€ | 25L | 100 |
+| Subaru Impreza | 116.000€ | 135 km/h | 4 | Nein | 80€ | 25L | 120 |
+| Viper STR | 112.000€ | 140 km/h | 2 | Nein | 80€ | 25L | 115 |
+| WRX STI 2020 | 100.000€ | 135 km/h | 4 | Nein | 80€ | 25L | 100 |
 
-| Modell | Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| KTW | 100 km/h | 125 | 30L | 4 | Ja| - | 5.500€ |
-| RTW | 100 km/h | 100 | 25L  | 4 | Ja | - | 4.650€ |
-| NEF | 130 km/h | 100 | 25L  | 4 | Ja | - | 12.500€ |
-| MAN HLF | 120 km/h | 300 | 40L  | 2 | Ja | - | 10.000€ |
-| Feuerwehr SUV | 140 km/h | 200 | 30L  | 4 | Ja | - | 14.500€ |
-| Rettungsdienst Limousine | 145 km/h | 150 | 30L  | 4 | Ja | - | 10.000€ |
-| Rettungsdienst Motorad | 135 km/h | 60 | 15L  | 1 | Nein | - | 11.000€ |
-| Rettungshelikopter | 200 km/h | 200 | 50L  | 5 | Nein | - | 50.000€ |
+### Supersportwagen (nur Fraktionen)
+| Modell | Preis | Max. km/h | Sitze | Kofferraum | Steuern | Tank-<br>kapazität | Schadens-<br>toleranz |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Asterion | 145.000€ | 140 km/h | 2 | Nein | 130€ | 15L | 100 |
+| Rolls Royce | 160.000€ | 120 km/h | 4 | Nein | 180€ | 30L | 115 |
+| Supersport | 185.000€ | 145 km/h | 2 | Nein | 150€ | 20L | 120 |
+| Zentorno | 210.000€ | 145 km/h | 2 | Nein | 200€ | 35L | 150 |
 
-### Folgende Fahrzeuge sind nur für Fraktionen erhältlich.
 
-| Modell |  Max. km/h | Schadens-<br> toleranz | Tank-<br> kapazität| Sitze | Kofferraum | Steuern | Preis |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Rolls Royce | 120 km/h | 115 | 30L | 4 | Nein | 180€ | 160.000€ |
-| Viper STR | 140 km/h | 115 | 25L | 2 | Nein | 80€ | 112.000€ |
-| WRX STI 2020 | 135 km/h | 100 | 25L | 4 | Nein| 80€ | 100.000€ |
-| Zentorno | 145 km/h | 150 | 35L | 2 | Nein | 200€ | 210.000€ |
+### Fahrzeuge der [Polizei](../../pages/fraktionen/polizei.md)
+
+| Modell | Preis | Max. km/h | Sitze | Kofferraum | Tank-<br>kapazität | Schadens-<br>toleranz |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Polizeitransporter | 15.000 | 135 km/h | 6 | Ja | 30L | 125 |
+| Polizei SUV | 55.000€ | 140 km/h | 4 | Ja | 30L | 200 |
+| Polizeidienstwagen | 18.500€ | 140 km/h | 4 | Ja | 25L | 100 |
+| Zivilstreifenwagen A4 | 25.000€ | 135 km/h | 4 | Ja | 30L | 120 |
+| Zivilstreifenwagen | 80.000€ | 135 km/h | 2 | Ja | 25L | 120 |
+| Ziviltransporter | 15.000€ | 135 km/h | 6 | Ja | 30L | 175 |
+| Polizei Limousine | 35.000€ | 145 km/h | 4 | Ja | 30L | 150 |
+| Polizei Motorad | 45.000€ | 135 km/h | 1 | Nein | 15L | 60 |
+| Polizei Helikopter | 50.000€ | 200 km/h | 5 | Nein | 50L | 200 |
+| Zolltransporter | 15.000€ | 135 km/h | 6 | Ja | 30L | 125 |
+| Polizei G-Klasse | 85.000€ | 140 km/h | 4 | Ja | 25L | 175 |
+
+
+### Fahrzeuge des [Rettungsdienstes](../../pages/fraktionen/rettungsdienst.md)
+
+| Modell | Preis | Max. km/h | Sitze | Kofferraum | Tank-<br>kapazität | Schadens-<br>toleranz |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| KTW | 15.000€ | 100 km/h | 4 | Ja | 30L | 125 |
+| RTW | 10.000€ | 100 km/h | 4 | Ja | 25L | 100 |
+| NEF | 25.000€ | 130 km/h | 4 | Ja | 25L | 100 |
+| NEF Kombi | 18.500€ | 140 km/h | 4 | Ja | 25L | 100 |
+| MAN HLF | 100.000€ | 120 km/h | 2 | Ja | 40L | 300 |
+| Feuerwehr SUV | 55.000€ | 140 km/h | 4 | Ja | 30L | 200 |
+| Rettungsdienst Limousine | 35.000€ | 145 km/h | 4 | Ja | 30L | 150 |
+| Rettungsdienst Motorad | 45.000€ | 135 km/h | 1 | Nein | 15L | 60 |
+| Rettungshelikopter | 50.000€ | 200 km/h | 5 | Nein | 50L | 200 |
