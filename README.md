@@ -1,3 +1,3 @@
 # GRWiki
 
-Hier ist das offiziele Wiki von GermanRP.eu! https://wiki.germanrp.eu
+Hier ist das offizielle Wiki von GermanRP.eu! https://wiki.germanrp.eu
