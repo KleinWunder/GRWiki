@@ -9,7 +9,7 @@ Das VanceCity Investment dient als zentrales Unternehmen für die Spieler, welch
 
 ## Aufgaben
 
-Das VanceCity Investment sorgt für Kreativität und Viellfalt in der Stadt Vance City. Dabei hat das VC Invest verschiedene Aufgabenbereiche:
+Das VanceCity Investment sorgt für Kreativität und Vielfalt in der Stadt Vance City. Dabei hat das VC Invest verschiedene Aufgabenbereiche:
 
 * Das erstellen und durchführen von Events
 * Das erstellen und verkaufen von Skins
