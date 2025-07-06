@@ -1,9 +1,9 @@
 # Bergbau-Skill 
 
-Der Bergbau-Skill hilft dir dabei verschiedene Steinarten wie Bruchstein, Stein, Diorit, Andesit und Granit im [Steinbruch](../../pages/nebenjobs/bergbau.md) zu finden und abzubauen.
+Der Bergbau-Skill hilft dir dabei, verschiedene Steinarten wie Bruchstein, Stein, Diorit, Andesit und Granit im [Steinbruch](../../pages/nebenjobs/bergbau.md) zu finden und abzubauen.
 
 ## Erhalten der Skill-XP 
-Den Bergbau-Skill kann durch folgende Aktivitäten gelevelt werden:
+Den Bergbau-Skill kann man durch folgende Aktivitäten leveln:
 
 * Abbauen von verschiedenen Steinen im [Steinbruch](../../pages/nebenjobs/bergbau.md)
 * Nebenjob [Erztransport](../../pages/nebenjobs/erztransport.md)
@@ -45,5 +45,5 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 ## Hilfreiche Tipps
 
 * Je höher das Bergbau-Skilllevel ist, desto bessere Fähigkeiten, Spitzhacken und Chancen können freigeschaltet werden.
-* Das Pet [Fledermaus](../../pages/pets/fledermaus.md) unterstützt dich bei der Arbeit beim Steinbruch.
-* Abgebaute Steine ändern die Art in Bedrock und regenerieren sich nach kurzer Zeit.
+* Das Pet [Fledermaus](../../pages/pets/fledermaus.md) unterstützt dich bei der Arbeit im Steinbruch.
+* Abgebaute Steine verwandeln sich in Bedrock und regenerieren sich nach kurzer Zeit.
