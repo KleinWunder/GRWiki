@@ -1,27 +1,49 @@
 # Handelshaus
 
-Das Handelshaus auf GermanRP ist der Dreh- und Angelpunkt für den Spielerhandel, ein dynamischer Marktplatz, auf dem du Gegenstände kaufen und verkaufen kannst. Es hat über die verschiedenen Spielversionen hinweg zahlreiche Verbesserungen und Neuerungen erhalten, um den Handel effizienter und fairer zu gestalten.
+Das Handelshaus ist der Dreh- und Angelpunkt für den Spielerhandel – ein dynamischer Marktplatz, auf dem du Gegenstände kaufen und verkaufen kannst. Im Gebäude können Gegenstände mit **/createangebot [Preis]** eingestellt werden, während der Gegenstand in der Hand ist. Deine Angebote bleiben aktiv, bis du sie selbst abbrichst. Sollte das Handelshaus einmal leer sein, wird dir das direkt angezeigt, anstatt eines leeren Menüs.
+Um einen Gegenstand aus dem Handelshaus zu kaufen, muss das Geld auf der Hand sein.
+Kauft ein Spieler einen Gegenstand, erhält man eine Nachricht im Chat und eine eingehende Überweisung.
 
-## Fundbüro ##
+!!! info "Fundbüro"
+    Sollte dein Inventar voll sein, landet alles im Fundbüro, welches im [Rathaus](../../pages/orte/rathaus.md) ist.
 
-Falls dein Inventar voll sein sollte, landet dein gekauftes Item ins [Fundbüro](../fundbüro.md.) Das ist eine nützliche Funktion, die verhindert, dass deine Gegenstände durch ein volles Inventar gelöscht werden.
+## Befehle
 
-# So funktioniert der Handel
+<table>
+    <tr>
+        <th>Befehl</th>
+        <td>/handelshaus</td>
+    </tr>
+    <tr>
+        <th>Alle Angebote</th>
+        <td>Angebote aller Spieler</td>
+    </tr>
+    <tr>
+        <th>Items direkt verkaufen</th>
+        <td>Items verkaufen, bei offenen Kaufverträgen</td>
+    </tr>
+    <tr>
+        <th>Kaufvertrag erstellen</th>
+        <td>Automatischen Kauf erstellen</td>
+    </tr>
+    <tr>
+        <th>Deine Angebote</th>
+        <td>Alle eigenen Angebote einsehen</td>
+    </tr>
+    <tr>
+        <th>/createangebot [Preis]</th>
+        <td>Item in der Hand verkaufen</td>
+    </tr>
+</table>
 
-Um einen Gegenstand im Handelshaus anzubieten, halte ihn einfach in der Hand und nutze den Befehl /createangebot [preis]. Deine Angebote bleiben nun aktiv, bis du sie selbst abbrichst, was dir die ständige Neueinstellung erspart.  
+## Funktionen VIP+
 
-## Überweisung ##
-Wenn ein Spieler dein Item kauft, erscheint im Chat: "Eingehende Überweisung (Handeslhaus (Erfolgreicher Verkauf) >> 1,00€ ) auf DE472006" und somit erhälst du den Verkaufspreis. 
+Mit einem [VIP+](../../pages/allgemein/vip.md) ist es möglich, von überall auf der Map den Befehl **/createangebot [Preis]** zu nutzen sowie das Handelshaus nach Angeboten zu durchsuchen.
 
-!!! info VIP+
+## Direktkaufsystem
 
-[VIP+](../VIP+.md.) ist ein Rang, der mit [Bonuspunkten](../../pages/allgemein/bonuspunkte.md), als Geschenk von einem anderen Spieler oder mit Echtgeld erworben werden kann. Praktisch für VIP+ ist auch die Möglichkeit, Angebote nach Suchbegriffen zu filtern, wodurch du schneller findest, was du brauchst. Sollte das Handelshaus mal leer sein, wird dir das direkt angezeigt, anstatt eines leeren Menüs.
+Das Direktverkaufssystem gilt für ausgewählte Gegenstände. Hier kannst du Kaufaufträge erstellen, indem du einen individuellen Betrag für ein Item bietest und diesen Betrag im Voraus an das Handelshaus zahlst. Sobald ein Spieler das gesuchte Item verkauft, erhält der Höchstbietende automatisch den Gegenstand.
 
+## Handelbare Items
 
-## Direktkaufsystem ##
-
-das Direktverkauf-System für ausgewählte Gegenstände. Hier kannst du Kaufaufträge erstellen, indem du einen individuellen Betrag für ein Item bietest und diesen Betrag im Voraus an das Handelshaus zahlst. Sobald ein Spieler das gesuchte Item verkauft, erhält der Höchstbietende automatisch den Gegenstand.
-
-## Handelbare Items ## 
-
-Während [Waffen](../Waffen.md.) im Handelshaus verkauft werden können, ist es nicht mehr möglich, [Fraktionsequipment](../Fraktionsequipment.md.) anzubieten. Eine gute Nachricht gibt es für alle Tierliebhaber: Pets können ebenfalls im Handelshaus hinzugefügt und gehandelt werden!
+Grundsätzlich können alle Items in das Handelshaus eingestellt werden, bis auf einige Fraktionsequipment-Items.
