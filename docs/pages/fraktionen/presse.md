@@ -13,12 +13,7 @@ Die Presseagentur sorgt für Klarheit und Transparenz in jedem Teil der Stadt Va
 * Verfassen von Zeitungen (derzeit nicht verfügbar)
 * Erstellung von Wochenübersichten
 
-
-## Presse-Equipment
-
-Die Presseagentur verfügt über kein Equipment.
-
-## Lage der Presseagentur
+## Lage der Hauptquartiers
 
 <img align="right" width="290" height="290" src="../../../assets/image/fraktionen/PresseagenturHQ.png">
 

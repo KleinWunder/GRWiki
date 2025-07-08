@@ -1,5 +1,7 @@
 # Handelshaus
 
+<img align="right" width="340" height="340" src="../../../assets/image/orte/Handelshaus.png">
+
 Das Handelshaus ist der Dreh- und Angelpunkt für den Spielerhandel – ein dynamischer Marktplatz, auf dem du Gegenstände kaufen und verkaufen kannst. Im Gebäude können Gegenstände mit **/createangebot [Preis]** eingestellt werden, während der Gegenstand in der Hand ist. Deine Angebote bleiben aktiv, bis du sie selbst abbrichst. Sollte das Handelshaus einmal leer sein, wird dir das direkt angezeigt, anstatt eines leeren Menüs.
 Um einen Gegenstand aus dem Handelshaus zu kaufen, muss das Geld auf der Hand sein.
 Kauft ein Spieler einen Gegenstand, erhält man eine Nachricht im Chat und eine eingehende Überweisung.
