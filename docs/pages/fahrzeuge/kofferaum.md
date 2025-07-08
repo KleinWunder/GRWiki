@@ -5,13 +5,12 @@ In diesem Kofferraum können Substanzen bzw. Items gelagert werden. Der Platz we
 
 Um den Kofferraum zu öffnen muss man direkt am Auto stehen. (**/kofferraum**)
 
-# Allgemeine Fahrzeuge
+## Allgemeine Fahrzeuge
 
 | Modell | Kofferraum | Substanzen |
 |:-:|:-:|:-:|
 | Alfa Romeo 159 | 1 | 15g | 
 | Alfa Romeo G | 3 | 30g |
-| Asterion | - | - |
 | Audi A4 | 1 | 25g |
 | BMW 1 | 110 km/h | - | - |
 | BMW 3er Touring | - | - |
@@ -32,11 +31,12 @@ Um den Kofferraum zu öffnen muss man direkt am Auto stehen. (**/kofferraum**)
 | Roller | - | 5g | 
 | Smart | - | - | 
 | Subaru Impreza | - | - | 
-| Supersport | - | - | 
+| Viper STR | - | - |
 | VW T6 | 100 km/h | 5 | 100g | 
+| WRX STI 2020 | - | - |
 | ZUK Camper | - | - | 
 
-### Folgende Fahrzeuge sind für die [Polizei](../../pages/fraktionen/polizei.md) erhältlich.
+## Fahrzeuge der [Polizei](../../pages/fraktionen/polizei.md)
 
 | Modell | Kofferraum | Substanzen |
 |:-:|:-:|:-:|
@@ -52,7 +52,7 @@ Um den Kofferraum zu öffnen muss man direkt am Auto stehen. (**/kofferraum**)
 | Zolltransporter | - | - |
 | Polizei G-Klasse | 3 | 60g |
 
-### Folgende Fahrzeuge sind für den [Rettungsdienst](../../pages/fraktionen/rettungsdienst.md) erhältlich.
+## Fahrzeuge des [Rettungsdienstes](../../pages/fraktionen/rettungsdienst.md)
 
 | Modell | Kofferraum | Substanzen |
 |:-:|:-:|:-:|
@@ -65,11 +65,11 @@ Um den Kofferraum zu öffnen muss man direkt am Auto stehen. (**/kofferraum**)
 | Rettungsdienst Motorad | - | - |
 | Rettungshelikopter | - | - |
 
-### Folgende Fahrzeuge sind nur für Fraktionen erhältlich.
+## Supersportwagen (nur Fraktionen)
 
 | Modell | Kofferraum | Substanzen |
 |:-:|:-:|:-:|
+| Asterion | - | - |
 | Rolls Royce | - | - |
-| Viper STR | - | - |
-| WRX STI 2020 | - | - |
+| Supersport | - | - | 
 | Zentorno | - | - |
