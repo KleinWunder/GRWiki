@@ -57,6 +57,7 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 | Modell | Preis | Max. km/h | Sitze | Kofferraum | Steuern | Tank-<br>kapazität | Schadens-<br>toleranz |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Alfa Romeo G | 10.000€ | 120 km/h | 4 | Ja | 35€ | 30L | 150 |
+| Audi A6 | 57.000€ | 125 kmh/ | 4 | Nein | 60€ | 30L | 160 |
 | BMW 3er Touring | 60.000€ | 125 km/h | 4 | Nein | 50€ | 30L | 200 |
 | BMW E92 | 70.000€ | 120 km/h | 4 | Nein | 50€ | 30L | 200 |
 | BMW M4 | 80.000€ | 125 km/h | 4 | Nein | 50€ | 35L | 225 |
