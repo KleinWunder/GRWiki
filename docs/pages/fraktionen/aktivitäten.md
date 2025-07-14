@@ -1,9 +1,9 @@
 # Aktivitäten
 
-Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionskasse geben, aber auch zu einem Verlust von Geld führen. Die [Polizei](polizei.md) und der [Rettungsdienst](rettungsdienst.md) erhalten Aktivitäten übermäßig von den [Crimefraktionen](allgemein.md), die die Aktivitäten auslösen oder vom System.
+Jede Fraktion auf dem Server kann verschiedene Aktivitäten erhalten oder auslösen. Sie können Profit für die Fraktionskasse bringen, aber auch zu einem Verlust von Geld führen. Die [Polizei](polizei.md) und der [Rettungsdienst](rettungsdienst.md) erhalten Aktivitäten überwiegend von den [Crimefraktionen](allgemein.md), die die Aktivitäten auslösen oder vom System.
 
 ## Polizei
-Die Polizei kann folgende Aktivitäten machen:
+Die Polizei kann folgende Aktivitäten durchführen:
 
 * [Apothekeraub](apothekenraub.md) verhindern
 * [Banküberfall](banküberfall.md) verhindern
@@ -12,83 +12,95 @@ Die Polizei kann folgende Aktivitäten machen:
 * Gewerberaub verhindern
 * [Hausaktion](hausaktionen.md) durchführen
 * Illegale Pflanzen verbrennen
-* [Juwelierraub](juwelenraub.md) verhindern
-* Notrufe nachgehen
+* [Juwelenraub](juwelenraub.md) verhindern
+* Notrufe bearbeiten
 * Personen durchsuchen
 * Personen mit [Fahndungspunkten](../../pages/allgemein/fahndungspunkte.md) eliminieren
 * Radarkontrollen durchführen
 * [Razzias](hqraids.md) durchführen
 * [Substanzen Dealer](substanzendealer.md) abfangen
 * Strafzettel verteilen
-* Verbrennen von Betäubungsmittel
+* Betäubungsmittel verbrennen
 * Verhaftungen durchführen
-  
 
 ## Rettungsdienst
-Der Rettungsdienst kann folgende Aktivitäten machen:
+Der Rettungsdienst kann folgende Aktivitäten durchführen:
 
 - Bewusstlose wiederbeleben
-- Behandlung durchführen
+- Behandlungen durchführen
     - [Attest](../../pages/krankheiten/rezepte.md) ausstellen
-    - [Beinverletzungen](../../pages/krankheiten/beinverletzungen.md)
+    - [Beinverletzungen](../../pages/krankheiten/beinverletzungen.md) behandeln
     - Blutentnahme
-    - Bluthochdruck
-    - [Blutzucker](../../pages/krankheiten/blutzucker.md)
-    - [Dehydrierung](../../pages/krankheiten/dehydration.md)
-    - [Grippe](../../pages/krankheiten/grippe.md)
-    - Gesundheitscheck
-    - [Impfung](../../pages/krankheiten/impfung.md)
-    - [Lebenmittelvergiftung](../../pages/krankheiten/lebensmittelvergiftung.md)
+    - Bluthochdruck behandeln
+    - [Blutzucker](../../pages/krankheiten/blutzucker.md) behandeln
+    - [Dehydrierung](../../pages/krankheiten/dehydration.md) behandeln
+    - [Grippe](../../pages/krankheiten/grippe.md) behandeln
+    - Gesundheitscheck durchführen
+    - [Impfung](../../pages/krankheiten/impfung.md) durchführen
+    - [Lebensmittelvergiftung](../../pages/krankheiten/lebensmittelvergiftung.md) behandeln
 - [Hausaktionen](hausaktionen.md) durchführen
 - Krankentransporte durchführen
 - Notrufe bearbeiten
 
 ### Feuerwehr  
-Die Feuerwehr kann folgende Aktivitäten machen:
+Die Feuerwehr kann folgende Aktivitäten durchführen:
 
 - Brände löschen
 - Türöffnungen durchführen
-- Windbrüche beseitigen
-
+- Windbruch beseitigen
 
 ## Kartell
 
-Die Kartellfraktionen können folgende Aktivitäten machen:
+Die Kartellfraktionen können folgende Aktivitäten durchführen:
 
 * [Apothekeraub](apothekenraub.md) starten
-* [ATM’s](../../pages/orte/banken.md) aufbrechen
+* [ATMs](../../pages/orte/banken.md) aufbrechen
 * [Banküberfall](banküberfall.md) durchführen
 * [Bombe](bomben.md) legen
 * Brandstiftung durchführen
-* Gewerberäube starten
+* Gewerberaub starten
 * [Hausaktionen](hausaktionen.md) durchführen
-* [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) legen
+* [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) anlegen
 * [HQ Raids](hqraids.md) durchführen
 * [Kopfgelder](kopfgeld.md) erledigen
 * [Substanzen Dealer](substanzendealer.md) abfangen
-
 
 ## Mafia
 
-Die Mafiafraktionen können folgende Aktivitäten machen:
+Die Mafiafraktionen können folgende Aktivitäten durchführen:
 
 * [Apothekeraub](apothekenraub.md) starten
-* [ATM’s](../../pages/orte/banken.md) aufbrechen
+* [ATMs](../../pages/orte/banken.md) aufbrechen
 * [Banküberfall](banküberfall.md) durchführen
 * Brandstiftung durchführen
-* Gewerberäube starten
+* Gewerberaub starten
 * [Hausaktionen](hausaktionen.md) durchführen
-* [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) legen
+* [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) anlegen
 * [HQ Raids](hqraids.md) durchführen
-* [Juwelierraub](juwelenraub.md) starten
+* [Juwelenraub](juwelenraub.md) starten
 * [Kopfgelder](kopfgeld.md) erledigen
-* Mohnkapseln herstellen
+* [Mohnkapseln](../../pages/pflanzen/mohnfeld.md) herstellen
 * [Substanzen Dealer](substanzendealer.md) abfangen
 
+## Gang
+
+Die Gangfraktionen können folgende Aktivitäten durchführen:
+
+* [Apothekeraub](apothekenraub.md) starten
+* [ATMs](../../pages/orte/banken.md) aufbrechen
+* [Banküberfall](banküberfall.md) durchführen
+* Brandstiftung durchführen
+* Gewerberaub starten
+* [Hausaktionen](hausaktionen.md) durchführen
+* [Heilkrautplantagen](../../pages/pflanzen/heilkraut.md) anlegen
+* [HQ Raids](hqraids.md) durchführen
+* [Hackerangriffe](hackerangriff.md) starten
+* [Kopfgelder](kopfgeld.md) erledigen
+* [Substanzen Dealer](substanzendealer.md) abfangen
 
 # Rufpunkte
 
-Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie können sich mit Aktivitäten Rufpunkte erlangen, auch Reputationpoints genannt, welche ihren Lagerverfall senken kann. Mit **/reputationpoints** können die Punktestände eingesehen werden.
+Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie können durch Aktivitäten Rufpunkte, auch Reputationpoints genannt, erlangen, welche den Lagerverfall senken können. Mit **/reputationpoints** können die Punktestände eingesehen werden.
 
 ## Rufpunkte erlangen und verlieren
 
@@ -149,27 +161,27 @@ Rufpunkte bringen den Crimefraktionen einen Vorteil für ihr Fraktionslager. Sie
     </tr>
     <tr>
       <td align="center" >Unter 0</td>
-      <td align="center" >10 Gram</td>
+      <td align="center" >10 Gramm</td>
     </tr>
     <tr>
       <td align="center" >0 bis 99</td>
-      <td align="center" >6 Gram</td>
+      <td align="center" >6 Gramm</td>
     </tr>
     <tr>
       <td align="center" >100 bis 499</td>
-      <td align="center" >5 Gram</td>
+      <td align="center" >5 Gramm</td>
     </tr>
     <tr>
       <td align="center" >500 bis 999</td>
-      <td align="center" >4 Gram</td>
+      <td align="center" >4 Gramm</td>
     </tr>
     <tr>
       <td align="center" >1000 bis 1499</td>
-      <td align="center" >3 Gram</td>
+      <td align="center" >3 Gramm</td>
     </tr>
     <tr>
       <td align="center" >ab 1500</td>
-      <td align="center" >2 Gram</td>
+      <td align="center" >2 Gramm</td>
     </tr> 
   </tbody>
 </table>

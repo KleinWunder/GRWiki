@@ -1,7 +1,7 @@
 # Banküberfall
 
-!!! bug “Aktueller Bug”
-    Die Funktion "Banküberfall" ist derzeit nicht funktionstüchtig und kann nicht genutzt werden. Das Entwicklerteam arbeitet an einer Behebung des Fehlers. Wir bitten um etwas Geduld. Danke für euer Verständnis!
+!!! bug "Aktueller Bug"
+    Die Funktion "Banküberfall" ist derzeit nicht funktionsfähig und kann nicht genutzt werden. Das Entwicklerteam arbeitet an einer Behebung des Fehlers. Wir bitten um Geduld. Danke für euer Verständnis!
     Stand: 12.07.2025
 
 Banküberfälle sind Großaktivitäten der [Crimefraktionen](allgemein.md) und der [Polizei](polizei.md). Sie sind im Stil eines [Gangwars](gangwar.md) aufgebaut.
