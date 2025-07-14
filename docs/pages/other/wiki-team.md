@@ -11,8 +11,8 @@
 <img src="../../../assets/image/wikiteam/lxlxndrxg-skin.png" alt="Lxlxndrxg" title="Lxlxndrxg" /> <br>
 <img src="../../../assets/image/wikiteam/jonas-skin.png" alt="EnderJonas1" title="EnderJonas1" />
 <img src="../../../assets/image/wikiteam/34daniel-skin.png" alt="34Daniel" title="34Daniel" /> <br>
-<img src="../../../assets/image/wikiteam/sevokoth-skin.png" alt="Sevokoth" title="Sevokoth" /> 
-<img src="../../../assets/image/wikiteam/_palero-skin.png" alt="_Palero" title="_Palero" /> <br>
+<img src="../../../assets/image/wikiteam/_palero-skin.png" alt="_Palero" title="_Palero" />
+<img src="../../../assets/image/wikiteam/fragezeichen-skin.png" alt="???" title="???" /> <br>
 <img src="../../../assets/image/wikiteam/fragezeichen-skin.png" alt="???" title="???" /> 
 
 </center>
