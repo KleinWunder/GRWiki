@@ -1,4 +1,4 @@
-# Bergbau-Skill 
+# Steinbruch
 
 Der Bergbau-Skill hilft dir dabei, verschiedene Steinarten wie Bruchstein, Stein, Diorit, Andesit und Granit im [Steinbruch](../../pages/nebenjobs/bergbau.md) zu finden und abzubauen.
 
