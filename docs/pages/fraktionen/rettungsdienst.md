@@ -27,9 +27,10 @@ Der Rettungsdienst verfügt über verschiedene Möglichkeiten den Spielern auf d
 | Pfefferspray | Selbstschutz des Personals |
 | NaCl | Behandlung der [Dehydration](../../pages/krankheiten/dehydration.md) |
 | Sprungtuch | Platzieren von Slimeblöcken |
-| Feuerwehraxt | Einsatzgerät für Windbruch |
+| Feuerwehraxt | Einsatzgerät für Türöffnung |
 
 ## Lage der medizinischen Gebäuden
+<!--- Hier kommt ein Bild von Uniklinik -->
 Die Uniklinik ist der Hauptstandort des Rettungsdienst und ist erreichbar über die Bushaltestelle Uniklinik. Das, mit Ziegelsteinen gebaute, Gebäude liegt in der Nähe des Busses und direkt am Park. <img align="right" width="290" eight="290" src="../../../assets/image/fraktionen/Feuerwehrwache.png">
 
 Der Rettungsdienst hat verteilt auf der Karte weitere Gebäude. Die Feuerwehrwache befindet sich ein paar Straßen weiter in Downtown. Ebenfalls ist der Rettungsdienst in Oststadt mit einer Rettungswache ausgerüstet.
