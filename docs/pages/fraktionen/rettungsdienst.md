@@ -33,12 +33,12 @@ Die Subfraktion des Rettungsdienstes, die Feuerwehr, übernimmt zusätzlich folg
 
 ## Lage der medizinischen Gebäude 
 <!--- Hier kommt ein Bild von Uniklinik --> 
-<img align="right" width="290" height="290" src="..//../assets/image/fraktionen/Uniklinik.png">
+<img align="right" width="290" height="150" src="..//../assets/image/fraktionen/Uniklinik.png">
 Die Uniklinik ist der Hauptstandort des Rettungsdienstes und ist über die Bushaltestelle "Uniklinik" erreichbar. Das mit Ziegelsteinen gebaute Gebäude liegt in der Nähe des Busses und direkt am Park. 
 <br><br>
 
 Der Rettungsdienst hat weitere Gebäude auf der Karte verteilt. Die Feuerwehrwache befindet sich ein paar Straßen weiter in Downtown. Ebenfalls ist der Rettungsdienst in [Oststadt](../../pages/gebiete/oststadt.md) mit einer Rettungswache ausgerüstet.
 Auf der Karte gibt es zwei weitere Krankenhäuser. Das Krankenhaus-Süd befindet sich im [Reichenviertel](../../pages/gebiete/reichenviertel.md), ist mit dem Bus "Reichenviertel" erreichbar und liegt in unmittelbarer Nähe zur Polizeistation-Süd. In [Westside](../../pages/gebiete/westside.md) befindet sich das zweite Krankenhaus "Krankenhaus-West", das mit der Bushaltestelle "Westside" um die Ecke erreichbar ist.
-<img align="right" width="290" height="290" src="../../assets/image/fraktionen/Feuerwehrwache.png">
+<img align="right" width="290" height="150" src="../../assets/image/fraktionen/Feuerwehrwache.png">
 
 
