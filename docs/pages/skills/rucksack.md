@@ -1,6 +1,6 @@
 # Rucksäcke
 
-Es gibt verschiedene Arten von Rucksäcken, die in die unterschiedlichen Jobs wie Jäger, Handwerk, Bergbau, Gärtner und Fischer unterteilt sind. Jeder dieser Jobs hat seinen eigenen Rucksack. Funde der jeweiligen Kategorie werden automatisch einsortiert.
+Es gibt verschiedene Arten von Rucksäcken, die in die unterschiedlichen Skills und Jobs wie Jäger, Handwerk, Bergbau, Gärtner und Fischer unterteilt sind. Jeder dieser Jobs/Skills hat seinen eigenen Rucksack. Funde der jeweiligen Kategorie werden automatisch einsortiert.
 
 ## Rucksackarten
 | Rucksack | Einlagerbare Items | Herkunft |
