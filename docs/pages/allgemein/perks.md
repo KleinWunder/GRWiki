@@ -4,17 +4,17 @@
       Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
 
 
-Fischer
+- Fischer
 Booster erhöhen die Skill-XP für alle Spieler um 15 %.
 
-Bergbau
+- Bergbau
 Booster erhöhen die Skill-XP für alle Spieler um 15 %.
 
-Farming
+- Farming
 Booster erhöhen die Skill-XP für alle Spieler um 15 %.
 
-Hausaktionen
+- Hausaktionen
 Booster erhöhen die Skill-XP und die Bezahlung für alle erfolgreichen Hausaktionen für alle Spieler.
 
-Handwerk
+- Handwerk
 Booster erhöhen die Skill-XP für alle Spieler um 15 %.
