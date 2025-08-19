@@ -15,6 +15,8 @@ Mit **/perks** können die eigenen Perks eingesehen werden. Perks werden nach un
 
 ## Booster
 
+Booster kosten Echtgeld im [Webshop](https://germanrpeu.tebex.io) und halten 3 Stunden. Jeder Spieler profitiert von einem aktiven Booster. Mit **/boosters** kann das Menü aufgerufen und Booster aktiviert werden, sofern man welche besitzt.
+
 Booster erhöhen die Skill-XP für alle Spieler um 15 %. Sie sind für folgende Bereiche verfügbar:
 - Fischer
 - Bergbau
@@ -22,12 +24,10 @@ Booster erhöhen die Skill-XP für alle Spieler um 15 %. Sie sind für folgende 
 - Hausaktionen (erhöhte Bezahlung für erfolgreiche Aktionen)
 - Handwerk
 
-Booster kosten Echtgeld im [Webshop](https://germanrpeu.tebex.io) und halten 3 Stunden. Jeder Spieler profitiert von einem aktiven Booster. Mit **/boosters** kann das Menü aufgerufen und Booster aktiviert werden, sofern man welche besitzt.
-
 ## Effekte
 
 Effekte sind in [Bars](../../pages/biz/bar.md) erhältlich und werden durch spezielle Getränke ausgelöst. Mit **/effekte** kann die Menüübersicht aufgerufen werden.
-Aktuell gibt es zwei Energy-Arten:
 
+Aktuell gibt es zwei Energy-Arten:
 - **ToxineX:** Erhöht die Abbaugeschwindigkeit von Geldautomaten mit der Brechstange. Hält 5 bis maximal 60 Minuten.
 - **Mobster:** Erhöht die Chance für erfolgreiche Hauskontrollen. Hält 2 bis maximal 15 Minuten.
