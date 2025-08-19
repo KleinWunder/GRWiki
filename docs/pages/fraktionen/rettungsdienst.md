@@ -1,6 +1,6 @@
 # Rettungsdienst
    
-Der Rettungsdienst betreut und behandelt alle Spieler auf dem Server und trägt die Verantwortung für eine stabile medizinische Versorgung und ein funktionierendes Gesundheitssystem. Sie führen Behandlungen durch, stellen Diagnosen, verschreiben Rezepte und retten täglich bewusstlose Personen auf der Straße. 
+Der Rettungsdienst betreut und behandelt alle Spieler auf dem Server und trägt die Verantwortung für eine stabile medizinische Versorgung sowie ein funktionierendes Gesundheitssystem. Er führt Behandlungen durch, stellt Diagnosen, verschreibt Rezepte und rettet täglich bewusstlose Personen auf der Straße.
 
 ## Aufgaben
 Der Rettungsdienst verfügt über verschiedene Möglichkeiten, den Spielern auf dem Server zu helfen:
@@ -34,10 +34,10 @@ Die Subfraktion des Rettungsdienstes, die Feuerwehr, übernimmt zusätzlich folg
 ## Lage der medizinischen Gebäude 
 <!--- Hier kommt ein Bild von Uniklinik --> 
 <img align="right" width="290" height="150" src="..//../assets/image/fraktionen/Uniklinik.png">
-Die Uniklinik ist der Hauptstandort des Rettungsdienstes und ist über die Bushaltestelle "Uniklinik" erreichbar. Das mit Ziegelsteinen gebaute Gebäude liegt in der Nähe des Busses und direkt am Park. 
+Die Uniklinik ist der Hauptstandort des Rettungsdienstes und über die Bushaltestelle "Uniklinik" erreichbar. Das mit Ziegelsteinen gebaute Gebäude liegt in der Nähe des Busses und direkt am Park. 
 <br><br>
 
-Der Rettungsdienst hat weitere Gebäude auf der Karte verteilt. Die Feuerwehrwache befindet sich ein paar Straßen weiter in Downtown. Ebenfalls ist der Rettungsdienst in [Oststadt](../../pages/gebiete/oststadt.md) mit einer Rettungswache ausgerüstet.
+Der Rettungsdienst hat weitere Gebäude auf der Karte verteilt. Die Feuerwehrwache befindet sich ein paar Straßen weiter in Downtown. Außerdem ist der Rettungsdienst in [Oststadt](../../pages/gebiete/oststadt.md) mit einer Rettungswache ausgerüstet.
 Auf der Karte gibt es zwei weitere Krankenhäuser. Das Krankenhaus-Süd befindet sich im [Reichenviertel](../../pages/gebiete/reichenviertel.md), ist mit dem Bus "Reichenviertel" erreichbar und liegt in unmittelbarer Nähe zur Polizeistation-Süd. In [Westside](../../pages/gebiete/westside.md) befindet sich das zweite Krankenhaus "Krankenhaus-West", das mit der Bushaltestelle "Westside" um die Ecke erreichbar ist.
 <img align="right" width="290" height="150" src="../../assets/image/fraktionen/Feuerwehrwache.png">
 

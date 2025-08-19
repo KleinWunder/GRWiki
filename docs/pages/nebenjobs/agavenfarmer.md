@@ -14,5 +14,6 @@ Der Agavenfarmer ist ein Nebenjob, welcher am Truck bei der Agavenfarm gestartet
 ## Aufgaben
 
 1. Der Nebenjob startet am Truck in den Agavenfeldern mit **/agavenfarmer**.
-2. Baue nun die Agaven ab.
+2. Auf den Blättern befinden sich viele Agaven (grüne Köpfe).
+3. Diese müssen nun alle mit Rechtsklick abgeerntet werden.
 3. Wiederhole den Vorgang, bis der Nebenjob beendet ist.

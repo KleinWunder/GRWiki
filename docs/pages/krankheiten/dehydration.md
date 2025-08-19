@@ -1,10 +1,11 @@
 # Dehydration
-Eine Dehydrierung entsteht, wenn der Hydrierungszustand des Charakters unter 5% fällt (**/health**). Bei einer Dehydrierung erscheint regelmäßig über der Hotbar die Nachricht "Du fühlst dich schwach...". Wenn die Nachricht kommt, wird man für 5 Sekunden langsamer. Trinken bringt nun -50 % Wassersättigung und die Hydration sinkt schneller.
+Eine Dehydrierung entsteht, wenn der Hydrierungszustand des Charakters unter 5% fällt (**/health**). Bei einer Dehydrierung erscheint regelmäßig über der Hotbar die Nachricht "Du fühlst dich schwach...". Wenn die Nachricht kommt, wird man für 5 Sekunden langsamer und bekommt kurz Schaden. Trinken bringt nun -50 % Wassersättigung und die Hydration sinkt schneller.
 
 ## Wirkung
 Dehydrierung bringt folgende Nebeneffekte mit sich:
 
 - Langsamkeit 2 für 5 Sekunden
+- Schaden für 1 Sekunde
 - -50% Wassersättigung
 - Hydration sinkt schneller
 

@@ -30,8 +30,8 @@ Derzeitige Co-Leitung: **[miramausii](https://germanrp.eu/index.php?user/1483-mi
 
 Entwicklerteammitglieder sind verantwortlich für Updates und Konzepte. Sie verwalten die Bugreports und Vorschläge der Community.
 
-Derzeitige Leitung: **[lara412](https://germanrp.eu/index.php?user/320-lara412/)**<br>
-Derzeitige Co-Leitung: **[SweetCraftii](https://germanrp.eu/index.php?user/1571-sweetcraftii/)**
+Derzeitige Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**<br>
+Derzeitige Co-Leitung: **/**
 
 
 ## Public-Relations-Team

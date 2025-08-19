@@ -15,9 +15,9 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 | 1. Skillreihe | 2. Skillreihe | - |
 |:-:|:-:|:-:|
 || Dicke Taschen ||
-|| Robuste Steinspitzhacke||
-|| Mehr Schwung ||
-|| Widerstandsfähige Steinspitzhacke ||
+| Tuffstein | Robuste Steinspitzhacke||
+| Tiefenschiefer | Mehr Schwung ||
+| Gepflasterte Tiefenschiefer | Widerstandsfähige Steinspitzhacke ||
 | Andesit | Double Drops (+10%) ||
 | Diorit | Haltbarkeit ||
 | Granit | Abfallprodukte ||
@@ -41,6 +41,7 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 | Granit | 0,20€ |
 | Diorit | 0,20€ |
 | Andesit | 0,40€ |
+| Bruchtiefenschiefer | 0,18€ |
 
 ## Hilfreiche Tipps
 
