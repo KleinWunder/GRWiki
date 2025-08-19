@@ -109,7 +109,7 @@ nav:
       - Cosmetics: pages/allgemein/cosmetics.md
   - Beziehung: pages/allgemein/beziehung.md
   - Gruppierung: pages/allgemein/gruppierung.md
-  - Perks: pages/allgemein/perks.md
+  - Perks, Effekte & Booster: pages/allgemein/perks.md
   - Sperrgebiete: pages/allgemein/sperrgebiete.md
 - Stadtteile:
   - Altstadt: pages/gebiete/altstadt.md
