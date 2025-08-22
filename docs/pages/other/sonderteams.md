@@ -14,7 +14,7 @@ Derzeitige Co-Leitung: **[Annovadiel](https://germanrp.eu/index.php?user/114-ann
 
 Wikiteammitglieder sind verantwortlich für das gesamte Wiki. Eine der Aufgaben ist die Aktualisierung des Wikis. Im Wiki selbst stehen viele Informationen bereit, die viele Fragen rund um den Server beantworten.
 
-Derzeitige Leitung: **[Piewn](https://germanrp.eu/index.php?user/120-piewn/)**<br>
+Derzeitige Leitung: **[Piewn](https://germanrp.eu/index.php?user/120-gr-piewn)**<br>
 Derzeitige Co-Leitung: **[36Flo](https://germanrp.eu/index.php?user/167-36flo/)**
 
 
@@ -47,13 +47,14 @@ Der Fraktionsmanager ist Ansprechpartner und Verantwortlicher für die Fraktions
 
 Derzeitiger Fraktionsmanager:
 **[Sxphi_](https://germanrp.eu/index.php?user/605-gr-sxphi/)**<br>
+**[Piewn](https://germanrp.eu/index.php?user/120-gr-piewn)** <br>
 
 ## Guideaufsicht
 
 Mehr Infos zu diesem Posten kommen bald!
 
 Derzeitige Guideaufsicht:
-**[Sqsaki](https://germanrp.eu/index.php?user/1769-gr-sqsaki/)**<br>
+**[Ajael](https://germanrp.eu/index.php?user/3-gr-ajael)**<br>
 
 ## Subteam-Aufsicht
 
