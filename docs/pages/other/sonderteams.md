@@ -45,9 +45,8 @@ Derzeitige Co-Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli
 
 Der Fraktionsmanager ist Ansprechpartner und Verantwortlicher für die Fraktionsleader. Er verwaltet das Leaderregelwerk, prüft Beschwerden gegen Leader/Fraktionen und ist dafür zuständig, dass die Fraktionen gut laufen.
 
-Derzeitiger Fraktionsmanager:
-**[Sxphi_](https://germanrp.eu/index.php?user/605-gr-sxphi/)**<br>
-**[Piewn](https://germanrp.eu/index.php?user/120-gr-piewn)** <br>
+Derzeitiger Fraktionsmanager: **[Sxphi_](https://germanrp.eu/index.php?user/605-gr-sxphi/)**<br>
+Derzeitige Co-Leitung: **[Piewn](https://germanrp.eu/index.php?user/120-gr-piewn)** <br>
 
 ## Guideaufsicht
 
