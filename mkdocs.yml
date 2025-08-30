@@ -278,6 +278,8 @@ nav:
   - Rentier: pages/pets/rentier.md
   - Schmetterling: pages/pets/schmetterling.md
   - Wolf: pages/pets/wolf.md
+- NPCS:
+  - Massimo: pages/other/massimo.md
 - Sonstiges:
   - AFK: pages/other/afk.md
 - Links: pages/other/links.md
