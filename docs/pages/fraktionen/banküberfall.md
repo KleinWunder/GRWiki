@@ -1,9 +1,5 @@
 # Banküberfall
 
-!!! bug "Aktueller Bug"
-    Die Funktion "Banküberfall" ist derzeit nicht funktionsfähig und kann nicht genutzt werden. Das Entwicklerteam arbeitet an einer Behebung des Fehlers. Wir bitten um Geduld. Danke für euer Verständnis!
-    Stand: 12.07.2025
-
 Banküberfälle sind Großaktivitäten der [Crimefraktionen](allgemein.md) und der [Polizei](polizei.md). Sie sind im Stil eines [Gangwars](gangwar.md) aufgebaut.
 Ziel der Crimefraktionen ist es, bis zur Phase 4 vorzurücken, um das Geld zu erbeuten. Allerdings ist jede Phase mit einem Zeitlimit versehen. Erledigt man die Aufgabe nicht in der Zeit, scheitert der Bankraub. In 40-Sekunden-Intervallen respawnen alle gestorbenen Teilnehmer. Sich nachträglich anzuschließen ist möglich und erlaubt.
 Der maximale Ertrag, der erbeutet werden kann, beträgt 7.000 Euro.
