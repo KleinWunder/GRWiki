@@ -1,4 +1,4 @@
-In einem Waffenladen lassen sich Waffen und Munition zur Selbstverteidigung kaufen. Hier kannst du auch an deinen Waffen ein Waffen-Addon anbringen. (**/navi Waffenladen-1/2/3/4**) 
+In einem Waffenladen lassen sich Waffen und Munition zur Selbstverteidigung, oder Fallschirme für taktische Zwecke kaufen. Hier kannst du auch an deinen Waffen ein Waffen-Addon anbringen. (**/navi Waffenladen-1/2/3/4**) 
 
 In Waffenläden werden folgende Artikel verkauft:  <img align="right" width="300" height="150" src="../../../assets/image/biz/waffenladen/Waffenladen-Kaufmenü.png">
 
@@ -7,6 +7,7 @@ In Waffenläden werden folgende Artikel verkauft:  <img align="right" width="300
 + [Havok-47](../../pages/items/weapons/sturmgewehre.md) (Sturmgewehr)
 + Normale Munition
 + Kleine Munition
++ Fallschirm
 
 !!! info "Waffen-Addon anbringen"
     [Waffen-Addons](../../pages/items/weapons/waffenaddons.md) können mit der Waffe kombiniert werden, indem man auf den Amboss im NPC-Menü drückt und Waffe + Addon kombiniert.
