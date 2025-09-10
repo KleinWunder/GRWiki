@@ -27,6 +27,10 @@ Während des Aufenthalts in der JVA hat man die Möglichkeit, sich mit den ander
 
 Es existieren einige Möglichkeiten, um in die Justizvollzugsanstalt einzubrechen oder auch auszubrechen. Dafür benötigt man mindestens eine Brechstange. (Vorsicht! Diese kann jederzeit kaputtgehen.)
 
+### Stellung beim Polizeibeamten
+
+Falls kein Polizist im Dienst ist, kannst du dich bei dem NPC Polizeibeamten stellen.
+
 ## Entlassung
 
 Als Häftling hat man auch die Möglichkeit, mithilfe einer Kaution die JVA früher zu verlassen. Dafür muss eine zweite Person im Eingangsbereich der JVA den Befehl **/kaution** eingeben, was ab [Sozial-Level](../../pages/skills/social.md) 2 möglich ist. Damit wird für den Häftling ein Geldbetrag hinterlegt, der je nach noch vorhandener Zeitstrafe unterschiedlich hoch ausfällt.
