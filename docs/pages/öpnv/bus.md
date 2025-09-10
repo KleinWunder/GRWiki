@@ -1,5 +1,5 @@
 # Bus
-Der Bus ist eines der Verkehrsmittel, das einen schnell von A nach B bringen kann. Die Fahrtzeit kann durch Drücken der ++shift+f++-Taste eingesehen werden. Um mit dem Bus zu fahren, steigt man ein und klickt mit Rechtsklick auf den Busfahrer. Dann kann das gewünschte Reiseziel ausgewählt werden. <img align="right" width="300" height="200" src="../../../assets/image/Öpnv/Bus.png">
+Der Bus ist eines der Verkehrsmittel, das einen schnell von A nach B bringen kann. Die Fahrtzeit kann durch Drücken der ++shift+f++-Taste eingesehen werden. Um mit dem Bus zu fahren, steigt man ein und es öffnet sich automatisch das Fahrtmenü - falls nicht, dann drücke Rechtsklick auf den Busfahrer. Dann kann das gewünschte Reiseziel ausgewählt werden. <img align="right" width="300" height="200" src="../../../assets/image/Öpnv/Bus.png">
 
 !!! info Während der Busfahrt
     Im Bus wird kein RP gemacht, außerdem kann im Bus kein Spieler Schaden erhalten oder austeilen.
