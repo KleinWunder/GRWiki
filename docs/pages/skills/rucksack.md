@@ -13,3 +13,7 @@ Es gibt verschiedene Arten von Rucksäcken, die den unterschiedlichen Skills und
 
 ## Rucksack-Menü
 Die verschiedenen Rucksäcke findest du im [Spielmenü](../../pages/allgemein/spielmenü.md) unter "Items und Gegenstände" im Bereich "Rucksäcke".
+
+## Platz im Rucksack
+
+Jeder Spieler hat pro Kategorie 250 Plätze im Rucksack. VIPs bekommen +50 und VIP+ Spieler +100 extra.
