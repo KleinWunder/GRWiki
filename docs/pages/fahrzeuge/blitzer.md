@@ -3,6 +3,8 @@
 Die Blitzer sind in ganz Vance City verteilt, um Geschwindigkeitsüberschreitungen zu erfassen. <img align="right" width="150" height="100" src="../../../assets/image/Öpnv/Straßenmaterial/Blitzer.png">
 Das errechnete Bußgeld hängt von der Geschwindigkeit ab, die überschritten wurde.
 
+Man kann mit einer Brechstange den Blitzer zerstören und dadurch blitzt er vorübergehend nicht.
+
 ### Mobile Blitzer <img align="right" width="130" height="185" src="../../../assets/image/Öpnv/Straßenmaterial/Mobiler-Blitzer.png">
 
 Die Polizei verfügt über mobile Blitzer, die sie überall in Vance City aufstellen kann. Erkennbar sind sie an den kleinen Blitzern und dem Van, der dabei steht.
