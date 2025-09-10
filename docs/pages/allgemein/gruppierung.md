@@ -20,6 +20,7 @@ Mit der Gründung der Gruppierung hat diese standardmäßig 2 Memberslots. Um we
 | /gc [Nachricht] | Eine Nachricht in den Gruppierungschat senden. |
 | /g info | Informationen zur Gruppierung aufrufen. |
 | /g top | Die Bestenliste aufrufen. |
+| /g setbasis/removebasis | Gruppierungsbasis setzen/entfernen. |
 
 ## Sonstiges
 Die Gruppierungsmitglieder haben keine weiteren Freiheiten im Vergleich zu Zivilisten.
