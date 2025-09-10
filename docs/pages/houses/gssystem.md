@@ -15,6 +15,8 @@ Beim Sägewerk können die Baumstämme weiterverarbeitet werden.
 
 Beim Jäger kann man Ton erhalten. Am See steht der NPC "Clayton", welcher Schaufeln verkauft. Mit diesen kann am Seeboden Ton abgebaut werden. Hält man die Schaufel in der Hand, erhält man dauerhafte Unterwasseratmung. Der abgebaute Ton kann dann in der Tonfabrik (**/navi Tonfabrik**) zu Terrakotta verarbeitet werden, welche wiederum in der Färberei (**/navi Textilfabrik**) eingefärbt werden kann.
 
+VIP+ Spieler können seit dem Update v9.2.4 im Grundstücksmenü direkt auf den Steinmetz, das Sägewerk und die Färberei zugreifen.
+
 ## Befehle
 
 | Befehl | Funktion |
