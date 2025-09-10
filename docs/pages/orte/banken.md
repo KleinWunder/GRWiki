@@ -18,6 +18,21 @@ Am Schalter der Bank kann mit Rechtsklick auf den NPC Bianca das Konto verwaltet
 Es können neben dem eigenen Standardkonto weitere Konten wie z.B. Gewerbekonten, Fraktionskonten und Zusatzkonten erstellt bzw. verwaltet werden.
 Zu jedem [PayDay](../../pages/allgemein/payday.md) werden Einkünfte, Steuern, Abgaben, etc. mit dem Standardkonto verrechnet.
 
+## Kreditsystem
+
+Bei NPC Bianca kannst du Kredite verwalten. Dort hast du die Möglichkeit:
+
+* Kredite zu vergeben
+* vergebene oder erhaltene Kredite einzusehen
+
+Um einen Kredit zu bekommen, brauchst du einen anderen Spieler, der dir diesen vergibt.
+Möchtest du selbst einen Kredit vergeben, muss der Spieler in deiner Nähe sein.
+
+Du bestimmst dabei ganz flexibel:
+* die Summe
+* die Laufzeit
+* die Zinsen
+
 ## Geldautomaten (ATM)
 
 Geldautomaten sind auf der ganzen Map verteilt. Besonders oft zu finden sind diese bei Bushaltestellen und öffentlichen Gebäuden. Sie erlauben es beispielsweise dem Spieler seinen Kontostand einzusehen und Geld von diesem abzuheben oder einzuzahlen.
