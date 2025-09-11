@@ -17,7 +17,7 @@ Insgesamt gibt es derzeit **22** verschiedene Waffenskins (inklusive der Standar
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"> <img align="center" src="../../../assets/image/items/weapons/P-51.png"> </td>
+<td style="text-align:center"> <img align="center" src="/assets/image/items/weapons/P-51.png" alt="P-51"> </td>
 <td style="text-align:center">Standard</td>
 <td style="text-align:center">Kaufbar bei Ceren am Hafen für 100€</td>
 </tr>
