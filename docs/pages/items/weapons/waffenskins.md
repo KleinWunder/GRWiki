@@ -8,12 +8,36 @@ Insgesamt gibt es derzeit **22** verschiedene Waffenskins (inklusive der Standar
 
 ### Skins für die [P-51](../../items/weapons/pistole.md):
 
-| Screenshot | Name | Herstellung / Kauf |
-|:-:|:-:|:-:|
-| ??? | Standard | Kaufbar bei Ceren am Hafen für 100€ |
-| ??? | Block-17 | Kaufbar bei [Massimo](../../other/massimo.md) |
-| ??? | Sunhawk | Kaufbar bei [Massimo](../../other/massimo.md) |
-| ??? | Golden Sunhawk | ??? |
+<table>
+<thead>
+<tr>
+<th style="text-align:center"> Screenshot </th>
+<th style="text-align:center">Name</th>
+<th style="text-align:center">Herstellung / Kauf</th>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"> <img align="center" src="../../../assets/image/items/weapons/P-51.png"> </td>
+<td style="text-align:center">Standard</td>
+<td style="text-align:center">Kaufbar bei Ceren am Hafen für 100€</td>
+</tr>
+<tr>
+<td style="text-align:center">???</td>
+<td style="text-align:center">Block-17</td>
+<td style="text-align:center">Kaufbar bei <a href="../../other/massimo.md">Massimo</a></td>
+</tr>
+<tr>
+<td style="text-align:center">???</td>
+<td style="text-align:center">Sunhawk</td>
+<td style="text-align:center">Kaufbar bei <a href="../../other/massimo.md">Massimo</a></td>
+</tr>
+<tr>
+<td style="text-align:center">???</td>
+<td style="text-align:center">Golden Sunhawk</td>
+<td style="text-align:center">???</td>
+</tr>
+</tbody>
+</table>
 
 ### Skins für die [MX8](../../items/weapons/maschinenpistole.md):
 
