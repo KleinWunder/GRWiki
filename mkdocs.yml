@@ -72,8 +72,6 @@ markdown_extensions:
 # page tree
 nav:
 - Startseite: index.md
-- Neue Inhalte:
-  - Grundstücksystem: pages/houses/gssystem.md
 - Teams:
   - Serverteam: pages/other/serverteam.md
   - Sonderteams: pages/other/sonderteams.md
@@ -111,6 +109,7 @@ nav:
   - Gruppierung: pages/allgemein/gruppierung.md
   - Perks, Effekte & Booster: pages/allgemein/perks.md
   - Sperrgebiete: pages/allgemein/sperrgebiete.md
+  - Taschendiebstahl: pages/allgemein/taschendiebstahl.md
   - Tabliste: pages/allgemein/tablist.md
 - Stadtteile:
   - Altstadt: pages/gebiete/altstadt.md
@@ -230,6 +229,7 @@ nav:
     - Bombe: pages/fraktionen/bomben.md
     - Darklist: pages/fraktionen/darklist.md
     - Graffiti: pages/fraktionen/graffiti.md
+    - Hackerangriff: pages/fraktionen/hackerangriff.md
     - Hausaktionen: pages/fraktionen/hausaktionen.md
     - HQ Raids/Razzia: pages/fraktionen/hqraids.md
     - Juwelenraub: pages/fraktionen/juwelenraub.md

@@ -4,7 +4,7 @@ Unsere Tabliste wird ebenfalls durch unser servereigenes Plugin beeinflusst. Wie
 
 ## Fraktionsbasierte Farben
 
-Unsere beiden Staatsfraktionen [Rettungsdienst](../../fraktionen/rettungsdienst.md) und [Polizei](../../fraktionen/polizei.md) verfügen
+Unsere beiden Staatsfraktionen [Rettungsdienst](../fraktionen/rettungsdienst.md) und [Polizei](../fraktionen/polizei.md) verfügen
 über eine serverweite Kennung in der Tablist, sofern sich die betroffenen Beamten im Dienst befinden.
 
 Die Polizei wird in diesem Fall in <a style="font-weight: bold; color: darkcyan;"> Türkis </a> angezeigt.<br>
@@ -15,7 +15,7 @@ Diese Spieler erhalten ein <a style="font-weight: bold; color: yellow">⚑</a>-S
 
 ## Teambasierte Farben
 
-Befindet sich ein Teammitglied des Ranges <a style = "color: royalblue" > Moderator </a> oder höher im sogenannten Staffduty (siehe [Serverteam](../../other/serveteam.md)), 
+Befindet sich ein Teammitglied des Ranges <a style = "color: royalblue" > Moderator </a> oder höher im sogenannten Staffduty (siehe [Serverteam](../other/serverteam.md)), 
 wird der Spieler mit einem <a style="font-weight: bold; color: lightcoral;"> hellroten Namen </a> angezeigt.<br>
 Neben der Anzeige über den Staffduty gibt es außerdem noch das Zeichen für den Baumodus <a style = "color: lightblue" >Ⓑ </a> oder den Flymodus <a style = "color: orange"> Ⓕ</a>. 
 Beide Modi sind nicht nur für das Serverteam vorbehalten, sondern auch, falls nötig, für normale Spieler oder Mitglieder von Subteams.<br>
@@ -23,12 +23,12 @@ Spieler oder Teammitglieder, die sich gerade in einem Ticket befinden werden mit
 
 ## VIP-Status
 
-Auch der VIP-Status wird in unserer Tablist angezeigt. Genauere Informationen und wie dieser aussieht sind bereits im [VIP-Beitrag](../../allgemein/vip.md) aufgelistet.
+Auch der VIP-Status wird in unserer Tablist angezeigt. Genauere Informationen und wie dieser aussieht sind bereits im [VIP-Beitrag](vip.md) aufgelistet.
 
 ## Sonstige Informationen
 
 Sofern ein Spieler sich im AFK-Modus befindet, wird dieser in der Tablist in <i>kursiv</i><br>
-Spieler, die den Psychopathen-Status (siehe [Geisteszustand](../../krankheiten/gesundheit.md)) haben, werden mit einem <a style="color: gray"> ☣</a>-Symbol angezeigt.
+Spieler, die den Psychopathen-Status (siehe [Geisteszustand](../krankheiten/gesundheit.md)) haben, werden mit einem <a style="color: gray"> ☣</a>-Symbol angezeigt.
 
 
 In der Tablist siehst du neben den Spielernamen natürlich auch noch weitere Informationen:
