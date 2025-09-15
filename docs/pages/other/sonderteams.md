@@ -39,7 +39,7 @@ Derzeitige Co-Leitung: **/**
 PR-Teammitglieder sind verantwortlich für die Social-Media-Präsenz. Sie betreiben und verwalten die Social-Media Kanäle auf [Instagram](https://www.instagram.com/germanrp.pr/), [YouTube](https://www.youtube.com/@germanrpreallifeeconomyrol4257), [Twitter](https://twitter.com/GermanRP3) und [TikTok](https://www.tiktok.com/@germanrp.pr?is_from_webapp=1&sender_device=pc).
 
 Derzeitige Leitung: **[Efendim](https://germanrp.eu/index.php?user/292-gr-efendim/)**<br>
-Derzeitige Co-Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)
+Derzeitige Co-Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**
 
 ## Fraktionsmanagement
 
@@ -60,4 +60,4 @@ Derzeitige Guideaufsicht:
 Mehr Infos zu diesem Posten kommen bald!
 
 Derzeitige Subteam-Aufsicht:
-**[RettichLP](https://germanrp.eu/index.php?user/1854-gr-rettichlp/)**<br>
+**Alle Senior Moderatoren**<br>
