@@ -23,7 +23,7 @@ Derzeitige Co-Leitung: **[36Flo](https://germanrp.eu/index.php?user/167-36flo/)*
 Entertainmentteamitglieder veranstalten regelmäßige Serverevents. Sie organisieren und planen zum Beispiel das Osterevent, das Weihnachtsevent und Spiele wie "Wer wird GR".
 
 Derzeitige Leitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-masterhero/)**<br>
-Derzeitige Co-Leitung: **[miramausii](https://germanrp.eu/index.php?user/1483-miramausii/) & [sxllii](https://germanrp.eu/index.php?user/37-sxllii/)**
+Derzeitige Co-Leitung: **[_Nachoo]((https://germanrp.eu/index.php?user/1071-nachoo/))**
 
 
 ## Entwicklerteam
