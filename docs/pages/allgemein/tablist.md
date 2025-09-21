@@ -18,7 +18,7 @@ Diese Spieler erhalten ein <a style="font-weight: bold; color: yellow">⚑</a>-S
 Befindet sich ein Teammitglied des Ranges <a style="color: royalblue">Moderator</a> oder höher im sogenannten Staffduty (siehe [Serverteam](../other/serverteam.md)), 
 wird der Spieler mit einem <a style="font-weight: bold; color: lightcoral;">hellroten Namen</a> angezeigt.<br>
 Neben der Anzeige über den Staffduty gibt es außerdem noch das Zeichen für den Baumodus <a style="color: lightblue">Ⓑ</a> oder den Flymodus <a style="color: orange">Ⓕ</a>. 
-Beide Modi sind nicht nur dem Serverteam vorbehalten, sondern auch, falls nötig, für Spieler oder Mitglieder von Subteams.<br>
+Beide Modi sind nicht nur dem Serverteam vorbehalten, sondern auch, falls nötig, für Spieler außerhalb des Serverteams oder Mitglieder von Subteams.<br>
 Spieler oder Teammitglieder, die sich gerade in einem Ticket befinden, werden mit einem <a style="color: purple">Ⓣ</a> angezeigt. Diese drei Symbole befinden sich immer hinter dem Namen des Spielers.
 
 ## VIP-Status
@@ -34,11 +34,11 @@ Spieler, die den Psychopathen-Status (siehe [Geisteszustand](../krankheiten/gesu
 In der Tablist siehst du neben den Spielernamen natürlich auch noch weitere Informationen:
 
 (von oben nach unten)
-- die aktuelle Version von GermanRP
-- dein Bargeld
-- dein aktueller Ping
-- deinen Fahndungsstatus
-- das aktuelle Wetter
-- das passive Event (falls eines aktiv ist)
+- die aktuelle Version von GermanRP<br>
+- dein Bargeld<br>
+- dein aktueller Ping<br>
+- deinen Fahndungsstatus<br>
+- das aktuelle Wetter<br>
+- das passive Event (falls eines aktiv ist)<br>
 - die aktuelle Spielerzahl
 
