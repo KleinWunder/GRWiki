@@ -29,7 +29,7 @@
     </tr>
           <tr>
       <td align="center">Antibiotika*</td>
-      <td align="center">Bei Lebensmittelvergiftung</td>
+      <td align="center">Gegen Lebensmittelvergiftung</td>
     </tr>
   </tbody>
 </table>
