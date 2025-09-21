@@ -16,4 +16,4 @@ Die verschiedenen Rucksäcke findest du im [Spielmenü](../../pages/allgemein/sp
 
 ## Platz im Rucksack
 
-Jeder Spieler hat pro Kategorie 250 Plätze im Rucksack. VIPs bekommen +50 und VIP+ Spieler +100 extra.
+Jeder Spieler hat pro Kategorie 250 Plätze im Rucksack. VIPs erhalten 50 zusätzliche Plätze und VIP+ Spieler 100 zusätzliche Plätze.
