@@ -5,16 +5,12 @@
 
 Dieser Artikel behandelt die Aktivität des Substanzhandels, für den Substanzenhändler (Dealer) siehe [Substanzendealer](substanzendealer.md).
 
-Der Substanzhandel ist eine Aktivität für die Polizei und die Crime-Fraktionen, von den Membern von Crime-Fraktionen wird diese auch oft umgangssprachlich als "Johnny Event" bezeichnet.
-Dabei erscheint an einem von sechs möglichen, meistens etwas versteckten Orten eine Gruppe von **bewaffneten** NPCs. Dabei gibt es ein bis zwei "Boss"-NPCs und vier bis sechs "Wache"-NPCs. Diese schießen auf jeden Spieler der in ihre Nähe kommt, besonders neuere Spieler oder Spieler mit wenigen Herzen sollten hier sehr vorsichtig sein!
-Die "Boss"-NPCs haben eine gewisse Chance, wenn man diese besiegt, eine Kiste zu droppen. Es gibt maximal eine Kiste pro Substanzhandel. Die NPCs zu besiegen ist zudem eine gute Quelle von Combat-Skill-XP.
+Der Substanzhandel ist eine Aktivität für die Polizei und die Crime-Fraktionen. Von Mitgliedern der Crime-Fraktionen wird er umgangssprachlich oft als ‚Johnny Event‘ bezeichnet. An einem von sechs möglichen, meist etwas versteckten Orten erscheint dabei eine Gruppe bewaffneter NPCs. Unter ihnen befinden sich ein bis zwei ‚Boss‘-NPCs sowie vier bis sechs ‚Wache‘-NPCs. Diese greifen jeden Spieler an, der sich ihnen nähert – insbesondere neue Spieler oder Spieler mit wenigen Herzen sollten daher sehr vorsichtig sein. Die ‚Boss‘-NPCs haben eine gewisse Chance, beim Besiegen eine Kiste fallen zu lassen. Pro Substanzhandel kann jedoch maximal eine Kiste erbeutet werden. Zusätzlich ist das Besiegen der NPCs eine gute Quelle für Combat-Skill-XP.
 
 
 ## Treffpunkt, Zeit und Voraussetzungen
 
-Das Substanzhandel-Event kann alle halbe Stunde auftreten, vorausgesetzt, es sind mindestens zwei Mitglieder der Polizei oder einer Crime-Fraktion online und verfügbar. Das beudetet nicht AFK, bewusstlos, in der JVA, o.Ä.
-Auch wenn mehrere Fraktionen zu dem Zeitpunkt mit mindestens zwei Membern auf dem Server aktiv sind, kann nur eine Fraktion die Benachrichtigung über den Substanznhandel erhalten. Dobei wird die Chance dafür höher, je mehr Member der Fraktion gerade online und verfügbar sind.
-Außerdem müssen Crime-Fraktionen um Substanzhandel-Benachrichtigungen zu erhalten, ein Bündnis mit dem Syndikat geschlossen haben.
+Das Substanzhandel-Event kann alle 30 Minuten auftreten, vorausgesetzt es sind mindestens zwei Mitglieder der Polizei oder einer Crime-Fraktion online und verfügbar. ‚Verfügbar‘ bedeutet hierbei: nicht AFK, nicht bewusstlos, nicht in der JVA o.Ä. Selbst wenn mehrere Fraktionen zu diesem Zeitpunkt mit mindestens zwei Mitgliedern aktiv sind, kann nur eine Fraktion die Benachrichtigung über den Substanzhandel erhalten. Die Wahrscheinlichkeit dafür steigt mit der Anzahl der gerade aktiven und verfügbaren Mitglieder einer Fraktion. Zusätzlich gilt: Crime-Fraktionen können Substanzhandel-Benachrichtigungen nur erhalten, wenn sie ein Bündnis mit dem Syndikat geschlossen haben.
 
 Folgende mögliche Orte für den Substanzhandel gibt es:
 * Im hinteren Bereich der Postzentrale in Downtown.
@@ -26,17 +22,15 @@ Folgende mögliche Orte für den Substanzhandel gibt es:
 
 ## Ablauf
 
-Sobald die NPCs an einem der möglichen Orte Spawnen erhält entweder die Polizei oder eine der Crime-Fraktionen, die ein Bündnis mit dem Syndikat hat, eine Benachrichtigung von Johnny.
-Dieser gibt einem die Koordinaten des jeweiligen Treffpunkts, von dieser Benachrichtung an halten die NPCs sich fünf Minuten lang an dem Ort auf. Nach Ablauf dieser fünf Minuten despawnen sie einfach wieder.
-Deshalb muss ein Spieler, der diese Aktivität erledigen möchte, schnell sein.
+Sobald die NPCs an einem der möglichen Orte spawnen, erhält entweder die Polizei oder eine der Crime-Fraktionen, die ein Bündnis mit dem Syndikat hat, eine Benachrichtigung von Johnny. Dieser teilt die Koordinaten des jeweiligen Treffpunkts mit. Ab diesem Moment bleiben die NPCs fünf Minuten lang am Ort. Nach Ablauf der fünf Minuten verschwinden sie wieder. Wer diese Aktivität erledigen möchte, muss also schnell reagieren.
 
-Sobald man vor Ort ankommt, muss man sehr vorsichtig sein, da die NPCs direkt das Feuer auf jeden Spieler eröffnen, der zu nahe kommt und überraschend gutes Aim und eine hohe Feuerrate haben. Allerdings ist ihre Reichweite begrenzt.
-Man sollte die NPCs nacheinander besiegen und dabei, falls nötig, immer wieder in Deckung gehen um sich zu healen oder nachzuladen. Die "Wache"-NPCs droppen zwar nichts, man sollte sie aber trotzdem besiegen um sicher und ungestört die Kiste einsammeln zu können, falls einer der "Boss"-NPCs eine Kiste droppt.
-Gedroppt wird ein Item namens "verpacktes Heilkraut", wobei die Menge stark variiert. Diese muss man mit einem Rechtsklick mit dem Item in der Hand auf den Fraktionsbasis-NPC abgeben, wodurch das Heilkraut direkt dem F-Lager (Crimefraktionen) oder der Asservatenkammer (Polizei) hinzugefügt wird.
+Vor Ort ist große Vorsicht geboten: Die NPCs eröffnen sofort das Feuer auf jeden Spieler, der ihnen zu nahekommt, und verfügen über überraschend gutes Aim sowie eine hohe Feuerrate. Ihre Reichweite ist jedoch begrenzt. Am besten besiegt man sie nacheinander und nutzt Deckung, um sich zu heilen oder nachzuladen.
+
+Die ‚Wache‘-NPCs droppen zwar keine Items, sollten aber dennoch ausgeschaltet werden, um sicher und ungestört eine mögliche Kiste einsammeln zu können, falls einer der ‚Boss‘-NPCs eine Kiste fallen lässt. Als Loot kann ein Item namens ‚verpacktes Heilkraut‘ erscheinen, dessen Menge stark variiert. Dieses Item gibt man per Rechtsklick auf den Fraktionsbasis-NPC ab, wodurch das Heilkraut direkt dem F-Lager (bei Crime-Fraktionen) oder der Asservatenkammer (bei der Polizei) hinzugefügt wird.
 
 ## Variation: Waffenkiste
 
-[Platzhalter]
+Falls du eine geschmuggelte Waffenkiste erhältst, dann musst du diese bei [NPC] Simon abgeben (neben der Mühle /navi Farm).
 
 ## Besondere Gefahren
 
