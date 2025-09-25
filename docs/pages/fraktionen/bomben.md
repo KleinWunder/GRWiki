@@ -1,11 +1,11 @@
 # Bombe
 
-Die Bombe ist eine Fraktionsaktivität der Fraktionen [Medellin Kartell](../../pages/fraktionen/kartell.md) und [Sinaloa Kartell](../../pages/fraktionen/cds.md). Diese Aktivität verschafft den Fraktionen finanzielle Einnahmen. Die Bombe kann alle 6 Stunden gelegt werden und muss von den Kartellmitgliedern hergestellt werden.
+Die Bombe ist eine Fraktionsaktivität aller Crimefraktionen. Diese Aktivität verschafft den Fraktionen finanzielle Einnahmen. Die Bombe kann alle 6 Stunden gelegt werden und muss von den Mitgliedern hergestellt werden.
 
 <img align="right" width="340" height="340" src="../../../assets/image/fraktionen/aktivitäten/Bombe.png">
 
 ## Herstellung
-Mitglieder der Kartelle können mit folgenden Materialien im Labor eine Bombe herstellen:
+Die Crimemitglieder können mit folgenden Materialien im Labor eine Bombe herstellen:
 
 - 3x Blankopapier
 - 12x Schwarzpulver
@@ -19,7 +19,7 @@ Man erhält 1 Blankopapier, wenn man 32 entrindete Holzstämme zur Papierfabrik 
 Schwarzpulver kann man im Bergwerk (**/navi Bergwerk**) abbauen. Die Pulverspitzhacke zum Abbauen erwirbt man beim NPC Aufseher. Mit der Pulverspitzhacke in der Hand kann man vereinzelt die Schwarzpulvervorkommen abbauen, welche einem Schwarzpulver geben.
 
 ## Ablauf
-1. Die Mitglieder des Kartells stellen eine Bombe her und bringen diese an einen wirtschaftlich relevanten Ort.
+1. Die Mitglieder stellen eine Bombe her und bringen diese an einen wirtschaftlich relevanten Ort.
 2. Nun wird die Bombe mit **/bombe** platziert. Dabei müssen einige [Regeln](https://germanrp.eu/forum/index.php?thread/1-regelwerk/) beachtet werden.
 3. Sobald die Bombe platziert wurde, geht ein Alarm los, der für jede Person auf dem Server zu sehen ist.
 4. Die [Polizei](polizei.md) rückt inzwischen an und versucht, die Bombenleger zu neutralisieren. Sie haben dabei 10–12 Minuten Zeit, bis die Bombe explodiert.
@@ -34,5 +34,5 @@ Eine Bombe besteht aus drei Drähten: einem roten, einem grünen und einem blaue
 - Sie versuchen zu raten, welcher der richtige Draht ist. (Diese Option dürfen sie nach 10 Minuten wählen.)
 
 Wurde der richtige Draht gewählt, gewinnt der Staat.
-Wird der falsche Draht gewählt oder die Zeit ist abgelaufen, gewinnt das Kartell. In diesem Fall erhält das Kartell Geld, das von den Polizisten aus der Fraktionskasse in die eigene Fraktionskasse übertragen wird.
+Wird der falsche Draht gewählt oder die Zeit ist abgelaufen, gewinnt das Kartell. In diesem Fall erhält die Crimefraktion Geld, das von den Polizisten aus der Fraktionskasse in die eigene Fraktionskasse übertragen wird.
 
