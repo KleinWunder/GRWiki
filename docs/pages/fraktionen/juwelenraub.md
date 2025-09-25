@@ -1,6 +1,6 @@
 # Juwelenraub
 
-Der Juwelenraub ist eine Fraktionsaktivität der Fraktion [Yakuza](yakuza.md), der [Camorra](camorra.md) und des [Establishments](establishment.md). Diese Aktivität verschafft der Fraktion finanzielle Einnahmen und [Combat-XP](../../pages/skills/combat.md). Der Juwelenraub kann alle 3 Stunden gestartet werden.
+Der Juwelenraub ist eine Fraktionsaktivität aller Crimefraktionen. Diese Aktivität verschafft der Fraktion finanzielle Einnahmen und [Combat-XP](../../pages/skills/combat.md). Der Juwelenraub kann alle 3 Stunden gestartet werden.
 <img align="right" width="440" height="440" src="../../../assets/image/fraktionen/aktivitäten/Juwelier.png">
 
 ## Ablauf
