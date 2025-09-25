@@ -15,4 +15,6 @@ Es gibt vier Gründe, aus denen man auf der Darklist landen kann:
 | Rufmord | 350€ |
 
 ## Freikaufen 
-Um von der Liste der jeweiligen Crimefraktion entfernt zu werden, kann man sich bei der Fraktion freikaufen. Dafür kommt meist ein Mitglied der Fraktion auf einen zu. Es kommt zu einem kleinen Roleplaystrang, der sich um die Zahlung der Darklist dreht. Nach Bezahlung wird man umgehend von der Darklist gelöscht, sofern ein ranghohes Mitglied anwesend ist. Wird die Zahlung verweigert, erhält man nur noch eine Chance zur Zahlung. Beim zweiten Versuch, wenn dieser scheitert, darf die Person ohne Ankündigung erschossen werden. Nach dem Despawnen der Leiche wird man von der Darklist gelöscht.
+Um von der Liste der jeweiligen Crime-Fraktion entfernt zu werden, kann man sich freikaufen. In der Regel tritt dafür ein Mitglied der Fraktion an einen heran, und es entsteht ein kleiner Roleplay-Strang, der sich um die Zahlung der Darklist dreht. Nach erfolgreicher Bezahlung wird man umgehend von der Darklist gelöscht, sofern ein ranghohes Mitglied anwesend ist.
+
+Wird die Zahlung verweigert, erhält man nur noch eine weitere Chance zur Begleichung. Scheitert auch der zweite Versuch, darf die betroffene Person ohne Ankündigung erschossen werden. Nach dem Despawnen der Leiche wird man schließlich von der Darklist entfernt.
