@@ -1,7 +1,7 @@
 # Fraktionen
 
-!!! info "Seiteninfo"
-    Diese Seite befindet sich noch im Aufbau. Der Beitrag ist daher noch **nicht vollständig!**
+!!! warning "Aktivitäten"
+    Mit der Version 9.2.5 sind für alle Fraktionstypen alle Fraktionsaktivitäten freigeschaltet. Diese Änderung ist noch nicht in Stein gemeißelt und kann wieder zurückgenommen werden, wenn das Feedback negativ ist.
 
 Auf GermanRP gibt es aktuell 7 aktive Fraktionen, welche sich zwischen Staat, Crime und Neutral unterteilen. Die Staatsfraktionen, [Polizei](polizei.md) und [Rettungsdienst](rettungsdienst.md), versuchen kriminelle Handlungen zu verhindern oder den Menschen in der Stadt zu helfen.
 Crimefraktionen hingegen sind der Polizei und Öffentlichkeit feindselig eingestellt. Sie unterscheiden sich in ihrer Herkunft und im Konzept. 
@@ -36,8 +36,8 @@ Die Karteller sind stolze Personen, die eigensinnig und zielorientiert handeln.
 
 Auf dem Server gibt es 2 Kartelle:
     
-* Das kolumbianische Kartell ([Medellín Kartell](kartell.md)) | Deaktiviert
-* Das mexikanische Kartell ([Sinaloa Kartell](cds.md))
+* Das kolumbianische Kartell ([Medellín Kartell](kartell.md))
+* Das mexikanische Kartell ([Sinaloa Kartell](cds.md)) | Deaktiviert
 
 ## Gang
 

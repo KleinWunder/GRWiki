@@ -13,14 +13,14 @@ Der Rettungsdienst verfügt über verschiedene Möglichkeiten, den Spielern auf 
 * Bewusstlose Spieler wiederbeleben
 * Blutanalysen und Operationen durchführen
 * Notrufen nachgehen
-* Gewerbe Brände löschen (Feuerwehr)
 * Medizinische Absicherung von Gefahrenlagen (wie Raubüberfälle)
 * Halten von Erste-Hilfe-Kursen für die Polizei
 
 ### Feuerwehr
-Die Feuerwehr ist eine Subfraktion des Rettungsdienstes. Ihre Hauptaufgabe besteht darin:
-* Die Bevölkerung vor Bränden zu schützen
-* Personen mithilfe des Sprungtuchs oder der Feuerwehraxt zu retten.
+Die Feuerwehr ist eine Subfraktion des Rettungsdienstes. Ihre Hauptaufgaben besteht darin:
+* Brände in Gewerben zu löschen
+* Personen mithilfe des Sprungtuchs oder der Feuerwehraxt zu retten
+
 Nur Mitglieder der Feuerwehr können Feuerlöscher und Feuerwehräxte ausrüsten. Zudem sind sie befugt, für diesen Zweck Straßensperren zu errichten.
 
 ## Rettungsdienst-Equip
