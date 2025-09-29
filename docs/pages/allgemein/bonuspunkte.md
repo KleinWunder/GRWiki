@@ -20,5 +20,6 @@ Im Bonusshop sind verschiedene Prämien erhältlich:
 | 500 XP | 14 Bonuspunkte |
 | 1000 € | 16 Bonuspunkte |
 | 1 Charakterleben | 20 Bonuspunkte |
-| 3 Stunden Gameboost | 36 Bonuspunkte |
+| 1 Stunden Gameboost | 12 Bonuspunkte |
 | 12 Stunden VIP Ontime | 40 Bonuspunkte |
+| +50 Munitionstaschenslots | 180 Bonuspunkte |
