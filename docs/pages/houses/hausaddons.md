@@ -31,7 +31,4 @@ Im Itemschrank können bis zu 10 Items gelagert werden.
 Das Einlagern funktioniert wie beim Waffenschrank, indem du mit Rechtsklick auf dein Hausschild klickst und dann auf "Itemschrank" gehst.
 
 ## Garten
-Der Garten kann nur in einer Fraktion genutzt werden. Im Garten können Heilkrautpflanzen oder Rosen angebaut werden. Allerdings benötigen diese mehr Zeit und werfen weniger Ertrag ab als selbst gepflanzte Pflanzen.
-Benötigt wird ein Topf, welcher nach einer Quest an der Obstplantage (**/navi Obstplantage**) erworben werden kann.
-Um einen Topf zu verwenden, muss man Mieter im Haus sein. Je Mieter erhält man einen Topfplatz im Garten.
-Dieser Topf muss dann, wenn man sich im Gartenmenü befindet, angeklickt werden. Danach erneut den Topf anklicken und anschließend das gewünschte Saatgut auswählen.
+Der Garten kann nur innerhalb einer Fraktion genutzt werden. Dort können Heilkrautpflanzen oder Rosen angebaut werden. Allerdings benötigen diese mehr Zeit und liefern weniger Ertrag als selbst angepflanzte Pflanzen. Benötigt wird ein Topf, der nach einer Quest an der Obstplantage (**/navi Obstplantage**) erworben werden kann. Um einen Topf zu verwenden, muss man Mieter in einem Haus sein. Pro Mieter erhält man einen Topfplatz im Garten. Dieser Topf muss im Gartenmenü angeklickt werden. Danach klickt man erneut auf den Topf und wählt anschließend das gewünschte Saatgut aus.
