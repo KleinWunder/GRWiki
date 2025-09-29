@@ -7,6 +7,10 @@ Um eine Gruppierung erstellen zu können, muss man mindestens Level 10 sein. Zud
 ## Erweiterung
 Mit der Gründung der Gruppierung hat diese standardmäßig 2 Memberslots. Um weitere Memberslots zu erhalten, kann man diese für 1.250 € pro Slot im [Rathaus](../../pages/orte/rathaus.md) bei Tiffrany erwerben.
 
+## Gehälter
+
+Der Besitzer der Gruppierung kann Gehälter festlegen, wenn das Gruppierungslevel 10 erreicht wurde.
+
 ## Befehle
 
 | Befehl | Funktion |
