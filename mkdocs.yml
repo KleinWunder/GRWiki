@@ -281,6 +281,7 @@ nav:
   - Wolf: pages/pets/wolf.md
 - NPCS:
   - Massimo: pages/other/massimo.md
+  - Clayton: pages/other/clayton.md
 - Sonstiges:
   - AFK: pages/other/afk.md
 - Links: pages/other/links.md
