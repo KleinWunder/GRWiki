@@ -11,9 +11,11 @@ In der [KFZ-Werkstatt](kfz-werkstatt.md) können Autos repariert, lackiert und m
 ## Autounfälle
 Bei einem Autounfall erleidet jeder, der im Auto mitfährt, Schaden und hat die Chance, eine Verletzung zu erleiden, wie eine [Beinverletzung](../../pages/krankheiten/beinverletzungen.md) oder Nasenbluten. Wenn das Auto beschädigt wird, muss es entweder von Mechanikern (**/mechaniker**) repariert werden, die du mit ++shift+rbutton++ rufen kannst, oder du fährst in eine [KFZ-Werkstatt](../fahrzeuge/kfz-werkstatt.md) und lässt es dort reparieren.
 
+Um das Fahrzeug aus dem Hindernis zu befreien reicht es den Rückwärtsgang einzulegen, um etwas zurückzusetzen. (Seit V9.2.5 möglich)
+
 !!! tip "Mechaniker ist günstiger"
     Es lohnt sich eher, einen Mechaniker zu rufen, da dies günstiger ist, als die Reparatur in der KFZ-Werkstatt durchführen zu lassen.
-
+    
 ## Erwerben von Fahrzeugen
 Fahrzeuge können beim Fahrzeughändler (**/navi Fahrzeughändler**) oder beim Luxusfahrzeughändler (**/navi Luxusfahrzeughändler**) erworben werden. Die Fahrzeuge unterliegen einer Levelbeschränkung.
 
