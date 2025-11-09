@@ -1,4 +1,4 @@
-# Oststadt
+# Oststadt (PLZ: 74902)
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Oststadt1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Oststadt2.png">
 
