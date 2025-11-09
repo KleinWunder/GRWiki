@@ -1,4 +1,4 @@
-# County / Plaza
+# County / Plaza (PLZ: 74906)
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/County1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/County2.png">
 
