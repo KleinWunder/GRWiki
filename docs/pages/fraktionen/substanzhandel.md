@@ -28,6 +28,8 @@ Vor Ort ist große Vorsicht geboten: Die NPCs eröffnen sofort das Feuer auf jed
 
 Die ‚Wache‘-NPCs droppen zwar keine Items, sollten aber dennoch ausgeschaltet werden, um sicher und ungestört eine mögliche Kiste einsammeln zu können, falls einer der ‚Boss‘-NPCs eine Kiste fallen lässt. Als Loot kann ein Item namens ‚verpacktes Heilkraut‘ erscheinen, dessen Menge stark variiert. Dieses Item gibt man per Rechtsklick auf den Fraktionsbasis-NPC (bei der Polizei einem der ‚Polizeibeamter‘-NPCs) ab, wodurch das Heilkraut direkt dem F-Lager (bei Crime-Fraktionen) oder der Asservatenkammer (bei der Polizei) hinzugefügt wird.
 
+<img align="right/left" width="700" height="325" src="../../assets/image/fraktionen/aktivitäten/Verpacktes_Heilkraut.png">
+
 ## Variation: Waffenkiste
 
 Wenn man in einer Crime-Fraktion ist, besteht eine Chance, dass statt einer Kiste ‚verpacktes Heilkraut‘ eine geschmuggelte Waffenkiste droppt. Diese wird nicht beim Fraktionsbasis-NPC abgegeben, sondern bei [NPC] Simon verkauft (/navi Schwarzmarkt). Dafür erhält die Fraktion dann etwas Geld in die Fraktions-Kasse.
