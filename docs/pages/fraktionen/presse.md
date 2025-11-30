@@ -10,8 +10,9 @@ Die Presseagentur sorgt für Klarheit und Transparenz in jedem Teil der Stadt Va
 * Schaltung von Chat- und Handywerbung
 * Veröffentlichung aktueller Ereignisse
 * Auflistung der günstigsten Artikel aus [Gewerben](../../pages/biz/business.md)
-* Verfassen von Zeitungen (derzeit nicht verfügbar)
+* Verfassen von Zeitungen
 * Erstellung von Wochenübersichten
+* Bearbeitung der Werbeplakete
 
 ## Lage der Hauptquartiers
 
