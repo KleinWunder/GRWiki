@@ -32,7 +32,7 @@ Um den Kofferraum zu öffnen muss man direkt am Auto stehen. (**/kofferraum**)
 | Smart | - | 10g |
 | Subaru Impreza | 1 | 25g |
 | Viper STR | 1 | 25g |
-| VW T6 | 100 km/h | 5 | 125g |
+| VW T6 | 5 | 125g |
 | WRX STI 2020 | 1 | 30g |
 | ZUK Camper | 5 | 125g |
 
