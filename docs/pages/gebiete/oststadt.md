@@ -14,7 +14,7 @@ Die Oststadt ist ein kleines, ruhiges Wohnviertel, das überwiegend aus farbigen
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Oststadt</td>
+      <td align="center">Oststadt (PLZ: 74902)</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
