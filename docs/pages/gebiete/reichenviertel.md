@@ -14,7 +14,7 @@ Die markanten Backsteinhäuser im Reichenviertel stechen jedem sofort ins Auge. 
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Reichenviertel</td>
+      <td align="center">Reichenviertel (PLZ: 74903)</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
