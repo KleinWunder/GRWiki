@@ -13,7 +13,7 @@ Eine kleine, unscheinbare und ruhige Gegend. In den modernen Villen in dieser St
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Strandpassage</td>
+      <td align="center">Strandpassage (PLZ: 74904)</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
