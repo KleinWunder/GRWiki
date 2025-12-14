@@ -13,7 +13,7 @@ Das Gebiet County und der dazugehörige Plaza zeichnen sich durch markante Sands
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">County/Plaza</td>
+      <td align="center">County/Plaza (PLZ: 74906)</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
