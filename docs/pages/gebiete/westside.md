@@ -14,7 +14,7 @@ An das Land England angelehnt, bringt das Viertel drei Gewerbe mit sich und ist 
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Westside</td>
+      <td align="center">Westside (PLZ: 74907)</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
