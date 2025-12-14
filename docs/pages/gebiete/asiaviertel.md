@@ -14,7 +14,7 @@ Inmitten blühender Sakura-Bäume liegt das Asiaviertel. Die charakteristischen 
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Asiaviertel</td>
+      <td align="center">Asiaviertel (PLZ: 74905)</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
