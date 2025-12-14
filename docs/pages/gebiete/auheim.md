@@ -13,7 +13,7 @@ In Auheim herrschen noch raue Sitten. Nur der Stärkste gewinnt. Das Gebiet ist 
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Auheim <br> Auheim Süd</td>
+      <td align="center">Auheim (PLZ: 74908)<br> Auheim Süd</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
