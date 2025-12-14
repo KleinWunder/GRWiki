@@ -14,7 +14,7 @@ Altstadt ist ein historisch geprägtes Viertel, das sich durch seine detailreich
   <tbody>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Altstadt</td>
+      <td align="center">Altstadt (PLZ:74909)</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
