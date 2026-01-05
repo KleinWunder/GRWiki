@@ -22,7 +22,7 @@ Altstadt ist ein historisch geprägtes Viertel, das sich durch seine detailreich
     </tr>
     <tr>
       <td align="center">Öffentliche Orte</td>
-      <td align="center"><a href="../../fraktionen/Rousseau/">Rousseau</a> HQ <br> Kirche</td>
+      <td align="center"><a href="../../fraktionen/Rousseau/">Bratva</a> HQ <br> Kirche</td>
     </tr>
     <tr>
       <td align="center">Nebenjobs</td>
