@@ -1,4 +1,4 @@
-# Auheim (PLZ: 74908)
+# Auheim
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Auheim-1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Auheim-2.png">
 
@@ -11,9 +11,13 @@ In Auheim herrschen noch raue Sitten. Nur der Stärkste gewinnt. Das Gebiet ist 
     </tr>
   </thead>
   <tbody>
+       <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74908</td>
+    </tr>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Auheim (PLZ: 74908)<br> Auheim Süd</td>
+      <td align="center">Auheim<br> Auheim Süd</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
