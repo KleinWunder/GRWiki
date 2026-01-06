@@ -1,4 +1,4 @@
-# Reichenviertel (PLZ: 74903)
+# Reichenviertel
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Reichenviertel1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Reichenviertel2.png">
 
@@ -12,9 +12,13 @@ Die markanten Backsteinhäuser im Reichenviertel stechen jedem sofort ins Auge. 
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74903</td>
+    </tr>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Reichenviertel (PLZ: 74903)</td>
+      <td align="center">Reichenviertel</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
