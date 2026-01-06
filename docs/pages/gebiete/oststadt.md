@@ -1,4 +1,4 @@
-# Oststadt (PLZ: 74902)
+# Oststadt
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Oststadt1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Oststadt2.png">
 
@@ -13,8 +13,12 @@ Die Oststadt ist ein kleines, ruhiges Wohnviertel, das überwiegend aus farbigen
   </thead>
   <tbody>
     <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74902</td>
+    </tr>
+    <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Oststadt (PLZ: 74902)</td>
+      <td align="center">Oststadt</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
