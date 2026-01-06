@@ -1,4 +1,4 @@
-# Downtown (PLZ: 74901)
+# Downtown
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Downtown1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Downtown2.png">
 
@@ -12,6 +12,10 @@ Downtown bildet das Herzstück von Vance City. Das Zentrum der Stadt besteht aus
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74901</td>
+    </tr>
     <tr>
       <td align="center">Haltestelle</td>
       <td align="center"><a href="../../fraktionen/rettungsdienst/">Uniklinik</a> <br> Postzentrale <br> Altersheim </td>
