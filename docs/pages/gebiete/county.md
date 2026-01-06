@@ -1,4 +1,4 @@
-# County / Plaza (PLZ: 74906)
+# County / Plaza
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/County1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/County2.png">
 
@@ -11,9 +11,13 @@ Das Gebiet County und der dazugehörige Plaza zeichnen sich durch markante Sands
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74906</td>
+    </tr>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">County/Plaza (PLZ: 74906)</td>
+      <td align="center">County/Plaza</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
