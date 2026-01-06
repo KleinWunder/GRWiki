@@ -1,4 +1,4 @@
-# Altstadt (PLZ: 74909)
+# Altstadt
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Altstadt1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Altstadt2.png">
 
@@ -13,8 +13,12 @@ Altstadt ist ein historisch geprägtes Viertel, das sich durch seine detailreich
   </thead>
   <tbody>
     <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74909</td>
+    </tr>
+    <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Altstadt (PLZ:74909)</td>
+      <td align="center">Altstadt</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
