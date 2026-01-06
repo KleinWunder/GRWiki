@@ -1,4 +1,4 @@
-# Asiaviertel (PLZ: 74905)
+# Asiaviertel
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Asiaviertel1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Asiaviertel2.png">
 
@@ -12,9 +12,13 @@ Inmitten blühender Sakura-Bäume liegt das Asiaviertel. Die charakteristischen 
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74905</td>
+    </tr>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Asiaviertel (PLZ: 74905)</td>
+      <td align="center">Asiaviertel</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
