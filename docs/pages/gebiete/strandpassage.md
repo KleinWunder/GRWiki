@@ -1,4 +1,4 @@
-# Strandpassage (PLZ: 74904)
+# Strandpassage
 
 <img align="left" width="340" height="340" src="../../../assets/image/gebiete/Strandpassage1.png"> <img align="center" width="340" height="340" src="../../../assets/image/gebiete/Strandpassage2.png">
 
@@ -11,9 +11,13 @@ Eine kleine, unscheinbare und ruhige Gegend. In den modernen Villen in dieser St
     </tr>
   </thead>
   <tbody>
+       <tr>
+      <td align="center">Postleitzahl</td>
+      <td align="center">74904</td>
+    </tr>
     <tr>
       <td align="center">Haltestelle</td>
-      <td align="center">Strandpassage (PLZ: 74904)</td>
+      <td align="center">Strandpassage</td>
     </tr>
     <tr>
       <td align="center">Gewerbe</td>
