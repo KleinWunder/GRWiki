@@ -3,7 +3,7 @@
 Die Blitzer sind in ganz Vance City verteilt, um Geschwindigkeitsüberschreitungen zu erfassen. <img align="right" width="150" height="100" src="../../../assets/image/Öpnv/Straßenmaterial/Blitzer.png">
 Das errechnete Bußgeld hängt von der überschrittenen Geschwindigkeit ab.
 
-Man kann mit einer Brechstange einen Blitzer zerstören, wodurch er vorübergehend außer Betrieb ist und dieser kann von der Polizei repariert werden.
+Man kann mit einer Brechstange einen Blitzer zerstören, wodurch er vorübergehend außer Betrieb ist und dieser kann von der Polizei repariert werden. Für das Reparieren von Blitzern erhält man Geld.
 
 ### Mobile Blitzer <img align="right" width="130" height="185" src="../../../assets/image/Öpnv/Straßenmaterial/Mobiler-Blitzer.png">
 
