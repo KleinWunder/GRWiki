@@ -17,6 +17,7 @@ Die Polizei sorgt für Recht und Ordnung in jedem Teil der Stadt Vance City. Dab
 * Gebrauch von exklusiver Polizeiausstattung
 * Staatsmeldungen ausrufen
 * Spieler in der [JVA](../../pages/orte/jva.md) kontrollieren
+* Reparieren von Blitzern
 
 ## Polizeiequip
 
