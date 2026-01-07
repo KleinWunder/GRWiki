@@ -64,6 +64,8 @@ Die Kartellfraktionen können folgende Aktivitäten durchführen:
 * [HQ Raids](hqraids.md) durchführen
 * [Kopfgelder](kopfgeld.md) erledigen
 * [Substanzen Dealer](substanzendealer.md) abfangen
+* [Gangwar](gangwar.md) ausspielen
+* Fungangwar ausspielen
 
 ## Mafia
 
@@ -81,6 +83,8 @@ Die Mafiafraktionen können folgende Aktivitäten durchführen:
 * [Kopfgelder](kopfgeld.md) erledigen
 * [Mohnkapseln](../../pages/pflanzen/mohnfeld.md) herstellen
 * [Substanzen Dealer](substanzendealer.md) abfangen
+* [Gangwar](gangwar.md) ausspielen
+* Fungangwar ausspielen
 
 ## Gang
 
@@ -97,6 +101,8 @@ Die Gangfraktionen können folgende Aktivitäten durchführen:
 * [Hackerangriffe](hackerangriff.md) starten
 * [Kopfgelder](kopfgeld.md) erledigen
 * [Substanzen Dealer](substanzendealer.md) abfangen
+* [Gangwar](gangwar.md) ausspielen
+* Fungangwar ausspielen
 
 # Rufpunkte
 
