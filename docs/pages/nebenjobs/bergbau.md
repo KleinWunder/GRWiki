@@ -28,9 +28,9 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 
 | Spitzhacke | Preis | Verzauberung | Mindest-Skilllevel |
 | :-: | :-: | :-: | :-: |
-| Einfache Steinspitzhacke | 15€ | Keine | Level 0 |
-| Widerstandsfähige Steinspitzhacke | 25€ | Effizienz 1 | Level 4 |
-| Robuste Steinspitzhacke | 40€ | Effizienz 2 | Level 6 |
+| Einfache Steinspitzhacke | 15€ | Effizienz 2 | Level 0 |
+| Widerstandsfähige Steinspitzhacke | 25€ | Effizienz 3 | Level 4 |
+| Robuste Steinspitzhacke | 40€ | Effizienz 4 | Level 6 |
 
 ## Verkauf von Steinbruchitems
 
@@ -42,6 +42,7 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 | Diorit | 0,20€ |
 | Andesit | 0,40€ |
 | Bruchtiefenschiefer | 0,18€ |
+| Tuffstein | 0,17€ |
 
 ## Hilfreiche Tipps
 
