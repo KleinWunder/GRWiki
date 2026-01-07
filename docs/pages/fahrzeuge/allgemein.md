@@ -99,7 +99,7 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 | Zivilstreifenwagen | 80.000€ | 135 km/h | 2 | Ja | 25L | 120 |
 | Ziviltransporter | 15.000€ | 135 km/h | 6 | Ja | 30L | 175 |
 | Polizei Limousine | 35.000€ | 145 km/h | 4 | Ja | 30L | 150 |
-| Polizei Motorad | 45.000€ | 135 km/h | 1 | Nein | 15L | 60 |
+| Polizei Motorrad | 45.000€ | 135 km/h | 1 | Nein | 15L | 60 |
 | Polizei Helikopter | 50.000€ | 200 km/h | 5 | Nein | 50L | 200 |
 | Zolltransporter | 15.000€ | 135 km/h | 6 | Ja | 30L | 125 |
 | Polizei G-Klasse | 85.000€ | 140 km/h | 4 | Ja | 25L | 175 |
