@@ -1,15 +1,16 @@
-# Rousseau Familie
+# Bratva-Gang
 
 <img align="right" width="340" height="340" src="../../../assets/image/fraktionen/RFHQ.png">
 
-Die Rousseau Familie ist eine französische Gang, die einen Schmuggelhandel in der Stadt betreibt. Sie agiert und betreibt nebenbei eine Bäckerei in einer Markthalle. Die Gangmitglieder sind sehr territorial und pflegen kein gutes Verhältnis zu anderen Fraktionen. Solange die [Polizei](polizei.md) sich nicht in ihre Angelegenheiten einmischt, sind sie dieser nicht feindlich gestimmt.
+Vor Kurzem hat die Bratva-Gang eine bedeutende Veränderung an ihrer Spitze erlebt. Ein neuer Wind weht durch die Reihen.
+Seit M. Ivanov zusammen mit seiner Tochter Chara das Kommando übernommen hat, hat sich der Ton in der Straßengang spürbar verändert. Mit einer Mischung aus Charisma, Berechnung und Furchtlosigkeit haben Sie sich in kürzester Zeit an die Spitze gesetzt und niemand wagt, Ihre Entscheidungen in Frage zu stellen.
 
 ## Hintergrundgeschichte 
 Aktuell nicht verfügbar.
 
 ## Auftreten 
 
-Die Familienmitglieder treten gemeinschaftlich auf und pflegen einen rauen Umgangston. Ihre Kleidung wird von den Farben Blau, Schwarz, Rot und Weiß bestimmt und die französische Flagge ist sichtbar. Innerhalb ihres Geschäftes in der "Boulangerie de la Rousseau" pflegen sie einen lockeren, geschäftlichen Umgang und sind territorial.
+Nach außen tritt die Bratva-Gang offen als gefährliche Straßengang auf. Ihre Präsenz ist in Vance City allgegenwärtig. Sie sind laut, unberechenbar und furchteinflößend. Chaos, Gewalt und Einschüchterung sind ihre Werkzeuge, mit denen sie ihr Territorium sichern und ihren Einfluss stetig ausweiten.
 
 ## Aktivitäten
 Die Fraktion geht folgenden Aktivitäten nach:
@@ -23,4 +24,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 ## Lage des Hauptquartiers
 
-Die Rousseau Familie besitzt eine Markthalle direkt am Marktplatz in der Altstadt. Diese Markthalle umfasst eine Fromagerie (Käsestand), ein Café (Kaffeestand), Fruits et Légumes (Obst- und Gemüsestand), eine Boucherie (Fleischerei) und eine Boulangerie (Bäckerei).
+Die Bratva-Familie hat sich mitten im Herzen der Altstadt niedergelassen. Direkt in einer alten, besetzten Boulangerie direkt am belebten Marktplatz.
