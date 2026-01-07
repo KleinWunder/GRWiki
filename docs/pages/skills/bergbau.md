@@ -11,7 +11,7 @@ Den Bergbau-Skill kann durch folgende Aktivitäten gelevelt werden:
 ## Funktionen
 | Level | Funktion |
 |:-:|:-:|
-| Immer | 1 Taschenslot <br> +0,5% Chance auf Drops <br> 1 Skillpoint |
+| Immer | 1 Taschenslot <br> 1 Skillpoint |
 
 ## Pets 
 Folgende Pets wirken sich ebenfalls positiv auf den Bergbau-Skill aus:
