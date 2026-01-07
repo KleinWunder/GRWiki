@@ -18,7 +18,7 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /lizenzen | Übersicht der eigenen Lizenzen. |
 | /level | Übersicht zum eigenen Level und XP Fortschritt. |
 | /stats | Anzeige von Informationen. |
-| /menü | Das Spielmenü aufrufen. | 
+| /menü <br> /m| Das Spielmenü aufrufen. | 
 | /jobs | Öffnet eine Übersicht aller Nebenjobs. |
 | /skills | Übersicht der eigenen Skill-Level. |
 | /boosters | Abfrage eines momentan aktiven Boosters. (Im Shop erwerbbar.)|
@@ -41,6 +41,7 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /ooc | Kommunikation außerhalb des RP's. |
 | /s <br> /schreien | Schreien. (20 Blöcke) |
 | /w <br> /whisper <br> /flüstern | Flüstern. (5 Blöcke) |
+| /gedanke <br> /thought | Dein Gedanke im RP |
 | /lay | Sich hinlegen. |
 | /sit | Sich hinsetzen. |
 | /afk | Betreten des AFK Modus. (Achtung: AFK-Regel beachten) |
@@ -66,6 +67,7 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 
 | Befehl | Erklärung | 
 |:-:|:-:|
+| /duty | In den Dienst gehen |
 | /memberinfo [Name/Fraktion]| Zugehörigkeit einer Fraktion abfragen. |
 | /members | Listet die Memberliste deiner Fraktion auf. |
 | /fraktionen <br> /fraks | Öffnet ein Menü mit allen Fraktionen. |
@@ -105,3 +107,4 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /häuser | Zeigt dir alle Häuser die du besitzt an. |
 | /hlager | Alle Unterpunkte rund ums Hauslager |
 | /hauskasse | Alle Unterpunkte rund um die Hauskasse |
+| /mieters | Zeigt alle Mieter an |
