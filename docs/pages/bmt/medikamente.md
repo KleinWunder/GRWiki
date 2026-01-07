@@ -1,4 +1,5 @@
 # Medikamente
+Medikamente helfen Spielern wieder gesund zu werden. Es gibt verschiedene Arten von Medikamenten. Diese Medikamente findet ihr, indem Ihr /tasche oder /inv in den Chat schreibt und dann auf die Medikamententasche in der Mitte des Fensters klickt.
 
 <table>
   <thead>
