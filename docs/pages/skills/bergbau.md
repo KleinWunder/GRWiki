@@ -5,7 +5,7 @@ Der Bergbau-Skill hilft seltenere Mineralien oder wertvolle Gegenstände beim Ab
 ## Erhalten der Skill-XP 
 Den Bergbau-Skill kann durch folgende Aktivitäten gelevelt werden:
 
-* Abbauen von Eisen im [Steinbruch](../../pages/nebenjobs/bergbau.md)
+* Abbauen von Steinen im [Steinbruch](../../pages/nebenjobs/bergbau.md)
 * Nebenjob [Erztransport](../../pages/nebenjobs/erztransport.md)
 
 ## Funktionen
