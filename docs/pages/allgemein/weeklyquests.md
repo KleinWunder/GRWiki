@@ -19,6 +19,6 @@ Mit dem erledigen von Aufgaben erhält man Punkte und mit diesen kann man versch
 | Simon's Schlüssel | Legendär |
 
 ### Simon's Schlüssel
-• Erhältlich durch das Abschließen von Jobrotations oder Lootchests.
-• Ermöglicht es, jederzeit eine Schwarzmarkauktion zu betreten.
+• Erhältlich durch das Abschließen von Jobrotations oder Lootchests. <br>
+• Ermöglicht es, jederzeit eine Schwarzmarkauktion zu betreten. <br>
 • Verschwindet nach einmaliger Nutzung.
