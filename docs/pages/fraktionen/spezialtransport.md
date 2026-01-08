@@ -1,22 +1,32 @@
 # Spezialtransport
 
-!!! info "Seiteninfo" 
-    Diese Seite befindet sich noch im Aufbau. Der Beitrag wird bald verfügbar sein!
-    Um Informationen der verschiedenen Spezialtransportorte wird gebeten!
-
+Der Spezialtransport kann beim Syndikat angefordert werden und dies nur von Crimefraktionen.
 	
 | Nächste Bushaltestelle | Genauer Ort |
 |:-:|:-:|
-| Farm | In der Jägerhütte oben. |
-| Altersheim | Im Donutladen hinter der Theke. |
-| Altersheim | Im gelben Container auf der Baustelle. |
-| Strandpassage | Im Yachthafen, der rechte Steg. Erstes Boot links. |
-| Ganggebiet (Nord) | In der Lagerhalle 1, hinten, in der Nähe der Geldwäscherei. |
-| Plaza | Im Fabrikgebäude in einem Laster. |
-| Ganggebiet (Nord) | Im einen der Wohnwägen. |
-| Altstadt | Beim Alten Friedhof hinter dem Altar im Gebäude. |
-| Asiaviertel | In der Nähe der U-Bahn Station. |
-| Westside | Ticketschalter vom Museum. |
-
-
-
+| Reichenviertel | Im Transporter hinter dem Fightclub |
+| Plaza | Im Transporter in der Fabrik (County) |
+| Auheim (Süd) | In der Lagerhalle von den Iron Serpents |
+| Auheim (Süd) | Auf einem Anhänger vor der Papierfabrik |
+| Altstadt | In der Sekte |
+| Altersheim | Auf der Baustelle in Downtown |
+| Farm | Auf dem Bauernhof |
+| Reichenviertel | Auf der Yacht |
+| Westside | Im Museum |
+| Asia-Viertel | Im Freizeitpark |
+| Steinbruch | Raffinerie |
+| Postzentrale | Im Rathaus (Fundbüro) |
+| Altersheim | Im Donutladen |
+| Altstadt | In der Kirche |
+| Altersheim | Im Schwimmbad |
+| Alstadt | Im Möbelhaus |
+| Strandpassage | Nähe Tankstelle-7 auf dem Hügel |
+| Steinbruch | Im Logistikzentrum in der oberen Etage |
+| Asia-Viertel | Asiafischer |
+| County | Beim Imker |
+| Auheim (Süd) | In einem zerstörten Gebäude |
+| Westside | Hinterm Luxusfahrzeughändler |
+| County | Bei der alten JVA bei einem Baum |
+| Altersheim | Im oberen Stockwerk beim Taxi Gebäude |
+| Westside | Hafen |
+| Pastzentrale | Arcade | 
