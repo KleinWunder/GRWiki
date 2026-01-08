@@ -18,3 +18,10 @@ Wenn ein Mitglied des Rettungsdienstes **verfügbar** ist, wird die Behandlung w
 Sprich die Sekräterin an
 Laufe ein paar Räume weiter und finde den Arzt auf.
 Steht man vor dem NPC (z.B. "Dr. Fath"), wird dieser mit Rechtsklick aktiviert. Er überprüft die [Krankheiten](../../pages/krankheiten/gesundheit.md) und listet nach kurzer Zeit alle Krankheiten im Chat auf. Nun kann die Behandlung im Chat bestätigt werden.
+
+## Behandlungen
+Der Hausarzt kann bei folgenden Sachen helfen:
+* Blutarmut
+* Beinverletzungen
+* Dehydration
+* Nasenbluten
