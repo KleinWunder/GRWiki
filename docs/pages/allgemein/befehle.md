@@ -31,6 +31,7 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /discord | Erhalte den Link zum Discord. |
 | /vote | Vote für den Server. |
 | /werbung | Schalte eine Werbung auf dem Server frei. |
+| /events | Zeigt die aktiven Events an. |
 
 ## Roleplay Befehle
 
