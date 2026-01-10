@@ -1,6 +1,6 @@
 # Hackerangriff
 
-Der Hackerangriff ist eine Großaktivität der [Rousseau Familie](../../pages/fraktionen/rousseaufamilie.md) und anderer Crimefraktionen. Diese Aktivität verschafft den Fraktionen finanzielle Einnahmen in Höhe von 3.000€.
+Der Hackerangriff ist eine Großaktivität der Crimefraktionen. Diese Aktivität verschafft den Fraktionen finanzielle Einnahmen in Höhe von 3.000€.
 Ein Hackerangriff kann alle 3 Stunden gestartet werden und muss von den Gang-Mitgliedern beim Equip gekauft werden.
 
 ## Ablauf

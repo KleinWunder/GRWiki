@@ -105,6 +105,7 @@ nav:
     - Items & Gegenstände:
       - Tasche: pages/allgemein/tasche.md
       - Cosmetics: pages/allgemein/cosmetics.md
+    - Wöchentliche Quests: pages/allgemein/weeklyquests.md
   - Beziehung: pages/allgemein/beziehung.md
   - Gruppierung: pages/allgemein/gruppierung.md
   - Perks, Effekte & Booster: pages/allgemein/perks.md
@@ -228,6 +229,7 @@ nav:
     - Banküberfall: pages/fraktionen/banküberfall.md
     - Bombe: pages/fraktionen/bomben.md
     - Darklist: pages/fraktionen/darklist.md
+    - Fungangwar: pages/fraktionen/fungangwar.md
     - Graffiti: pages/fraktionen/graffiti.md
     - Hackerangriff: pages/fraktionen/hackerangriff.md
     - Hausaktionen: pages/fraktionen/hausaktionen.md
@@ -285,4 +287,5 @@ nav:
   - Clayton: pages/other/clayton.md
 - Sonstiges:
   - AFK: pages/other/afk.md
+  - Easter Eggs: pages/other/eastereggs.md
 - Links: pages/other/links.md
