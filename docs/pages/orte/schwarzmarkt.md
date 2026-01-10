@@ -9,7 +9,7 @@ Der Schwarzmarkt befindet sich unter einer Mühle. Hier kann man Items kaufen, d
 | Eintrittskosten | 200 € |
 
 Um Eintritt zu erhalten, musst du zuerst zu Simon gehen, der sich links neben der Mühle befindet, und ein Ticket kaufen. Ebenfalls kann man mit einem Simon's Schlüssel den Schwarzmarkt jederzeit betreten.
-Dieser erhält man durch Jobrotations oder Lootchests aus den [Wöchentlichen Quests](weeklyquests.md).
+Dieser erhält man durch Jobrotations oder Lootchests aus den [Wöchentlichen Quests](../../pages/allgemein/weeklyquests.md).
 
 ## Verkaufte Items
 Hier können verschiedene Items gekauft werden, die zufällig in die Auktion aufgenommen werden.

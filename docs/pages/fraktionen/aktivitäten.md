@@ -22,7 +22,7 @@ Die Polizei kann folgende Aktivitäten durchführen:
 * Strafzettel verteilen
 * Betäubungsmittel verbrennen
 * Verhaftungen durchführen
-* [Blitzer](blitzer.md) reparieren
+* [Blitzer](../../pages/fahrzeuge/blitzer.md) reparieren
 
 ## Rettungsdienst
 Der Rettungsdienst kann folgende Aktivitäten durchführen:

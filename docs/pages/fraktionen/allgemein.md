@@ -47,4 +47,4 @@ Auf dem Server gibt es 3 Gangs:
 
 * Die irische Gang ([O’Callaghan](ocallaghan.md)) | Deaktiviert
 * Die russische Gang ([Volkov Familie](volkovfamilie.md)) | Deaktiviert
-* Die franzözische Gang ([Rousseau Familie](rousseaufamilie.md))
+* Die russische Gang ([Bravta](bratva.md))
