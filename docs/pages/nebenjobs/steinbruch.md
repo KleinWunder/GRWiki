@@ -36,13 +36,13 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 
 | Item | Verkaufspreis pro Stück |
 |:-:|:-:|
-| Bruchstein | 0,09€ |
+| Bruchstein | 0,50€ |
 | Stein | 0,15€ |
-| Granit | 0,20€ |
-| Diorit | 0,20€ |
-| Andesit | 0,40€ |
-| Bruchtiefenschiefer | 0,18€ |
-| Tuffstein | 0,17€ |
+| Granit | 1,00€ |
+| Diorit | 1,25€ |
+| Andesit | 1,50€ |
+| Bruchtiefenschiefer | 1,75€ |
+| Tuffstein | 2,00€ |
 
 ## Hilfreiche Tipps
 
