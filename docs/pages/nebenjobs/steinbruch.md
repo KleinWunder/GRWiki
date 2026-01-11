@@ -1,11 +1,11 @@
 # Steinbruch
 
-Der Bergbau-Skill hilft dir dabei, verschiedene Steinarten wie Bruchstein, Stein, Diorit, Andesit und Granit im [Steinbruch](../../pages/nebenjobs/bergbau.md) zu finden und abzubauen.
+Der Bergbau-Skill hilft dir dabei, verschiedene Steinarten wie Bruchstein, Stein, Diorit, Andesit und Granit im [Steinbruch](../../pages/nebenjobs/steinbruch.md) zu finden und abzubauen.
 
 ## Erhalten der Skill-XP 
 Den Bergbau-Skill kann man durch folgende Aktivitäten leveln:
 
-* Abbauen von verschiedenen Steinen im [Steinbruch](../../pages/nebenjobs/bergbau.md)
+* Abbauen von verschiedenen Steinen im [Steinbruch](../../pages/nebenjobs/steinbruch.md)
 * Nebenjob [Erztransport](../../pages/nebenjobs/erztransport.md)
 
 ## Skilltree
