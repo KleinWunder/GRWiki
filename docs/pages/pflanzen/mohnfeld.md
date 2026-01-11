@@ -12,4 +12,6 @@ Die Mohnfelder befinden sich gegenüber des [Camorra Hauptquartier](../../pages/
 Um Mohnextrakt zu erhalten, wird das geerntete Mohn verarbeitet. Für ein Mohnextrakt benötigt man 1000 Mohn. Das Mohnextrakt kann im Labor mit dem Befehl **/drymohn** hergestellt werden. <img align="right" width="350" height="350" src="../../../assets/image/pflanzen/Mohnextrakt.png">
 
 ## Mohnhacke
-Kann derzeit nicht hergestellt werden.
+...
+### Rezeptur
+64x Cobblestone & 16 entrindetes Eichenholz
