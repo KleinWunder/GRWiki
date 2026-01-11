@@ -8,8 +8,8 @@ Ein Handy kann man im Elektroladen (**/navi Elektroladen**) kaufen. Es gibt zwei
 | Handy    | Preis    | Apps   | Kontaktslots |
 |:--------:|:--------:|:------:|:------------:|
 | Sokia    | 100,00€  | 1 App  | 3            |
-| Mamsung  | 300,00€  | 5 Apps | 10           |
-| uPhone   | 700,00€  | 1 App  | 5            |
+| Mamsung  | 300,00€  | 6 Apps | 5           |
+| uPhone   | 700,00€  | 4 App  | 10            |
 
 ## Appkosten
 
@@ -22,6 +22,7 @@ Im App-Store finden sich verschiedene Apps, die alle einen unterschiedlichen Nut
 | AdBlocker        | 15,00€    | 
 | "Kling" Türspion | 7,00€     |
 | Blitzer-App      | 50,00€    |
+| PreisChecker | 5,00€ |
 
 ## Funktionen des Handys
 
