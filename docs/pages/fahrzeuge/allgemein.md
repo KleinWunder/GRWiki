@@ -92,17 +92,20 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 
 | Modell | Preis | Max. km/h | Sitze | Kofferraum | Tank-<br>kapazität | Schadens-<br>toleranz |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Polizeitransporter | 15.000 | 135 km/h | 6 | Ja | 30L | 125 |
-| Polizei SUV | 55.000€ | 140 km/h | 4 | Ja | 30L | 200 |
-| Polizeidienstwagen | 18.500€ | 140 km/h | 4 | Ja | 25L | 100 |
-| Zivilstreifenwagen A4 | 25.000€ | 135 km/h | 4 | Ja | 30L | 120 |
-| Zivilstreifenwagen | 80.000€ | 135 km/h | 2 | Ja | 25L | 120 |
-| Ziviltransporter | 15.000€ | 135 km/h | 6 | Ja | 30L | 175 |
-| Polizei Limousine | 35.000€ | 145 km/h | 4 | Ja | 30L | 150 |
-| Polizei Motorrad | 45.000€ | 135 km/h | 1 | Nein | 15L | 60 |
+| Polizeitransporter | 15.000 | 140 km/h | 8 | Ja | 30L | 125 | 
+| Polizei SUV | 55.000€ | 155 km/h | 4 | Ja | 30L | 200 | 
+| Polizeidienstwagen | 18.500€ | 155 km/h | 4 | Ja | 25L | 100 | 
+| Zivilstreifenwagen | 80.000€ | 155 km/h | 2 | Ja | 25L | 120 | 
+| Ziviltransporter | 15.000€ | 140 km/h | 8 | Ja | 30L | 175 | 
+| Zivileinsatzwagen | 18.500€ | 140km/h | 4 | Ja | 25L | 100 | 
+| Zivilkombi | 55.000€ | 155km/h | 4 | Ja | 30L | 200 | 
+| Polizei Limousine | 35.000€ | 155 km/h | 4 | Ja | 30L | 150 | 
+| Polizei Motorrad | 45.000€ | 155 km/h | 1 | Nein | 15L | 60 | 
 | Polizei Helikopter | 50.000€ | 200 km/h | 5 | Nein | 50L | 200 |
-| Zolltransporter | 15.000€ | 135 km/h | 6 | Ja | 30L | 125 |
-| Polizei G-Klasse | 85.000€ | 140 km/h | 4 | Ja | 25L | 175 |
+| Zolltransporter | 15.000€ | 140 km/h | 8 | Ja | 30L | 125 | 
+| Audi A4 Polizeifahrzeug | 25.000€ | 155km/h | 4 | Ja | 30L | 120 | 
+| Audi A6 Polizeifahrzeug | 57.000€ | 155km/h | 4 | Ja | 30L | 190 | 
+| Polizeikombi | 55.000€ | 155km/h | 4 | Ja | 30L | 200 | 
 
 
 ### Fahrzeuge des [Rettungsdienstes](../../pages/fraktionen/rettungsdienst.md)
