@@ -32,6 +32,7 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /vote | Vote für den Server. |
 | /werbung | Schalte eine Werbung auf dem Server frei. |
 | /events | Zeigt die aktiven Events an. |
+| /pet | Wähle ein Pet aus oder wähle es ab. |
 
 ## Roleplay Befehle
 
