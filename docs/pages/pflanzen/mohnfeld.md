@@ -1,6 +1,6 @@
 # Mohnfeld
 
-Mohnfelder dienen dazu, um Mohn zu gewinnen. Das Mohn ist die Voraussetzung, um im Labor Mohnextrakt herzustellen, welches dann zu [Mohnkapseln](../../pages/bmt/mohnkapseln.md) verarbeitet wird. Die Crimefraktionen [Yakuza](../../pages/fraktionen/yakuza.md), [Camorra](../../pages/fraktionen/camorra.md) und [The Establishment](../../pages/fraktionen/establishment.md) haben die Möglichkeit Mohnextrakt herzustellen.
+Mohnfelder dienen dazu, um Mohn zu gewinnen. Das Mohn ist die Voraussetzung, um im Labor Mohnextrakt herzustellen, welches dann zu [Mohnkapseln](../../pages/bmt/mohnkapseln.md) verarbeitet wird.
 
 ## Mohnabbau
 Um Mohn zu gewinnen, baut man den Block unter dem Mohn auf dem Mohnfeld ab. Nach Abbau eines Blockes erhält man zwischen 0.30 und 1.30 [Gärtner Skill-XP](../../pages/skills/gärtner.md) und 7 bis 8 Mohn. <img align="right" width="350" height="350" src="../../../assets/image/pflanzen/Mohnfeld.png">
@@ -12,6 +12,10 @@ Die Mohnfelder befinden sich gegenüber des [Camorra Hauptquartier](../../pages/
 Um Mohnextrakt zu erhalten, wird das geerntete Mohn verarbeitet. Für ein Mohnextrakt benötigt man 1000 Mohn. Das Mohnextrakt kann im Labor mit dem Befehl **/drymohn** hergestellt werden. <img align="right" width="350" height="350" src="../../../assets/image/pflanzen/Mohnextrakt.png">
 
 ## Mohnhacke
-...
+Die Mohnhacke kann in der Textilfabrik (**/navi Textilfabrik**) hergestellt werden. Sie erleichtert das Abbauen von Mohn auf den Mohnfeldern.
+
+Klicke mit der rechten Maustaste auf eine Mohnpflanze oder auf den darunterliegenden Erdblock, während die Mohnhacke ausgewählt ist, um das Mohn aufzusammeln. Nach jeder Benutzung hat die Mohnhacke eine Abklingzeit von etwa 10 Sekunden. Diese Abklingzeit kann durch Kaffee aus dem [Starblocks](../../pages/biz/starblocks.md) verkürzt werden.
 ### Rezeptur
-64x Cobblestone & 16 entrindetes Eichenholz
+Benötigte Materialien:
+- 64 × Cobblestone aus dem [Steinbruch](../../pages/nebenjobs/steinbruch.md)
+- 16 × entrindetes Holz aus dem [Sägewerk](../../pages/nebenjobs/sägewerk.md)
