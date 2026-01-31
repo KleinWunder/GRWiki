@@ -1,12 +1,12 @@
 # Bratva-Gang
 
-<img align="right" width="340" height="340" src="../../../assets/image/fraktionen/RFHQ.png">
+<img align="right" width="340" height="340" src="../../../assets/image/fraktionen/BGHQ.png">
 
 Vor Kurzem hat die Bratva-Gang eine bedeutende Veränderung an ihrer Spitze erlebt. Ein neuer Wind weht durch die Reihen.
 Seit M. Ivanov zusammen mit seiner Tochter Chara das Kommando übernommen hat, hat sich der Ton in der Straßengang spürbar verändert. Mit einer Mischung aus Charisma, Berechnung und Furchtlosigkeit haben Sie sich in kürzester Zeit an die Spitze gesetzt und niemand wagt, Ihre Entscheidungen in Frage zu stellen.
 
 ## Hintergrundgeschichte 
-Aktuell nicht verfügbar.
+In den öl- und blutgetränkten Gassen einer alten Hafenstadt im Norden Russlands entstand die Bratva-Gang, die sich von skrupellosen Arbeitern zur gefürchtetsten Straßengang VanceCitys entwickelte. Geprägt von roher Gewalt, Angst und absoluter Loyalität kontrollierten sie Schutzgelder, Schmuggel und das Verschwinden von Gegnern, gestützt durch Spione, Behördenkontakte und Unterstützer. Nach den Gründern übernahm ihr Enkel die Führung, während seine Tochter den Kern der Gang leitet: die Bar „mesto wstretschi“, deren Rauch und Alkoholgeruch den Marktplatz erfüllen.
 
 ## Auftreten 
 
@@ -19,7 +19,7 @@ Die Fraktion geht folgenden Aktivitäten nach:
 * [Apothekenraub](apothekenraub.md)
 * Bearbeitung von [Darklists](darklist.md)
 * Bearbeitung von [Kopfgeldern](kopfgeld.md)
-* Hackangriffe
+* [Hackangriffe](hackangriff.md)
 * [Substanzendealer](substanzendealer.md) abfangen
 
 ## Lage des Hauptquartiers
