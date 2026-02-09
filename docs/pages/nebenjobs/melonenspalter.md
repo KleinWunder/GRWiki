@@ -1,7 +1,7 @@
 # Melonenspalter
 
 Der Melonenspalter ist ein Nebenjob, der sich vor der Mühle beim [Schwarzmarkt](../../pages/orte/schwarzmarkt.md) befindet. Bei diesem Job ist es das Ziel, Melonen abzubauen.
-<img align="right" width="300" height="175" src="../../assets/image/nebenjobs/Melonenspalter.png">
+<img align="right" width="300" height="175" src="../../../assets/image/nebenjobs/Melonenspalter.png">
 
 |  |  |
 | :-: | :-: |

@@ -4,13 +4,13 @@ Im Jagdgebiet gibt es die Möglichkeit, Wölfe zu jagen. Durch spezielle Wolfsk�
 
 ## Die Jagdhütte
 
-<img align="right" width="350" height="200" src="../../assets/image/nebenjobs/jagdhütte.png">
+<img align="right" width="350" height="200" src="../../../assets/image/nebenjobs/jagdhütte.png">
 
 Die Jagdhütte befindet sich hinter der Mühle an der Farm (**/navi Jagdhütte**). Hier besteht die Möglichkeit, Köder und ein Jagdmesser zu kaufen oder die Jagdbeute zu verkaufen.
 
 ## Ablauf der Jagd
 
-<img align="right" width="350" height="200" src="../../assets/image/nebenjobs/jagdgebiet.png">
+<img align="right" width="350" height="200" src="../../../assets/image/nebenjobs/jagdgebiet.png">
 
 Es kann ausschließlich im Jagdgebiet gejagt werden, das sich über das Naturschutzgebiet erstreckt (**/navi Jagdgebiet**). Die Arbeit am Jagen läuft folgendermaßen ab:
 
