@@ -13,6 +13,8 @@ Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefrakt
 - Heilkrautsamen (von der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) oder NPC Simon)
 - Basisdünger (bei dem NPC Simon kaufen)
 - Eine Wasserflasche aus dem [Supermarkt](../../pages/biz/supermarkt.md)
+
+Mit Wachstumsbeschleuniger, welches du aus dem [Bonusshop](../../pages/allgemein/bonuspunkte.md) kriegst, wächst die Plant schneller zuende.
  
 ## Lage von Pflanzen
 Eine Pflanze darf nicht an folgenden Orten platziert werden:

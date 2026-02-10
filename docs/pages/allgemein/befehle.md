@@ -40,10 +40,13 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 |:-:|:-:|
 | /me | Ausführen von Aktionen. |
 | /kuss | Gib jemandem einen Kuss. |
+| /geldbeutel | Öffnet den Geldbeutel, in dem alle Bankkarten aufbewahrt werden können. |
+| /gehen | Verlangsamt die Laufgeschwindigkeit |
+| /laufen | Wiederherstellt die Laufgeschwindigkeit auf die normale Geschwindigkeit |
 | /ooc | Kommunikation außerhalb des RP's. |
 | /s <br> /schreien | Schreien. (20 Blöcke) |
 | /w <br> /whisper <br> /flüstern | Flüstern. (5 Blöcke) |
-| /gedanke <br> /thought | Dein Gedanke im RP |
+| /gedanke <br> /thought <br> /denken | Dein Gedanke im RP |
 | /lay | Sich hinlegen. |
 | /sit | Sich hinsetzen. |
 | /afk | Betreten des AFK Modus. (Achtung: AFK-Regel beachten) |

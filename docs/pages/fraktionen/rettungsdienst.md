@@ -38,6 +38,7 @@ Nur Mitglieder der Feuerwehr können Feuerlöscher und Feuerwehräxte ausrüsten
 | Roadblocks | Absperrung der Straße |
 | Feuerwehraxt | Einsatzgerät für Türöffnungen |
 | Feuerlöscher | Feuer löschen |
+| Wärmebildkamera | Anzeigen von Wärmequellen |
 
 ## Lage der medizinischen Gebäude 
 <!--- Hier kommt ein Bild von Uniklinik --> 
