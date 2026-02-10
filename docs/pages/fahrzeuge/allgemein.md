@@ -48,11 +48,11 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 ### Alltagsfahrzeuge
 | Modell | Preis | Max. km/h | Sitze | Kofferraum | Steuern | Tank-<br>kapazität | Schadens-<br>toleranz |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Audi A4 | 7.950€ | 115 km/h | 4 | Ja | 20€ | 30L | 120 |
+| Audi A4 | 30.000€ | 115 km/h | 4 | Ja | 20€ | 30L | 120 |
 | BMW 1 | 35.000€ | 110 km/h | 4 | Nein | 35€ | 25L | 100 |
-| Mercedes C-Klasse | 5.250€ | 115 km/h | 2 | Ja | 40.0€ | 25L | 100 |
-| Pickup | 7.500€ | 115.0 km/h | 2 | Ja | 35€ | 30L | 125 |
-| VW T6 | 5.500€ | 100 km/h | 8 | Ja | 20€ | 30L | 125 |
+| Mercedes C-Klasse | 23.500€ | 115 km/h | 2 | Ja | 40.0€ | 25L | 100 |
+| Pickup | 17.500€ | 115.0 km/h | 2 | Ja | 35€ | 30L | 125 |
+| VW T6 | 20.000€ | 100 km/h | 8 | Ja | 20€ | 30L | 125 |
 | ZUK Camper | 15.000€ | 70 km/h | 6 | Nein | 25€ | 30L | 100 |
 
 ### Mittelklassefahrzeuge
@@ -63,7 +63,7 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 | BMW 3er Touring | 60.000€ | 125 km/h | 4 | Nein | 50€ | 30L | 200 |
 | BMW E92 | 70.000€ | 120 km/h | 4 | Nein | 50€ | 30L | 200 |
 | BMW M4 | 80.000€ | 125 km/h | 4 | Nein | 50€ | 35L | 225 |
-| BMW X3 | 14.500€ | 125 km/h | 4 | Ja | 50€ | 30L | 200 |
+| BMW X3 | 60.000€ | 125 km/h | 4 | Ja | 50€ | 30L | 200 |
 | Ford Raptor | 45.000€ | 120 km/h | 4 | Nein | 50€ | 35L | 250 |
 | Motorrad | 11.000€ | 135 km/h | 1 | Nein | 45€ | 15L | 60 |
 
@@ -73,8 +73,8 @@ Aus Platz- und Lesbarkeitsgründen ist die Angabe der Kofferraumgröße inkl. de
 | Corvette C1 | 120.000€ | 135 km/h | 2 | Nein | 90€ | 20L | 75 |
 | Dodge Challenger | 85.000€ | 135 km/h | 2 | Ja | 50.0€ | 25L | 120 |
 | Mercedes G-Klasse | 90.000€ | 140 km/h | 4 | Ja | 75.0€ | 25L | 175 |
-| Nissan Skyline R34 | 95.000€ | 135 km/h | 2 | Ja | 50€ | 25L | 100 |
-| Nissan Skyline R34 Cabrio | 95.500€ | 135 km/h | 2 | Ja | 50€ | 25L | 100 |
+| Nissan Skyline R34 | 95.500€ | 135 km/h | 2 | Ja | 50€ | 25L | 100 |
+| Nissan Skyline R34 Cabrio | 95.000€ | 135 km/h | 2 | Ja | 50€ | 25L | 100 |
 | Subaru Impreza | 116.000€ | 135 km/h | 4 | Nein | 80€ | 25L | 120 |
 | Viper STR | 112.000€ | 140 km/h | 2 | Nein | 80€ | 25L | 115 |
 | WRX STI 2020 | 100.000€ | 135 km/h | 4 | Nein | 80€ | 25L | 100 |
