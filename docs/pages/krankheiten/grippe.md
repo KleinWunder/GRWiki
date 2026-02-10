@@ -1,5 +1,5 @@
 # Grippe
-Durch das Fahren mit öffentlichen Verkehrsmitteln kann man sich mit Grippe anstecken. Diese führt zu Symptomen, die einen beeinträchtigen. Neue Spieler erhalten die Grippe jedoch erst nach 14 Tagen, nachdem sie das Tutorial erfolgreich abgeschlossen haben.
+Durch das Fahren mit öffentlichen Verkehrsmitteln kann man sich mit Grippe anstecken oder durch das Küssen von anderen Spielern. Diese führt zu Symptomen, die einen beeinträchtigen. Neue Spieler erhalten die Grippe jedoch erst nach 14 Tagen, nachdem sie das Tutorial erfolgreich abgeschlossen haben.
 
 # Wirkung
 

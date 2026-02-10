@@ -1,11 +1,11 @@
 # Bus
-Der Bus ist eines der Verkehrsmittel, das dich schnell von A nach B bringt. Die Fahrtzeit kann durch Drücken der ++shift+Ff++-Taste eingesehen werden. Um mit dem Bus zu fahren, steigst du ein und das Fahrtmenü öffnet sich automatisch – falls nicht, klicke mit Rechtsklick auf den Busfahrer. Anschließend kannst du das gewünschte Reiseziel auswählen. <img align="right" width="300" height="200" src="../../../assets/image/Öpnv/Bus.png">
+Der Bus ist eines der Verkehrsmittel, das dich schnell von A nach B bringt. Um mit dem Bus zu fahren, steigst du ein und das Fahrtmenü öffnet sich automatisch – falls nicht, klicke mit Rechtsklick auf den Busfahrer. Anschließend kannst du das gewünschte Reiseziel auswählen. Außerdem können Bushaltestellen jetzt auch Endstationen sein, von dort aus kann man nicht losfahren. <img align="right" width="300" height="200" src="../../../assets/image/Öpnv/Bus.png">
 
 !!! info Während der Busfahrt
     Im Bus wird kein RP gemacht, außerdem kann im Bus kein Spieler Schaden erhalten oder austeilen.
 
 ## Lage der Busse
-Die Busse befinden sich meist an wichtigen Punkten auf der Map (z. B. am Krankenhaus, in der Nähe des Rathauses usw.). Mit **/navi** → Orte in der Nähe sieht man die Bushaltestelle, die am nächsten ist.
+Die Busse befinden sich meist an wichtigen Punkten auf der Map (z. B. am Krankenhaus, in der Nähe des Rathauses usw.). Mit **/navi** → Orte in der Nähe sieht man die Bushaltestelle, die am nächsten ist. Endstationen werden nicht im Navi Menü angezeigt.
 
 ## Preis und Aussehen
 Der Preis für eine Busfahrt variiert zwischen 2,75 €, 4,50 € und 6,75 €. Die Kosten werden durch die Distanz zwischen den Bushaltestellen bestimmt.

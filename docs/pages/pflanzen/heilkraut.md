@@ -3,7 +3,7 @@ Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefrakt
  
 !!! info "Anpflanzen"
 
-    + Nach 4min  --> Dünger
+    + Nach 5min  --> Dünger
     + Nach 10min --> Wasser 
     + Nach 15min --> Ernten 
     
@@ -12,7 +12,7 @@ Eine Pflanze, welche auch Heilkrautpflanze genannt wird, kann nur von Crimefrakt
 ## Materialien
 - Heilkrautsamen (von der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) oder NPC Simon)
 - Basisdünger (bei dem NPC Simon kaufen)
-- Eine leere Flasche (aus einem Mülleimer oder ein Getränk leer trinken)
+- Eine Wasserflasche aus dem [Supermarkt](../../pages/biz/supermarkt.md)
  
 ## Lage von Pflanzen
 Eine Pflanze darf nicht an folgenden Orten platziert werden:

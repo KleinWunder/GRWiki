@@ -13,7 +13,7 @@ Die Mitarbeiter sind in ihren eigenen Räumen des Syndikats zu finden. Jeder von
 | Killian | Ein [Spezialtransport](../../pages/fraktionen/spezialtransport.md) kann für 200€ gestartet werden. |
 | Karl | Für Geld entfernt er [Führerscheinpunkte](../../pages/orte/fahrschule.md). |
 | Alejandro | Verkauft explosive Westen. (Nur für Kartell.) |
-| Natasha | Noch keine Funktion.|
+| Natasha | Verkauft gefälschte Kennzeichen, da werden 5x Blitzer verhindert. |
 
 
 
