@@ -1,17 +1,17 @@
 # Eule
 
-<img align="right" width="70" eight="75" src="../../../assets/image/pets/Fledermaus.png">
+<img align="right" width="70" height="75" src="../../../assets/image/pets/Eule.png">
 
-Fledermäuse sind in der Regel nachtaktive Tiere. Zum Schlafen ziehen sie sich in Höhlen, Felsspalten, Baumhöhlen oder menschengemachte Unterschlüpfe zurück. Dort kann sie auch eingesetzt werden: Im [Bergwerk](../../pages/nebenjobs/bergbau.md). Sie verhelfen einem zu mehr [Bergbau-XP](../../pages/skills/bergbau.md) und nachts erhält man auf der ultralegendären Stufe mehr XP.
-Die Eule kann man in der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) erwerben.
+Eulen sind in der Regel nachtaktive Tiere. Zum Schlafen ziehen sie sich in Baumhöhlen, Felsspalten oder menschengemachte Unterschlüpfe zurück. Sie können dort auch eingesetzt werden, zum Beispiel auf dem Mohnfeld. Sie erhöhen die Mohnausbeute. In der ultralegendären Stufe kann man von überall auf der Karte den Befehl `/drymohn` verwenden.
+Die Eule kann man beim Ernten von [Mohn](../../pages/pflanzen/mohnfeld.md) erhalten.
 
 ## Die verschiedenen Stufen der Eule
 
 | Stufe | 1. Fähigkeit | 2. Fähigkeit | 3. Fähigkeit |
 |:-:|:-:|:-:|:-:|
-| Gewöhnlich | Chance von 5% auf doppelten Mohn. |
-| Ungewöhnlich | Chance von 10% auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. |
-| Selten | Chance von 15% auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. |
-| Episch | Chance von 20% auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. |
-| Legendär | Chance von 25% auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. | Verwendet /drymohn von überall. |
-| Ultralegendär | Chance von 30% auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. | Verwendet /drymohn von überall. |
+| Gewöhnlich | 5 % Chance auf doppelten Mohn. | | |
+| Ungewöhnlich | 10 % Chance auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. | |
+| Selten | 15 % Chance auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. | |
+| Episch | 20 % Chance auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. | |
+| Legendär | 25 % Chance auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. | Ermöglicht die Verwendung von `/drymohn` von überall. |
+| Ultralegendär | 30 % Chance auf doppelten Mohn. | Dauerhafter Nachtsicht-Effekt. | Ermöglicht die Verwendung von `/drymohn` von überall. |
