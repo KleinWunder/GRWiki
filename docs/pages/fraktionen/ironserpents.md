@@ -5,6 +5,12 @@
 Niemand weiß genau, wann sie auftauchten. Manche behaupten, sie seien Überreste einer alten East-Coast-Gang, die sich nach New Yorks Straßenkriegen neu formierte. Andere sagen, sie seien wie ein Sturm über die Stadt gekommen — lautlos, gefährlich, berechnend.
 Man mischt sich nicht in ihre Wege ein … nicht, wenn man den morgigen Tag erleben möchte. Loyalität ist das Fundament ihrer Existenz. Verrat wird nicht besprochen — er wird beseitigt.
 
+## Serpent Customs
+
+Eine scheinbar harmlose Autowerkstatt im Gewerbegebiet Norden.
+Nach außen: Reparaturen, Tuning, Lackierung.
+Nach innen: Geldwäsche, Treffen, Lagerraum und Versteck für Ware.
+
 ## Hintergrundgeschichte 
 Die Wurzeln der Iron Serpents liegen an der amerikanischen Ostküste. Ursprünglich als kleine, aber gefürchtete Streetgang in den Blocks von New York aktiv, entwickelte sich aus ihr eine organisierte, effiziente Fraktion, nachdem mehrere kleinere Crews unter einer Führung zusammengeschweißt wurden. Mitglieder stammen aus verschiedenen Vierteln, Kulturen und Hintergründen, vereint durch Respekt, Loyalität und die Bereitschaft, Risiken einzugehen, die andere niemals tragen würden.
 
@@ -24,4 +30,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 ## Lage des Hauptquartiers
 
-Die Iron Serpents hat sich hinter der Geldwäsche im Auheim niedergelassen.
+Die Iron Serpents hat sich hinter den Lagerhallen im Auheim niedergelassen.
