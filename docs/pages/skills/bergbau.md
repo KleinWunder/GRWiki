@@ -1,6 +1,6 @@
 # Bergbau-Skill 
 
-Der Bergbau-Skill hilft bessere Blöcke im [Steinbruch](../../pages/nebenjobs/steinbruch.md) freizuschalten, die mit den Skillpunkten und dem Skilltree freigeschaltet werden können
+Der Bergbau-Skill ermöglicht es, im [Steinbruch](../../pages/nebenjobs/steinbruch.md) bessere Blöcke freizuschalten, die durch Skillpunkte und den Skilltree aktiviert werden können.
 
 ## Erhalten der Skill-XP 
 Den Bergbau-Skill kann durch folgende Aktivitäten gelevelt werden:
