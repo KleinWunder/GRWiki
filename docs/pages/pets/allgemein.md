@@ -12,7 +12,9 @@ Manche Pets teilen sich einen Skill.  <img align="right" width="300" height="200
 - [Affe](affe.md) ([Handwerk-Skill](../../pages/skills/handwerk.md))
 - [Biene](biene.md) ([Handwerk-Skill](../../pages/skills/handwerk.md))
 - [Capybara](capybara.md) ([Fischer-Skill](../../pages/skills/fischer.md))
+- [Eule](eule.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
 - [Fledermaus](fledermaus.md) ([Bergbau-Skill](../../pages/skills/bergbau.md))
+- [Hamster](hamster.md) ([Gärtner-Skill](../../pages/skills/combat.md))
 - [Hase](hase.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
 - [Hund](hund.md) ([Combat-Skill](../../pages/skills/combat.md))
 - [Katze](katze.md) ([Social-Skill](../../pages/skills/social.md))
@@ -36,4 +38,4 @@ Diesen Vorgang kannst du mehrfach wiederholen, bis du ein ultralegendäres Pet h
 
 ## Eier
 
-Von Gewöhnlich bis Legendär hast du die Möglichkeit, durch Jobrotationen oder die Kiste des Capybaras Pet-Eier zu erhalten. Öffnest du diese, hast du die Chance, eines von fünf Pets zu erhalten ([Papagei](papagei.md), [Katze](katze.md), [Hase](hase.md), [Hund](hund.md) oder [Capybara](capybara.md)).
+Von Gewöhnlich bis Legendär hast du die Möglichkeit, durch Jobrotationen oder die Kiste des Capybaras Pet-Eier zu erhalten. Öffnest du diese, hast du die Chance, eines von fünf Pets zu erhalten ([Papagei](papagei.md), [Katze](katze.md), [Hase](hase.md), [Hund](hund.md), [Hamster](hamster.md) oder [Capybara](capybara.md)).

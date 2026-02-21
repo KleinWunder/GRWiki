@@ -2,7 +2,7 @@
 
 <img align="right" width="70" eight="75" src="../../../assets/image/pets/Hase.png">
 
-Hasen bewohnen eine Vielzahl von Lebensräumen, von der Tundra über Grasländer bis zu tropischen Wäldern. Die meisten Hasen suchen Schutz unter Sträuchern und Felsen. Hier verhilft er den Spielern zu mehr [Gärtner-XP](../../pages/skills/gärtner.md) und doppelten Drop von [Heilkraut](../../pages/bmt/heilkraut.md). Den Hasen kann man in der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) erwerben.
+Hasen bewohnen eine Vielzahl von Lebensräumen, von der Tundra über Grasländer bis zu tropischen Wäldern. Die meisten Hasen suchen Schutz unter Sträuchern und Felsen. Hier verhilft er den Spielern zu mehr [Gärtner-XP](../../pages/skills/gärtner.md) und doppelten Drop von [Heilkraut](../../pages/bmt/heilkraut.md). Den Hasen kann man in der [Schwarzmarktauktion](../../pages/orte/schwarzmarkt.md) und aus einem Mysteriösen Ei erwerben.
 
 ## Die verschiedenen Stufen des Hasens
 
