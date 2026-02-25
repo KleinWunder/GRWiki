@@ -53,7 +53,7 @@ Derzeitige Co-Leitung: **[Piewn](https://germanrp.eu/index.php?user/120-gr-piewn
 Mehr Infos zu diesem Posten kommen bald!
 
 Derzeitige Guideaufsicht:
-**[Ajael](https://germanrp.eu/index.php?user/3-gr-ajael)**<br>
+**[Efendim](https://germanrp.eu/index.php?user/292-gr-efendim/)**<br>
 
 ## Subteam-Aufsicht
 

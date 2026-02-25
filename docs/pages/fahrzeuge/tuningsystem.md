@@ -1,6 +1,6 @@
 ## Tuningsystem
 
-Die Tuningwerkstatt ist in Westside auffindbar und erreichbar über /navi Tuning.
+Die Tuningwerkstatt ist in Westside auffindbar und erreichbar über **/navi Tuning**.
 
 | Erweiterung | Details | Level |
 |:-:|:-:|:-:|

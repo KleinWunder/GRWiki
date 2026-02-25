@@ -23,3 +23,4 @@ Im Bonusshop sind verschiedene Prämien erhältlich:
 | 1 Stunden Gameboost | 12 Bonuspunkte |
 | 12 Stunden VIP Ontime | 40 Bonuspunkte |
 | +50 Munitionstaschenslots | 180 Bonuspunkte |
+| Wachstumsbeschleuniger | 8 Bonuspunkte |
