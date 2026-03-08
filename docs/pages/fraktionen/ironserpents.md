@@ -8,7 +8,9 @@ Man mischt sich nicht in ihre Wege ein … nicht, wenn man den morgigen Tag erle
 ## Serpent Customs
 
 Eine scheinbar harmlose Autowerkstatt im Gewerbegebiet Norden.
+
 Nach außen: Reparaturen, Tuning, Lackierung.
+
 Nach innen: Geldwäsche, Treffen, Lagerraum und Versteck für Ware.
 
 ## Hintergrundgeschichte 
@@ -30,4 +32,4 @@ Die Fraktion geht folgenden Aktivitäten nach:
 
 ## Lage des Hauptquartiers
 
-Die Iron Serpents hat sich hinter den Lagerhallen im Auheim niedergelassen.
+Die Iron Serpents haben sich hinter den Lagerhallen im Auheim niedergelassen.

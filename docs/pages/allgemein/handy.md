@@ -23,6 +23,7 @@ Im App-Store finden sich verschiedene Apps, die alle einen unterschiedlichen Nut
 | "Kling" Türspion | 7,00€     |
 | Blitzer-App      | 50,00€    |
 | PreisChecker | 5,00€ |
+| BIZ-Verwaltung | 10,00€ |
 
 ## Funktionen des Handys
 

@@ -21,7 +21,7 @@ Die Feuerwehr ist eine Subfraktion des Rettungsdienstes. Ihre Hauptaufgaben best
 * Brände in Gewerben zu löschen
 * Personen mithilfe des Sprungtuchs oder der Feuerwehraxt zu retten
 
-Nur Mitglieder der Feuerwehr können Feuerlöscher und Feuerwehräxte ausrüsten. Zudem sind sie befugt, für diesen Zweck Straßensperren zu errichten.
+Nur Mitglieder der Feuerwehr können Feuerlöscher, Wärmebildkamera und Feuerwehräxte ausrüsten. Zudem sind sie befugt, für diesen Zweck Straßensperren zu errichten.
 
 ## Rettungsdienst-Equip
 
