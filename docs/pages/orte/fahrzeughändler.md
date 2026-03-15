@@ -1,5 +1,7 @@
 # Fahrzeughändler
 #### Um dorthin zu gelangen */navi Fahrzeughändler* oder die *nächste Bushaltestelle: Justizvollzugsanstalt* benutzen.
+Der Fahrzeughändler bietet für jede Preisklasse ein Fahrzeug an. Für einige Fahrzeuge muss ein bestimmtes Level erreicht sein, um es überhaupt zu besitzen.
+Um dein Fahrzeug legal abzustellen und zu fahren, muss es angemeldet werden. Das geht über die Zulassungsstelle.
 
 | Fahrzeug | Preis | Mindestlevel |
 | :-: | :-: | :-: |
@@ -21,6 +23,9 @@
 
 # Luxusfahrzeughändler
 #### Um dorthin zu gelangen */navi Luxusfahrzeughändler* oder die *nächste Bushaltestelle: Westside* benutzen.
+Der Luxusfahrzeughändler bietet für höhere Preisklassen ein Fahrzeug an. Hier müssen auch bestimmte Level erreicht worden sein und einige Fahrzeuge sind nur für Fraktionen bestimmt.
+Um dein Fahrzeug legal abzustellen und zu fahren, muss es angemeldet werden. Das geht über die Zulassungsstelle.
+
 | Fahrzeug | Preis | Mindestlevel | Fraktionsfahrzeug |
 | :-: | :-: | :-: | :-: |
 | Motorrad | 11.000€ | 10 | - |
@@ -38,3 +43,7 @@
 | WRX STI 2020 | 100.000€ | 35 | - |
 | Zentorno | 210.000€ | 50 | Ja |
 * Falls dies ein Fraktionsfahrzeug ist, dann musst du Leader einer Fraktion sein, um dieses Fahrzeug zu erhalten und dieses Fahrzeug bleibt ein Teil dieser Fraktion.
+
+## Zulassungsstelle
+Die Zulassungsstelle dient dazu sein Fahrzeug anzumelden bzw. auch abzumelden. Hier erhältst du dein Kennzeichen.
+Falls du dein Fahrzeug verkaufen willst, musst du das Fahrzeug vorher abmelden.
