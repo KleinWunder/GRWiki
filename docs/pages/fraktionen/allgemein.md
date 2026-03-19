@@ -18,7 +18,7 @@ Sie sind neutrale Fraktionen, die Dienstleistungen für alle in Vance City anbie
 Auf dem Server gibt es insgesamt 2 neutrale Fraktionen mit verschiedenen Leistungen:
 
 * Die Presseagentur ([Presse](presse.md))
-* Das Vance City Investment ([VCI](vci.md))
+* Das Vance City Investment ([VCI](vci.md)) | Deaktiviert
 
 ## Mafia
 
@@ -26,6 +26,7 @@ Sie handeln bedeckt und geschäftsorientiert. Ihre Machenschaften tragen sie ung
 Auf dem Server gibt es insgesamt 2 Mafias unterschiedlicher Herkünfte und Konzepten:
 
 * Die italienische Mafia ([Camorra](camorra.md))
+* Die italienische Mafia ([La Cosa Nostra](lcn.md))
 * Die britische Mafia ([The Establishment](establishment.md)) | Deaktiviert
 * Die japanische Mafia ([Yakuza](yakuza.md)) | Deaktiviert
 
@@ -36,7 +37,7 @@ Die Karteller sind stolze Personen, die eigensinnig und zielorientiert handeln.
 
 Auf dem Server gibt es 2 Kartelle:
     
-* Das kolumbianische Kartell ([Medellín Kartell](kartell.md))
+* Das kolumbianische Kartell ([Medellín Kartell](kartell.md)) | Deaktiviert
 * Das mexikanische Kartell ([Sinaloa Kartell](cds.md)) | Deaktiviert
 
 ## Gang
@@ -48,3 +49,16 @@ Auf dem Server gibt es 3 Gangs:
 * Die irische Gang ([O’Callaghan](ocallaghan.md)) | Deaktiviert
 * Die russische Gang ([Volkov Familie](volkovfamilie.md)) | Deaktiviert
 * Die russische Gang ([Bravta](bratva.md))
+* Die amerikanische Gang ([Serpents](ironserpents.md))
+
+## Fraktionskasse
+
+Die Fraktionskasse ist das zentrale Konto jeder Fraktion, in dem das Geld der Fraktion gesammelt wird. Das Guthaben in der Fraktionskasse kann durch verschiedene [Aktivitäten](aktivitäten.md) erhöht werden.
+
+### Besteuerung der Fraktionskassen
+
+Die Fraktionskassen unterliegen einer Besteuerung, die sich nach der Höhe des Kontostands richtet:
+
+- **Steuerklasse 0 (<400k)**: Keine Steuern
+- **Steuerklasse 1 (400k-900k)**: 4-30% auf das stündliche Einkommen
+- **Steuerklasse 2 (ab 900k)**: 30% auf das stündliche Einkommen + 10% auf das liquide Vermögen über 900k

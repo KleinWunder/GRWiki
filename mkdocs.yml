@@ -129,6 +129,7 @@ nav:
   - Gewerbe: pages/biz/business.md
   - Apotheken: pages/biz/apotheke.md
   - Bars: pages/biz/bar.md
+  - Gewerberaub: pages/biz/gewerberaub.md
   - Starblocks: pages/biz/starblocks.md
   - Supermärkte: pages/biz/supermarkt.md
   - Tankstellen: pages/biz/tankstelle.md

@@ -86,6 +86,7 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /flager auslagern [Substanz] [Summe] | Lagere eine Substanz aus dem Fraktionslager aus. |
 | /fraktionsleader <br> /fleader | Zeigt alle anwesenden Leader an. |
 | /fraktionsmenü <br> /fmenü | Öffnet für die Fraktionsleader ein Verwaltungsmenü. |
+| /rpmodus | Aktiviert den Roleplay-Modus. Du erhältst nur 15% deines Fraktionsgehalts. |
 
 
 ## Teambezogene Befehle
