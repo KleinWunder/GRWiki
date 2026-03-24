@@ -11,6 +11,7 @@ Crimefraktionen können eine Kriegserklärung bekommen oder stellen im Fraktions
 | | |
 |:-:|:-:|
 | Kill | 5 Punkte |
+| Leaderkill | 10 Punkte |
 | Matekill | -10 Punkte |
 | Rundensieg | 15 Punkte |
 
