@@ -15,15 +15,15 @@ Derzeitige Co-Leitung: **[Annovadiel](https://germanrp.eu/index.php?user/114-ann
 Wikiteammitglieder sind verantwortlich für das gesamte Wiki. Eine der Aufgaben ist die Aktualisierung des Wikis. Im Wiki selbst stehen viele Informationen bereit, die viele Fragen rund um den Server beantworten.
 
 Derzeitige Leitung: **[Piewn](https://germanrp.eu/index.php?user/120-gr-piewn)**<br>
-Derzeitige Co-Leitung: **[36Flo](https://germanrp.eu/index.php?user/167-36flo/)**
+Derzeitige Co-Leitung: **//**
 
 
 ## Entertainmentteam
 
 Entertainmentteamitglieder veranstalten regelmäßige Serverevents. Sie organisieren und planen zum Beispiel das Osterevent, das Weihnachtsevent und Spiele wie "Wer wird GR".
 
-Derzeitige Leitung: **[_Nachoo](https://germanrp.eu/index.php?user/1071-nachoo/)**<br>
-Derzeitige Co-Leitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-masterhero/)**
+Derzeitige Leitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-masterhero/)**<br>
+Derzeitige Co-Leitung: **[_Nachoo](https://germanrp.eu/index.php?user/1071-nachoo/)**
 
 
 ## Entwicklerteam
@@ -31,7 +31,7 @@ Derzeitige Co-Leitung: **[MasterHero](https://germanrp.eu/index.php?user/42-gr-m
 Entwicklerteammitglieder sind verantwortlich für Updates und Konzepte. Sie verwalten die Bugreports und Vorschläge der Community.
 
 Derzeitige Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**<br>
-Derzeitige Co-Leitung: **/**
+Derzeitige Co-Leitung: **//**
 
 
 ## Public-Relations-Team
@@ -39,14 +39,14 @@ Derzeitige Co-Leitung: **/**
 PR-Teammitglieder sind verantwortlich für die Social-Media-Präsenz. Sie betreiben und verwalten die Social-Media Kanäle auf [Instagram](https://www.instagram.com/germanrp.pr/), [YouTube](https://www.youtube.com/@germanrpreallifeeconomyrol4257), [Twitter](https://twitter.com/GermanRP3) und [TikTok](https://www.tiktok.com/@germanrp.pr?is_from_webapp=1&sender_device=pc).
 
 Derzeitige Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**<br>
-Derzeitige Co-Leitung: **/**
+Derzeitige Co-Leitung: **//**
 
 ## Fraktionsmanagement
 
 Der Fraktionsmanager ist Ansprechpartner und Verantwortlicher für die Fraktionsleader. Er verwaltet das Leaderregelwerk, prüft Beschwerden gegen Leader/Fraktionen und ist dafür zuständig, dass die Fraktionen gut laufen.
 
 Derzeitiger Fraktionsmanager: **[36Flo](https://germanrp.eu/index.php?user/167-gr-36flo/)**<br>
-Derzeitige Co-Leitung: **/** <br>
+Derzeitige Co-Leitung: **//** <br>
 
 ## Contentmanagement
 
@@ -59,7 +59,7 @@ Derzeitige Leitung: **[_Nachoo](https://germanrp.eu/index.php?user/1071-nachoo/)
 Mehr Infos zu diesem Posten kommen bald!
 
 Derzeitige Guideaufsicht:
-**[Efendim](https://germanrp.eu/index.php?user/292-gr-efendim/)**<br>
+**[Ajael](https://germanrp.eu/index.php?user/3-gr-ajael/)**<br>
 
 ## Subteam-Aufsicht
 
