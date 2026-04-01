@@ -1,5 +1,6 @@
 # Fahrzeughändler
-#### Um dorthin zu gelangen */navi Fahrzeughändler* oder die *nächste Bushaltestelle: Justizvollzugsanstalt* benutzen.
+**Um dorthin zu gelangen */navi Fahrzeughändler* oder die *nächste Bushaltestelle: Justizvollzugsanstalt* benutzen.**
+
 Der Fahrzeughändler bietet für jede Preisklasse ein Fahrzeug an. Für einige Fahrzeuge muss ein bestimmtes Level erreicht sein, um es überhaupt zu besitzen.
 Um dein Fahrzeug legal abzustellen und zu fahren, muss es angemeldet werden. Das geht über die Zulassungsstelle.
 
@@ -22,7 +23,8 @@ Um dein Fahrzeug legal abzustellen und zu fahren, muss es angemeldet werden. Das
 | Audi A6 | 57.000€ | 40 |
 
 # Luxusfahrzeughändler
-#### Um dorthin zu gelangen */navi Luxusfahrzeughändler* oder die *nächste Bushaltestelle: Westside* benutzen.
+**Um dorthin zu gelangen */navi Luxusfahrzeughändler* oder die *nächste Bushaltestelle: Westside* benutzen.**
+
 Der Luxusfahrzeughändler bietet für höhere Preisklassen ein Fahrzeug an. Hier müssen auch bestimmte Level erreicht worden sein und einige Fahrzeuge sind nur für Fraktionen bestimmt.
 Um dein Fahrzeug legal abzustellen und zu fahren, muss es angemeldet werden. Das geht über die Zulassungsstelle.
 
