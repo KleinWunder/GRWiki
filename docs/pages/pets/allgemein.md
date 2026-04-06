@@ -14,6 +14,7 @@ Manche Pets teilen sich einen Skill.  <img align="right" width="300" height="200
 - [Capybara](capybara.md) ([Fischer-Skill](../../pages/skills/fischer.md))
 - [Eule](eule.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
 - [Fledermaus](fledermaus.md) ([Bergbau-Skill](../../pages/skills/bergbau.md))
+- [Glühwürmchen](glühwürmchen.md) ([Bergbau-Skill](../../pages/skills/gärtner.md))
 - [Hamster](hamster.md) ([Gärtner-Skill](../../pages/skills/combat.md))
 - [Hase](hase.md) ([Gärtner-Skill](../../pages/skills/gärtner.md))
 - [Hund](hund.md) ([Combat-Skill](../../pages/skills/combat.md))

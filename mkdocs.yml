@@ -140,6 +140,8 @@ nav:
   - Kofferraum: pages/fahrzeuge/kofferaum.md
   - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
   - Blitzer: pages/fahrzeuge/blitzer.md
+  - Tuning: pages/fahrzeuge/tuningssystem.md
+  - Fahrzeugdiebstahl: pages/fahrzeuge/fahrzeugdiebstahl.md
 - Gesundheit:
   - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
   - Rezepte: pages/krankheiten/rezepte.md
@@ -279,6 +281,7 @@ nav:
   - Capybara: pages/pets/capybara.md
   - Eule: pages/pets/eule.md
   - Fledermaus: pages/pets/fledermaus.md
+  - Glühwürmchen: pages/pets/glühwürmchen.md
   - Hamster: pages/pets/hamster.md
   - Hase: pages/pets/hase.md
   - Hund: pages/pets/hund.md

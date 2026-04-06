@@ -26,8 +26,13 @@ Die Funktionsweise unterscheidet sich bei der [Polizei](../../pages/fraktionen/p
     + Der Hauseinbruch kann erfolgreich sein. (Wertgegenstände gestohlen)
 
 ### Erfolgreiche Hausaktion
-Gelingt einem eine erfolgreiche Hausaktion, so muss diese am Equippunkt (**/hauseinbruch**) der Fraktionsbasis abgeliefert werden, mit dem gleichen Befehl. Bei der Polizei ist dies die Verwahrungszelle (**/hauskontrolle**) statt des Equippunkt und beim Rettungsdienst die Notaufnahme (**/hausbesuch**). Dabei werden dem Hausbesitzer 25 € abgezogen, welche in die Fraktionskasse der jeweiligen Fraktion fließen. Der Member erhält davon 10 € Provision und [Erfahrungspunkte](../../pages/allgemein/level.md).
+Gelingt einem eine erfolgreiche Hausaktion, so muss diese am Equippunkt (**/hauseinbruch**) der Fraktionsbasis abgeliefert werden, mit dem gleichen Befehl. Bei der Polizei ist dies die Verwahrungszelle (**/hauskontrolle**) statt des Equippunkt und beim Rettungsdienst die Notaufnahme (**/hausbesuch**). 
 
+Die Geldsumme, die dem Hausbesitzer abgezogen wird, ist abhängig vom Wert des Hauses:
+- **> 100.000 €**: 35 €
+- **50.000 € - 100.000 €**: 30 €
+- **10.000 € - 50.000 €**: 25 €
+- **< 10.000 €**: 15 €
 Hausbesitzer bekommen eine ausgehende Überweisung an die jeweilige Fraktion.
 ## Fraktions NPC
 Beim NPC der Fraktion können für die Hausaktionen zwei verschiedene Sachen gekauft werden:
@@ -36,6 +41,8 @@ Beim NPC der Fraktion können für die Hausaktionen zwei verschiedene Sachen gek
     * 50 Häuser für 500€
 * Transportperk
     * 50 automatische Abgaben einer gelungender Hausaktion für 200€
+* Hausaktionen-Booster 
+    * Erhöht die Geldsumme pro Hausaktion um **50 %**.  
 
 !!! info "Transportperk"
     Das Transportperk kann gestackt werden.
