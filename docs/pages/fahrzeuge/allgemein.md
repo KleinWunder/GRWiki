@@ -29,6 +29,8 @@ Die Fahrzeuge unterscheiden sich in folgenden Werten:
 + Steuern
 + Kofferraumgröße
 
+## TÜV
+Alle Fahrzeuge müssen alle 90 Tage zum TÜV gebracht werden, um keinen Strafzettel zu erhelaten. Der TÜV stellt sicher, dass das Fahrzeug den Sicherheitsstandards entspricht.
 
 ## Alle Fahrzeuge
 

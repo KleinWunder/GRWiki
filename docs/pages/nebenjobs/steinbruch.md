@@ -14,7 +14,7 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 
 | 1. Skillreihe | 2. Skillreihe | - |
 |:-:|:-:|:-:|
-|| Dicke Taschen ||
+| Kalzit | Dicke Taschen ||
 | Tuffstein | Robuste Steinspitzhacke||
 | Tiefenschiefer | Mehr Schwung ||
 | Gepflasterte Tiefenschiefer | Widerstandsfähige Steinspitzhacke ||
@@ -43,9 +43,11 @@ Beim NPC Ewald neben dem Steinbruch können Fähigkeiten mit Skillpunkten freige
 | Andesit | 1,50€ |
 | Bruchtiefenschiefer | 1,75€ |
 | Tuffstein | 2,00€ |
+| Kalzit | 2,00€ |
 
 ## Hilfreiche Tipps
 
 * Je höher das Bergbau-Skilllevel ist, desto bessere Fähigkeiten, Spitzhacken und Chancen können freigeschaltet werden.
 * Das Pet [Fledermaus](../../pages/pets/fledermaus.md) unterstützt dich bei der Arbeit im Steinbruch.
 * Abgebaute Steine verwandeln sich in Bedrock und regenerieren sich nach kurzer Zeit.
+* Wenn du Kalzit im Baustoffhof mit [Ton](../../pages/other/clayton.md) verbindest, kriegst du Betonpulver.

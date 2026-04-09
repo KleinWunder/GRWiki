@@ -87,6 +87,7 @@ Hier werden alle Befehle und deren Tätigkeit aufgeführt. Diese Liste der Befeh
 | /fraktionsleader <br> /fleader | Zeigt alle anwesenden Leader an. |
 | /fraktionsmenü <br> /fmenü | Öffnet für die Fraktionsleader ein Verwaltungsmenü. |
 | /rpmodus | Aktiviert den Roleplay-Modus. Du erhältst nur 15% deines Fraktionsgehalts. |
+| /robhouse | Raube ein Haus aus |
 
 
 ## Teambezogene Befehle

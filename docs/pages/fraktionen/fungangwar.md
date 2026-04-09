@@ -15,3 +15,5 @@ Die Fraktionsleader starten den Gangwar mit **/fungangwar**. Die verteidigende F
 | Sägewerk | [Sägewerk](../../pages/nebenjobs/sägewerk.md) |
 | Schmelzwerk | [Auheim](../../pages/gebiete/auheim.md) |
 | Yachthafen | [Strandpassage](../../pages/gebiete/strandpassage.md) |
+| Frachtcontainer | [Westside](../../pages/gebiete/westside.md) |
+| Rennstrecke | nähe [Auheim](../../pages/gebiete/auheim.md) |

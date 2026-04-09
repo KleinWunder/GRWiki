@@ -164,7 +164,7 @@ nav:
   - Hausaddons: pages/houses/hausaddons.md
   - Grundstücksystem: pages/houses/gssystem.md
 - Orte:
-  - Arbeitsargentur: pages/orte/arbeitsagentur.md
+  - Arbeitsagentur: pages/orte/arbeitsagentur.md
   - Psychiatrie: pages/orte/psychiatrie.md
   - Handelshaus: pages/gebäude/handelshaus.md
   - Fabriken: pages/orte/fabriken.md

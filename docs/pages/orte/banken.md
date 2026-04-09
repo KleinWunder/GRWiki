@@ -33,6 +33,9 @@ Du bestimmst dabei ganz flexibel:
 * die Laufzeit
 * die Zinsen
 
+!!! info Gesamtschuldensumme
+    Die maximale Gesamtschuldensumme, die ein Spieler aufnehmen kann, hängt von seinem Level ab. Pro Spielerlevel sind Kredite in Höhe von bis zu 10.000 € möglich.
+
 ## Geldautomaten (ATM)
 
 Geldautomaten sind auf der ganzen Map verteilt. Besonders oft zu finden sind diese bei Bushaltestellen und öffentlichen Gebäuden. Sie erlauben es beispielsweise dem Spieler seinen Kontostand einzusehen und Geld von diesem abzuheben oder einzuzahlen.

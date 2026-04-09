@@ -24,7 +24,7 @@ Hier können verschiedene Items gekauft werden, die zufällig in die Auktion auf
 | [Brechstange](../../pages/items/brechstange.md) | 60 € |
 | [Heilkrautsamen](../pflanzen/heilkraut.md) | 90 € |
 | Tablettenschachteln | 950 € |
-| [Havok-47](../../pages/items/weapons/sturmgewehre.md) | 900 € |
+| [Havok-47](../../pages/items/weapons/sturmgewehre.md) (illegal) | 900 € |
 | Schildcracker | 650 € |
 | [Dietrich](../../pages/items/dietrich.md) | 300 € |
 | [Petupgrade](../../pages/pets/allgemein.md) | 9.500 € |

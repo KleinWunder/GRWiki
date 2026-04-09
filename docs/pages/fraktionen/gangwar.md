@@ -1,6 +1,6 @@
 # Gangwar
 
-Der Gangwar ist eine Handlung zwischen Crimefraktionen. Sie kämpfen um die verschiedenen Gangzonen, die es gibt, welche Vorteile für die besetzende Fraktion bringt. Alle drei Tage bekommt die Fraktion durch die Gangzone 1 [Tabelettenschachtel](../../pages/bmt/tablettenschachtel.md).
+Der Gangwar ist eine Handlung zwischen Crimefraktionen. Sie kämpfen um die verschiedenen Gangzonen, die es gibt, welche Vorteile für die besetzende Fraktion bringt. Alle drei Tage bekommt die Fraktion durch die Gangzone 1 [Tablettenschachtel](../../pages/bmt/tablettenschachtel.md).
 
 ## Ablauf eines Gangwars
 
@@ -26,4 +26,6 @@ Crimefraktionen können eine Kriegserklärung bekommen oder stellen im Fraktions
 | Sägewerk | [Sägewerk](../../pages/nebenjobs/sägewerk.md) |
 | Schmelzwerk | [Auheim](../../pages/gebiete/auheim.md) |
 | Yachthafen | [Strandpassage](../../pages/gebiete/strandpassage.md) |
+| Frachtcontainer | [Westside](../../pages/gebiete/westside.md) |
+| Rennstrecke | nähe [Auheim](../../pages/gebiete/auheim.md) |
 

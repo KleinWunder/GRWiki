@@ -31,6 +31,18 @@ Die Türen, die geschlossen werden müssen, kannst du mit ++rbutton++ anklicken,
 !!! info "Navi Schlüsseldienst"
     Es gibt keinen direkten Navipunkt zum Schlüsseldienst. Um herauszufinden, wo sich dieser befindet, musst du in die Arbeitsagentur gehen und beim NPC auf "Kompass" klicken.
 
+## Taxifahrer
+Der Beruf des Taxifahrers ist vollständig auf Roleplay (RP) basiert und bietet keine automatisierten Zahlmechanismen oder festen Aufträge. Als Taxifahrer kannst du Spieler von einem Ort zum anderen transportieren und dabei dein eigene Rechnung aushandeln.  
+
+### So funktioniert der Beruf
+1. **Anfragen erhalten:** Spieler können dich direkt kontaktieren.
+2. **Abholung:** Fahre zum vereinbarten Treffpunkt, um den Kunden abzuholen.
+3. **Transport:** Bringe den Kunden an sein Ziel.
+4. **Bezahlung:** Die Bezahlung erfolgt manuell durch den Kunden. Du kannst den Preis vor der Fahrt aushandeln.
+
+!!! info "Hinweis"
+    Da der Beruf auf RP basiert, gibt es keine festen Mechanismen für Zahlungen oder Aufträge. Die Einnahmen hängen vollständig von deinem Roleplay und den Vereinbarungen mit den Kunden ab.
+
 ## Belohnung für das Ausführen eines Berufes
 Sobald du einen Auftrag oder eine Tätigkeit erledigt hast, musst du warten, bis du deinen [Payday](../allgemein/payday.md) erhältst.  
 Nach Erhalt des Paydays wird das Geld von deiner Tätigkeit oder deinem Auftrag auf dein Bankkonto überwiesen.
