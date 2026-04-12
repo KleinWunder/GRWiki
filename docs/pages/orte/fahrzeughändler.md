@@ -46,6 +46,13 @@ Um dein Fahrzeug legal abzustellen und zu fahren, muss es angemeldet werden. Das
 | Zentorno | 210.000€ | 50 | Ja |
 * Falls dies ein Fraktionsfahrzeug ist, dann musst du Leader einer Fraktion sein, um dieses Fahrzeug zu erhalten und dieses Fahrzeug bleibt ein Teil dieser Fraktion.
 
-## Zulassungsstelle
+**Zulassungsstelle**
+
 Die Zulassungsstelle dient dazu sein Fahrzeug anzumelden bzw. auch abzumelden. Hier erhältst du dein Kennzeichen.
 Falls du dein Fahrzeug verkaufen willst, musst du das Fahrzeug vorher abmelden.
+
+**Verkauf von Gebrauchtwagen**
+
+Geh zu einem Fahrzeughändler deines Vertrauens. Öffne das GUI und klicke unten auf "Gebrauchtwagen". Nun siehst du alle Fahrzeuge die von anderen Spielern verkauft werden.
+Um ein eigenes Angebot zu erstellen, findest du nun unten einen grünen Button mit "Angebot erstellen".
+Bitte beachte, dass dein Kennzeichen vorher entfernt sein musst.
