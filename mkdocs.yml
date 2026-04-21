@@ -140,7 +140,7 @@ nav:
   - Kofferraum: pages/fahrzeuge/kofferaum.md
   - KFZ-Werkstatt: pages/fahrzeuge/kfz-werkstatt.md
   - Blitzer: pages/fahrzeuge/blitzer.md
-  - Tuning: pages/fahrzeuge/tuningssystem.md
+  - Tuning: pages/fahrzeuge/tuningsystem.md
   - Fahrzeugdiebstahl: pages/fahrzeuge/fahrzeugdiebstahl.md
 - Gesundheit:
   - Allgemeine Gesundheit: pages/krankheiten/gesundheit.md
@@ -164,23 +164,24 @@ nav:
   - Hausaddons: pages/houses/hausaddons.md
   - Grundstücksystem: pages/houses/gssystem.md
 - Orte:
+  - Anwaltskanzlei: pages/gebäude/anwaltskanzlei.md
   - Arbeitsagentur: pages/orte/arbeitsagentur.md
-  - Psychiatrie: pages/orte/psychiatrie.md
-  - Handelshaus: pages/gebäude/handelshaus.md
-  - Fabriken: pages/orte/fabriken.md
-  - Schwarzmarkt: pages/orte/schwarzmarkt.md
-  - Rathaus: pages/orte/rathaus.md
   - Arztpraxis: pages/orte/arztpraxis.md
   - Banken: pages/orte/banken.md
+  - Disco: pages/orte/disco.md
   - Fahrschule: pages/orte/fahrschule.md
   - Fahrzeughändler: pages/orte/fahrzeughändler.md
+  - Fabriken: pages/orte/fabriken.md
+  - FightClub: pages/gebäude/fightclub.md
+  - Handelshaus: pages/gebäude/handelshaus.md
   - Justizvollzugsanstalt: pages/orte/jva.md
-  - Möbelhaus: pages/orte/möbelhaus.md
-  - Anwaltskanzlei: pages/gebäude/anwaltskanzlei.md
   - Labor: pages/gebäude/labor.md
+  - Möbelhaus: pages/orte/möbelhaus.md
+  - Psychiatrie: pages/orte/psychiatrie.md
+  - Rathaus: pages/orte/rathaus.md
+  - Schwarzmarkt: pages/orte/schwarzmarkt.md
   - Syndikat: pages/gebäude/syndikat.md
   - Tierheim: pages/gebäude/tierheim.md
-  - FightClub: pages/gebäude/fightclub.md
 - Jobs/Nebenjobs:
   - Allgemein: pages/nebenjobs/nebenjobs.md
   - Agavenfarmer: pages/nebenjobs/agavenfarmer.md
@@ -209,8 +210,8 @@ nav:
   - Wäschetransport: pages/nebenjobs/wäschetransport.md
   - Zeitungsjunge: pages/nebenjobs/zeitungsjunge.md
   - Angler: pages/nebenjobs/angler.md
-  - Bergwerk: pages/nebenjobs/bergbau.md
   - Jagd: pages/nebenjobs/jagd.md
+  - Steinbruch: pages/nebenjobs/steinbruch.md
   - Sägewerk: pages/nebenjobs/sägewerk.md
   - Weizenfelder: pages/nebenjobs/weizenfelder.md
 - Fraktionen:

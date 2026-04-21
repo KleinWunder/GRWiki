@@ -13,7 +13,7 @@ Besuche Markus hinter der [Jagdhütte](../../pages/nebenjobs/jagd.md) und sprich
 Finde die geheime Sekte im Alten Friedhof in der Nähe der [Altstadt](../../pages/gebiete/altstadt.md). Gehe danach zur Jagdhütte und kaufe Wolfsköder.
 
 ## Der Goldgroschen
-Finde den Straßenmusiker in [Downtown](../../pages/gebiete/downtown.md). Gehe dann zum [Bergwerk](../../pages/nebenjobs/bergbau.md) und kaufe eine Spitzhacke.
+Finde den Straßenmusiker in [Downtown](../../pages/gebiete/downtown.md). Gehe dann zum [Steinbruch](../../pages/nebenjobs/steinbruch.md) und kaufe eine Spitzhacke.
 
 ## Das reine Herz
 Sprich Adelheid beim Starblocks-1 beim [Rathaus](../../pages/orte/rathaus.md) an. Schenke Adelheid etwas Rotes. Erreiche [Sozial-Level](../../pages/skills/social.md) 10, 20 und 30.

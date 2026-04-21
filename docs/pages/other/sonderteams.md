@@ -30,15 +30,15 @@ Derzeitige Co-Leitung: **[_Nachoo](https://germanrp.eu/index.php?user/1071-nacho
 
 Entwicklerteammitglieder sind verantwortlich für Updates und Konzepte. Sie verwalten die Bugreports und Vorschläge der Community.
 
-Derzeitige Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**<br>
-Derzeitige Co-Leitung: **//**
+Derzeitige Leitung: **[Tomsro](https://germanrp.eu/index.php?user/36-tomsro/)**<br>
+Derzeitige Co-Leitung: **[Maaryyy](https://germanrp.eu/index.php?user/1533-maaryyy/)**
 
 
 ## Public-Relations-Team
 
 PR-Teammitglieder sind verantwortlich für die Social-Media-Präsenz. Sie betreiben und verwalten die Social-Media Kanäle auf [Instagram](https://www.instagram.com/germanrp.pr/), [YouTube](https://www.youtube.com/@germanrpreallifeeconomyrol4257), [Twitter](https://twitter.com/GermanRP3) und [TikTok](https://www.tiktok.com/@germanrp.pr?is_from_webapp=1&sender_device=pc).
 
-Derzeitige Leitung: **[Evoli_](https://germanrp.eu/index.php?user/37-gr-evoli/)**<br>
+Derzeitige Leitung: **[//]**<br>
 Derzeitige Co-Leitung: **//**
 
 ## Fraktionsmanagement

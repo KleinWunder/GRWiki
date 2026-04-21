@@ -34,8 +34,8 @@ Derzeit gibt es folgende Nebenjobs:
 Desweiteren gibt es 4 besondere Jobs:
 
 * [Angler](angler.md)
-* [Bergwerk](bergbau.md)
 * [Jagd](jagd.md)
+* [Steinbruch](steinbruch.md)
 * [Sägewerk](sägewerk.md)
 
 ## Jobrotations

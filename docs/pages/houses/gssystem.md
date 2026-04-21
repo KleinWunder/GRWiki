@@ -8,7 +8,7 @@ Die Baublöcke können bei verschiedenen Jobs abgebaut oder im Großhandel in Au
 
 ## Baublöcke erhalten
 
-Die Baublöcke erhält man bei verschiedenen Jobs wie [Bergbau](../../pages/nebenjobs/bergbau.md), [Sägewerk](../../pages/nebenjobs/sägewerk.md) und [Jäger](../../pages/nebenjobs/jagd.md) sowie im Großhandel in Auheim (**/navi Grosshandel**).
+Die Baublöcke erhält man bei verschiedenen Jobs wie [Steinbruch](../../pages/nebenjobs/steinbruch.md), [Sägewerk](../../pages/nebenjobs/sägewerk.md) und [Jäger](../../pages/nebenjobs/jagd.md) sowie im Großhandel in Auheim (**/navi Grosshandel**).
 Steinblöcke können im Steinbruch abgebaut und später beim Steinmetz (**/navi Steinmetz**) in der Altstadt zu verschiedenen Baublöcken aus Stein verarbeitet werden.
 
 Beim Sägewerk können die Baumstämme weiterverarbeitet werden.

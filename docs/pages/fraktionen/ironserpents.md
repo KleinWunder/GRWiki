@@ -27,7 +27,7 @@ Die Fraktion geht folgenden Aktivitäten nach:
 * [Apothekenraub](apothekenraub.md)
 * Bearbeitung von [Darklists](darklist.md)
 * Bearbeitung von [Kopfgeldern](kopfgeld.md)
-* [Hackangriffe](hackangriff.md)
+* [Hackangriffe](hackerangriff.md)
 * [Substanzendealer](substanzendealer.md) abfangen
 
 ## Lage des Hauptquartiers

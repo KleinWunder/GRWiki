@@ -2,7 +2,7 @@
 
 <img align="right" width="70" height="75" src="../../../assets/image/pets/Glühwürmchen.png">
 
-Glühwürmchen sind hilfreiche Begleiter für alle, die sich mit dem Gärtnern beschäftigen. Sie bieten exklusive Vorteile bei der Heilkrauternte. Das Glühwürmchen kann ausschließlich durch die [Heilkraut-Kiste](../../pages/lootboxen/heilkrautkiste.md) erworben werden.
+Glühwürmchen sind hilfreiche Begleiter für alle, die sich mit dem Gärtnern beschäftigen. Sie bieten exklusive Vorteile bei der Heilkrauternte. Das Glühwürmchen kann ausschließlich durch die Heilkraut-Kiste erworben werden.
 
 ## Die verschiedenen Stufen des Glühwürmchens
 
